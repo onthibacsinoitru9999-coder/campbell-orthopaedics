@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Campbell's Operative Orthopaedics - Hệ thống Tra cứu Phẫu thuật & Giải phẫu</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-icon">🦴</div>
+        <div class="brand-text">
+          <h1>Campbell's Operative Orthopaedics</h1>
+          <p>13th Edition • 4-Volume Set • Tra cứu theo Giải phẫu & Kỹ thuật mổ</p>
+        </div>
+      </div>
+      <nav class="nav-tabs">
+        <button class="tab-btn active" data-tab="categories">🦴 Guidemap Phân loại Gãy</button>
+        <button class="tab-btn" data-tab="techniques">🔪 Kỹ thuật mổ (1.671+)</button>
+        <button class="tab-btn" data-tab="chapters">📚 89 Chương sách</button>
+        <button class="tab-btn" data-tab="outline">📑 Mục lục chi tiết</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Search Hero -->
+  <section class="search-hero">
+    <div class="search-container">
+      <div class="search-bar-wrap" id="heroSearch">
+        <input 
+          type="text" 
+          id="globalSearch" 
+          class="search-input" 
+          placeholder="Tìm kỹ thuật mổ hoặc phân loại (vd: Schatzker, Neer, Garden, Gustilo, Broström, 54-24...)"
+          autocomplete="off"
+        >
+        <button id="searchBtn" class="search-submit-btn">Tìm kiếm</button>
+        <div id="searchSuggestions" class="search-suggestions" style="display: none;"></div>
+      </div>
+      <div class="stats-chips" id="statsContainer">
+        <span class="chip">🦴 Guidemap Phân loại Gãy xương chuẩn Campbell</span>
+        <span class="chip">📚 4.887 Trang PDF bản gốc</span>
+        <span class="chip">🩺 14 Vùng giải phẫu</span>
+        <span class="chip">🔪 1.671 Kỹ thuật mổ chuẩn hóa</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Views -->
+  <main class="main-content">
+    
+    <!-- 1. Categories View -->
+    <section id="view-categories" class="view-section active">
+      <div style="margin-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <h2 style="font-size: 1.5rem; font-weight: 700;">Guidemap Phân loại Gãy xương & Danh mục Giải phẫu</h2>
+          <p style="color: var(--text-muted); font-size: 0.95rem;">Chọn trực tiếp vị trí xương trên Sơ đồ Giải phẫu để tra cứu Bảng phân loại gãy xương và Phẫu thuật điều trị tương ứng</p>
+        </div>
+        <div class="view-mode-toggle">
+          <button class="view-mode-btn active" id="btnModeSkeleton">🦴 Sơ đồ Khung xương Guidemap</button>
+          <button class="view-mode-btn" id="btnModeGrid">🗂️ Dạng Lưới Thẻ</button>
+        </div>
+      </div>
+
+      <!-- Skeleton Explorer Mode -->
+      <div id="skeletonExplorerContainer" class="skeleton-explorer-wrap">
+        <div class="skeleton-viewport">
+          <div class="skeleton-viewport-header">
+            <span>🔍 Bấm vào Xương trên Sơ đồ để mở Phân loại gãy</span>
+            <span id="skeletonHoverTag" style="color: #38bdf8; font-weight: 600;">Mâm chày (Tibia)</span>
+          </div>
+          <div class="skeleton-svg-box" id="skeletonSvgBox">
+            <div style="color: #94a3b8; padding: 2rem;">Đang tải sơ đồ giải phẫu...</div>
+          </div>
+          <div class="skeleton-tooltip" id="skeletonTooltip"></div>
+        </div>
+
+        <div class="skeleton-info-panel" id="skeletonInfoPanel">
+          <div class="bone-info-card">
+            <div class="bone-info-top">
+              <div class="bone-info-title">
+                <h2 id="selectedBoneName">🦴 Mâm chày (Tibia Plateau)</h2>
+                <p id="selectedBoneEn">Tibia • Khớp gối & Cẳng chân</p>
+              </div>
+              <button class="view-btn" id="btnViewAllBoneTechs" style="padding: 0.5rem 1rem; font-size: 0.9rem;">
+                Xem toàn bộ kỹ thuật &rarr;
+              </button>
+            </div>
+            <div class="bone-quick-stats" id="boneQuickStats">
+              <div class="quick-stat-badge">📋 <strong id="statBoneClassifications">1</strong> Phân loại kinh điển</div>
+              <div class="quick-stat-badge">🔪 <strong id="statBoneTechs">231</strong> Kỹ thuật mổ</div>
+              <div class="quick-stat-badge">📖 <strong id="statBoneChapters">6</strong> Chương sách</div>
+            </div>
+          </div>
+
+          <!-- Panel Subtabs: Classifications vs Techniques -->
+          <div class="panel-subtabs">
+            <button class="panel-subtab-btn active" id="tabBtnClassifications">📋 Phân loại Gãy xương (Guidemap)</button>
+            <button class="panel-subtab-btn" id="tabBtnTechs">🔪 Kỹ thuật mổ tiêu biểu</button>
+          </div>
+
+          <!-- Tab Content 1: Classifications -->
+          <div id="skeletonClassificationsContainer">
+            <!-- Rendered via JS -->
+          </div>
+
+          <!-- Tab Content 2: Techniques -->
+          <div id="skeletonTechsContainer" style="display: none;">
+            <div class="bone-tech-list-header">
+              <h3 id="boneTechListTitle">Kỹ thuật mổ tiêu biểu cho vùng này</h3>
+              <span style="font-size: 0.85rem; color: var(--text-muted);" id="boneTechSampleCount"></span>
+            </div>
+            <div class="techniques-grid" id="skeletonSampleGrid" style="grid-template-columns: 1fr;">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Grid Mode (Hidden by default or toggled) -->
+      <div class="categories-grid" id="categoriesGrid" style="display: none; margin-top: 1rem;">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+    <!-- 2. Techniques View -->
+    <section id="view-techniques" class="view-section">
+      <div class="filter-bar">
+        <div>
+          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">LỌC THEO GIẢI PHẪU</label>
+          <select id="categoryFilter" class="filter-select">
+            <option value="">Tất cả vùng giải phẫu</option>
+          </select>
+        </div>
+        <div>
+          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">LỌC THEO CHƯƠNG</label>
+          <select id="chapterFilter" class="filter-select">
+            <option value="">Tất cả chương sách (1-89)</option>
+          </select>
+        </div>
+        <div>
+          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">LỌC THEO TÁC GIẢ</label>
+          <select id="authorFilter" class="filter-select">
+            <option value="">Tất cả tác giả phẫu thuật</option>
+          </select>
+        </div>
+        <div style="flex: 1; min-width: 250px; position: relative;">
+          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">TÌM TRONG DANH MỤC</label>
+          <div style="position: relative;">
+            <input 
+              type="text" 
+              id="techniqueSearch" 
+              class="filter-select" 
+              placeholder="🔍 Tìm nhanh kỹ thuật, danh xưng..." 
+              autocomplete="off"
+              style="width: 100%;"
+            >
+            <div id="techniqueSuggestions" class="search-suggestions" style="display: none;"></div>
+          </div>
+        </div>
+        <div style="text-align: right; display: flex; align-items: flex-end; justify-content: flex-end;">
+          <span id="techResultCount" style="font-weight: 600; color: var(--text-muted); font-size: 0.9rem;">Đang tải kỹ thuật...</span>
+        </div>
+      </div>
+
+      <div class="techniques-grid" id="techniquesGrid">
+        <!-- Rendered via JS -->
+      </div>
+
+      <div class="pagination" id="techPagination">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+    <!-- 3. Chapters View -->
+    <section id="view-chapters" class="view-section">
+      <div style="margin-bottom: 1.5rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 700;">Danh mục 89 Chương sách Campbell</h2>
+        <p style="color: var(--text-muted); font-size: 0.95rem;">Toàn bộ 89 chương từ Tập 1 đến Tập 4 kèm số lượng kỹ thuật mổ trong từng chương</p>
+      </div>
+      <div class="techniques-grid" id="chaptersGrid">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+    <!-- 4. Outline View -->
+    <section id="view-outline" class="view-section">
+      <div style="margin-bottom: 1.5rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 700;">Mục lục đề mục Phẫu thuật (6.885 đề mục)</h2>
+        <p style="color: var(--text-muted); font-size: 0.95rem;">Cây thư mục chi tiết từng bước phẫu thuật, đường mổ và vị trí giải phẫu trong sách</p>
+      </div>
+      <div style="background: #fff; padding: 1.5rem; border-radius: var(--radius); border: 1px solid var(--border);" id="outlineContainer">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Technique Modal / Drawer -->
+  <div class="modal-overlay" id="techModal">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div>
+          <span class="tech-code" id="modalTechId" style="font-size: 1rem; margin-bottom: 0.5rem; display: inline-block;">Technique</span>
+          <h2 id="modalTechTitle" style="font-size: 1.3rem; margin-top: 0.25rem;">Tên kỹ thuật phẫu thuật</h2>
+          <p id="modalTechMeta" style="color: #94a3b8; font-size: 0.85rem; margin-top: 0.25rem;">Chương • Trang sách • Trang PDF</p>
+        </div>
+        <button class="modal-close" id="modalCloseBtn">&times;</button>
+      </div>
+      <div class="modal-tabs">
+        <button class="modal-tab-btn active" data-modaltab="pagePreview">🖼️ Bản chụp trang sách gốc (DPI cao)</button>
+        <button class="modal-tab-btn" data-modaltab="extractedText">📄 Văn bản kỹ thuật trích xuất</button>
+      </div>
+      <div class="modal-body">
+        <div id="tabContentPagePreview" class="page-preview-container">
+          <div class="viewer-toolbar">
+            <div class="viewer-nav-group">
+              <button class="nav-page-btn" id="btnPrevPage" title="Trang trước (Phím ←)">◄ Trang trước</button>
+              <span id="pagePreviewLabel" class="page-indicator" style="font-weight: 700; color: #38bdf8;">Trang PDF</span>
+              <span id="pageIndicator" class="page-indicator" style="display: none;">Trang PDF</span>
+              <button class="nav-page-btn" id="btnNextPage" title="Trang sau (Phím →)">Trang sau ►</button>
+            </div>
+            <div class="viewer-zoom-group">
+              <button class="zoom-btn" id="btnZoomOut" title="Thu nhỏ (-)">➖ Thu nhỏ</button>
+              <span id="zoomLevel" class="zoom-level">100%</span>
+              <button class="zoom-btn" id="btnZoomIn" title="Phóng to (+)">➕ Phóng to</button>
+              <button class="zoom-btn" id="btnZoomReset" title="Kích thước gốc (100%)">↺ 100%</button>
+            </div>
+            <a id="downloadPageBtn" href="#" target="_blank" class="zoom-btn" style="color: #38bdf8; text-decoration: none; font-weight: 600; margin-left: auto;">🔍 Xem ảnh gốc 200 DPI</a>
+          </div>
+          <div class="page-img-wrapper" id="pageImgWrapper">
+            <img id="modalPageImage" class="page-preview-img" src="" alt="Đang tải trang sách..." draggable="false">
+          </div>
+        </div>
+        <div id="tabContentExtractedText" style="display: none;">
+          <div class="extracted-text-box" id="modalExtractedText">
+            Đang trích xuất nội dung kỹ thuật...
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <p>Campbell's Operative Orthopaedics (13th Edition) Interactive Clinical Database & Navigator</p>
+    <p style="font-size: 0.75rem; color: #94a3b8; margin-top: 0.25rem;">Hỗ trợ tra cứu phục vụ lâm sàng, phẫu thuật viên Chấn thương Chỉnh hình và giảng dạy y khoa.</p>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

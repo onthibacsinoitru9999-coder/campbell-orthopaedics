@@ -1,0 +1,197 @@
+{
+  "Approaches & General Principles": {
+    "vi": "Tiếp cận ngoại khoa & Kỹ thuật đại cương",
+    "icon": "📐",
+    "chapters": [
+      1,
+      2,
+      80
+    ]
+  },
+  "Hip & Pelvis": {
+    "vi": "Khớp háng & Khung chậu",
+    "icon": "🩻",
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      30,
+      55,
+      56
+    ]
+  },
+  "Knee & Lower Leg": {
+    "vi": "Khớp gối & Cẳng chân",
+    "icon": "🦵",
+    "chapters": [
+      7,
+      8,
+      9,
+      45,
+      51,
+      54
+    ]
+  },
+  "Foot & Ankle": {
+    "vi": "Bàn chân & Cổ chân",
+    "icon": "🦶",
+    "chapters": [
+      10,
+      11,
+      15,
+      50,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ]
+  },
+  "Shoulder & Arm": {
+    "vi": "Khớp vai & Cánh tay",
+    "icon": "💪",
+    "chapters": [
+      12,
+      13,
+      46,
+      47,
+      52,
+      57
+    ]
+  },
+  "Elbow & Forearm": {
+    "vi": "Khớp khuỷu & Cẳng tay",
+    "icon": "🦾",
+    "chapters": [
+      12,
+      13,
+      46,
+      52,
+      57,
+      74
+    ]
+  },
+  "Hand & Wrist": {
+    "vi": "Bàn tay & Cổ tay",
+    "icon": "✋",
+    "chapters": [
+      19,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      75,
+      76,
+      77,
+      78,
+      79
+    ]
+  },
+  "Spine": {
+    "vi": "Cột sống",
+    "icon": "🦴",
+    "chapters": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  "Pediatric Orthopaedics": {
+    "vi": "Chấn thương Chỉnh hình Nhi",
+    "icon": "👶",
+    "chapters": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      43
+    ]
+  },
+  "Trauma & Fracture Reconstruction": {
+    "vi": "Chấn thương, Gãy xương & Khớp giả",
+    "icon": "🩹",
+    "chapters": [
+      48,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ]
+  },
+  "Peripheral Nerves & Microsurgery": {
+    "vi": "Thần kinh ngoại biên & Vi phẫu",
+    "icon": "⚡",
+    "chapters": [
+      62,
+      63,
+      68,
+      71
+    ]
+  },
+  "Amputations": {
+    "vi": "Phẫu thuật Cắt cụt",
+    "icon": "✂️",
+    "chapters": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  "Infections & Tumors": {
+    "vi": "Nhiễm trùng & U xương phần mềm",
+    "icon": "🔬",
+    "chapters": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  "Arthroscopy & Sports": {
+    "vi": "Nội soi khớp & Y học thể thao",
+    "icon": "🏅",
+    "chapters": [
+      45,
+      46,
+      47,
+      49,
+      50,
+      51,
+      52,
+      89
+    ]
+  }
+}

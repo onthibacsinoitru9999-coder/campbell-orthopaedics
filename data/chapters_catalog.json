@@ -1,0 +1,1269 @@
+[
+  {
+    "chapter": 1,
+    "title": "Surgical Techniques and Approaches",
+    "start_page": 12,
+    "technique_count": 120,
+    "categories": [
+      {
+        "id": "Approaches & General Principles",
+        "vi": "Tiếp cận ngoại khoa & Kỹ thuật đại cương",
+        "icon": "📐"
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "Magnetic Resonance Imaging in Orthopaedics",
+    "start_page": 147,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Approaches & General Principles",
+        "vi": "Tiếp cận ngoại khoa & Kỹ thuật đại cương",
+        "icon": "📐"
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "Arthroplasty of the Hip",
+    "start_page": 182,
+    "technique_count": 33,
+    "categories": [
+      {
+        "id": "Hip & Pelvis",
+        "vi": "Khớp háng & Khung chậu",
+        "icon": "🩻"
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "Hip Resurfacing",
+    "start_page": 352,
+    "technique_count": 1,
+    "categories": [
+      {
+        "id": "Hip & Pelvis",
+        "vi": "Khớp háng & Khung chậu",
+        "icon": "🩻"
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "Arthrodesis of the Hip",
+    "start_page": 368,
+    "technique_count": 6,
+    "categories": [
+      {
+        "id": "Hip & Pelvis",
+        "vi": "Khớp háng & Khung chậu",
+        "icon": "🩻"
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "Hip Pain in the Young Adult and Hip Preservation Surgery",
+    "start_page": 377,
+    "technique_count": 9,
+    "categories": [
+      {
+        "id": "Hip & Pelvis",
+        "vi": "Khớp háng & Khung chậu",
+        "icon": "🩻"
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "Arthroplasty of the Knee",
+    "start_page": 434,
+    "technique_count": 14,
+    "categories": [
+      {
+        "id": "Knee & Lower Leg",
+        "vi": "Khớp gối & Cẳng chân",
+        "icon": "🦵"
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "Arthrodesis of the Knee",
+    "start_page": 518,
+    "technique_count": 4,
+    "categories": [
+      {
+        "id": "Knee & Lower Leg",
+        "vi": "Khớp gối & Cẳng chân",
+        "icon": "🦵"
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "Soft-Tissue Procedures and Corrective Osteotomies About the Knee",
+    "start_page": 527,
+    "technique_count": 11,
+    "categories": [
+      {
+        "id": "Knee & Lower Leg",
+        "vi": "Khớp gối & Cẳng chân",
+        "icon": "🦵"
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "Total Ankle Arthroplasty",
+    "start_page": 560,
+    "technique_count": 5,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "Ankle Arthrodesis",
+    "start_page": 588,
+    "technique_count": 13,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "title": "Shoulder and Elbow Arthroplasty",
+    "start_page": 626,
+    "technique_count": 8,
+    "categories": [
+      {
+        "id": "Shoulder & Arm",
+        "vi": "Khớp vai & Cánh tay",
+        "icon": "💪"
+      },
+      {
+        "id": "Elbow & Forearm",
+        "vi": "Khớp khuỷu & Cẳng tay",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "chapter": 13,
+    "title": "Arthrodesis of the Shoulder and Elbow",
+    "start_page": 686,
+    "technique_count": 7,
+    "categories": [
+      {
+        "id": "Shoulder & Arm",
+        "vi": "Khớp vai & Cánh tay",
+        "icon": "💪"
+      },
+      {
+        "id": "Elbow & Forearm",
+        "vi": "Khớp khuỷu & Cẳng tay",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "chapter": 14,
+    "title": "General Principles of Amputations",
+    "start_page": 701,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Amputations",
+        "vi": "Phẫu thuật Cắt cụt",
+        "icon": "✂️"
+      }
+    ]
+  },
+  {
+    "chapter": 15,
+    "title": "Amputations of the Foot",
+    "start_page": 719,
+    "technique_count": 11,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      },
+      {
+        "id": "Amputations",
+        "vi": "Phẫu thuật Cắt cụt",
+        "icon": "✂️"
+      }
+    ]
+  },
+  {
+    "chapter": 16,
+    "title": "Amputations of the Lower Extremity",
+    "start_page": 744,
+    "technique_count": 8,
+    "categories": [
+      {
+        "id": "Amputations",
+        "vi": "Phẫu thuật Cắt cụt",
+        "icon": "✂️"
+      }
+    ]
+  },
+  {
+    "chapter": 17,
+    "title": "Amputations of the Hip and Pelvis",
+    "start_page": 757,
+    "technique_count": 5,
+    "categories": [
+      {
+        "id": "Amputations",
+        "vi": "Phẫu thuật Cắt cụt",
+        "icon": "✂️"
+      }
+    ]
+  },
+  {
+    "chapter": 18,
+    "title": "Amputations of the Upper Extremity",
+    "start_page": 766,
+    "technique_count": 12,
+    "categories": [
+      {
+        "id": "Amputations",
+        "vi": "Phẫu thuật Cắt cụt",
+        "icon": "✂️"
+      }
+    ]
+  },
+  {
+    "chapter": 19,
+    "title": "Amputations of the Hand",
+    "start_page": 783,
+    "technique_count": 19,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      },
+      {
+        "id": "Amputations",
+        "vi": "Phẫu thuật Cắt cụt",
+        "icon": "✂️"
+      }
+    ]
+  },
+  {
+    "chapter": 20,
+    "title": "General Principles of Infection",
+    "start_page": 816,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 21,
+    "title": "Osteomyelitis",
+    "start_page": 842,
+    "technique_count": 12,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 22,
+    "title": "Infectious Arthritis",
+    "start_page": 872,
+    "technique_count": 36,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 23,
+    "title": "Tuberculosis and Other Unusual Infections",
+    "start_page": 898,
+    "technique_count": 14,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 24,
+    "title": "General Principles of Tumors",
+    "start_page": 918,
+    "technique_count": 25,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 25,
+    "title": "Benign Bone Tumors and Nonneoplastic Conditions Simulating Bone Tumors",
+    "start_page": 993,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 26,
+    "title": "Benign/Aggressive Tumors of Bone",
+    "start_page": 1024,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 27,
+    "title": "Malignant Tumors of Bone",
+    "start_page": 1049,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 28,
+    "title": "Soft-Tissue Tumors",
+    "start_page": 1094,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Infections & Tumors",
+        "vi": "Nhiễm trùng & U xương phần mềm",
+        "icon": "🔬"
+      }
+    ]
+  },
+  {
+    "chapter": 29,
+    "title": "Congenital Anomalies of the Lower Extremity",
+    "start_page": 1130,
+    "technique_count": 50,
+    "categories": [
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 30,
+    "title": "Congenital and Developmental Abnormalities of the Hip and Pelvis",
+    "start_page": 1242,
+    "technique_count": 16,
+    "categories": [
+      {
+        "id": "Hip & Pelvis",
+        "vi": "Khớp háng & Khung chậu",
+        "icon": "🩻"
+      },
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 31,
+    "title": "Congenital Anomalies of the Trunk and Upper Extremity",
+    "start_page": 1290,
+    "technique_count": 6,
+    "categories": [
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 32,
+    "title": "Osteochondrosis or Epiphysitis and Other Miscellaneous Affections",
+    "start_page": 1306,
+    "technique_count": 31,
+    "categories": [
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 33,
+    "title": "Cerebral Palsy",
+    "start_page": 1392,
+    "technique_count": 26,
+    "categories": [
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 34,
+    "title": "Paralytic Disorders",
+    "start_page": 1455,
+    "technique_count": 52,
+    "categories": [
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 35,
+    "title": "Neuromuscular Disorders",
+    "start_page": 1551,
+    "technique_count": 11,
+    "categories": [
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 36,
+    "title": "Fractures and Dislocations in Children",
+    "start_page": 1588,
+    "technique_count": 43,
+    "categories": [
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 37,
+    "title": "Spinal Anatomy and Surgical Approaches",
+    "start_page": 1755,
+    "technique_count": 27,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      }
+    ]
+  },
+  {
+    "chapter": 38,
+    "title": "Degenerative Disorders of the Cervical Spine",
+    "start_page": 1795,
+    "technique_count": 9,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      }
+    ]
+  },
+  {
+    "chapter": 39,
+    "title": "Degenerative Disorders of the Thoracic and Lumbar Spine",
+    "start_page": 1833,
+    "technique_count": 30,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      }
+    ]
+  },
+  {
+    "chapter": 40,
+    "title": "Spondylolisthesis",
+    "start_page": 1923,
+    "technique_count": 7,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      }
+    ]
+  },
+  {
+    "chapter": 41,
+    "title": "Fractures, Dislocations, and Fracture-Dislocations of the Spine",
+    "start_page": 1951,
+    "technique_count": 17,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      }
+    ]
+  },
+  {
+    "chapter": 42,
+    "title": "Infections and Tumors of the Spine",
+    "start_page": 2034,
+    "technique_count": 17,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      }
+    ]
+  },
+  {
+    "chapter": 43,
+    "title": "Pediatric Cervical Spine",
+    "start_page": 2074,
+    "technique_count": 21,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      },
+      {
+        "id": "Pediatric Orthopaedics",
+        "vi": "Chấn thương Chỉnh hình Nhi",
+        "icon": "👶"
+      }
+    ]
+  },
+  {
+    "chapter": 44,
+    "title": "Scoliosis and Kyphosis",
+    "start_page": 2119,
+    "technique_count": 67,
+    "categories": [
+      {
+        "id": "Spine",
+        "vi": "Cột sống",
+        "icon": "🦴"
+      }
+    ]
+  },
+  {
+    "chapter": 45,
+    "title": "Knee Injuries",
+    "start_page": 2370,
+    "technique_count": 35,
+    "categories": [
+      {
+        "id": "Knee & Lower Leg",
+        "vi": "Khớp gối & Cẳng chân",
+        "icon": "🦵"
+      },
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  },
+  {
+    "chapter": 46,
+    "title": "Shoulder and Elbow Injuries",
+    "start_page": 2562,
+    "technique_count": 14,
+    "categories": [
+      {
+        "id": "Shoulder & Arm",
+        "vi": "Khớp vai & Cánh tay",
+        "icon": "💪"
+      },
+      {
+        "id": "Elbow & Forearm",
+        "vi": "Khớp khuỷu & Cẳng tay",
+        "icon": "🦾"
+      },
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  },
+  {
+    "chapter": 47,
+    "title": "Recurrent Dislocations",
+    "start_page": 2617,
+    "technique_count": 20,
+    "categories": [
+      {
+        "id": "Shoulder & Arm",
+        "vi": "Khớp vai & Cánh tay",
+        "icon": "💪"
+      },
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  },
+  {
+    "chapter": 48,
+    "title": "Traumatic Disorders",
+    "start_page": 2683,
+    "technique_count": 35,
+    "categories": [
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 49,
+    "title": "General Principles of Arthroscopy",
+    "start_page": 2741,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  },
+  {
+    "chapter": 50,
+    "title": "Arthroscopy of the Foot and Ankle",
+    "start_page": 2756,
+    "technique_count": 4,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      },
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  },
+  {
+    "chapter": 51,
+    "title": "Arthroscopy of the Lower Extremity",
+    "start_page": 2773,
+    "technique_count": 35,
+    "categories": [
+      {
+        "id": "Knee & Lower Leg",
+        "vi": "Khớp gối & Cẳng chân",
+        "icon": "🦵"
+      },
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  },
+  {
+    "chapter": 52,
+    "title": "Arthroscopy of the Upper Extremity",
+    "start_page": 2861,
+    "technique_count": 38,
+    "categories": [
+      {
+        "id": "Shoulder & Arm",
+        "vi": "Khớp vai & Cánh tay",
+        "icon": "💪"
+      },
+      {
+        "id": "Elbow & Forearm",
+        "vi": "Khớp khuỷu & Cẳng tay",
+        "icon": "🦾"
+      },
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  },
+  {
+    "chapter": 53,
+    "title": "General Principles of Fracture Treatment",
+    "start_page": 2956,
+    "technique_count": 6,
+    "categories": [
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 54,
+    "title": "Fractures of the Lower Extremity",
+    "start_page": 3019,
+    "technique_count": 33,
+    "categories": [
+      {
+        "id": "Knee & Lower Leg",
+        "vi": "Khớp gối & Cẳng chân",
+        "icon": "🦵"
+      },
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 55,
+    "title": "Fractures and Dislocations of the Hip",
+    "start_page": 3140,
+    "technique_count": 10,
+    "categories": [
+      {
+        "id": "Hip & Pelvis",
+        "vi": "Khớp háng & Khung chậu",
+        "icon": "🩻"
+      },
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 56,
+    "title": "Fractures of Acetabulum and Pelvis",
+    "start_page": 3197,
+    "technique_count": 11,
+    "categories": [
+      {
+        "id": "Hip & Pelvis",
+        "vi": "Khớp háng & Khung chậu",
+        "icon": "🩻"
+      },
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 57,
+    "title": "Fractures of the Shoulder, Arm, and Forearm",
+    "start_page": 3265,
+    "technique_count": 16,
+    "categories": [
+      {
+        "id": "Shoulder & Arm",
+        "vi": "Khớp vai & Cánh tay",
+        "icon": "💪"
+      },
+      {
+        "id": "Elbow & Forearm",
+        "vi": "Khớp khuỷu & Cẳng tay",
+        "icon": "🦾"
+      },
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 58,
+    "title": "Malunited Fractures",
+    "start_page": 3362,
+    "technique_count": 37,
+    "categories": [
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 59,
+    "title": "Delayed Union and Nonunion of Fractures",
+    "start_page": 3431,
+    "technique_count": 11,
+    "categories": [
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 60,
+    "title": "Acute Dislocations",
+    "start_page": 3475,
+    "technique_count": 7,
+    "categories": [
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 61,
+    "title": "Old Unreduced Dislocations",
+    "start_page": 3499,
+    "technique_count": 15,
+    "categories": [
+      {
+        "id": "Trauma & Fracture Reconstruction",
+        "vi": "Chấn thương, Gãy xương & Khớp giả",
+        "icon": "🩹"
+      }
+    ]
+  },
+  {
+    "chapter": 62,
+    "title": "Peripheral Nerve Injuries",
+    "start_page": 3526,
+    "technique_count": 23,
+    "categories": [
+      {
+        "id": "Peripheral Nerves & Microsurgery",
+        "vi": "Thần kinh ngoại biên & Vi phẫu",
+        "icon": "⚡"
+      }
+    ]
+  },
+  {
+    "chapter": 63,
+    "title": "Microsurgery",
+    "start_page": 3597,
+    "technique_count": 35,
+    "categories": [
+      {
+        "id": "Peripheral Nerves & Microsurgery",
+        "vi": "Thần kinh ngoại biên & Vi phẫu",
+        "icon": "⚡"
+      }
+    ]
+  },
+  {
+    "chapter": 64,
+    "title": "Basic Surgical Technique and Postoperative Care",
+    "start_page": 3676,
+    "technique_count": 2,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 65,
+    "title": "Acute Hand Injuries",
+    "start_page": 3702,
+    "technique_count": 9,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 66,
+    "title": "Flexor and Extensor Tendon Injuries",
+    "start_page": 3730,
+    "technique_count": 29,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 67,
+    "title": "Fractures, Dislocations, and Ligamentous Injuries",
+    "start_page": 3792,
+    "technique_count": 30,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 68,
+    "title": "Nerve Injuries",
+    "start_page": 3853,
+    "technique_count": 10,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      },
+      {
+        "id": "Peripheral Nerves & Microsurgery",
+        "vi": "Thần kinh ngoại biên & Vi phẫu",
+        "icon": "⚡"
+      }
+    ]
+  },
+  {
+    "chapter": 69,
+    "title": "Wrist Disorders",
+    "start_page": 3871,
+    "technique_count": 53,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 70,
+    "title": "Special Hand Disorders",
+    "start_page": 3979,
+    "technique_count": 3,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 71,
+    "title": "Paralytic Hand",
+    "start_page": 4001,
+    "technique_count": 26,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      },
+      {
+        "id": "Peripheral Nerves & Microsurgery",
+        "vi": "Thần kinh ngoại biên & Vi phẫu",
+        "icon": "⚡"
+      }
+    ]
+  },
+  {
+    "chapter": 72,
+    "title": "Cerebral Palsy of the Hand",
+    "start_page": 4047,
+    "technique_count": 15,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 73,
+    "title": "Arthritic Hand",
+    "start_page": 4071,
+    "technique_count": 38,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 74,
+    "title": "Compartment Syndromes and Volkmann Contracture",
+    "start_page": 4138,
+    "technique_count": 8,
+    "categories": [
+      {
+        "id": "Elbow & Forearm",
+        "vi": "Khớp khuỷu & Cẳng tay",
+        "icon": "🦾"
+      }
+    ]
+  },
+  {
+    "chapter": 75,
+    "title": "Dupuytren Contracture",
+    "start_page": 4152,
+    "technique_count": 3,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 76,
+    "title": "Carpal Tunnel Syndrome, Ulnar Tunnel Syndrome, and Stenosing Tenosynovitis",
+    "start_page": 4169,
+    "technique_count": 7,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 77,
+    "title": "Tumors and Tumorous Conditions of the Hand",
+    "start_page": 4196,
+    "technique_count": 3,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 78,
+    "title": "Hand Infections",
+    "start_page": 4231,
+    "technique_count": 8,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 79,
+    "title": "Congenital Anomalies of the Hand",
+    "start_page": 4255,
+    "technique_count": 61,
+    "categories": [
+      {
+        "id": "Hand & Wrist",
+        "vi": "Bàn tay & Cổ tay",
+        "icon": "✋"
+      }
+    ]
+  },
+  {
+    "chapter": 80,
+    "title": "Surgical Techniques",
+    "start_page": 4347,
+    "technique_count": 5,
+    "categories": [
+      {
+        "id": "Approaches & General Principles",
+        "vi": "Tiếp cận ngoại khoa & Kỹ thuật đại cương",
+        "icon": "📐"
+      }
+    ]
+  },
+  {
+    "chapter": 81,
+    "title": "Disorders of the Hallux",
+    "start_page": 4358,
+    "technique_count": 39,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 82,
+    "title": "Disorders of Tendons and Fascia and Adolescent and Adult Pes Planus",
+    "start_page": 4475,
+    "technique_count": 30,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 83,
+    "title": "Lesser Toe Abnormalities",
+    "start_page": 4557,
+    "technique_count": 27,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 84,
+    "title": "Arthritis of the Foot",
+    "start_page": 4611,
+    "technique_count": 12,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 85,
+    "title": "Diabetic Foot",
+    "start_page": 4644,
+    "technique_count": 0,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 86,
+    "title": "Neurogenic Disorders",
+    "start_page": 4674,
+    "technique_count": 20,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 87,
+    "title": "Disorders of Nails and Skin",
+    "start_page": 4716,
+    "technique_count": 12,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 88,
+    "title": "Fractures and Dislocations of the Foot",
+    "start_page": 4741,
+    "technique_count": 21,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      }
+    ]
+  },
+  {
+    "chapter": 89,
+    "title": "Sports Injuries of the Ankle",
+    "start_page": 4822,
+    "technique_count": 12,
+    "categories": [
+      {
+        "id": "Foot & Ankle",
+        "vi": "Bàn chân & Cổ chân",
+        "icon": "🦶"
+      },
+      {
+        "id": "Arthroscopy & Sports",
+        "vi": "Nội soi khớp & Y học thể thao",
+        "icon": "🏅"
+      }
+    ]
+  }
+]

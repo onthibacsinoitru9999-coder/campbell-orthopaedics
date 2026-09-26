@@ -1,0 +1,899 @@
+{
+  "summary": {
+    "total_techniques_catalog": 1671,
+    "total_chapters": 89,
+    "discontinuous_chapters_count": 0,
+    "zero_technique_chapters_count": 9,
+    "sample_page_accuracy_exact": 1.0,
+    "sample_page_accuracy_near": 1.0
+  },
+  "discontinuous_chapters": [],
+  "zero_technique_chapters": [
+    {
+      "chapter": 2,
+      "title": "Magnetic Resonance Imaging in Orthopaedics",
+      "start_page": 147,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Approaches & General Principles",
+          "vi": "Tiếp cận ngoại khoa & Kỹ thuật đại cương",
+          "icon": "📐"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "General Principles of Amputations",
+      "start_page": 701,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Amputations",
+          "vi": "Phẫu thuật Cắt cụt",
+          "icon": "✂️"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "General Principles of Infection",
+      "start_page": 816,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Infections & Tumors",
+          "vi": "Nhiễm trùng & U xương phần mềm",
+          "icon": "🔬"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "title": "Benign Bone Tumors and Nonneoplastic Conditions Simulating Bone Tumors",
+      "start_page": 993,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Infections & Tumors",
+          "vi": "Nhiễm trùng & U xương phần mềm",
+          "icon": "🔬"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "title": "Benign/Aggressive Tumors of Bone",
+      "start_page": 1024,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Infections & Tumors",
+          "vi": "Nhiễm trùng & U xương phần mềm",
+          "icon": "🔬"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "title": "Malignant Tumors of Bone",
+      "start_page": 1049,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Infections & Tumors",
+          "vi": "Nhiễm trùng & U xương phần mềm",
+          "icon": "🔬"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "title": "Soft-Tissue Tumors",
+      "start_page": 1094,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Infections & Tumors",
+          "vi": "Nhiễm trùng & U xương phần mềm",
+          "icon": "🔬"
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "title": "General Principles of Arthroscopy",
+      "start_page": 2741,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Arthroscopy & Sports",
+          "vi": "Nội soi khớp & Y học thể thao",
+          "icon": "🏅"
+        }
+      ]
+    },
+    {
+      "chapter": 85,
+      "title": "Diabetic Foot",
+      "start_page": 4644,
+      "technique_count": 0,
+      "categories": [
+        {
+          "id": "Foot & Ankle",
+          "vi": "Bàn chân & Cổ chân",
+          "icon": "🦶"
+        }
+      ]
+    }
+  ],
+  "only_in_catalog": [],
+  "only_in_body": [],
+  "classifications": {
+    "Gustilo-Anderson": {
+      "total_pages_matched": 17,
+      "sample_pages": [
+        1708,
+        1733,
+        2960,
+        2963,
+        2964
+      ]
+    },
+    "AO/OTA Classification": {
+      "total_pages_matched": 12,
+      "sample_pages": [
+        2958,
+        2976,
+        3013,
+        3021,
+        3022
+      ]
+    },
+    "Neer Classification": {
+      "total_pages_matched": 2,
+      "sample_pages": [
+        3273,
+        3357
+      ]
+    },
+    "Schatzker Classification": {
+      "total_pages_matched": 9,
+      "sample_pages": [
+        3019,
+        3070,
+        3074,
+        3075,
+        3076
+      ]
+    },
+    "Garden Classification": {
+      "total_pages_matched": 3,
+      "sample_pages": [
+        3141,
+        3142,
+        3149
+      ]
+    },
+    "Denis Classification (Spine)": {
+      "total_pages_matched": 2,
+      "sample_pages": [
+        1998,
+        3238
+      ]
+    },
+    "Paprosky Classification (Acetabular/Femoral)": {
+      "total_pages_matched": 3,
+      "sample_pages": [
+        310,
+        322,
+        338
+      ]
+    },
+    "Vancouver Classification (Periprosthetic)": {
+      "total_pages_matched": 3,
+      "sample_pages": [
+        271,
+        273,
+        349
+      ]
+    },
+    "Tile Classification (Pelvis)": {
+      "total_pages_matched": 1,
+      "sample_pages": [
+        3233
+      ]
+    },
+    "Young-Burgess (Pelvis)": {
+      "total_pages_matched": 11,
+      "sample_pages": [
+        1644,
+        3231,
+        3233,
+        3234,
+        3235
+      ]
+    },
+    "Salter-Harris (Physeal)": {
+      "total_pages_matched": 41,
+      "sample_pages": [
+        1591,
+        1594,
+        1595,
+        1596,
+        1597
+      ]
+    },
+    "Pauwels Classification (Femoral neck)": {
+      "total_pages_matched": 6,
+      "sample_pages": [
+        3141,
+        3143,
+        3147,
+        3148,
+        3149
+      ]
+    },
+    "Pipkin Classification (Femoral head)": {
+      "total_pages_matched": 6,
+      "sample_pages": [
+        3180,
+        3181,
+        3188,
+        3190,
+        3393
+      ]
+    },
+    "Rockwood Classification (AC joint)": {
+      "total_pages_matched": 1,
+      "sample_pages": [
+        3487
+      ]
+    },
+    "Hawkins Classification (Talus)": {
+      "total_pages_matched": 5,
+      "sample_pages": [
+        2107,
+        4764,
+        4766,
+        4779,
+        4815
+      ]
+    },
+    "Frykman / Fernandez (Distal radius)": {
+      "total_pages_matched": 0,
+      "sample_pages": []
+    },
+    "Letournel & Judet (Acetabulum)": {
+      "total_pages_matched": 1,
+      "sample_pages": [
+        3205
+      ]
+    },
+    "Anderson & D'Alonzo (Dens/Odontoid)": {
+      "total_pages_matched": 0,
+      "sample_pages": []
+    },
+    "Meyers-McKeever (Tibial spine)": {
+      "total_pages_matched": 2,
+      "sample_pages": [
+        1695,
+        1696
+      ]
+    },
+    "Tscherne Classification (Soft tissue)": {
+      "total_pages_matched": 1,
+      "sample_pages": [
+        2961
+      ]
+    }
+  },
+  "video_entries": [
+    [
+      10,
+      "Video 3-1: Mini-Incision Total Hip Arthroplasty"
+    ],
+    [
+      10,
+      "Video 3-2: Extended Trochanteric Osteotomy for Total Hip"
+    ],
+    [
+      10,
+      "Video 3-3: Metal on Metal Acetabular Hip Revision"
+    ],
+    [
+      10,
+      "Video 7-1: Posterior Stabilized Total Knee Replacement"
+    ],
+    [
+      10,
+      "Video 7-2: Total Knee/Ligament Balancing"
+    ],
+    [
+      10,
+      "Video 7-3: Minimally Invasive Total Knee Arthroplasty"
+    ],
+    [
+      10,
+      "Video 7-4: Bilateral Total Knee Arthroplasty"
+    ],
+    [
+      10,
+      "Video 9-1: Supracondylar Osteotomy for the Arthritic Valgus"
+    ],
+    [
+      10,
+      "Video 12-1: Total Shoulder Arthroplasty"
+    ],
+    [
+      10,
+      "Video 12-2: Reverse Total Shoulder Arthroplasty"
+    ],
+    [
+      10,
+      "Video 12-3: Total Elbow Arthroplasty"
+    ],
+    [
+      10,
+      "Video 12-4: Total Elbow Arthroplasty"
+    ],
+    [
+      10,
+      "Video 29-1: Polydactyly of the Foot: Toe Amputation"
+    ],
+    [
+      10,
+      "Video 36-1: Supracondylar Fractures of the Humerus: Pinning"
+    ],
+    [
+      10,
+      "Video 36-2: Screw Fixation of Slipped Capital Femoral Epiphysis"
+    ],
+    [
+      10,
+      "Video 41-1: Anterior Cervical Discectomy and Fusion"
+    ],
+    [
+      10,
+      "Video 44-1: VEPTR Insertion"
+    ],
+    [
+      10,
+      "Video 44-2: VEPTR Adjustment"
+    ],
+    [
+      10,
+      "Video 44-3: Posterior Segmental Instrumentation Using Pedicle"
+    ],
+    [
+      11,
+      "Video 45-1: ACL Reconstruction Using Central Third Patellar"
+    ],
+    [
+      11,
+      "Video 45-2: Osteochondral Allograft"
+    ],
+    [
+      11,
+      "Video 45-3: Autologous Chondrocyte Implantation"
+    ],
+    [
+      11,
+      "Video 45-4: Operative Treatment of Recurrent Lateral Patellar"
+    ],
+    [
+      11,
+      "Video 45-5: Allograft Bone–Patellar Tendon–Bone Graft"
+    ],
+    [
+      11,
+      "Video 45-6: Hamstring Graft Harvest"
+    ],
+    [
+      11,
+      "Video 48-1: Four Compartment Fasciotomy of the Leg"
+    ],
+    [
+      11,
+      "Video 52-1: Rotator Cuff Repair"
+    ],
+    [
+      11,
+      "Video 54-1: Percutaneous Plating of Distal Femoral Fractures"
+    ],
+    [
+      11,
+      "Video 55-1: Reconstruction Nailing of Femoral Fractures"
+    ],
+    [
+      11,
+      "Video 57-1: Open Reduction and Internal Fixation of Clavicular"
+    ],
+    [
+      11,
+      "Video 57-2: Intramedullary Nailing of Forearm Fractures"
+    ],
+    [
+      11,
+      "Video 69-1: Scaphoid Repair: Dorsal Approach"
+    ],
+    [
+      11,
+      "Video 71-1: Ligamentous Reconstruction of the Thumb with"
+    ],
+    [
+      11,
+      "Video 81-1: Modified Keller Bunionectomy"
+    ],
+    [
+      11,
+      "Video 81-2: Chevron Osteotomy for Hallux Balgus"
+    ],
+    [
+      11,
+      "Video 82-1: Surgical Repair of Subluxation or Dislocation of the"
+    ],
+    [
+      11,
+      "Video 82-2: FHL Transfer for Insertional Achilles Tendinosis"
+    ],
+    [
+      11,
+      "Video 82-3: Posterior Tibial Tendon Reconstruction with"
+    ],
+    [
+      11,
+      "Video 82-4: Surgical Repair of Longitudinal Split Tear of"
+    ],
+    [
+      11,
+      "Video 82-5: Surgical Repair of Anterior Tibial Tendon Rupture"
+    ],
+    [
+      11,
+      "Video 88-1: Open Reduction and Internal Fixation of Calcaneal"
+    ]
+  ],
+  "audit_samples": [
+    {
+      "volume": 1,
+      "chapter": 11,
+      "tech_id": "11-11",
+      "name": "Tibiotalar Arthrodesis with a Sliding Bone Graft (Blair; Morris et al.)",
+      "claimed_page": 613,
+      "found_page": 613,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 1,
+      "tech_id": "1-6",
+      "name": "Removal of a Tibial Graft",
+      "claimed_page": 29,
+      "found_page": 29,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 3,
+      "tech_id": "3-33",
+      "name": "Management of Massive Deficits with Modular Megaprosthesis (Klein et al.)",
+      "claimed_page": 327,
+      "found_page": 327,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 9,
+      "tech_id": "9-2",
+      "name": "Quadricepsplasty for Posttraumatic Contracture of the Knee as (Modified Thompson, Described by Hahn et al.)",
+      "claimed_page": 530,
+      "found_page": 530,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 1,
+      "tech_id": "1-100",
+      "name": "Posterolateral Approach to the Distal Humeral Shaft (Moran)",
+      "claimed_page": 122,
+      "found_page": 122,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 3,
+      "tech_id": "3-19",
+      "name": "Removal of a Loose All-Polyethylene Cup",
+      "claimed_page": 306,
+      "found_page": 306,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 21,
+      "tech_id": "21-4",
+      "name": "Antibiotic Bead Pouch (Henry, Ostermann, and Seligson)",
+      "claimed_page": 855,
+      "found_page": 855,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 12,
+      "tech_id": "12-8",
+      "name": "Elbow Resection Arthroplasty (Campbell), 615 Arthrodesis of the Shoulder and Elbow",
+      "claimed_page": 672,
+      "found_page": 672,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 1,
+      "tech_id": "1-83",
+      "name": "Anterior Approach to the Sacroiliac Joint (Avila)",
+      "claimed_page": 106,
+      "found_page": 106,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 1,
+      "chapter": 9,
+      "tech_id": "9-5",
+      "name": "Popliteal Cyst Excision (Hughston, Baker, and Mello)",
+      "claimed_page": 536,
+      "found_page": 536,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 30,
+      "tech_id": "30-14",
+      "name": "Chiari Osteotomy",
+      "claimed_page": 1277,
+      "found_page": 1277,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 45,
+      "tech_id": "45-18",
+      "name": "Repair of Bony Tibial Avulsions of Anterior Cruciate Ligament",
+      "claimed_page": 2464,
+      "found_page": 2464,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 36,
+      "tech_id": "36-30",
+      "name": "Flexible Intramedullary Nail Fixation",
+      "claimed_page": 1685,
+      "found_page": 1685,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 34,
+      "tech_id": "34-5",
+      "name": "Correction of Cavus Deformity",
+      "claimed_page": 1467,
+      "found_page": 1467,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 39,
+      "tech_id": "39-17",
+      "name": "Repeat Lumbar Disc Excision",
+      "claimed_page": 1868,
+      "found_page": 1868,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 41,
+      "tech_id": "41-14",
+      "name": "Posterior Subaxial Fixation and Fusion (Magerl)",
+      "claimed_page": 1995,
+      "found_page": 1995,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 32,
+      "tech_id": "32-18",
+      "name": "Metaphyseal Osteotomy for Tibia Vara (Rab)",
+      "claimed_page": 1348,
+      "found_page": 1348,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 41,
+      "tech_id": "41-6",
+      "name": "Posterior C1-C2 Fusion Using Rod and Screw Construct with C1 Lateral Mass Screws (Harms)",
+      "claimed_page": 1824,
+      "found_page": 1824,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 39,
+      "tech_id": "39-13",
+      "name": "Endoscopic Thoracic Discectomy (Rosenthal et al.)",
+      "claimed_page": 1855,
+      "found_page": 1855,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 2,
+      "chapter": 32,
+      "tech_id": "32-24",
+      "name": "Osteotomy and Medullary Nailing with a Telescoping Rod in the Femur for Osteogenesis Imperfecta (Bailey and Dubow)",
+      "claimed_page": 1361,
+      "found_page": 1361,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 57,
+      "tech_id": "57-10",
+      "name": "Stabilization of “Terrible Triad” Elbow Fracture-Dislocation (McKee et al.)",
+      "claimed_page": 3315,
+      "found_page": 3315,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 51,
+      "tech_id": "51-8",
+      "name": "Transtibial Pull-out Repair of Radial or Meniscal Root Tear (Phillips)",
+      "claimed_page": 2796,
+      "found_page": 2796,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 62,
+      "tech_id": "62-14",
+      "name": "Nerve Transfer for Ulnar Nerve Reconstruction (MacKinnon and Novak)",
+      "claimed_page": 3571,
+      "found_page": 3571,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 58,
+      "tech_id": "58-24",
+      "name": "Correction of Radial Neck Malunion (Inhofe and Moneim, Modified)",
+      "claimed_page": 3405,
+      "found_page": 3405,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 63,
+      "tech_id": "63-19",
+      "name": "Dissection for Pectoralis Major Transfer (Manktelow; Ikuta)",
+      "claimed_page": 3636,
+      "found_page": 3636,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 62,
+      "tech_id": "62-1",
+      "name": "Epineurial Neurorrhaphy",
+      "claimed_page": 3547,
+      "found_page": 3547,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 52,
+      "tech_id": "52-12",
+      "name": "Posterior Shoulder Stabilization (Kim et al.)",
+      "claimed_page": 2892,
+      "found_page": 2892,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 52,
+      "tech_id": "52-2",
+      "name": "Antegrade Method",
+      "claimed_page": 2867,
+      "found_page": 2867,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 52,
+      "tech_id": "52-32",
+      "name": "Arthroscopic Treatment of Osteochondritis Dissecans",
+      "claimed_page": 2936,
+      "found_page": 2936,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 3,
+      "chapter": 51,
+      "tech_id": "51-1",
+      "name": "Resection of Bucket-Handle Tear",
+      "claimed_page": 2783,
+      "found_page": 2783,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 69,
+      "tech_id": "69-18",
+      "name": "Vascularized Bone Grafts (Kawai and Yamamoto)",
+      "claimed_page": 3905,
+      "found_page": 3905,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 86,
+      "tech_id": "86-11",
+      "name": "Tarsometatarsal Truncated-Wedge Arthrodesis (Jahss)",
+      "claimed_page": 4698,
+      "found_page": 4698,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 72,
+      "tech_id": "72-13",
+      "name": "Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis)",
+      "claimed_page": 4066,
+      "found_page": 4066,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 72,
+      "tech_id": "72-3",
+      "name": "Fractional Lengthening of the Flexor Carpi Radialis Muscle and Finger Flexors",
+      "claimed_page": 4054,
+      "found_page": 4054,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 66,
+      "tech_id": "66-2",
+      "name": "Flexor Tendon Repair Using Six-Strand Repair (Adelaide Technique) (Savage)",
+      "claimed_page": 3738,
+      "found_page": 3738,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 77,
+      "tech_id": "77-2",
+      "name": "Excision of a Volar Wrist Ganglion",
+      "claimed_page": 4222,
+      "found_page": 4222,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 72,
+      "tech_id": "72-12",
+      "name": "Redirection of Extensor Pollicis Longus (Manske)",
+      "claimed_page": 4064,
+      "found_page": 4064,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 66,
+      "tech_id": "66-3",
+      "name": "Four- or Six-Strand Repair (Chung, Modified Tsuge)",
+      "claimed_page": 3738,
+      "found_page": 3738,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 79,
+      "tech_id": "79-18",
+      "name": "Creation of a One-Bone Forearm (Straub)",
+      "claimed_page": 4286,
+      "found_page": 4286,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    },
+    {
+      "volume": 4,
+      "chapter": 82,
+      "tech_id": "82-5",
+      "name": "Anterior Calcaneal Osteotomy (Lateral Column Lengthening)",
+      "claimed_page": 4490,
+      "found_page": 4490,
+      "exact_match": true,
+      "near_match": true,
+      "offset": 0
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+--- PAGE 4869 ---
+Campbell’s Operative Orthopaedics, 13th ed.
+List of Techniques
+VOLUME I
+Surgical Techniques and Approaches
+1-1	 Fixation of Tendon to Bone, 10
+1-2	 Tendon Fixation Into the Intramedullary Canal, 11
+1-3	 Tendon to Bone Fixation Using Locking Loop Suture, 11
+1-4	 Tendon to Bone Fixation Using Wire Suture, 12
+1-5	 Fixation of Osseous Attachment of Tendon to Bone, 13
+1-6	 Removal of a Tibial Graft, 18
+1-7	 Removal of Fibular Grafts, 19
+1-8	 Removal of an Iliac Bone Graft, 22
+1-9	 Approach to the Interphalangeal Joints, 24
+1-10	 Medial Approach to the Great Toe Metatarsophalangeal Joint, 24
+1-11	 Dorsomedial Approach to Great Toe Metatarsophalangeal Joint, 25
+1-12	 Approach to the Lesser Toe Metatarsophalangeal Joints, 25
+1-13	 Medial Approach to the Calcaneus, 25
+1-14	 Lateral Approach to the Calcaneus, 25
+1-15	 Extended Lateral Approach to the Calcaneus, 27
+1-16	 U-Shaped Approach to the Calcaneus, 27
+1-17	 Kocher Approach (Curved L) to the Calcaneus, 27
+1-18	 Anterolateral Approach to Chopart’s Joint, 28
+1-19	 Anterior Approach to Expose the Ankle Joint and Both 
+Malleoli, 29
+1-20	 Kocher Lateral Approach to the Tarsus and Ankle, 30
+1-21	 Ollier Approach to the Tarsus, 30
+1-22	 Posterolateral Approach to the Ankle (Gatellier and Chastang), 30
+1-23	 Anterolateral Approach to the Lateral Dome of the Talus (Tochigi, 
+Amendola, Muir, and Saltzman), 31
+1-24	 Posterior Approach to the Ankle, 32
+1-25	 Medial Approach to the Ankle (Koenig and Schaefer), 33
+1-26	 Medial Approach to the Posterior Lip of the Tibia (Colonna and 
+Ralston), 33
+1-27	 Anterior Approach to the Tibia, 34
+1-28	 Medial Approach to the Tibia (Phemister), 34
+1-29	 Posterolateral Approach to the Tibia (Harmon, Modified), 34
+1-30	 Anterolateral Approach to the Lateral Tibial Plateau (Kandemir and 
+MacLean), 34
+1-31	 Medial Approach to the Medial Tibial Plateau, 36
+1-32	 Posteromedial Approach to the Medial Tibial Plateau (Supine), 36
+1-33	 Posteromedial Approach (Prone) (Banks and Laufman), 37
+1-34	 Posterolateral Approach to the Tibial Plateau (Solomon et al.), 38
+1-35	 Posterolateral Approach to the Tibial Plateau Without Fibular 
+Osteotomy (Frosch et al.), 39
+1-36	 Tscherne-Johnson Extensile Approach to the Lateral Tibial Plateau 
+(Johnson et al.), 39
+1-37	 Posterolateral Approach to the Fibula (Henry), 40
+1-38	 Anteromedial Parapatellar Approach (von Langenbeck), 41
+1-39	 Subvastus (Southern) Anteromedial Approach to the Knee (Erkes, 
+as Described by Hofmann, Plaster, and Murdock), 43
+1-40	 Anterolateral Approach to the Knee (Kocher), 44
+1-41	 Posterolateral Approach to the Knee (Henderson), 45
+1-42	 Posteromedial Approach to the Knee (Henderson), 45
+1-43	 Medial Approach to the Knee (Cave), 46
+1-44	 Medial Approach to the Knee (Hoppenfeld and deBoer), 47
+1-45	 Transverse Approach to the Meniscus, 48
+1-46	 Lateral Approach to the Knee (Bruser), 50
+1-47	 Lateral Approach to the Knee (Brown et al.), 50
+1-48	 Lateral Approach to the Knee (Hoppenfeld and deBoer), 51
+1-49	 Extensile Approach to the Knee (Fernandez), 53
+1-50	 Direct Posterior Approach to the Knee (Brackett and Osgood; Putti; 
+Abbott and Carpenter), 53
+1-51	 Direct Posteromedial Approach to the Knee for Tibial Plateau 
+Fracture (Galla and Lobenhoffer as Described by Fakler et al.), 56
+1-52	 Direct Posterolateral Approach to the Knee (Minkoff, Jaffe, and 
+Menendez), 57
+1-53	 Anterolateral Approach to the Femur (Thompson), 57
+1-54	 Lateral Approach to the Femoral Shaft, 58
+1-55	 Posterolateral Approach to the Femoral Shaft, 59
+1-56	 Posterior Approach to the Femur, 59
+1-57	 Medial Approach to the Posterior Surface of the Femur in the 
+Popliteal Space (Henry), 62
+1-58	 Lateral Approach to the Posterior Surface of the Femur in the 
+Popliteal Space (Henry), 63
+1-59	 Lateral Approach to the Proximal Shaft and the Trochanteric 
+Region, 63
+1-60	 Anterior Iliofemoral Approach to the Hip (Smith-Petersen), 65
+1-61	 Anterior Approach to the Hip Using a Transverse Incision 
+(Somerville), 66
+1-62	 Modified Anterolateral Iliofemoral Approach to the Hip (Smith-
+Petersen), 67
+1-63	 Lateral Approach to the Hip (Watson-Jones), 67
+1-64	 Lateral Approach for Extensive Exposure of the Hip (Harris), 68
+1-65	 Lateral Approach to the Hip Preserving the Gluteus Medius 
+(McFarland and Osborne), 70
+1-66	 Lateral Transgluteal Approach to the Hip (Hardinge), 70
+1-67	 Lateral Transgluteal Approach to the Hip (Hay as Described by 
+McLauchlan), 73
+1-68	 Posterolateral Approach (Gibson), 73
+1-69	 Posterior Approach to the Hip (Osborne), 74
+1-70	 Posterior Approach to the Hip (Moore), 77
+1-71	 Medial Approach to the Hip (Ferguson; Hoppenfeld and 
+DeBoer), 79
+1-72	 Ilioinguinal Approach to the Acetabulum (Letournel and Judet, as 
+Described by Matta), 80
+1-73	 Iliofemoral Approach to the Acetabulum (Letournel and Judet), 83
+1-74	 Posterior Approaches to the Acetabulum (Kocher-Langenbeck; 
+Letournel and Judet), 84
+1-75	 Modified Gibson Approach (Modified Gibson Approach, 
+Moed), 85
+1-76	 Extensile Iliofemoral Approach (Letournel and Judet), 86
+1-77	 Extensile Iliofemoral Approach (Reinert et al.), 87
+1-78	 Triradiate Extensile Approach to the Acetabulum (Mears and 
+Rubash), 90
+1-79	 Extensile Approach to the Acetabulum (Carnesale), 92
+1-80	 Approach to the Ilium, 92
+1-81	 Approach to the Symphysis Pubis (Pfannenstiel), 93
+1-82	 Posterior Approach to the Sacroiliac Joint, 95
+1-83	 Anterior Approach to the Sacroiliac Joint (Avila), 95
+1-84	 Approach to Both Sacroiliac Joints or Sacrum (Modified from 
+Mears and Rubash), 96
+1-85	 Approach to the Sternoclavicular Joint, 97
+1-86	 Approach to the Acromioclavicular Joint and Coracoid Process 
+(Roberts), 97
+1-87	 Anteromedial Approach to the Shoulder (Thompson; Henry), 97
+1-88	 Anteromedial/Posteromedial Approach to the Shoulder (Cubbins, 
+Callahan, and Scuderi), 99
+1-89	 Anterior Axillary Approach to the Shoulder (Leslie and Ryan), 99
+1-90	 Anterolateral Limited Deltoid-Splitting Approach to the 
+Shoulder, 99
+1-91	 Extensile Anterolateral Approach to the Shoulder, 101
+1-92	 Transacromial Approach to the Shoulder (Darrach; 
+McLaughlin), 101
+1-93	 Posterior Deltoid-Splitting Approach to the Shoulder (Wirth 
+et al.), 103
+1-94	 Posterior Approach to the Shoulder (Modified Judet), 104
+1-95	 Simplified Posterior Approach to the Shoulder (King, as Described 
+by Brodsky et al.), 104
+1-96	 Posterior Inverted-U Approach to the Shoulder (Abbott and 
+Lucas), 107
+1-97	 Anterolateral Approach to the Humerus (Thompson; Henry), 108
+1-98	 Subbrachial Approach to the Humerus (Boschi et al.), 108
+1-99	 Posterior Approach to the Proximal Humerus (Berger and 
+Buckwalter), 111
+1-100	 Posterolateral Approach to the Distal Humeral Shaft (Moran), 111
+1-101	 Posterolateral Extensile (Cold) Approach to the Distal Humerus 
+(Lewicky, Sheppard, and Ruth), 113
+1-102	 Posterolateral Approach to the Elbow (Campbell), 114
+1-103	 Extensile Posterolateral Approach to the Elbow (Wadsworth), 114
+
+--- PAGE 4870 ---
+1-104	 Posterior Approach to the Elbow by Olecranon Osteotomy 
+(MacAusland and Müller), 116
+1-105	 Extensile Posterior Approach to the Elbow (Bryan and 
+Morrey), 116
+1-106	 Lateral Approach to the Elbow, 117
+1-107	 Lateral J-Shaped Approach to the Elbow (Kocher), 119
+1-108	 Medial Approach with Osteotomy of the Medial Epicondyle 
+(Molesworth; Campbell), 120
+1-109	 Medial and Lateral Approach to the Elbow, 120
+1-110	 Global Approach to the Elbow (Patterson, Bain, and Mehta), 120
+1-111	 Posterolateral Approach to the Radial Head and Neck, 123
+1-112	 Approach to the Proximal and Middle Thirds of the Posterior 
+Surface of the Radius (Thompson), 124
+1-113	 Anterolateral Approach to the Proximal Shaft and Elbow Joint 
+(Henry), 125
+1-114	 Anterior Approach to the Distal Half of the Radius (Henry), 125
+1-115	 Approach to the Proximal Third of the Ulna and Proximal Fourth 
+of the Radius (Boyd), 128
+1-116	 Dorsal Approach to the Wrist, 128
+1-117	 Dorsal Approach to the Wrist, 128
+1-118	 Volar Approach to the Wrist, 128
+1-119	 Lateral Approach to the Wrist, 130
+1-120	 Medial Approach to the Wrist, 131
+Arthroplasty of the Hip
+3-1	 Preoperative Templating for Total Hip Arthroplasty 
+(Capello), 190
+3-2	 Posterolateral Approach with Posterior Dislocation of the Hip, 194
+3-3	 Implantation of Cementless Acetabular Component, 198
+3-4	 Implantation of Cemented Acetabular Component, 200
+3-5	 Implantation of Cementless Femoral Component, 202
+3-6	 Implantation of Cemented Femoral Component, 205
+3-7	 Direct Anterior Approach with Anterior Dislocation of the Hip, 209
+3-8	 Transtrochanteric Approach for Revision Total Hip 
+Arthroplasty, 277
+3-9	 Removal of Cemented Femoral Component, 278
+3-10	 Cementless Femoral Component Removal, 279
+3-11	 Removal of Implants with Extensive Distal Bone Ingrowth 
+(Glassman and Engh), 280
+3-12	 Extended Trochanteric Osteotomy (Younger et al.), 281
+3-13	 Broken Femoral Component Removal (Collis and Dubrul), 283
+3-14	 Removal of a Broken Stem (Moreland, Marder, and Anspach), 284
+3-15	 Removal of a Broken Stem, 284
+3-16	 Removal of Femoral Cement, 285
+3-17	 Removal of Distal Cement with a High-Speed Burr (Turner 
+et al.), 286
+3-18	 Removal of Distal Cement with a High-Speed Burr (Mallory), 287
+3-19	 Removal of a Loose All-Polyethylene Cup, 289
+3-20	 Extraction of a Metal-Backed, Cemented Acetabular 
+Component, 289
+3-21	 Removal of a Cementless Acetabular Component (Mitchell), 290
+3-22	 Management of Acetabular Cavitary Deficits, 293
+3-23	 Management of Segmental Acetabular Deficit, 296
+3-24	 Management of Segmental Acetabular Deficit (Fletcher), 296
+3-25	 Management of Combined Deficits with Structural Grafting (Sporer 
+et al.), 298
+3-26	 Management of Pelvic Discontinuity with Antiprotrusio Cage 
+(Winter et al.), 299
+3-27	 Management of Pelvic Discontinuity with Allografting and Custom 
+Component (DeBoer et al.), 300
+3-28	 Management of Femoral Deficit with Modular Femoral Component 
+(Cameron), 305
+3-29	 Revision with Extensively Porous-Coated Femoral Stem (Mallory 
+and Head), 306
+3-30	 Management of Proximal Femoral Bone Loss with Distally Fixed 
+Stem (Kwong et al.), 306
+3-31	 Management of Proximal Femoral Deficiencies with Impaction 
+Bone Grafting and Cemented Revision Stem (Gie, Modified), 307
+3-32	 Management of Massive Deficits with Proximal Femoral Allograft-
+Prosthesis Composite, 309
+3-33	 Management of Massive Deficits with Modular Megaprosthesis 
+(Klein et al.), 310
+Hip Resurfacing
+4-1	 Hip Resurfacing Technique—Birmingham Hip Replacement, 324
+Arthrodesis of the Hip
+5-1	 Arthrodesis with Cancellous Screw Fixation (Benaroch et al.), 338
+5-2	 Arthrodesis with Anterior Fixation (Matta et al.), 338
+5-3	 Arthrodesis with Double-Plate Fixation (Müller et al.), 338
+5-4	 Arthrodesis with Cobra Plate Fixation (Murrell and Fitch), 340
+5-5	 Arthrodesis with Hip Compression Screw Fixation (Pagnano and 
+Cabanela), 342
+5-6	 Arthrodesis in the Absence of the Femoral Head (Abbott, Fischer, 
+and Lucas), 342
+Hip Pain in the Young Adult and Hip Preservation Surgery
+6-1	 Surgical Dislocation of the Hip (Ganz et al.), 356
+6-2	 Combined Hip Arthroscopy and Limited Open Osteochondroplasty 
+(Clohisy and McClure), 358
+6-3	 Mini-Open Direct Anterior Approach (Ribas et al.), 361
+6-4	 Bernese Periacetabular Osteotomy (Matheney et al.), 367
+6-5	 Rectus-Sparing Modification of Bernese Osteotomy (Novais 
+et al.), 373
+6-6	 Step-Cut Lengthening of the Iliotibial Band (White et al.), 375
+6-7	 Core Decompression (Hungerford), 381
+6-8	 Core Decompression—Percutaneous Technique (Mont et al.), 381
+6-9	 Vascularized Fibular Grafting (Urbaniak et al.), 383
+Arthroplasty of the Knee
+7-1	 Surgical Approach for Primary TKA, 424
+7-2	 Bone Preparation for Primary TKA, 426
+7-3	 Posterior Stabilized TKA in a Varus Knee, 431
+7-4	 Posterior Cruciate–Retaining TKA of a Varus Knee, 432
+7-5	 Valgus Deformity Correction, 432
+7-6	 Pie-Crusting Technique, 433
+7-7	 Flexion Contracture Correction, 434
+7-8	 Recurvatum Correction, 435
+7-9	 PCL Balancing, 436
+7-10	 Bone Grafting of Peripheral Tibial Defects, 437
+7-11	 Component Implantation, 439
+7-12	 Unicondylar Knee Arthroplasty, 442
+7-13	 Patellofemoral Arthroplasty, 443
+7-14	 Arthrodesis with an Intramedullary Nail for an Infected Total Knee 
+Arthroplasty, 450
+Arthrodesis of the Knee
+8-1	 Compression Arthrodesis Using External Fixation, 470
+8-2	 Arthrodesis Using Intramedullary Nail Fixation, 472
+8-3	 Knee Arthrodesis with Locked Intramedullary Nail After Failed 
+Total Knee Arthroplasty, 473
+8-4	 Arthrodesis Using Plate Fixation, 475
+Soft-Tissue Procedures and Corrective Osteotomies About the Knee
+9-1	 Proximal Release of Quadriceps (Sengupta), 479
+9-2	 Quadricepsplasty for Posttraumatic Contracture of the Knee as 
+(Modified Thompson, Described by Hahn et al.), 479
+9-3	 Drainage of Bursa, 483
+9-4	 Excision of Bursa, 483
+9-5	 Popliteal Cyst Excision (Hughston, Baker, and Mello), 485
+9-6	 Medial Gastrocnemius Bursa Excision (Meyerding and Van 
+Demark), 486
+9-7	 Semimembranosus Bursa Excision, 487
+9-8	 Semitendinosus Tendon Transfer (Ray, Clancy, and 
+Lemon), 487
+9-9	 Lateral Closing Wedge Osteotomy (Modified Coventry; Hofmann, 
+Wyatt, and Beck), 498
+9-10	 Opening Wedge Hemicallotasis (Turi et al.), 502
+9-11	 Closing Wedge Distal Femoral Varus Osteotomy (Coventry), 505
+Total Ankle Arthroplasty
+10-1	 Total Ankle Arthroplasty, 514
+10-2	 Dome Osteotomy for Correction of Varus Deformity Above the 
+Ankle Deformity (Tan and Myerson), 515
+10-3	 Medial Distal Plafondplasty for Varus Deformity at the Ankle Joint 
+(Tan and Myerson), 516
+10-4	 Reconstruction of Lateral Ankle Ligaments for Chronic 
+Instability as an Adjunct to Total Ankle Arthroplasty 
+(Coetzee), 517
+10-5	 Revision Total Ankle Arthroplasty (Meeker et al.), 529
+
+--- PAGE 4871 ---
+Ankle Arthrodesis
+11-1	 Opening Wedge Osteotomy of the Tibia for Varus Deformity and 
+Medial Joint Arthrosis, 537
+11-2	 Intraarticular Opening Medial Wedge Osteotomy (Plafondplasty) of 
+the Tibia for Intraarticular Varus Arthritis and Instability(Mann, 
+Filippi, and Myerson), 539
+11-3	 Distraction Arthroplasty of the Ankle, 540
+11-4	 Mini-Incision Technique, 546
+11-5	 Transfibular (Transmalleolar) Arthrodesis with Fibular Strut 
+Graft, 548
+11-6	 Tibiotalocalcaneal Arthrodesis, 550
+11-7	 Technique Modifications, 552
+11-8	 Lateral Approach with Fibular Sparing (Smith, Chiodo, Singh, 
+Wilson), 555
+11-9	 Posterior Approach for Arthrodesis of Ankle and Subtalar Joints 
+(Campbell), 555
+11-10	 Tibiocalcaneal Arthrodesis with a Thin-Wire External Fixation 
+(Eylon et al.), 555
+11-11	 Tibiotalar Arthrodesis with a Sliding Bone Graft (Blair; Morris 
+et al.), 559
+11-12	 Tibiotalar or Tibiotalocalcaneal Fusion with Structural Allograft 
+and Internal Fixation for Salvage of Failed Total Ankle Arthroplasty 
+(Berkowitz et al.), 560
+11-13	 Bone Graft Harvest from the Proximal Tibia (Whitehouse 
+et al.), 562
+Shoulder and Elbow Arthroplasty
+12-1	 Hemiarthroplasty, 578
+12-2	 Total Shoulder Arthroplasty, 583
+12-3	 Reverse Shoulder Arthroplasty, 587
+12-4	 Debridement Arthroplasty (Wada et al.), 601
+12-5	 Interposition Arthroplasty, 603
+12-6	 Radial Head Arthroplasty, 607
+12-7	 Coonrad-Morrey Prosthesis, 609
+12-8	 Elbow Resection Arthroplasty (Campbell), 615
+Arthrodesis of the Shoulder and Elbow
+13-1	 External Fixation (Charnley and Houston), 626
+13-2	 Plate Fixation (AO Group), 627
+13-3	 Pelvic Reconstruction Plate (Richards et al.), 628
+13-4	 Shoulder Arthrodesis After Failed Prosthetic Shoulder Arthroplasty 
+(Scalise and Iannotti), 629
+13-5	 Elbow Arthrodesis (Staples), 632
+13-6	 Elbow Arthrodesis (Müller et al.), 632
+13-7	 Elbow Arthrodesis (Spier), 633
+Amputations of the Foot
+15-1	 Terminal Syme Amputation, 653
+15-2	 Amputation at the Base of the Proximal Phalanx, 654
+15-3	 Metatarsophalangeal Joint Disarticulation, 655
+15-4	 Metatarsophalangeal Joint Disarticulation, 657
+15-5	 First or Fifth Ray Amputation (Border Ray 
+Amputation), 657
+15-6	 Central Ray Amputation, 658
+15-7	 Transmetatarsal Amputation, 661
+15-8	 Chopart Amputation, 662
+15-9	 Syme Amputation, 666
+15-10	 Two-Stage Syme Amputation (Wyss et al.; Malone et al.; 
+Wagner), 671
+15-11	 Boyd Amputation, 671
+Amputations of the Lower Extremity
+16-1	 Transtibial Amputation, 675
+16-2	 Transtibial Amputation Using Long Posterior Skin Flap 
+(Burgess), 677
+16-3	 Knee Disarticulation (Batch, Spittler, and McFaddin), 679
+16-4	 Knee Disarticulation (Mazet and Hennessy), 679
+16-5	 Knee Disarticulation (Kjøble), 681
+16-6	 Transfemoral (Above-Knee) Amputation of Nonischemic 
+Limbs, 682
+16-7	 Transfemoral (Above-Knee) Amputation of Nonischemic Limbs 
+(Gottschalk), 683
+16-8	 Transfemoral (Above-Knee) Amputation for Ischemic 
+Limbs, 684
+Amputations of the Hip and Pelvis
+17-1	 Anatomic Hip Disarticulation (Boyd), 686
+17-2	 Posterior Flap (Slocum), 687
+17-3	 Standard Hemipelvectomy, 688
+17-4	 Anterior Flap Hemipelvectomy, 690
+17-5	 Conservative Hemipelvectomy, 691
+Amputations of the Upper Extremity
+18-1	 Amputation at the Wrist, 695
+18-2	 Disarticulation of the Wrist, 695
+18-3	 Distal Forearm (Distal Transradial) Amputation, 696
+18-4	 Proximal Third of Forearm (Proximal Transradial) 
+Amputation, 696
+18-5	 Disarticulation of the Elbow, 697
+18-6	 Supracondylar Area, 698
+18-7	 Amputation Proximal to the Supracondylar Area, 698
+18-8	 Amputation Through the Surgical Neck of the Humerus, 699
+18-9	 Disarticulation of the Shoulder, 701
+18-10	 Anterior Approach (Berger), 701
+18-11	 Posterior Approach (Littlewood), 705
+18-12	 Targeted Reinnervation After Transhumeral Amputation 
+(O’Shaughnessy et al.), 707
+Amputations of the Hand
+19-1	 Kutler V-Y or Atasoy Triangular Advancement Flaps (Kutler; 
+Fisher), 715
+19-2	 Atasoy Triangular Advancement Flaps (Atasoy et al.), 717
+19-3	 Bipedicle Dorsal Flaps, 718
+19-4	 Adipofascial Turnover Flap, 719
+19-5	 Thenar Flap, 719
+19-6	 Local Neurovascular Island Flap, 720
+19-7	 Island Pedicle Flap, 720
+19-8	 Retrograde Island Pedicle Flap, 722
+19-9	 Ulnar Hypothenar Flap, 722
+19-10	 Index Ray Amputation, 722
+19-11	 Transposing the Index Ray (Peacock), 725
+19-12	 Advancement Pedicle Flap for Thumb Injuries, 727
+19-13	 Phalangization of Fifth Metacarpal, 729
+19-14	 Krukenberg Reconstruction (Krukenberg; Swanson), 730
+19-15	 Lengthening of the Metacarpal and Transfer of Local Flap (Gillies 
+and Millard, Modified), 732
+19-16	 Osteoplastic Reconstruction and Transfer of Neurovascular Island 
+Graft (Verdan), 733
+19-17	 Riordan Pollicization (Riordan), 735
+19-18	 Buck-Gramcko Pollicization (Buck-Gramcko), 736
+19-19	 Foucher Pollicization, 737
+Osteomyelitis
+21-1	 Drainage of Acute Hematogenous Osteomyelitis, 769
+21-2	 Sequestrectomy and Curettage for Chronic Osteomyelitis, 775
+21-3	 Open Bone Grafting (Papineau et al.; Archdeacon and 
+Messerschmitt), 776
+21-4	 Antibiotic Bead Pouch (Henry, Ostermann, and 
+Seligson), 776
+21-5	 Intramedullary Antibiotic Cement Nail, 777
+21-6	 Split-Heel Incision (Gaenslen), 781
+21-7	 Distal Third of the Femur, 782
+21-8	 Drainage, 782
+21-9	 Resection of the Metatarsals, 783
+21-10	 Partial Calcanectomy, 784
+21-11	 Resection of the Fibula, 784
+21-12	 Resection of the Iliac Wing (Badgley), 785
+Infectious Arthritis
+22-1	 Surgical Drainage of the Tarsal Joint, 792
+22-2	 Anterolateral Drainage of the Ankle, 792
+22-3	 Posterolateral Drainage of the Ankle, 793
+22-4	 Anteromedial Drainage of the Ankle, 793
+22-5	 Posteromedial Drainage of the Ankle, 793
+22-6	 Arthroscopic Drainage of the Knee, 794
+22-7	 Anterior Drainage of the Knee, 795
+22-8	 Posterolateral and Posteromedial Drainage of the Knee 
+(Henderson), 795
+22-9	 Posteromedial Drainage of the Knee (Klein), 795
+
+--- PAGE 4872 ---
+22-10	 Posteromedial and Posterolateral Drainage of the Knee 
+(Kelikian), 795
+22-11	 Lateral Aspiration of the Hip, 796
+22-12	 Anterior Aspiration of the Hip, 796
+22-13	 Medial Aspiration of the Hip, 797
+22-14	 Posterior Drainage of the Hip (Ober), 797
+22-15	 Anterior Drainage of the Hip, 797
+22-16	 Lateral Drainage of the Hip, 798
+22-17	 Medial Drainage of the Hip (Ludloff), 798
+22-18	 Resection of the Hip (Girdlestone), 800
+22-19	 Anterior Drainage of the Shoulder, 802
+22-20	 Posterior Drainage of the Shoulder, 802
+22-21	 Medial Drainage of the Elbow, 802
+22-22	 Lateral Drainage of the Elbow, 802
+22-23	 Posterior Drainage of the Elbow, 803
+22-24	 Lateral Drainage of the Wrist, 804
+22-25	 Medial Drainage of the Wrist, 804
+22-26	 Dorsal Drainage of the Wrist, 804
+22-27	 Osteotomy of the Ankle, 804
+22-28	 Transverse Supracondylar Osteotomy of the Femur, 805
+22-29	 V-Osteotomy of the Femur (Thompson), 805
+22-30	 Supracondylar Cuneiform Osteotomy of the Femur, 805
+22-31	 Supracondylar Controlled Rotational Osteotomy of the Femur, 806
+22-32	 Intraarticular Osteotomy, 807
+22-33	 Reconstruction After Hip Sepsis (Harmon), 808
+22-34	 Transverse Opening Wedge Osteotomy of the Hip, 810
+22-35	 Transverse Closing Wedge Osteotomy of the Hip, 810
+22-36	 Brackett Osteotomy of the Hip (Brackett), 810
+Tuberculosis and Other Unusual Infections
+23-1	 Curettage for Tuberculous Lesions in the Foot, 814
+23-2	 Excision of Metatarsal, 816
+23-3	 Excision of Cuneiform Bones, 816
+23-4	 Excision of Navicular, 816
+23-5	 Excision of Cuboid, 816
+23-6	 Excision of Calcaneus, 817
+23-7	 Excision of Talus, 817
+23-8	 Partial Synovectomy and Curettage (Wilkinson), 819
+23-9	 Lesions above Acetabulum, 820
+23-10	 Lesions of the Femoral Neck, 820
+23-11	 Lesions of the Trochanteric Area (Ahern), 820
+23-12	 Excision of the Hip Joint, 820
+23-13	 Excision of Elbow Joint, 821
+23-14	 Excision of Wrist Joint, 822
+General Principles of Tumors
+24-1	 Resection of Shoulder Girdle (Marcove, Lewis, and Huvos), 851
+24-2	 Scapular Resection (Das Gupta), 858
+24-3	 Resection of the Proximal Humerus, 858
+24-4	 Resection of Proximal Humerus (Gebhardt et al.), 860
+24-5	 Intercalary Resection of the Humeral Shaft (Lewis), 860
+24-6	 Resection of the Distal Humerus, 861
+24-7	 Resection of the Proximal Radius, 863
+24-8	 Resection of the Proximal Ulna, 863
+24-9	 Resection of the Distal Radius, 863
+24-10	 Resection of the Pubis and Ischium (Radley, Liebig, and 
+Brown), 871
+24-11	 Resection of the Acetabulum, 871
+24-12	 Resection of the Innominate Bone (Internal Hemipelvectomy) 
+(Karakousis and Vezeridis), 874
+24-13	 Resection of the Sacroiliac Joint, 874
+24-14	 Resection of the Sacrum (Stener and Gunterberg), 877
+24-15	 Resection of the Sacrum (Localio, Francis, and Rossano), 877
+24-16	 Resection of Sacrum Through Posterior Approach (MacCarty 
+et al.), 878
+24-17	 Resection of the Proximal Femur (Lewis and Chekofsky), 880
+24-18	 Resection of Entire Femur (Lewis), 880
+24-19	 Intraarticular Resection of the Distal Femur with Endoprosthetic 
+Reconstruction, 881
+24-20	 Resection of the Proximal Tibia (Malawer), 883
+24-21	 Resection of the Proximal Fibula (Malawer), 884
+24-22	 Resection of the Distal Third of the Fibula, 887
+24-23	 Rotationplasty for a Lesion in the Distal Femur (Kotz and 
+Salzer), 887
+24-24	 Rotationplasty for a Lesion of the Proximal Femur Without 
+Involvement of the Hip Joint (Winkelmann), 891
+24-25	 Rotationplasty for a Lesion of the Proximal Femur Involving the 
+Hip Joint (Winkelmann), 892
+
+--- PAGE 4873 ---
+Campbell’s Operative Orthopaedics, 13th ed.
+List of Techniques
+VOLUME II
+Congenital Anomalies of the Lower Extremity
+29-1	 Amputation of an Extra Toe (Simple Postaxial Polydactyly), 1016
+29-2	 Tsuge Ray Reduction (Tsuge), 1018
+29-3	 Ray Reduction, 1019
+29-4	 Ray Amputation, 1019
+29-5	 Simplified Cleft Closure (Wood, Peppers, and Shook), 1021
+29-6	 Correction of Angulated Toe, 1023
+29-7	 Arthroplasty of the Fifth Metatarsophalangeal Joint 
+(Butler), 1024
+29-8	 Creation of Syndactyly of the Great Toe and Second Toe for Hallux 
+Varus (Farmer), 1025
+29-9	 Dome-Shaped Osteotomies of Metatarsal Bases (Berman and 
+Gartland), 1028
+29-10	 Cuneiform and Cuboid Osteotomies (McHale and 
+Lenhart), 1030
+29-11	 Transverse Circumferential (Cincinnati) Incision (Crawford, 
+Marxen, and Osterfeld), 1038
+29-12	 Extensile Posteromedial and Posterolateral Release (McKay, 
+Modified), 1038
+29-13	 Achilles Tendon Lengthening and Posterior Capsulotomy, 1040
+29-14	 Osteotomy of the Calcaneus for Persistent Varus Deformity of the 
+Heel (Dwyer, Modified), 1043
+29-15	 Medial Release with Osteotomy of the Distal Calcaneus 
+(Lichtblau), 1044
+29-16	 Selective Joint-Sparing Osteotomies for Residual Cavovarus 
+Deformity (Mubrak and Van Valin), 1045
+29-17	 Triple Arthrodesis, 1046
+29-18	 Talectomy (Trumble et al.), 1047
+29-19	 First Metatarsal Osteotomy and Tendon Transfer for Dorsal Bunion 
+(Smith and Kuo), 1049
+29-20	 Open Reduction and Realignment of Talonavicular and Subtalar 
+Joints (Kumar, Cowell, and Ramsey), 1050
+29-21	 Open Reduction and Extraarticular Subtalar Fusion (Grice-
+Green), 1051
+29-22	 Tibiofibular Synostosis (Langenskiöld), 1055
+29-23	 Insertion of Williams Intramedullary Rod and Bone Grafting 
+(Anderson et al.), 1057
+29-24	 One-Stage or Two-Stage Release of Circumferential Constricting 
+Band (Greene), 1060
+29-25	 Capsular Release and Quadriceps Lengthening for Correction of 
+Congenital Knee Dislocation (Curtis and Fisher), 1041
+29-26	 Lateral Release and Medial Plication (Beaty; Modified from Gao 
+et al. and Langenskiöld), 1064
+29-27	 Distal Fibulotalar Arthrodesis, 1069
+29-28	 Proximal Tibiofibular Synostosis, 1069
+29-29	 Varus Supramalleolar Osteotomy of the Ankle (Wiltse), 1074
+29-30	 Knee Fusion for Proximal Femoral Focal Deficiency (King), 1079
+29-31	 Rotationplasty (Van Nes), 1081
+29-32	 Syme Amputation, 1085
+29-33	 Boyd Amputation, 1085
+29-34	 Physeal Exposure Around the Knee (Abbott and Gill, 
+Modified), 1093
+29-35	 Epiphysiodesis (Phemister), 1093
+29-36	 Percutaneous Epiphysiodesis (Canale et al.), 1094
+29-37	 Percutaneous Transepiphyseal Screw Epiphysiodesis (Métaizeau 
+et al.), 1095
+29-38	 Tension Plate Epiphysiodesis, 1097
+29-39	 Proximal Femoral Metaphyseal Shortening (Wagner), 1097
+29-40	 Distal Femoral Metaphyseal Shortening (Wagner), 1097
+29-41	 Proximal Tibial Metaphyseal Shortening (Wagner), 1098
+29-42	 Tibial Diaphyseal Shortening (Broughton, Olney, and 
+Menelaus), 1098
+29-43	 Closed Femoral Diaphyseal Shortening (Winquist, Hansen, and 
+Pearson), 1099
+29-44	 Transiliac Lengthening (Millis and Hall), 1101
+29-45	 Tibial Lengthening (DeBastiani et al.), 1103
+29-46	 Tibial Lengthening (Ilizarov, Modified), 1103
+29-47	 Tibial Lengthening Over Intramedullary Nail (PRECICE 
+Intramedullary Lengthening System, Ellipse Technologies, Irvine, 
+CA, USA; Herzenberg, Standard, Green), 1106
+29-48	 Femoral Lengthening (DeBastiani et al.), 1108
+29-49	 Femoral Lengthening (Ilizarov, Modified), 1108
+29-50	 Femoral Lengthening Over Intramedullary Nail (PRECICE; 
+(Standard, Herzenberg, and Green), 1111
+Congenital and Developmental Abnormalities of the Hip and Pelvis
+30-1	 Arthrography of the Hip in DDH, 1124
+30-2	 Application of a Hip Spica Cast (Kumar), 1125
+30-3	 Anterior Approach (Beaty; After Somerville), 1128
+30-4	 Anteromedial Approach (Weinstein and Ponseti), 1130
+30-5	 Medial Approach (Ludloff), 1131
+30-6	 Trochanteric Advancement (Lloyd-Roberts and Swann), 1133
+30-7	 Varus Derotational Osteotomy of the Femur in Hip Dysplasia, with 
+Pediatric Hip Screw Fixation, 1134
+30-8	 Primary Femoral Shortening, 1137
+30-9	 Innominate Osteotomy Including Open Reduction (Salter), 1140
+30-10	 Pericapsular Osteotomy of the Ilium (Pemberton), 1142
+30-11	 Triple Innominate Osteotomy (Steel), 1145
+30-12	 Transiliac (Dega) Osteotomy (Grudziak and Ward), 1146
+30-13	 Slotted Acetabular Augmentation (Staheli), 1148
+30-14	 Chiari Osteotomy, 1152
+30-15	 Valgus Osteotomy for Developmental Coxa Vara, 1155
+30-16	 Bilateral Anterior Iliac Osteotomies (Sponseller, Gearhart, and 
+Jeffs), 1157
+Congenital Anomalies of the Trunk and Upper Extremity
+31-1	 Woodward Operation, 1162
+31-2	 Morcellation of the Clavicle, 1163
+31-3	 Unipolar Release, 1166
+31-4	 Bipolar Release (Ferkel et al.), 1167
+31-5	 Open Reduction and Iliac Bone Grafting for Congenital 
+Pseudarthrosis of the Clavicle, 1169
+31-6	 Radial and Ulnar Osteotomies for Correction of Congenital 
+Radioulnar Synostosis (Two-Stage) (Lin et al.), 1173
+Osteochondrosis or Epiphysitis and Other Miscellaneous Affections
+32-1	 Tibial Tuberosity and Ossicle Excision (Pihlajamäki et al.), 1179
+32-2	 Excision of Ununited Tibial Tuberosity for Osgood-Schlatter 
+Disease (Ferciot and Thomson), 1180
+32-3	 Arthroscopic Ossicle and Tibial Tuberosity Debridement for 
+Osgood-Schlatter Disease, 1181
+32-4	 Extraarticular Drilling for Stable Osteochondritis Dissecans of the 
+Knee (Donaldson and Wojtys), 1182
+32-5	 Reconstruction of the Articular Surface with Osteochondral 
+Plug Grafts for Osteochondrosis of the Capitellum (Takahara 
+et al.), 1186
+32-6	 Innominate Osteotomy for Legg-Calvé-Perthes Disease (Canale 
+et al.), 1192
+32-7	 Lateral Shelf Procedure (Labral Support) for Legg-Calvé-Perthes 
+Disease (Willett et al.), 1193
+32-8	 Varus Derotational Osteotomy of the Proximal Femur for 
+Legg-Calvé-Perthes Disease (Stricker), 1195
+32-9	 Reversed or Closed Wedge Technique for Legg-Calvé-Perthes 
+Disease, 1198
+32-10	 Arthrodiastasis for Legg-Calvé-Perthes Disease (Segev et al.), 1199
+32-11	 Osteochondroplasty Surgical Dislocation of the Hip (Ganz), 1200
+32-12	 Trochanteric Advancement for Trochanteric Overgrowth 
+(Wagner), 1203
+32-13	 Trochanteric Advancement for Trochanteric Overgrowth (MacNicol 
+and Makris), 1204
+32-14	 Greater Trochanteric Epiphysiodesis for Trochanteric 
+Overgrowth, 1204
+32-15	 Synovectomy of the Knee in Hemophilia, 1208
+32-16	 Synoviorthesis for Treatment of Hemophilic Arthropathy, 1209
+32-17	 Open Ankle Synovectomy in Hemophilia (Greene), 1209
+32-18	 Metaphyseal Osteotomy for Tibia Vara (Rab), 1216
+32-19	 Chevron Osteotomy for Tibia Vara (Greene), 1218
+32-20	 Epiphyseal and Metaphyseal Osteotomy for Tibia Vara (Ingram, 
+Canale, Beaty), 1220
+32-21	 Intraepiphyseal Osteotomy for Tibia Vara (Siffert, Støren, Johnson 
+et al.), 1220
+
