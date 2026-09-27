@@ -6,31 +6,31 @@
   <meta name="theme-color" content="#0f172a">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <title>Campbell's Operative Orthopaedics - Kinh thánh Chấn thương Chỉnh hình</title>
+  <title>Chi Dưới & Khung Chậu - Campbell's Operative Orthopaedics (13th Ed)</title>
   <link rel="stylesheet" href="web/static/styles.css">
 </head>
-<body>
+<body data-portal="lower">
 
   <!-- App Header -->
   <header class="app-header">
     <div class="header-inner">
       <div class="brand">
-        <div class="brand-icon">🦴</div>
+        <div class="brand-icon">🦵</div>
         <div class="brand-text">
-          <h1>Campbell's Operative Orthopaedics</h1>
-          <p>13th Edition • 4-Volume Set • Tra cứu theo Giải phẫu & Kỹ thuật mổ</p>
+          <h1>Campbell's Orthopaedics • Chi Dưới</h1>
+          <p>Phẫu thuật Khớp háng, Xương đùi, Khớp gối, Cẳng chân & Cổ bàn chân</p>
         </div>
       </div>
       <nav class="nav-tabs">
-        <button class="tab-btn active" data-tab="categories">🦴 Phân loại Gãy (23+)</button>
-        <button class="tab-btn" data-tab="techniques">🔪 Kỹ thuật mổ (1.671+)</button>
+        <button class="tab-btn active" data-tab="categories">🦴 Phân loại Gãy</button>
+        <button class="tab-btn" data-tab="techniques">🔪 Kỹ thuật mổ</button>
         <button class="tab-btn" data-tab="chapters">📚 89 Chương sách</button>
         <button class="tab-btn" data-tab="outline">📑 Mục lục chi tiết</button>
       </nav>
     </div>
     <nav class="subportal-nav">
-      <a href="index.html" class="portal-link active">🏠 Tổng Quan</a>
-      <a href="chi-duoi.html" class="portal-link">🦵 Chi Dưới & Khung Chậu</a>
+      <a href="index.html" class="portal-link">🏠 Tổng Quan</a>
+      <a href="chi-duoi.html" class="portal-link active">🦵 Chi Dưới & Khung Chậu</a>
       <a href="chi-tren.html" class="portal-link">💪 Chi Trên & Khớp Vai</a>
       <a href="cot-song.html" class="portal-link">🧬 Cột Sống</a>
       <a href="dai-cuong.html" class="portal-link">🔪 Đại Cương & Đường Mổ</a>
@@ -45,7 +45,7 @@
           type="text" 
           id="globalSearch" 
           class="search-input" 
-          placeholder="Tìm kỹ thuật mổ hoặc phân loại (vd: Schatzker, Neer, Garden, Gustilo, Bado, 54-14...)"
+          placeholder="Tìm phân loại & kỹ thuật mổ Chi Dưới (vd: Schatzker, Garden, Pauwels, Weber, Sanders, Hawkins...)"
           autocomplete="off"
         >
         <button id="searchBtn" class="search-submit-btn">Tìm</button>
@@ -54,11 +54,12 @@
       <div class="stats-chips" id="statsContainer">
         <span class="chip search-quick-chip" data-q="Schatzker">Schatzker (Mâm chày)</span>
         <span class="chip search-quick-chip" data-q="Garden">Garden (Cổ x.đùi)</span>
-        <span class="chip search-quick-chip" data-q="Neer">Neer (X.cánh tay)</span>
-        <span class="chip search-quick-chip" data-q="Gustilo">Gustilo (Gãy hở)</span>
-        <span class="chip search-quick-chip" data-q="Denis">Denis (Cột sống)</span>
-        <span class="chip search-quick-chip" data-q="Monteggia">Monteggia / Bado</span>
-        <span class="chip search-quick-chip" data-q="Colles">Colles / Barton</span>
+        <span class="chip search-quick-chip" data-q="Pauwels">Pauwels (Góc cắt)</span>
+        <span class="chip search-quick-chip" data-q="Pipkin">Pipkin (Chỏm x.đùi)</span>
+        <span class="chip search-quick-chip" data-q="Danis-Weber">Weber (Cổ chân)</span>
+        <span class="chip search-quick-chip" data-q="Sanders">Sanders (X.gót)</span>
+        <span class="chip search-quick-chip" data-q="Hawkins">Hawkins (X.sên)</span>
+        <span class="chip search-quick-chip" data-q="Young-Burgess">Young-Burgess (Vòng chậu)</span>
       </div>
     </div>
   </section>
@@ -66,12 +67,12 @@
   <!-- Main Content Views -->
   <main class="main-content">
     
-    <!-- 1. Classifications View (Direct Medical Content) -->
+    <!-- 1. Classifications View -->
     <section id="view-categories" class="view-section active">
       <div class="section-header-wrap">
         <div>
-          <h2 style="font-size: 1.4rem; font-weight: 800; color: #0f172a;">Bảng Phân loại Gãy xương (Campbell's 13th Ed)</h2>
-          <p style="color: var(--text-muted); font-size: 0.9rem;">Hệ thống 23+ phân loại kinh điển kèm cơ chế chấn thương, phân type chi tiết, nguyên tắc xử trí và phẫu thuật chỉ định</p>
+          <h2 style="font-size: 1.4rem; font-weight: 800; color: #0f172a;">Phân loại Gãy xương Chi Dưới & Khung Chậu</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">Hệ thống phân loại chuẩn Campbell 13th Ed kèm sơ đồ giải phẫu, cơ chế chấn thương, đánh giá X-quang/CT và phác đồ phẫu thuật</p>
         </div>
       </div>
 
@@ -82,13 +83,13 @@
             type="text" 
             id="classifSearchInput" 
             class="classif-search-input" 
-            placeholder="🔍 Tìm nhanh bảng phân loại (Schatzker, Garden, Neer, Denis, Gustilo, Bado, Pilon, Barton...)"
+            placeholder="🔍 Tìm nhanh phân loại chi dưới (Schatzker, Garden, Pauwels, Pipkin, Weber, Sanders...)"
             autocomplete="off"
           >
         </div>
         <div class="classif-filter-pills" id="classifFilterPills">
-          <button class="pill-btn active" data-filter="all">Tất cả (23+)</button>
-          <button class="pill-btn" data-filter="lower">🦵 Chi dưới & Khớp háng</button>
+          <button class="pill-btn" data-filter="all">Tất cả (23+)</button>
+          <button class="pill-btn active" data-filter="lower">🦵 Chi dưới & Khớp háng</button>
           <button class="pill-btn" data-filter="upper">💪 Chi trên & Cổ tay</button>
           <button class="pill-btn" data-filter="spine-pelvis">🩻 Cột sống & Khung chậu</button>
           <button class="pill-btn" data-filter="general">💥 Gãy hở & Đại cương</button>

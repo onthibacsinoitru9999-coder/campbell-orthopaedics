@@ -96,7 +96,6 @@ let allClassesData = [];
 let allTechniquesData = [];
 let debounceTimer = null;
 let activeSuggestionIndex = -1;
-const GDRIVE_PDF_URL = 'https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view';
 let isStaticMode = window.location.hostname.includes('github.io') || 
                    window.location.protocol === 'file:' || 
                    (window.location.port !== '8000' && window.location.port !== '');
@@ -216,9 +215,38 @@ const BONE_MAPPINGS = {
 document.addEventListener('DOMContentLoaded', async () => {
   setupEventListeners();
 
+  // Detect sub-portal region
+  const path = window.location.pathname.toLowerCase();
+  let initialRegion = 'all';
+  if (document.body.dataset.portal) {
+    initialRegion = document.body.dataset.portal;
+  } else if (path.includes('chi-duoi')) {
+    initialRegion = 'lower';
+  } else if (path.includes('chi-tren')) {
+    initialRegion = 'upper';
+  } else if (path.includes('cot-song')) {
+    initialRegion = 'spine-pelvis';
+  } else if (path.includes('dai-cuong')) {
+    initialRegion = 'general';
+  }
+
+  if (initialRegion !== 'all') {
+    currentClassifRegion = initialRegion;
+    if (classifFilterPills) {
+      const pills = classifFilterPills.querySelectorAll('.pill-btn');
+      pills.forEach(p => {
+        if (p.dataset.filter === initialRegion) {
+          p.classList.add('active');
+        } else {
+          p.classList.remove('active');
+        }
+      });
+    }
+  }
+
   try {
     await loadAllClassificationsCache();
-    renderAllClassificationsDirectory();
+    renderAllClassificationsDirectory('', currentClassifRegion);
   } catch (e) {
     console.error('Failed to load classifications:', e);
   }
@@ -397,92 +425,13 @@ function setupEventListeners() {
     });
   });
 
-  // Modal Toolbar Page Navigation & Zoom
-  if (btnPrevPage) {
-    btnPrevPage.addEventListener('click', () => {
-      if (currentModalPdfPage > 1) {
-        setModalPdfPage(currentModalPdfPage - 1);
-      }
-    });
-  }
-
-  if (btnNextPage) {
-    btnNextPage.addEventListener('click', () => {
-      if (currentModalPdfPage < 4887) {
-        setModalPdfPage(currentModalPdfPage + 1);
-      }
-    });
-  }
-
-  if (btnZoomIn) {
-    btnZoomIn.addEventListener('click', () => {
-      applyZoom(currentZoom + 0.2);
-    });
-  }
-
-  if (btnZoomOut) {
-    btnZoomOut.addEventListener('click', () => {
-      applyZoom(currentZoom - 0.2);
-    });
-  }
-
-  if (btnZoomReset) {
-    btnZoomReset.addEventListener('click', () => {
-      panX = 0;
-      panY = 0;
-      applyZoom(1.0);
-    });
-  }
-
-  // Mouse Pan Dragging & Wheel Zoom in Viewer
-  if (pageImgWrapper) {
-    pageImgWrapper.addEventListener('mousedown', (e) => {
-      if (e.button !== 0) return;
-      isPanning = true;
-      startPanX = e.clientX - panX;
-      startPanY = e.clientY - panY;
-      pageImgWrapper.classList.add('is-panning');
-    });
-
-    window.addEventListener('mousemove', (e) => {
-      if (!isPanning) return;
-      panX = e.clientX - startPanX;
-      panY = e.clientY - startPanY;
-      updateViewerTransform();
-    });
-
-    window.addEventListener('mouseup', () => {
-      if (isPanning) {
-        isPanning = false;
-        pageImgWrapper.classList.remove('is-panning');
-      }
-    });
-
-    pageImgWrapper.addEventListener('wheel', (e) => {
-      e.preventDefault();
-      const delta = e.deltaY < 0 ? 0.15 : -0.15;
-      applyZoom(currentZoom + delta);
-    }, { passive: false });
-  }
-
   // Global Keyboard Shortcuts
   document.addEventListener('keydown', (e) => {
-    if (techModal.classList.contains('active')) {
-      if (e.key === 'Escape') {
+    if (e.key === 'Escape') {
+      if (techModal && techModal.classList.contains('active')) {
         techModal.classList.remove('active');
-      } else if (e.key === 'ArrowLeft') {
-        if (currentModalPdfPage > 1) setModalPdfPage(currentModalPdfPage - 1);
-      } else if (e.key === 'ArrowRight') {
-        if (currentModalPdfPage < 4887) setModalPdfPage(currentModalPdfPage + 1);
-      } else if (e.key === '+' || e.key === '=') {
-        applyZoom(currentZoom + 0.2);
-      } else if (e.key === '-') {
-        applyZoom(currentZoom - 0.2);
-      } else if (e.key === '0') {
-        panX = 0;
-        panY = 0;
-        applyZoom(1.0);
       }
+      closeImageLightbox();
     }
   });
 
@@ -732,14 +681,14 @@ async function selectBone(id, boneInfo) {
         <div>
           <div class="tech-header">
             <span class="tech-code">TECHNIQUE ${tech.tech_id}</span>
-            <span class="badge" style="font-size: 0.75rem;">PDF p.${tech.pdf_page || tech.book_page}</span>
+            <span class="badge" style="font-size: 0.75rem;">Chương ${tech.chapter}</span>
           </div>
           <h4 class="tech-name" style="font-size: 0.95rem;">${tech.name}</h4>
           ${tech.author ? `<div class="tech-author" style="font-size: 0.8rem;">👨‍⚕️ ${tech.author}</div>` : ''}
           <div class="tech-chapter" style="font-size: 0.75rem;">📖 Ch.${tech.chapter}: ${tech.chapter_title}</div>
         </div>
         <div class="tech-footer">
-          <span style="font-size: 0.75rem;">Trang sách: <strong>p.${tech.book_page || 'N/A'}</strong></span>
+          <span style="font-size: 0.75rem; color: var(--primary); font-weight: 600;">Campbell 13th Ed</span>
           <button class="view-btn" style="font-size: 0.75rem; padding: 0.25rem 0.6rem;">Xem chi tiết &rarr;</button>
         </div>
       `;
@@ -841,10 +790,16 @@ async function loadBoneClassifications(id, boneInfo) {
             <h4>${item.name}</h4>
             <span>${item.en_name} • Vị trí: ${item.bone_vi}</span>
           </div>
-          <button class="view-btn" onclick="openPageImageDirect(${item.pdf_page}, '${escapeHtml(item.name)}')">
-            📖 Mở trang PDF p.${item.pdf_page} &rarr;
+          <button class="view-btn classif-protocol-btn" onclick="openClassificationProtocol('${item.id}')">
+            📋 Phác đồ & Quy trình &rarr;
           </button>
         </div>
+        ${item.image_url ? `
+          <div class="classif-image-wrap">
+            <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" onclick="openImageLightbox('${item.image_url}', '${escapeHtml(item.name)} - Sơ đồ giải phẫu & hướng phẫu thuật Campbell')">
+            <div class="image-caption">🔍 Sơ đồ phân loại chuẩn Campbell • Nhấn để phóng to</div>
+          </div>
+        ` : ''}
         <p class="classification-desc">${item.description}</p>
         <div class="classification-types">
           ${typesHtml}
@@ -957,7 +912,7 @@ async function loadChapters() {
         <div>
           <div class="tech-header">
             <span class="tech-code">CHƯƠNG ${chap.chapter}</span>
-            <span class="badge" style="font-size: 0.75rem;">Trang PDF ${chap.start_page || 'N/A'}</span>
+            <span class="badge" style="font-size: 0.75rem;">${chap.technique_count} Kỹ thuật</span>
           </div>
           <h3 class="tech-name">${chap.title}</h3>
           <div style="display: flex; gap: 0.35rem; flex-wrap: wrap; margin-bottom: 0.75rem;">
@@ -1080,15 +1035,15 @@ async function loadTechniques() {
         <div>
           <div class="tech-header">
             <span class="tech-code">TECHNIQUE ${tech.tech_id}</span>
-            <span class="badge" style="font-size: 0.75rem;">PDF p.${tech.pdf_page || tech.book_page}</span>
+            <span class="badge" style="font-size: 0.75rem;">Chương ${tech.chapter}</span>
           </div>
           <h3 class="tech-name">${tech.name}</h3>
           ${tech.author ? `<div class="tech-author">👨‍⚕️ Tác giả / Tên định danh: ${tech.author}</div>` : ''}
           <div class="tech-chapter">📖 Chương ${tech.chapter}: ${tech.chapter_title}</div>
         </div>
         <div class="tech-footer">
-          <span>Trang sách gốc: <strong>p.${tech.book_page || 'N/A'}</strong></span>
-          <button class="view-btn">Chi tiết & Trang PDF &rarr;</button>
+          <span style="font-size: 0.85rem; color: var(--primary); font-weight: 600;">Campbell 13th Ed</span>
+          <button class="view-btn">Xem chi tiết quy trình &rarr;</button>
         </div>
       `;
       card.addEventListener('click', () => openTechniqueModal(tech.tech_id));
@@ -1276,6 +1231,14 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
           📋 Phác đồ & Quy trình mổ &rarr;
         </button>
       </div>
+
+      ${item.image_url ? `
+        <div class="classif-image-wrap">
+          <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" onclick="openImageLightbox('${item.image_url}', '${escapeHtml(item.name)} - Sơ đồ phân loại & hướng phẫu thuật Campbell')">
+          <div class="image-caption">🔍 Sơ đồ phân loại & hướng điều trị chuẩn Campbell • Nhấn để phóng to</div>
+        </div>
+      ` : ''}
+
       <p class="classification-desc" style="font-size: 0.925rem; line-height: 1.5; color: #475569; margin: 0.75rem 0 0.85rem;">
         ${escapeHtml(item.overview || item.description)}
       </p>
@@ -1335,11 +1298,7 @@ async function openClassificationProtocol(classifId) {
   modalTechTitle.textContent = item.name + ' (' + item.en_name + ')';
   modalTechMeta.textContent = `Chuyên khoa: ${item.category} • Vị trí: ${item.bone_vi} • Chương ${item.chapter}: ${item.chapter_title}`;
 
-  modalTabs.forEach(b => {
-    b.classList.toggle('active', b.dataset.modaltab === 'extractedText');
-  });
   if (tabContentExtractedText) tabContentExtractedText.style.display = 'block';
-  if (tabContentPagePreview) tabContentPagePreview.style.display = 'none';
 
   if (modalTechDetailHeader) {
     modalTechDetailHeader.innerHTML = `
@@ -1352,8 +1311,6 @@ async function openClassificationProtocol(classifId) {
         <span>Vị trí: <strong>${escapeHtml(item.bone_vi)}</strong></span>
         <span>•</span>
         <span>Chuyên khoa: <strong>${escapeHtml(item.category)}</strong></span>
-        <span>•</span>
-        <span>Tham chiếu: <strong>Trang sách p.${item.book_page || 'N/A'} (PDF ${item.pdf_page})</strong></span>
       </div>
     `;
   }
@@ -1364,6 +1321,13 @@ async function openClassificationProtocol(classifId) {
 
   let protocolHtml = `
     <div class="clinical-card-wrapper">
+      ${item.image_url ? `
+        <div class="classif-image-wrap">
+          <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" onclick="openImageLightbox('${item.image_url}', '${escapeHtml(item.name)} - Sơ đồ phân loại & hướng phẫu thuật Campbell')">
+          <div class="image-caption">🔍 Sơ đồ phân loại & hướng điều trị chuẩn Campbell • Nhấn để phóng to</div>
+        </div>
+      ` : ''}
+
       <div class="clinical-section-card">
         <div class="clinical-section-title">📌 Tổng quan & Định nghĩa phân loại</div>
         <div class="clinical-section-body">${escapeHtml(item.overview || item.description)}</div>
@@ -1439,10 +1403,6 @@ async function openClassificationProtocol(classifId) {
   `;
 
   modalExtractedText.innerHTML = protocolHtml;
-
-  if (item.pdf_page) {
-    setModalPdfPage(item.pdf_page);
-  }
 }
 
 // Full-text loading & formatting helpers
@@ -1578,6 +1538,14 @@ function renderClinicalTechniqueCard(guide, rawFallback) {
         </div>
       ` : ''}
 
+      <!-- Operative Diagram / X-ray Figure -->
+      ${guide.image_url ? `
+        <div class="tech-image-wrap">
+          <img src="${guide.image_url}" alt="${escapeHtml(guide.name_vi)}" class="tech-main-img" onclick="openImageLightbox('${guide.image_url}', '${escapeHtml(guide.name_vi)} - Sơ đồ kỹ thuật mổ chuẩn Campbell')">
+          <div class="image-caption">🔍 Sơ đồ giải phẫu & kỹ thuật phẫu thuật thực hành chuẩn Campbell • Nhấn để phóng to</div>
+        </div>
+      ` : ''}
+
       <!-- Step-by-Step Operative Technique -->
       <div class="clinical-section-card">
         <div class="clinical-section-title">⚡ Các thì phẫu thuật từng bước (Operative Steps)</div>
@@ -1602,11 +1570,11 @@ function renderClinicalTechniqueCard(guide, rawFallback) {
         </div>
       ` : ''}
 
-      <!-- Optional Raw English Excerpt Accordion -->
+      <!-- Optional In-Depth Text Accordion -->
       ${rawFallback ? `
         <div style="margin-top: 0.5rem;">
           <button class="clinical-raw-toggle-btn" onclick="toggleRawBookText(this)">
-            📖 Xem trích dẫn nguyên bản văn bản sách tiếng Anh (Campbell 13th Ed) ▾
+            📖 Xem trích dẫn chi tiết từ Campbell's Operative Orthopaedics ▾
           </button>
           <div class="clinical-raw-body">
             ${formatTechniqueText(rawFallback)}
@@ -1617,6 +1585,23 @@ function renderClinicalTechniqueCard(guide, rawFallback) {
   `;
 }
 
+// Lightbox modal helpers
+function openImageLightbox(imgUrl, caption) {
+  const lightbox = document.getElementById('imageLightbox');
+  const img = document.getElementById('lightboxImg');
+  const cap = document.getElementById('lightboxCaption');
+  if (lightbox && img) {
+    img.src = imgUrl;
+    if (cap) cap.textContent = caption || '';
+    lightbox.classList.add('active');
+  }
+}
+
+function closeImageLightbox() {
+  const lightbox = document.getElementById('imageLightbox');
+  if (lightbox) lightbox.classList.remove('active');
+}
+
 // Open Technique Modal
 async function openTechniqueModal(techId) {
   try {
@@ -1625,12 +1610,7 @@ async function openTechniqueModal(techId) {
     modalTechTitle.textContent = 'Đang tải thông tin...';
     modalTechMeta.textContent = '';
     
-    // Always default to extractedText tab for instant procedure reading
-    modalTabs.forEach(b => {
-      b.classList.toggle('active', b.dataset.modaltab === 'extractedText');
-    });
     if (tabContentExtractedText) tabContentExtractedText.style.display = 'block';
-    if (tabContentPagePreview) tabContentPagePreview.style.display = 'none';
 
     modalExtractedText.innerHTML = '<div style="padding: 1.5rem; color: var(--text-muted);">Đang nạp toàn văn quy trình phẫu thuật từ Campbell 13th Ed...</div>';
 
@@ -1657,21 +1637,19 @@ async function openTechniqueModal(techId) {
     activeTechnique = tech;
 
     modalTechTitle.textContent = tech.name;
-    modalTechMeta.textContent = `Chương ${tech.chapter}: ${tech.chapter_title} • Trang sách gốc: p.${tech.book_page || 'N/A'} • Trang PDF tài liệu: ${tech.pdf_page}`;
+    modalTechMeta.textContent = `Chương ${tech.chapter}: ${tech.chapter_title} • Phẫu thuật Chỉnh hình Campbell`;
 
     // Render structured header card
     if (modalTechDetailHeader) {
       modalTechDetailHeader.innerHTML = `
         <div class="tech-detail-top-row">
           <span class="tech-code" style="font-size: 0.85rem; font-weight: 800;">CAMPBELL TECHNIQUE ${tech.tech_id}</span>
-          <span class="badge" style="font-size: 0.8rem; background: #0284c7; color: #fff;">PDF Trang ${tech.pdf_page} / 4.887</span>
+          <span class="badge" style="font-size: 0.8rem; background: #0284c7; color: #fff;">Chương ${tech.chapter}</span>
         </div>
         <h3 class="tech-detail-title">${escapeHtml(tech.name)}</h3>
         ${tech.author ? `<div class="tech-detail-author">👨‍⚕️ Tác giả / Tên định danh phẫu thuật: <strong>${escapeHtml(tech.author)}</strong></div>` : ''}
         <div class="tech-detail-meta-pills">
           <span>📖 Chương ${tech.chapter}: ${escapeHtml(tech.chapter_title)}</span>
-          <span>•</span>
-          <span>Trang sách in: <strong>p.${tech.book_page || 'N/A'}</strong></span>
           ${tech.categories && tech.categories.length > 0 ? `<span>•</span><span>Giải phẫu: <strong>${tech.categories.map(c => c.vi || c.id).join(', ')}</strong></span>` : ''}
         </div>
       `;
@@ -1735,21 +1713,6 @@ async function openTechniqueModal(techId) {
       modalExtractedText.innerHTML = formatTechniqueText(fullText);
     }
 
-    // Setup action buttons
-    const driveUrl = `https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view`;
-    if (btnTextOpenDrive) btnTextOpenDrive.href = driveUrl;
-    if (btnTextSwitchScan) {
-      btnTextSwitchScan.onclick = () => {
-        const scanTabBtn = document.querySelector('.modal-tab-btn[data-modaltab="pagePreview"]');
-        if (scanTabBtn) scanTabBtn.click();
-      };
-    }
-
-    // Prepare PDF scan page
-    if (tech.pdf_page) {
-      setModalPdfPage(tech.pdf_page);
-    }
-
   } catch (err) {
     console.error('Failed to load technique detail:', err);
     modalTechTitle.textContent = 'Lỗi tải kỹ thuật';
@@ -1785,7 +1748,7 @@ function renderTreeNode(node) {
     <span style="font-weight: ${node.level === 1 ? '700' : 'normal'}; font-size: ${node.level === 1 ? '1rem' : '0.9rem'};">
       ${node.title}
     </span>
-    ${node.page ? `<span class="badge" style="font-size: 0.7rem; margin-left: auto;">p.${node.page}</span>` : ''}
+    ${node.page ? `<span class="badge" style="font-size: 0.7rem; margin-left: auto;">Campbell</span>` : ''}
   `;
 
   if (node.page) {
@@ -1819,16 +1782,11 @@ function renderTreeNode(node) {
 
 async function openPageImageDirect(pageNum, title) {
   techModal.classList.add('active');
-  modalTechId.textContent = `CAMPBELL 13TH ED • TRANG ${pageNum}`;
-  modalTechTitle.textContent = title || `Trang Sách Campbell ${pageNum}`;
-  modalTechMeta.textContent = `Vị trí: Trang PDF ${pageNum} / 4.887 • 4-Volume Set`;
-  applyZoom(1.0);
-  setModalPdfPage(pageNum);
+  modalTechId.textContent = `CAMPBELL 13TH ED • ĐỀ MỤC LÂM SÀNG`;
+  modalTechTitle.textContent = title || `Chuyên đề Phẫu thuật`;
+  modalTechMeta.textContent = `Phẫu thuật Chỉnh hình Campbell 13th Edition`;
 
-  // Switch to extracted text tab so reader sees content immediately
-  const tabBtnText = document.querySelector('.modal-tab-btn[data-modaltab="extractedText"]');
-  if (tabBtnText) tabBtnText.click();
-
+  if (tabContentExtractedText) tabContentExtractedText.style.display = 'block';
   modalExtractedText.innerHTML = '<div style="padding: 2rem; color: var(--text-muted); text-align: center;">Đang nạp phác đồ chuyên môn...</div>';
 
   // Check if this page matches any known technique
@@ -1860,16 +1818,13 @@ async function openPageImageDirect(pageNum, title) {
     modalExtractedText.innerHTML = `
       <div class="clinical-card-wrapper">
         <div class="clinical-section-card" style="border-left: 4px solid #0284c7;">
-          <div class="clinical-section-title">📖 Đề mục: ${escapeHtml(title || 'Trang ' + pageNum)}</div>
+          <div class="clinical-section-title">📖 Đề mục: ${escapeHtml(title || 'Chuyên đề lâm sàng')}</div>
           <div class="clinical-section-body">
-            <p style="margin-bottom: 0.5rem; color: #64748b;">Trang PDF <strong>${pageNum}</strong> / 4.887 trong bộ sách Campbell's Operative Orthopaedics.</p>
-            <a href="${GDRIVE_PDF_URL}" target="_blank" class="search-submit-btn" style="text-decoration: none; padding: 0.35rem 0.85rem; font-size: 0.8rem; display: inline-block;">
-              Mở PDF gốc trên Google Drive &rarr;
-            </a>
+            <p style="color: #64748b; font-size: 0.85rem;">Trích yếu chuyên môn & Hướng dẫn phẫu thuật thực hành</p>
           </div>
         </div>
         <div class="clinical-section-card">
-          <div class="clinical-section-title">📄 Nội dung trích xuất & Tổng hợp</div>
+          <div class="clinical-section-title">📄 Nội dung trích xuất & Hướng dẫn chi tiết</div>
           <div class="clinical-section-body">
             ${formatTechniqueText(pageText)}
           </div>
@@ -1881,102 +1836,17 @@ async function openPageImageDirect(pageNum, title) {
       <div style="padding: 2rem; background: #fff; border-radius: 8px; border: 1px solid var(--border); text-align: center;">
         <h4 style="color: #0f172a; margin-bottom: 0.5rem;">📖 Đề mục: ${escapeHtml(title || '')}</h4>
         <p style="color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">
-          Đề mục này nằm tại <strong>Trang PDF ${pageNum} / 4.887</strong> trong bộ sách Campbell's Operative Orthopaedics.
+          Đề mục chuyên môn trong hệ thống Campbell's Operative Orthopaedics.
         </p>
-        <a href="${GDRIVE_PDF_URL}" target="_blank" class="search-submit-btn" style="display: inline-block; text-decoration: none; padding: 0.75rem 1.5rem; font-size: 0.95rem;">
-          🚀 Mở toàn văn sách trên Google Drive &rarr;
-        </a>
       </div>
     `;
   }
 }
 
-// PDF Viewer Page Navigation & Zoom Helpers
-function setModalPdfPage(pageNum) {
-  if (pageNum < 1) pageNum = 1;
-  if (pageNum > 4887) pageNum = 4887;
-  currentModalPdfPage = pageNum;
-
-  const indicatorText = `Trang ${pageNum} / 4887`;
-  if (pagePreviewLabel) {
-    pagePreviewLabel.textContent = `Bản quét ${indicatorText} (Campbell's 13th Ed)`;
-  }
-  const pageIndicatorEl = document.getElementById('pageIndicator');
-  if (pageIndicatorEl) {
-    pageIndicatorEl.textContent = indicatorText;
-  }
-
-  panX = 0;
-  panY = 0;
-  updateViewerTransform();
-
-  const drivePdfUrl = 'https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view';
-  const staticFallback = document.getElementById('modalStaticPageFallback');
-  const staticPageNum = document.getElementById('staticPageNum');
-  const btnOpenDrivePdf = document.getElementById('btnOpenDrivePdf');
-
-  if (isStaticMode) {
-    if (modalPageImage) modalPageImage.style.display = 'none';
-    if (staticFallback) {
-      staticFallback.style.display = 'block';
-      if (staticPageNum) staticPageNum.textContent = `Trang PDF: ${pageNum} / 4887`;
-      if (btnOpenDrivePdf) btnOpenDrivePdf.href = drivePdfUrl;
-      if (downloadPageBtn) downloadPageBtn.href = drivePdfUrl;
-
-      // Populate text preview in static tab
-      getAllPagesText().then(allPages => {
-        const txt = allPages[String(pageNum)] || allPages[pageNum] || '';
-        let previewBox = staticFallback.querySelector('.static-page-text-preview');
-        if (!previewBox) {
-          previewBox = document.createElement('div');
-          previewBox.className = 'static-page-text-preview';
-          previewBox.style.cssText = 'margin-top: 1.25rem; max-height: 48vh; overflow-y: auto; text-align: left; background: #1e293b; color: #f1f5f9; padding: 1.25rem; border-radius: 8px; font-size: 0.9rem; line-height: 1.6; border: 1px solid rgba(255,255,255,0.15);';
-          staticFallback.appendChild(previewBox);
-        }
-        if (txt) {
-          previewBox.innerHTML = `
-            <div style="color: #38bdf8; font-weight: 700; margin-bottom: 0.5rem; border-bottom: 1px solid rgba(56,189,248,0.3); padding-bottom: 0.35rem;">
-              📄 Toàn văn Campbell's Operative Orthopaedics (Trang PDF ${pageNum}):
-            </div>
-            ${formatTechniqueText(txt)}
-          `;
-        } else {
-          previewBox.innerHTML = '<div style="color: #94a3b8; font-style: italic;">Không có trích xuất văn bản trực tiếp cho trang này. Sử dụng nút Google Drive phía trên để đọc tài liệu.</div>';
-        }
-      });
-    }
-  } else {
-    if (modalPageImage) {
-      modalPageImage.style.display = 'block';
-      modalPageImage.onerror = () => {
-        isStaticMode = true;
-        modalPageImage.style.display = 'none';
-        if (staticFallback) staticFallback.style.display = 'block';
-        if (staticPageNum) staticPageNum.textContent = `Trang PDF: ${pageNum} / 4887`;
-        if (btnOpenDrivePdf) btnOpenDrivePdf.href = drivePdfUrl;
-        if (downloadPageBtn) downloadPageBtn.href = drivePdfUrl;
-      };
-      modalPageImage.src = `/api/page-image/${pageNum}?dpi=150`;
-    }
-    if (staticFallback) staticFallback.style.display = 'none';
-    if (downloadPageBtn) downloadPageBtn.href = `/api/page-image/${pageNum}?dpi=200`;
-  }
-
-  if (btnPrevPage) btnPrevPage.disabled = (pageNum <= 1);
-  if (btnNextPage) btnNextPage.disabled = (pageNum >= 4887);
-
-  // Preload adjacent pages for instant sub-500ms navigation only in API mode
-  if (!isStaticMode) {
-    if (pageNum > 1) {
-      const prevCache = new Image();
-      prevCache.src = `/api/page-image/${pageNum - 1}?dpi=150`;
-    }
-    if (pageNum < 4887) {
-      const nextCache = new Image();
-      nextCache.src = `/api/page-image/${pageNum + 1}?dpi=150`;
-    }
-  }
-}
+// PDF Viewer no-op helpers
+function setModalPdfPage(pageNum) {}
+function updateViewerTransform() {}
+function applyZoom(scale) {}
 
 function updateViewerTransform() {
   if (modalPageImage) {
@@ -2119,7 +1989,7 @@ async function handleSearchAutocomplete() {
         <span class="suggestion-badge tech">🔪 KT ${tech.tech_id}</span>
         <span class="suggestion-title">${tech.name}</span>
       </div>
-      <span class="suggestion-meta">Ch.${tech.chapter} • p.${tech.pdf_page || tech.book_page}</span>
+      <span class="suggestion-meta">Chương ${tech.chapter}</span>
     `;
     div.addEventListener('click', () => {
       closeSuggestions();
@@ -2254,7 +2124,7 @@ async function handleTechniqueSearchAutocomplete() {
         <span class="suggestion-badge tech">🔪 KT ${tech.tech_id}</span>
         <span class="suggestion-title">${tech.name}</span>
       </div>
-      <span class="suggestion-meta">${tech.author ? tech.author + ' • ' : ''}p.${tech.pdf_page || tech.book_page}</span>
+      <span class="suggestion-meta">${tech.author ? tech.author + ' • ' : ''}Chương ${tech.chapter}</span>
     `;
     div.addEventListener('click', () => {
       closeTechniqueSuggestions();
