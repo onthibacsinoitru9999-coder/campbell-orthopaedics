@@ -43,7 +43,35 @@ test_results.json
 .system_generated/
 *.log
 *.tmp
-audit_part1.json
+audit_*
+check_*
+inspect_*
+sample_*
+list_*
+analyze_*
+upgrade_*
+build_*
+extract_*
+detect_*
+exact_*
+find_*
+fix_*
+print_*
+regional_*
+run_*
+scope_*
+search_*
+test_refine.py
+word_count_stats.py
+deep_audit_*
+append_script.py
+*_summary.json
+*_audit*.json
+*_records.json
+scratch_*
+scripts/
+generate_audit_records.py
+verify_micro_jsons.py
 
 # ==========================================
 # IDE & System Files

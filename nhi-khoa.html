@@ -6,19 +6,19 @@
   <meta name="theme-color" content="#0f172a">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <title>Chi Dưới & Khung Chậu - Campbell's Operative Orthopaedics (13th Ed)</title>
+  <title>Chỉnh Hình Nhi & Dị Tật - Campbell's Operative Orthopaedics (13th Ed)</title>
   <link rel="stylesheet" href="web/static/styles.css">
 </head>
-<body data-portal="lower">
+<body data-portal="pediatric">
 
   <!-- App Header -->
   <header class="app-header">
     <div class="header-inner">
       <div class="brand">
-        <div class="brand-icon">🦵</div>
+        <div class="brand-icon">👶</div>
         <div class="brand-text">
-          <h1>Campbell's Orthopaedics • Chi Dưới</h1>
-          <p>Phẫu thuật Khớp háng, Xương đùi, Khớp gối, Cẳng chân & Cổ bàn chân</p>
+          <h1>Campbell's Orthopaedics • Chỉnh Hình Nhi</h1>
+          <p>Dị tật bẩm sinh, Gãy xương trẻ em, Trật khớp háng bẩm sinh (DDH), Bàn chân khoèo & Bại não</p>
         </div>
       </div>
       <nav class="nav-tabs">
@@ -31,9 +31,9 @@
     <nav class="subportal-nav">
       <a href="index.html" class="portal-link">🏠 Tổng Quan</a>
       <a href="chi-tren.html" class="portal-link">💪 Chi Trên & Bàn Tay</a>
-      <a href="chi-duoi.html" class="portal-link active">🦵 Chi Dưới & Bàn Chân</a>
+      <a href="chi-duoi.html" class="portal-link">🦵 Chi Dưới & Bàn Chân</a>
       <a href="cot-song.html" class="portal-link">🧬 Cột Sống & Vùng Chậu</a>
-      <a href="nhi-khoa.html" class="portal-link">👶 Chỉnh Hình Nhi</a>
+      <a href="nhi-khoa.html" class="portal-link active">👶 Chỉnh Hình Nhi</a>
       <a href="dai-cuong.html" class="portal-link">🔪 Đại Cương & Đường Mổ</a>
     </nav>
   </header>
@@ -46,21 +46,20 @@
           type="text" 
           id="globalSearch" 
           class="search-input" 
-          placeholder="Tìm phân loại & kỹ thuật mổ Chi Dưới (vd: Schatzker, Garden, Pauwels, Weber, Sanders, Hawkins...)"
+          placeholder="Tìm phân loại & kỹ thuật mổ Nhi khoa (vd: Salter-Harris, Gartland, DDH, Ponseti, Perthes, 36-1...)"
           autocomplete="off"
         >
         <button id="searchBtn" class="search-submit-btn">Tìm</button>
         <div id="searchSuggestions" class="search-suggestions" style="display: none;"></div>
       </div>
       <div class="stats-chips" id="statsContainer">
-        <span class="chip search-quick-chip" data-q="Schatzker">Schatzker (Mâm chày)</span>
-        <span class="chip search-quick-chip" data-q="Garden">Garden (Cổ x.đùi)</span>
-        <span class="chip search-quick-chip" data-q="Pauwels">Pauwels (Góc cắt)</span>
-        <span class="chip search-quick-chip" data-q="Pipkin">Pipkin (Chỏm x.đùi)</span>
-        <span class="chip search-quick-chip" data-q="Danis-Weber">Weber (Cổ chân)</span>
-        <span class="chip search-quick-chip" data-q="Sanders">Sanders (X.gót)</span>
-        <span class="chip search-quick-chip" data-q="Hawkins">Hawkins (X.sên)</span>
-        <span class="chip search-quick-chip" data-q="Young-Burgess">Young-Burgess (Vòng chậu)</span>
+        <span class="chip search-quick-chip" data-q="Salter-Harris">Salter-Harris (Sụn tiếp hợp)</span>
+        <span class="chip search-quick-chip" data-q="Gartland">Gartland (Trên lồi cầu cánh tay)</span>
+        <span class="chip search-quick-chip" data-q="Dysplasia">Trật khớp háng bẩm sinh (DDH)</span>
+        <span class="chip search-quick-chip" data-q="Clubfoot">Bàn chân khoèo (Clubfoot)</span>
+        <span class="chip search-quick-chip" data-q="Perthes">Bệnh Perthes (Hoại tử chỏm đùi)</span>
+        <span class="chip search-quick-chip" data-q="Scoliosis">Vẹo cột sống nhi (Ch.44)</span>
+        <span class="chip search-quick-chip" data-q="Cerebral Palsy">Bại não (Ch.33)</span>
       </div>
     </div>
   </section>
@@ -72,8 +71,8 @@
     <section id="view-categories" class="view-section active">
       <div class="section-header-wrap">
         <div>
-          <h2 style="font-size: 1.4rem; font-weight: 800; color: #0f172a;">Phân loại Gãy xương Chi Dưới & Khung Chậu</h2>
-          <p style="color: var(--text-muted); font-size: 0.9rem;">Hệ thống phân loại chuẩn Campbell 13th Ed kèm sơ đồ giải phẫu, cơ chế chấn thương, đánh giá X-quang/CT và phác đồ phẫu thuật</p>
+          <h2 style="font-size: 1.4rem; font-weight: 800; color: #0f172a;">Phân loại Chấn thương & Dị tật Chỉnh hình Nhi</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">Hệ thống phân loại tổn thương sụn tiếp hợp (Salter-Harris), gãy trên lồi cầu (Gartland), dị tật bẩm sinh kèm phác đồ phẫu thuật Campbell 13th Ed</p>
         </div>
       </div>
 
@@ -84,16 +83,16 @@
             type="text" 
             id="classifSearchInput" 
             class="classif-search-input" 
-            placeholder="🔍 Tìm nhanh phân loại chi dưới (Schatzker, Garden, Pauwels, Pipkin, Weber, Sanders...)"
+            placeholder="🔍 Tìm nhanh phân loại nhi (Salter-Harris, Gartland, gãy xương trẻ em...)"
             autocomplete="off"
           >
         </div>
         <div class="classif-filter-pills" id="classifFilterPills">
           <button class="pill-btn" data-filter="all">Tất cả (35+)</button>
-          <button class="pill-btn active" data-filter="lower">🦵 Chi dưới & Bàn chân</button>
+          <button class="pill-btn active" data-filter="pediatric">👶 Chỉnh hình Nhi & Dị tật</button>
           <button class="pill-btn" data-filter="upper">💪 Chi trên & Bàn tay</button>
+          <button class="pill-btn" data-filter="lower">🦵 Chi dưới & Bàn chân</button>
           <button class="pill-btn" data-filter="spine-pelvis">🩻 Cột sống & Khung chậu</button>
-          <button class="pill-btn" data-filter="pediatric">👶 Chỉnh hình Nhi</button>
           <button class="pill-btn" data-filter="general">💥 Gãy hở & Đại cương</button>
         </div>
       </div>
@@ -104,60 +103,41 @@
       </div>
     </section>
 
-    <!-- 2. Techniques View -->
+    <!-- 2. Techniques Directory View -->
     <section id="view-techniques" class="view-section">
-      <div class="filter-bar">
+      <div class="section-header-wrap">
         <div>
-          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">LỌC THEO GIẢI PHẪU</label>
-          <select id="categoryFilter" class="filter-select">
-            <option value="">Tất cả vùng giải phẫu</option>
+          <h2 style="font-size: 1.4rem; font-weight: 800; color: #0f172a;">Danh mục 384 Kỹ thuật Phẫu thuật Chỉnh hình Nhi</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">Quy trình 5 pha phẫu thuật thực chiến, giải phẫu nguy hiểm, mẹo lâm sàng & phục hồi chức năng sau mổ</p>
+        </div>
+        <div class="filter-controls">
+          <input 
+            type="text" 
+            id="techSearchInput" 
+            class="filter-input" 
+            placeholder="Lọc kỹ thuật nhi..."
+          >
+          <select id="techChapterSelect" class="filter-select">
+            <option value="">Tất cả các chương Nhi</option>
           </select>
-        </div>
-        <div>
-          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">LỌC THEO CHƯƠNG</label>
-          <select id="chapterFilter" class="filter-select">
-            <option value="">Tất cả chương sách (1-89)</option>
-          </select>
-        </div>
-        <div>
-          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">LỌC THEO TÁC GIẢ</label>
-          <select id="authorFilter" class="filter-select">
-            <option value="">Tất cả tác giả phẫu thuật</option>
-          </select>
-        </div>
-        <div style="flex: 1; min-width: 250px; position: relative;">
-          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: block; margin-bottom: 0.25rem;">TÌM TRONG DANH MỤC</label>
-          <div style="position: relative;">
-            <input 
-              type="text" 
-              id="techniqueSearch" 
-              class="filter-select" 
-              placeholder="🔍 Tìm nhanh kỹ thuật, danh xưng..." 
-              autocomplete="off"
-              style="width: 100%;"
-            >
-            <div id="techniqueSuggestions" class="search-suggestions" style="display: none;"></div>
-          </div>
-        </div>
-        <div style="text-align: right; display: flex; align-items: flex-end; justify-content: flex-end;">
-          <span id="techResultCount" style="font-weight: 600; color: var(--text-muted); font-size: 0.9rem;">Đang tải kỹ thuật...</span>
         </div>
       </div>
 
       <div class="techniques-grid" id="techniquesGrid">
         <!-- Rendered via JS -->
       </div>
-
-      <div class="pagination" id="techPagination">
-        <!-- Rendered via JS -->
+      <div class="pagination-bar" id="techPagination">
+        <button id="btnPrevTechPage" class="pagination-btn">&laquo; Trước</button>
+        <span id="techPageInfo" class="page-indicator-text">Trang 1 / 1</span>
+        <button id="btnNextTechPage" class="pagination-btn">Sau &raquo;</button>
       </div>
     </section>
 
     <!-- 3. Chapters View -->
     <section id="view-chapters" class="view-section">
       <div style="margin-bottom: 1.5rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 700;">Danh mục 89 Chương sách Campbell</h2>
-        <p style="color: var(--text-muted); font-size: 0.95rem;">Toàn bộ 89 chương từ Tập 1 đến Tập 4 kèm số lượng kỹ thuật mổ trong từng chương</p>
+        <h2 style="font-size: 1.5rem; font-weight: 700;">Danh mục 11 Chương Chuyên khoa Chỉnh hình Nhi</h2>
+        <p style="color: var(--text-muted); font-size: 0.95rem;">Toàn bộ các chương dị tật bẩm sinh, bại não, gãy xương trẻ em và vẹo cột sống nhi trong Campbell 13th Ed</p>
       </div>
       <div class="techniques-grid" id="chaptersGrid">
         <!-- Rendered via JS -->
@@ -167,8 +147,8 @@
     <!-- 4. Outline View -->
     <section id="view-outline" class="view-section">
       <div style="margin-bottom: 1.5rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 700;">Mục lục đề mục Phẫu thuật (6.885 đề mục)</h2>
-        <p style="color: var(--text-muted); font-size: 0.95rem;">Cây thư mục chi tiết từng bước phẫu thuật, đường mổ và vị trí giải phẫu trong sách</p>
+        <h2 style="font-size: 1.5rem; font-weight: 700;">Mục lục đề mục Phẫu thuật Nhi khoa</h2>
+        <p style="color: var(--text-muted); font-size: 0.95rem;">Cây thư mục chi tiết từng bước phẫu thuật, đường mổ và can thiệp chỉnh hình nhi</p>
       </div>
       <div style="background: #fff; padding: 1.5rem; border-radius: var(--radius); border: 1px solid var(--border);" id="outlineContainer">
         <!-- Rendered via JS -->
@@ -211,10 +191,9 @@
     <div id="lightboxCaption" class="lightbox-caption" onclick="event.stopPropagation()"></div>
   </div>
 
-
   <!-- Footer -->
   <footer class="app-footer">
-    <p>Campbell's Operative Orthopaedics (13th Edition) Interactive Clinical Database & Navigator</p>
+    <p>Campbell's Operative Orthopaedics (13th Edition) • Chỉnh Hình Nhi & Dị Tật</p>
     <p style="font-size: 0.75rem; color: #94a3b8; margin-top: 0.25rem;">Hỗ trợ tra cứu phục vụ lâm sàng, phẫu thuật viên Chấn thương Chỉnh hình và giảng dạy y khoa.</p>
   </footer>
 

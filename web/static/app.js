@@ -12,21 +12,25 @@ let currentBoneSelection = null;
 let currentPortal = 'all';
 
 const PORTAL_SPECS = {
-  'spine-pelvis': {
-    chapters: [37, 38, 39, 40, 41, 42, 43, 44, 55, 56],
-    nameVi: 'Cột Sống & Vùng Chậu'
-  },
-  'general': {
-    chapters: [1, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 48, 80],
-    nameVi: 'Đại Cương & Đường Mổ'
-  },
   'upper': {
-    chapters: [12, 13, 14, 46, 47, 52, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79],
-    nameVi: 'Chi Trên & Khớp Vai'
+    chapters: [12, 13, 18, 19, 46, 47, 52, 57, 62, 63, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78],
+    nameVi: 'Chi Trên & Bàn Tay'
   },
   'lower': {
-    chapters: [3, 4, 5, 6, 7, 8, 9, 10, 11, 45, 50, 51, 54, 55, 56, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
-    nameVi: 'Chi Dưới & Khung Chậu'
+    chapters: [3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 16, 45, 50, 51, 54, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
+    nameVi: 'Chi Dưới & Bàn Chân'
+  },
+  'spine-pelvis': {
+    chapters: [37, 38, 39, 40, 41, 42, 55, 56],
+    nameVi: 'Cột Sống & Vùng Chậu'
+  },
+  'pediatric': {
+    chapters: [29, 30, 31, 32, 33, 34, 35, 36, 43, 44, 79],
+    nameVi: 'Chỉnh Hình Nhi & Dị Tật'
+  },
+  'general': {
+    chapters: [1, 2, 14, 17, 20, 21, 22, 23, 24, 25, 26, 27, 28, 48, 49, 53, 58, 59, 60, 61, 64],
+    nameVi: 'Đại Cương, Đường Mổ & U Xương'
   }
 };
 
@@ -83,35 +87,11 @@ const modalTechTitle = document.getElementById('modalTechTitle');
 const modalTechMeta = document.getElementById('modalTechMeta');
 const modalTechDetailHeader = document.getElementById('modalTechDetailHeader');
 const modalLinkedClassifBox = document.getElementById('modalLinkedClassifBox');
-const modalPageImage = document.getElementById('modalPageImage');
 const modalExtractedText = document.getElementById('modalExtractedText');
-const btnTextOpenDrive = document.getElementById('btnTextOpenDrive');
-const btnTextSwitchScan = document.getElementById('btnTextSwitchScan');
-const pagePreviewLabel = document.getElementById('pagePreviewLabel');
-const pageIndicator = document.getElementById('pageIndicator');
-const pageImgWrapper = document.getElementById('pageImgWrapper');
-const downloadPageBtn = document.getElementById('downloadPageBtn');
-const modalTabs = document.querySelectorAll('.modal-tab-btn');
-const tabContentPagePreview = document.getElementById('tabContentPagePreview');
 const tabContentExtractedText = document.getElementById('tabContentExtractedText');
-
-// Modal Toolbar & Zoom Elements
-const btnPrevPage = document.getElementById('btnPrevPage');
-const btnNextPage = document.getElementById('btnNextPage');
-const btnZoomIn = document.getElementById('btnZoomIn');
-const btnZoomOut = document.getElementById('btnZoomOut');
-const btnZoomReset = document.getElementById('btnZoomReset');
-const zoomLevel = document.getElementById('zoomLevel');
 const searchSuggestions = document.getElementById('searchSuggestions');
 
-// Viewer & Search State
-let currentModalPdfPage = 1;
-let currentZoom = 1.0;
-let panX = 0;
-let panY = 0;
-let isPanning = false;
-let startPanX = 0;
-let startPanY = 0;
+// Clinical Workstation & Search State
 let allClassesData = [];
 let allTechniquesData = [];
 let debounceTimer = null;
@@ -246,6 +226,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     initialRegion = 'upper';
   } else if (path.includes('cot-song')) {
     initialRegion = 'spine-pelvis';
+  } else if (path.includes('nhi-khoa')) {
+    initialRegion = 'pediatric';
   } else if (path.includes('dai-cuong')) {
     initialRegion = 'general';
   }
@@ -325,9 +307,6 @@ function setupEventListeners() {
 
   // Global Search
   searchBtn.addEventListener('click', () => performSearch());
-  globalSearch.addEventListener('keypress', (e) => {
-    if (e.key === 'Enter') performSearch();
-  });
 
   // Autocomplete Suggestions on Input for Global Search
   globalSearch.addEventListener('input', () => {
@@ -336,6 +315,20 @@ function setupEventListeners() {
   });
 
   globalSearch.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      if (searchSuggestions && searchSuggestions.style.display !== 'none') {
+        const items = searchSuggestions.querySelectorAll('.suggestion-item');
+        if (items.length > 0 && activeSuggestionIndex >= 0 && activeSuggestionIndex < items.length) {
+          e.preventDefault();
+          items[activeSuggestionIndex].click();
+          return;
+        }
+      }
+      e.preventDefault();
+      performSearch();
+      return;
+    }
+
     if (!searchSuggestions || searchSuggestions.style.display === 'none') return;
     const items = searchSuggestions.querySelectorAll('.suggestion-item');
     if (items.length === 0) return;
@@ -348,11 +341,6 @@ function setupEventListeners() {
       e.preventDefault();
       activeSuggestionIndex = (activeSuggestionIndex - 1 + items.length) % items.length;
       updateActiveSuggestion(items);
-    } else if (e.key === 'Enter') {
-      if (activeSuggestionIndex >= 0 && activeSuggestionIndex < items.length) {
-        e.preventDefault();
-        items[activeSuggestionIndex].click();
-      }
     } else if (e.key === 'Escape') {
       closeSuggestions();
     }
@@ -416,21 +404,6 @@ function setupEventListeners() {
     }
   });
 
-  // Modal Tabs
-  modalTabs.forEach(btn => {
-    btn.addEventListener('click', () => {
-      modalTabs.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const tab = btn.dataset.modaltab;
-      if (tab === 'pagePreview') {
-        tabContentPagePreview.style.display = 'flex';
-        tabContentExtractedText.style.display = 'none';
-      } else {
-        tabContentPagePreview.style.display = 'none';
-        tabContentExtractedText.style.display = 'block';
-      }
-    });
-  });
 
   // Global Keyboard Shortcuts
   document.addEventListener('keydown', (e) => {
@@ -1188,8 +1161,10 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
     filtered = filtered.filter(c => c.category === 'Shoulder & Arm' || c.category === 'Elbow & Forearm' || c.category === 'Hand & Wrist');
   } else if (currentClassifRegion === 'spine-pelvis') {
     filtered = filtered.filter(c => c.category === 'Spine' || (c.bone_vi && (c.bone_vi.includes('chậu') || c.bone_vi.includes('cối') || c.bone_vi.includes('sống'))));
+  } else if (currentClassifRegion === 'pediatric') {
+    filtered = filtered.filter(c => c.category === 'Pediatrics' || c.id === 'salter_harris' || c.id === 'gartland_supracondylar');
   } else if (currentClassifRegion === 'general') {
-    filtered = filtered.filter(c => c.category === 'Approaches & General Principles' || c.id === 'gustilo' || c.id === 'salter_harris' || c.id === 'ao_ota');
+    filtered = filtered.filter(c => c.category === 'Approaches & General Principles' || c.category === 'General Principles' || c.id === 'gustilo' || c.id === 'ao_ota' || c.id === 'tscherne_soft_tissue' || c.id === 'cierny_mader');
   }
 
   // Text search filter
@@ -1928,25 +1903,6 @@ async function openPageImageDirect(pageNum, title) {
   }
 }
 
-// PDF Viewer no-op helpers
-function setModalPdfPage(pageNum) {}
-function updateViewerTransform() {}
-function applyZoom(scale) {}
-
-function updateViewerTransform() {
-  if (modalPageImage) {
-    modalPageImage.style.transform = `translate(${panX}px, ${panY}px) scale(${currentZoom})`;
-  }
-  const pct = `${Math.round(currentZoom * 100)}%`;
-  if (btnZoomReset) btnZoomReset.textContent = `↺ ${pct}`;
-  const zoomLevelEl = document.getElementById('zoomLevel');
-  if (zoomLevelEl) zoomLevelEl.textContent = pct;
-}
-
-function applyZoom(scale) {
-  currentZoom = Math.min(Math.max(scale, 0.5), 3.0);
-  updateViewerTransform();
-}
 
 // ----------------- SEARCH AUTOCOMPLETE & SUGGESTIONS -----------------
 function normalizeStr(str) {

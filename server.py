@@ -47,21 +47,25 @@ with open(os.path.join(DATA_DIR, "anatomical_categories.json"), "r", encoding="u
     CATEGORIES_CONFIG = json.load(f)
 
 PORTAL_CONFIG = {
-    "spine-pelvis": {
-        "chapters": [37, 38, 39, 40, 41, 42, 43, 44, 55, 56],
-        "name": "Cột Sống & Vùng Chậu"
-    },
-    "general": {
-        "chapters": [1, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 48, 80],
-        "name": "Đại Cương & Đường Mổ"
-    },
     "upper": {
-        "chapters": [12, 13, 14, 46, 47, 52, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79],
-        "name": "Chi Trên & Khớp Vai"
+        "chapters": [12, 13, 18, 19, 46, 47, 52, 57, 62, 63, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78],
+        "name": "Chi Trên & Bàn Tay"
     },
     "lower": {
-        "chapters": [3, 4, 5, 6, 7, 8, 9, 10, 11, 45, 50, 51, 54, 55, 56, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
-        "name": "Chi Dưới & Khung Chậu"
+        "chapters": [3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 16, 45, 50, 51, 54, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
+        "name": "Chi Dưới & Bàn Chân"
+    },
+    "spine-pelvis": {
+        "chapters": [37, 38, 39, 40, 41, 42, 55, 56],
+        "name": "Cột Sống & Vùng Chậu"
+    },
+    "pediatric": {
+        "chapters": [29, 30, 31, 32, 33, 34, 35, 36, 43, 44, 79],
+        "name": "Chỉnh Hình Nhi & Dị Tật"
+    },
+    "general": {
+        "chapters": [1, 2, 14, 17, 20, 21, 22, 23, 24, 25, 26, 27, 28, 48, 49, 53, 58, 59, 60, 61, 64],
+        "name": "Đại Cương, Đường Mổ & U Xương"
     },
 }
 

@@ -1,0 +1,5867 @@
+{
+  "3-1": [
+    {
+      "url": "web/static/images/techniques/3-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-1 (Campbell 13th Ed)"
+    }
+  ],
+  "3-2": [
+    {
+      "url": "web/static/images/techniques/3-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-2 (Campbell 13th Ed)"
+    }
+  ],
+  "3-3": [
+    {
+      "url": "web/static/images/techniques/3-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-3 (Campbell 13th Ed)"
+    }
+  ],
+  "3-4": [
+    {
+      "url": "web/static/images/techniques/3-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-4 (Campbell 13th Ed)"
+    }
+  ],
+  "3-5": [
+    {
+      "url": "web/static/images/techniques/3-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-5 (Campbell 13th Ed)"
+    }
+  ],
+  "3-6": [
+    {
+      "url": "web/static/images/techniques/3-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-6 (Campbell 13th Ed)"
+    }
+  ],
+  "3-7": [
+    {
+      "url": "web/static/images/techniques/3-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-7 (Campbell 13th Ed)"
+    }
+  ],
+  "3-8": [
+    {
+      "url": "web/static/images/techniques/3-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-8 (Campbell 13th Ed)"
+    }
+  ],
+  "3-9": [
+    {
+      "url": "web/static/images/techniques/3-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-9 (Campbell 13th Ed)"
+    }
+  ],
+  "3-10": [
+    {
+      "url": "web/static/images/techniques/3-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-10_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 3-10 (Campbell 13th Ed)"
+    }
+  ],
+  "3-11": [
+    {
+      "url": "web/static/images/techniques/3-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-11 (Campbell 13th Ed)"
+    }
+  ],
+  "3-12": [
+    {
+      "url": "web/static/images/techniques/3-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-12_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 3-12 (Campbell 13th Ed)"
+    }
+  ],
+  "3-13": [
+    {
+      "url": "web/static/images/techniques/3-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-13 (Campbell 13th Ed)"
+    }
+  ],
+  "3-14": [
+    {
+      "url": "web/static/images/techniques/3-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-14 (Campbell 13th Ed)"
+    }
+  ],
+  "3-15": [
+    {
+      "url": "web/static/images/techniques/3-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-15 (Campbell 13th Ed)"
+    }
+  ],
+  "3-16": [
+    {
+      "url": "web/static/images/techniques/3-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-16 (Campbell 13th Ed)"
+    }
+  ],
+  "3-17": [
+    {
+      "url": "web/static/images/techniques/3-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-17_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 3-17 (Campbell 13th Ed)"
+    }
+  ],
+  "3-18": [
+    {
+      "url": "web/static/images/techniques/3-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-18_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 3-18 (Campbell 13th Ed)"
+    }
+  ],
+  "3-19": [
+    {
+      "url": "web/static/images/techniques/3-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-19 (Campbell 13th Ed)"
+    }
+  ],
+  "3-20": [
+    {
+      "url": "web/static/images/techniques/3-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-20 (Campbell 13th Ed)"
+    }
+  ],
+  "3-21": [
+    {
+      "url": "web/static/images/techniques/3-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-21 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-21_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-21 (Campbell 13th Ed)"
+    }
+  ],
+  "3-22": [
+    {
+      "url": "web/static/images/techniques/3-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-22 (Campbell 13th Ed)"
+    }
+  ],
+  "3-23": [
+    {
+      "url": "web/static/images/techniques/3-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-23 (Campbell 13th Ed)"
+    }
+  ],
+  "3-24": [
+    {
+      "url": "web/static/images/techniques/3-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-24 (Campbell 13th Ed)"
+    }
+  ],
+  "3-25": [
+    {
+      "url": "web/static/images/techniques/3-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-25_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-25_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 3-25 (Campbell 13th Ed)"
+    }
+  ],
+  "3-26": [
+    {
+      "url": "web/static/images/techniques/3-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-26 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-26_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-26 (Campbell 13th Ed)"
+    }
+  ],
+  "3-27": [
+    {
+      "url": "web/static/images/techniques/3-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-27 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-27_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-27 (Campbell 13th Ed)"
+    }
+  ],
+  "3-28": [
+    {
+      "url": "web/static/images/techniques/3-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-28 (Campbell 13th Ed)"
+    }
+  ],
+  "3-29": [
+    {
+      "url": "web/static/images/techniques/3-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-29 (Campbell 13th Ed)"
+    }
+  ],
+  "3-30": [
+    {
+      "url": "web/static/images/techniques/3-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-30 (Campbell 13th Ed)"
+    }
+  ],
+  "3-31": [
+    {
+      "url": "web/static/images/techniques/3-31.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-31_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-31_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 3-31 (Campbell 13th Ed)"
+    }
+  ],
+  "3-32": [
+    {
+      "url": "web/static/images/techniques/3-32.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-32 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-32_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-32 (Campbell 13th Ed)"
+    }
+  ],
+  "3-33": [
+    {
+      "url": "web/static/images/techniques/3-33.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-33 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-33_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-33 (Campbell 13th Ed)"
+    }
+  ],
+  "4-1": [
+    {
+      "url": "web/static/images/techniques/4-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 4-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/4-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 4-1 (Campbell 13th Ed)"
+    }
+  ],
+  "5-1": [
+    {
+      "url": "web/static/images/techniques/5-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 5-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/5-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 5-1 (Campbell 13th Ed)"
+    }
+  ],
+  "5-2": [
+    {
+      "url": "web/static/images/techniques/5-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 5-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/5-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 5-2 (Campbell 13th Ed)"
+    }
+  ],
+  "5-3": [
+    {
+      "url": "web/static/images/techniques/5-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 5-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/5-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 5-3 (Campbell 13th Ed)"
+    }
+  ],
+  "5-4": [
+    {
+      "url": "web/static/images/techniques/5-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 5-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/5-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 5-4 (Campbell 13th Ed)"
+    }
+  ],
+  "5-5": [
+    {
+      "url": "web/static/images/techniques/5-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 5-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/5-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 5-5 (Campbell 13th Ed)"
+    }
+  ],
+  "5-6": [
+    {
+      "url": "web/static/images/techniques/5-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 5-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/5-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 5-6 (Campbell 13th Ed)"
+    }
+  ],
+  "6-1": [
+    {
+      "url": "web/static/images/techniques/6-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-1 (Campbell 13th Ed)"
+    }
+  ],
+  "6-2": [
+    {
+      "url": "web/static/images/techniques/6-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-2 (Campbell 13th Ed)"
+    }
+  ],
+  "6-3": [
+    {
+      "url": "web/static/images/techniques/6-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-3_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 6-3 (Campbell 13th Ed)"
+    }
+  ],
+  "6-4": [
+    {
+      "url": "web/static/images/techniques/6-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-4 (Campbell 13th Ed)"
+    }
+  ],
+  "6-5": [
+    {
+      "url": "web/static/images/techniques/6-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-5 (Campbell 13th Ed)"
+    }
+  ],
+  "6-6": [
+    {
+      "url": "web/static/images/techniques/6-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-6 (Campbell 13th Ed)"
+    }
+  ],
+  "6-7": [
+    {
+      "url": "web/static/images/techniques/6-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-7 (Campbell 13th Ed)"
+    }
+  ],
+  "6-8": [
+    {
+      "url": "web/static/images/techniques/6-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-8 (Campbell 13th Ed)"
+    }
+  ],
+  "6-9": [
+    {
+      "url": "web/static/images/techniques/6-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-9 (Campbell 13th Ed)"
+    }
+  ],
+  "7-1": [
+    {
+      "url": "web/static/images/techniques/7-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 7-1 (Campbell 13th Ed)"
+    }
+  ],
+  "7-2": [
+    {
+      "url": "web/static/images/techniques/7-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-2_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 7-2 (Campbell 13th Ed)"
+    }
+  ],
+  "7-3": [
+    {
+      "url": "web/static/images/techniques/7-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-3 (Campbell 13th Ed)"
+    }
+  ],
+  "7-4": [
+    {
+      "url": "web/static/images/techniques/7-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-4 (Campbell 13th Ed)"
+    }
+  ],
+  "7-5": [
+    {
+      "url": "web/static/images/techniques/7-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-5 (Campbell 13th Ed)"
+    }
+  ],
+  "7-6": [
+    {
+      "url": "web/static/images/techniques/7-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-6 (Campbell 13th Ed)"
+    }
+  ],
+  "7-7": [
+    {
+      "url": "web/static/images/techniques/7-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-7 (Campbell 13th Ed)"
+    }
+  ],
+  "7-8": [
+    {
+      "url": "web/static/images/techniques/7-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-8 (Campbell 13th Ed)"
+    }
+  ],
+  "7-9": [
+    {
+      "url": "web/static/images/techniques/7-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-9 (Campbell 13th Ed)"
+    }
+  ],
+  "7-10": [
+    {
+      "url": "web/static/images/techniques/7-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-10 (Campbell 13th Ed)"
+    }
+  ],
+  "7-11": [
+    {
+      "url": "web/static/images/techniques/7-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-11 (Campbell 13th Ed)"
+    }
+  ],
+  "7-12": [
+    {
+      "url": "web/static/images/techniques/7-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-12 (Campbell 13th Ed)"
+    }
+  ],
+  "7-13": [
+    {
+      "url": "web/static/images/techniques/7-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-13 (Campbell 13th Ed)"
+    }
+  ],
+  "7-14": [
+    {
+      "url": "web/static/images/techniques/7-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 7-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 7-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/7-14_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 7-14 (Campbell 13th Ed)"
+    }
+  ],
+  "8-1": [
+    {
+      "url": "web/static/images/techniques/8-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 8-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/8-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 8-1 (Campbell 13th Ed)"
+    }
+  ],
+  "8-2": [
+    {
+      "url": "web/static/images/techniques/8-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 8-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/8-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 8-2 (Campbell 13th Ed)"
+    }
+  ],
+  "8-3": [
+    {
+      "url": "web/static/images/techniques/8-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 8-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/8-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 8-3 (Campbell 13th Ed)"
+    }
+  ],
+  "8-4": [
+    {
+      "url": "web/static/images/techniques/8-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 8-4 (Campbell 13th Ed)"
+    }
+  ],
+  "9-1": [
+    {
+      "url": "web/static/images/techniques/9-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-1 (Campbell 13th Ed)"
+    }
+  ],
+  "9-2": [
+    {
+      "url": "web/static/images/techniques/9-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-2 (Campbell 13th Ed)"
+    }
+  ],
+  "9-3": [
+    {
+      "url": "web/static/images/techniques/9-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-3 (Campbell 13th Ed)"
+    }
+  ],
+  "9-4": [
+    {
+      "url": "web/static/images/techniques/9-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-4 (Campbell 13th Ed)"
+    }
+  ],
+  "9-5": [
+    {
+      "url": "web/static/images/techniques/9-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-5 (Campbell 13th Ed)"
+    }
+  ],
+  "9-6": [
+    {
+      "url": "web/static/images/techniques/9-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-6 (Campbell 13th Ed)"
+    }
+  ],
+  "9-7": [
+    {
+      "url": "web/static/images/techniques/9-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-7 (Campbell 13th Ed)"
+    }
+  ],
+  "9-8": [
+    {
+      "url": "web/static/images/techniques/9-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-8 (Campbell 13th Ed)"
+    }
+  ],
+  "9-9": [
+    {
+      "url": "web/static/images/techniques/9-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-9 (Campbell 13th Ed)"
+    }
+  ],
+  "9-10": [
+    {
+      "url": "web/static/images/techniques/9-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-10 (Campbell 13th Ed)"
+    }
+  ],
+  "9-11": [
+    {
+      "url": "web/static/images/techniques/9-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-11_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 9-11 (Campbell 13th Ed)"
+    }
+  ],
+  "10-1": [
+    {
+      "url": "web/static/images/techniques/10-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 10-1 (Campbell 13th Ed)"
+    }
+  ],
+  "10-2": [
+    {
+      "url": "web/static/images/techniques/10-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 10-2 (Campbell 13th Ed)"
+    }
+  ],
+  "10-3": [
+    {
+      "url": "web/static/images/techniques/10-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 10-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/10-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 10-3 (Campbell 13th Ed)"
+    }
+  ],
+  "10-4": [
+    {
+      "url": "web/static/images/techniques/10-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 10-4 (Campbell 13th Ed)"
+    }
+  ],
+  "10-5": [
+    {
+      "url": "web/static/images/techniques/10-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 10-5 (Campbell 13th Ed)"
+    }
+  ],
+  "11-1": [
+    {
+      "url": "web/static/images/techniques/11-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 11-1 (Campbell 13th Ed)"
+    }
+  ],
+  "11-2": [
+    {
+      "url": "web/static/images/techniques/11-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-2 (Campbell 13th Ed)"
+    }
+  ],
+  "11-3": [
+    {
+      "url": "web/static/images/techniques/11-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-3_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 11-3 (Campbell 13th Ed)"
+    }
+  ],
+  "11-4": [
+    {
+      "url": "web/static/images/techniques/11-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-4 (Campbell 13th Ed)"
+    }
+  ],
+  "11-5": [
+    {
+      "url": "web/static/images/techniques/11-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-5_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 11-5 (Campbell 13th Ed)"
+    }
+  ],
+  "11-6": [
+    {
+      "url": "web/static/images/techniques/11-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-6 (Campbell 13th Ed)"
+    }
+  ],
+  "11-7": [
+    {
+      "url": "web/static/images/techniques/11-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-7 (Campbell 13th Ed)"
+    }
+  ],
+  "11-8": [
+    {
+      "url": "web/static/images/techniques/11-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-8 (Campbell 13th Ed)"
+    }
+  ],
+  "11-9": [
+    {
+      "url": "web/static/images/techniques/11-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-9 (Campbell 13th Ed)"
+    }
+  ],
+  "11-10": [
+    {
+      "url": "web/static/images/techniques/11-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-10 (Campbell 13th Ed)"
+    }
+  ],
+  "11-11": [
+    {
+      "url": "web/static/images/techniques/11-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-11 (Campbell 13th Ed)"
+    }
+  ],
+  "11-12": [
+    {
+      "url": "web/static/images/techniques/11-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-12 (Campbell 13th Ed)"
+    }
+  ],
+  "11-13": [
+    {
+      "url": "web/static/images/techniques/11-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-13 (Campbell 13th Ed)"
+    }
+  ],
+  "45-1": [
+    {
+      "url": "web/static/images/techniques/45-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-1 (Campbell 13th Ed)"
+    }
+  ],
+  "45-2": [
+    {
+      "url": "web/static/images/techniques/45-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-2_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 45-2 (Campbell 13th Ed)"
+    }
+  ],
+  "45-3": [
+    {
+      "url": "web/static/images/techniques/45-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-3 (Campbell 13th Ed)"
+    }
+  ],
+  "45-4": [
+    {
+      "url": "web/static/images/techniques/45-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-4 (Campbell 13th Ed)"
+    }
+  ],
+  "45-5": [
+    {
+      "url": "web/static/images/techniques/45-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-5_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 45-5 (Campbell 13th Ed)"
+    }
+  ],
+  "45-6": [
+    {
+      "url": "web/static/images/techniques/45-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-6 (Campbell 13th Ed)"
+    }
+  ],
+  "45-7": [
+    {
+      "url": "web/static/images/techniques/45-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-7 (Campbell 13th Ed)"
+    }
+  ],
+  "45-8": [
+    {
+      "url": "web/static/images/techniques/45-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-8 (Campbell 13th Ed)"
+    }
+  ],
+  "45-9": [
+    {
+      "url": "web/static/images/techniques/45-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-9 (Campbell 13th Ed)"
+    }
+  ],
+  "45-10": [
+    {
+      "url": "web/static/images/techniques/45-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-10 (Campbell 13th Ed)"
+    }
+  ],
+  "45-11": [
+    {
+      "url": "web/static/images/techniques/45-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-11 (Campbell 13th Ed)"
+    }
+  ],
+  "45-12": [
+    {
+      "url": "web/static/images/techniques/45-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-12 (Campbell 13th Ed)"
+    }
+  ],
+  "45-13": [
+    {
+      "url": "web/static/images/techniques/45-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-13 (Campbell 13th Ed)"
+    }
+  ],
+  "45-14": [
+    {
+      "url": "web/static/images/techniques/45-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-14 (Campbell 13th Ed)"
+    }
+  ],
+  "45-15": [
+    {
+      "url": "web/static/images/techniques/45-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-15 (Campbell 13th Ed)"
+    }
+  ],
+  "45-16": [
+    {
+      "url": "web/static/images/techniques/45-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-16 (Campbell 13th Ed)"
+    }
+  ],
+  "45-17": [
+    {
+      "url": "web/static/images/techniques/45-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-17 (Campbell 13th Ed)"
+    }
+  ],
+  "45-18": [
+    {
+      "url": "web/static/images/techniques/45-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-18 (Campbell 13th Ed)"
+    }
+  ],
+  "45-19": [
+    {
+      "url": "web/static/images/techniques/45-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-19 (Campbell 13th Ed)"
+    }
+  ],
+  "45-20": [
+    {
+      "url": "web/static/images/techniques/45-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-20 (Campbell 13th Ed)"
+    }
+  ],
+  "45-21": [
+    {
+      "url": "web/static/images/techniques/45-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-21 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-21_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-21 (Campbell 13th Ed)"
+    }
+  ],
+  "45-22": [
+    {
+      "url": "web/static/images/techniques/45-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-22 (Campbell 13th Ed)"
+    }
+  ],
+  "45-23": [
+    {
+      "url": "web/static/images/techniques/45-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-23 (Campbell 13th Ed)"
+    }
+  ],
+  "45-24": [
+    {
+      "url": "web/static/images/techniques/45-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-24 (Campbell 13th Ed)"
+    }
+  ],
+  "45-25": [
+    {
+      "url": "web/static/images/techniques/45-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-25_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-25 (Campbell 13th Ed)"
+    }
+  ],
+  "45-26": [
+    {
+      "url": "web/static/images/techniques/45-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-26 (Campbell 13th Ed)"
+    }
+  ],
+  "45-27": [
+    {
+      "url": "web/static/images/techniques/45-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-27 (Campbell 13th Ed)"
+    }
+  ],
+  "45-28": [
+    {
+      "url": "web/static/images/techniques/45-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-28 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-28_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-28 (Campbell 13th Ed)"
+    }
+  ],
+  "45-29": [
+    {
+      "url": "web/static/images/techniques/45-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-29_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-29_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 45-29 (Campbell 13th Ed)"
+    }
+  ],
+  "45-30": [
+    {
+      "url": "web/static/images/techniques/45-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-30_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-30 (Campbell 13th Ed)"
+    }
+  ],
+  "45-31": [
+    {
+      "url": "web/static/images/techniques/45-31.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-31_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-31 (Campbell 13th Ed)"
+    }
+  ],
+  "45-32": [
+    {
+      "url": "web/static/images/techniques/45-32.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-32 (Campbell 13th Ed)"
+    }
+  ],
+  "45-33": [
+    {
+      "url": "web/static/images/techniques/45-33.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-33 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-33_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-33 (Campbell 13th Ed)"
+    }
+  ],
+  "45-34": [
+    {
+      "url": "web/static/images/techniques/45-34.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-34 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-34_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-34 (Campbell 13th Ed)"
+    }
+  ],
+  "45-35": [
+    {
+      "url": "web/static/images/techniques/45-35.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-35 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/45-35_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 45-35 (Campbell 13th Ed)"
+    }
+  ],
+  "46-1": [
+    {
+      "url": "web/static/images/techniques/46-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 46-1 (Campbell 13th Ed)"
+    }
+  ],
+  "46-2": [
+    {
+      "url": "web/static/images/techniques/46-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-2 (Campbell 13th Ed)"
+    }
+  ],
+  "46-3": [
+    {
+      "url": "web/static/images/techniques/46-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-3 (Campbell 13th Ed)"
+    }
+  ],
+  "46-4": [
+    {
+      "url": "web/static/images/techniques/46-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-4_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 46-4 (Campbell 13th Ed)"
+    }
+  ],
+  "46-5": [
+    {
+      "url": "web/static/images/techniques/46-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-5 (Campbell 13th Ed)"
+    }
+  ],
+  "46-6": [
+    {
+      "url": "web/static/images/techniques/46-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-6 (Campbell 13th Ed)"
+    }
+  ],
+  "46-7": [
+    {
+      "url": "web/static/images/techniques/46-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-7 (Campbell 13th Ed)"
+    }
+  ],
+  "46-8": [
+    {
+      "url": "web/static/images/techniques/46-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-8 (Campbell 13th Ed)"
+    }
+  ],
+  "46-9": [
+    {
+      "url": "web/static/images/techniques/46-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-9 (Campbell 13th Ed)"
+    }
+  ],
+  "46-10": [
+    {
+      "url": "web/static/images/techniques/46-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-10 (Campbell 13th Ed)"
+    }
+  ],
+  "46-11": [
+    {
+      "url": "web/static/images/techniques/46-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-11 (Campbell 13th Ed)"
+    }
+  ],
+  "46-12": [
+    {
+      "url": "web/static/images/techniques/46-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/46-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 46-12 (Campbell 13th Ed)"
+    }
+  ],
+  "46-13": [
+    {
+      "url": "web/static/images/techniques/46-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-13 (Campbell 13th Ed)"
+    }
+  ],
+  "46-14": [
+    {
+      "url": "web/static/images/techniques/46-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 46-14 (Campbell 13th Ed)"
+    }
+  ],
+  "47-1": [
+    {
+      "url": "web/static/images/techniques/47-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-1 (Campbell 13th Ed)"
+    }
+  ],
+  "47-2": [
+    {
+      "url": "web/static/images/techniques/47-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-2 (Campbell 13th Ed)"
+    }
+  ],
+  "47-3": [
+    {
+      "url": "web/static/images/techniques/47-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-3 (Campbell 13th Ed)"
+    }
+  ],
+  "47-4": [
+    {
+      "url": "web/static/images/techniques/47-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-4 (Campbell 13th Ed)"
+    }
+  ],
+  "47-5": [
+    {
+      "url": "web/static/images/techniques/47-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-5_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 47-5 (Campbell 13th Ed)"
+    }
+  ],
+  "47-6": [
+    {
+      "url": "web/static/images/techniques/47-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-6_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 47-6 (Campbell 13th Ed)"
+    }
+  ],
+  "47-7": [
+    {
+      "url": "web/static/images/techniques/47-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-7_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 47-7 (Campbell 13th Ed)"
+    }
+  ],
+  "47-8": [
+    {
+      "url": "web/static/images/techniques/47-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-8 (Campbell 13th Ed)"
+    }
+  ],
+  "47-9": [
+    {
+      "url": "web/static/images/techniques/47-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-9_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 47-9 (Campbell 13th Ed)"
+    }
+  ],
+  "47-10": [
+    {
+      "url": "web/static/images/techniques/47-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-10 (Campbell 13th Ed)"
+    }
+  ],
+  "47-11": [
+    {
+      "url": "web/static/images/techniques/47-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-11 (Campbell 13th Ed)"
+    }
+  ],
+  "47-12": [
+    {
+      "url": "web/static/images/techniques/47-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-12 (Campbell 13th Ed)"
+    }
+  ],
+  "47-13": [
+    {
+      "url": "web/static/images/techniques/47-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-13 (Campbell 13th Ed)"
+    }
+  ],
+  "47-14": [
+    {
+      "url": "web/static/images/techniques/47-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-14 (Campbell 13th Ed)"
+    }
+  ],
+  "47-15": [
+    {
+      "url": "web/static/images/techniques/47-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-15 (Campbell 13th Ed)"
+    }
+  ],
+  "47-16": [
+    {
+      "url": "web/static/images/techniques/47-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-16 (Campbell 13th Ed)"
+    }
+  ],
+  "47-17": [
+    {
+      "url": "web/static/images/techniques/47-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-17 (Campbell 13th Ed)"
+    }
+  ],
+  "47-18": [
+    {
+      "url": "web/static/images/techniques/47-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-18 (Campbell 13th Ed)"
+    }
+  ],
+  "47-19": [
+    {
+      "url": "web/static/images/techniques/47-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/47-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 47-19 (Campbell 13th Ed)"
+    }
+  ],
+  "47-20": [
+    {
+      "url": "web/static/images/techniques/47-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 47-20 (Campbell 13th Ed)"
+    }
+  ],
+  "48-1": [
+    {
+      "url": "web/static/images/techniques/48-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-1 (Campbell 13th Ed)"
+    }
+  ],
+  "48-2": [
+    {
+      "url": "web/static/images/techniques/48-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-2 (Campbell 13th Ed)"
+    }
+  ],
+  "48-3": [
+    {
+      "url": "web/static/images/techniques/48-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-3 (Campbell 13th Ed)"
+    }
+  ],
+  "48-4": [
+    {
+      "url": "web/static/images/techniques/48-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-4 (Campbell 13th Ed)"
+    }
+  ],
+  "48-5": [
+    {
+      "url": "web/static/images/techniques/48-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-5 (Campbell 13th Ed)"
+    }
+  ],
+  "48-6": [
+    {
+      "url": "web/static/images/techniques/48-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-6 (Campbell 13th Ed)"
+    }
+  ],
+  "48-7": [
+    {
+      "url": "web/static/images/techniques/48-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-7 (Campbell 13th Ed)"
+    }
+  ],
+  "48-8": [
+    {
+      "url": "web/static/images/techniques/48-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-8 (Campbell 13th Ed)"
+    }
+  ],
+  "48-9": [
+    {
+      "url": "web/static/images/techniques/48-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-9 (Campbell 13th Ed)"
+    }
+  ],
+  "48-10": [
+    {
+      "url": "web/static/images/techniques/48-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-10 (Campbell 13th Ed)"
+    }
+  ],
+  "48-11": [
+    {
+      "url": "web/static/images/techniques/48-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-11 (Campbell 13th Ed)"
+    }
+  ],
+  "48-12": [
+    {
+      "url": "web/static/images/techniques/48-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-12 (Campbell 13th Ed)"
+    }
+  ],
+  "48-13": [
+    {
+      "url": "web/static/images/techniques/48-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-13 (Campbell 13th Ed)"
+    }
+  ],
+  "48-14": [
+    {
+      "url": "web/static/images/techniques/48-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-14 (Campbell 13th Ed)"
+    }
+  ],
+  "48-15": [
+    {
+      "url": "web/static/images/techniques/48-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-15 (Campbell 13th Ed)"
+    }
+  ],
+  "48-16": [
+    {
+      "url": "web/static/images/techniques/48-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-16 (Campbell 13th Ed)"
+    }
+  ],
+  "48-17": [
+    {
+      "url": "web/static/images/techniques/48-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-17 (Campbell 13th Ed)"
+    }
+  ],
+  "48-18": [
+    {
+      "url": "web/static/images/techniques/48-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-18 (Campbell 13th Ed)"
+    }
+  ],
+  "48-19": [
+    {
+      "url": "web/static/images/techniques/48-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-19 (Campbell 13th Ed)"
+    }
+  ],
+  "48-20": [
+    {
+      "url": "web/static/images/techniques/48-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-20_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 48-20 (Campbell 13th Ed)"
+    }
+  ],
+  "48-21": [
+    {
+      "url": "web/static/images/techniques/48-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-21 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-21_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-21 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-21_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 48-21 (Campbell 13th Ed)"
+    }
+  ],
+  "48-22": [
+    {
+      "url": "web/static/images/techniques/48-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-22_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 48-22 (Campbell 13th Ed)"
+    }
+  ],
+  "48-23": [
+    {
+      "url": "web/static/images/techniques/48-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-23_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 48-23 (Campbell 13th Ed)"
+    }
+  ],
+  "48-24": [
+    {
+      "url": "web/static/images/techniques/48-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-24 (Campbell 13th Ed)"
+    }
+  ],
+  "48-25": [
+    {
+      "url": "web/static/images/techniques/48-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-25 (Campbell 13th Ed)"
+    }
+  ],
+  "48-26": [
+    {
+      "url": "web/static/images/techniques/48-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-26 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-26_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-26 (Campbell 13th Ed)"
+    }
+  ],
+  "48-27": [
+    {
+      "url": "web/static/images/techniques/48-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-27 (Campbell 13th Ed)"
+    }
+  ],
+  "48-28": [
+    {
+      "url": "web/static/images/techniques/48-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-28 (Campbell 13th Ed)"
+    }
+  ],
+  "48-29": [
+    {
+      "url": "web/static/images/techniques/48-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-29_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-29 (Campbell 13th Ed)"
+    }
+  ],
+  "48-30": [
+    {
+      "url": "web/static/images/techniques/48-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-30_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-30 (Campbell 13th Ed)"
+    }
+  ],
+  "48-31": [
+    {
+      "url": "web/static/images/techniques/48-31.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-31 (Campbell 13th Ed)"
+    }
+  ],
+  "48-32": [
+    {
+      "url": "web/static/images/techniques/48-32.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-32 (Campbell 13th Ed)"
+    }
+  ],
+  "48-33": [
+    {
+      "url": "web/static/images/techniques/48-33.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-33 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-33_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-33 (Campbell 13th Ed)"
+    }
+  ],
+  "48-34": [
+    {
+      "url": "web/static/images/techniques/48-34.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-34 (Campbell 13th Ed)"
+    }
+  ],
+  "48-35": [
+    {
+      "url": "web/static/images/techniques/48-35.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-35 (Campbell 13th Ed)"
+    }
+  ],
+  "50-1": [
+    {
+      "url": "web/static/images/techniques/50-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 50-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/50-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 50-1 (Campbell 13th Ed)"
+    }
+  ],
+  "50-2": [
+    {
+      "url": "web/static/images/techniques/50-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 50-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/50-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 50-2 (Campbell 13th Ed)"
+    }
+  ],
+  "50-3": [
+    {
+      "url": "web/static/images/techniques/50-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 50-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/50-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 50-3 (Campbell 13th Ed)"
+    }
+  ],
+  "50-4": [
+    {
+      "url": "web/static/images/techniques/50-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 50-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/50-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 50-4 (Campbell 13th Ed)"
+    }
+  ],
+  "51-1": [
+    {
+      "url": "web/static/images/techniques/51-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-1 (Campbell 13th Ed)"
+    }
+  ],
+  "51-2": [
+    {
+      "url": "web/static/images/techniques/51-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-2 (Campbell 13th Ed)"
+    }
+  ],
+  "51-3": [
+    {
+      "url": "web/static/images/techniques/51-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-3 (Campbell 13th Ed)"
+    }
+  ],
+  "51-4": [
+    {
+      "url": "web/static/images/techniques/51-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-4 (Campbell 13th Ed)"
+    }
+  ],
+  "51-5": [
+    {
+      "url": "web/static/images/techniques/51-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-5 (Campbell 13th Ed)"
+    }
+  ],
+  "51-6": [
+    {
+      "url": "web/static/images/techniques/51-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-6 (Campbell 13th Ed)"
+    }
+  ],
+  "51-7": [
+    {
+      "url": "web/static/images/techniques/51-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-7 (Campbell 13th Ed)"
+    }
+  ],
+  "51-8": [
+    {
+      "url": "web/static/images/techniques/51-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-8 (Campbell 13th Ed)"
+    }
+  ],
+  "51-9": [
+    {
+      "url": "web/static/images/techniques/51-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-9 (Campbell 13th Ed)"
+    }
+  ],
+  "51-10": [
+    {
+      "url": "web/static/images/techniques/51-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-10_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 51-10 (Campbell 13th Ed)"
+    }
+  ],
+  "51-11": [
+    {
+      "url": "web/static/images/techniques/51-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-11 (Campbell 13th Ed)"
+    }
+  ],
+  "51-12": [
+    {
+      "url": "web/static/images/techniques/51-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-12 (Campbell 13th Ed)"
+    }
+  ],
+  "51-13": [
+    {
+      "url": "web/static/images/techniques/51-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-13 (Campbell 13th Ed)"
+    }
+  ],
+  "51-14": [
+    {
+      "url": "web/static/images/techniques/51-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-14 (Campbell 13th Ed)"
+    }
+  ],
+  "51-15": [
+    {
+      "url": "web/static/images/techniques/51-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-15 (Campbell 13th Ed)"
+    }
+  ],
+  "51-16": [
+    {
+      "url": "web/static/images/techniques/51-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-16 (Campbell 13th Ed)"
+    }
+  ],
+  "51-17": [
+    {
+      "url": "web/static/images/techniques/51-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-17 (Campbell 13th Ed)"
+    }
+  ],
+  "51-18": [
+    {
+      "url": "web/static/images/techniques/51-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-18 (Campbell 13th Ed)"
+    }
+  ],
+  "51-19": [
+    {
+      "url": "web/static/images/techniques/51-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-19 (Campbell 13th Ed)"
+    }
+  ],
+  "51-20": [
+    {
+      "url": "web/static/images/techniques/51-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-20 (Campbell 13th Ed)"
+    }
+  ],
+  "51-21": [
+    {
+      "url": "web/static/images/techniques/51-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-21 (Campbell 13th Ed)"
+    }
+  ],
+  "51-22": [
+    {
+      "url": "web/static/images/techniques/51-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-22 (Campbell 13th Ed)"
+    }
+  ],
+  "51-23": [
+    {
+      "url": "web/static/images/techniques/51-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-23 (Campbell 13th Ed)"
+    }
+  ],
+  "51-24": [
+    {
+      "url": "web/static/images/techniques/51-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-24_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 51-24 (Campbell 13th Ed)"
+    }
+  ],
+  "51-25": [
+    {
+      "url": "web/static/images/techniques/51-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-25 (Campbell 13th Ed)"
+    }
+  ],
+  "51-26": [
+    {
+      "url": "web/static/images/techniques/51-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-26 (Campbell 13th Ed)"
+    }
+  ],
+  "51-27": [
+    {
+      "url": "web/static/images/techniques/51-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-27 (Campbell 13th Ed)"
+    }
+  ],
+  "51-28": [
+    {
+      "url": "web/static/images/techniques/51-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-28 (Campbell 13th Ed)"
+    }
+  ],
+  "51-29": [
+    {
+      "url": "web/static/images/techniques/51-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-29_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-29 (Campbell 13th Ed)"
+    }
+  ],
+  "51-30": [
+    {
+      "url": "web/static/images/techniques/51-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-30_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-30 (Campbell 13th Ed)"
+    }
+  ],
+  "51-31": [
+    {
+      "url": "web/static/images/techniques/51-31.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-31_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-31 (Campbell 13th Ed)"
+    }
+  ],
+  "51-32": [
+    {
+      "url": "web/static/images/techniques/51-32.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-32 (Campbell 13th Ed)"
+    }
+  ],
+  "51-33": [
+    {
+      "url": "web/static/images/techniques/51-33.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-33 (Campbell 13th Ed)"
+    }
+  ],
+  "51-34": [
+    {
+      "url": "web/static/images/techniques/51-34.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-34 (Campbell 13th Ed)"
+    }
+  ],
+  "51-35": [
+    {
+      "url": "web/static/images/techniques/51-35.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 51-35 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/51-35_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 51-35 (Campbell 13th Ed)"
+    }
+  ],
+  "52-1": [
+    {
+      "url": "web/static/images/techniques/52-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-1 (Campbell 13th Ed)"
+    }
+  ],
+  "52-2": [
+    {
+      "url": "web/static/images/techniques/52-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-2 (Campbell 13th Ed)"
+    }
+  ],
+  "52-3": [
+    {
+      "url": "web/static/images/techniques/52-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-3 (Campbell 13th Ed)"
+    }
+  ],
+  "52-4": [
+    {
+      "url": "web/static/images/techniques/52-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-4 (Campbell 13th Ed)"
+    }
+  ],
+  "52-5": [
+    {
+      "url": "web/static/images/techniques/52-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-5 (Campbell 13th Ed)"
+    }
+  ],
+  "52-6": [
+    {
+      "url": "web/static/images/techniques/52-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-6 (Campbell 13th Ed)"
+    }
+  ],
+  "52-7": [
+    {
+      "url": "web/static/images/techniques/52-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-7 (Campbell 13th Ed)"
+    }
+  ],
+  "52-8": [
+    {
+      "url": "web/static/images/techniques/52-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-8 (Campbell 13th Ed)"
+    }
+  ],
+  "52-9": [
+    {
+      "url": "web/static/images/techniques/52-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-9 (Campbell 13th Ed)"
+    }
+  ],
+  "52-10": [
+    {
+      "url": "web/static/images/techniques/52-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-10 (Campbell 13th Ed)"
+    }
+  ],
+  "52-11": [
+    {
+      "url": "web/static/images/techniques/52-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-11_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 52-11 (Campbell 13th Ed)"
+    }
+  ],
+  "52-12": [
+    {
+      "url": "web/static/images/techniques/52-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-12_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 52-12 (Campbell 13th Ed)"
+    }
+  ],
+  "52-13": [
+    {
+      "url": "web/static/images/techniques/52-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-13 (Campbell 13th Ed)"
+    }
+  ],
+  "52-14": [
+    {
+      "url": "web/static/images/techniques/52-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-14 (Campbell 13th Ed)"
+    }
+  ],
+  "52-15": [
+    {
+      "url": "web/static/images/techniques/52-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-15 (Campbell 13th Ed)"
+    }
+  ],
+  "52-16": [
+    {
+      "url": "web/static/images/techniques/52-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-16 (Campbell 13th Ed)"
+    }
+  ],
+  "52-17": [
+    {
+      "url": "web/static/images/techniques/52-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-17 (Campbell 13th Ed)"
+    }
+  ],
+  "52-18": [
+    {
+      "url": "web/static/images/techniques/52-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-18 (Campbell 13th Ed)"
+    }
+  ],
+  "52-19": [
+    {
+      "url": "web/static/images/techniques/52-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-19 (Campbell 13th Ed)"
+    }
+  ],
+  "52-20": [
+    {
+      "url": "web/static/images/techniques/52-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-20 (Campbell 13th Ed)"
+    }
+  ],
+  "52-21": [
+    {
+      "url": "web/static/images/techniques/52-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-21 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-21_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-21 (Campbell 13th Ed)"
+    }
+  ],
+  "52-22": [
+    {
+      "url": "web/static/images/techniques/52-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-22 (Campbell 13th Ed)"
+    }
+  ],
+  "52-23": [
+    {
+      "url": "web/static/images/techniques/52-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-23 (Campbell 13th Ed)"
+    }
+  ],
+  "52-24": [
+    {
+      "url": "web/static/images/techniques/52-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-24 (Campbell 13th Ed)"
+    }
+  ],
+  "52-25": [
+    {
+      "url": "web/static/images/techniques/52-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-25_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-25 (Campbell 13th Ed)"
+    }
+  ],
+  "52-26": [
+    {
+      "url": "web/static/images/techniques/52-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-26 (Campbell 13th Ed)"
+    }
+  ],
+  "52-27": [
+    {
+      "url": "web/static/images/techniques/52-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-27 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-27_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-27 (Campbell 13th Ed)"
+    }
+  ],
+  "52-28": [
+    {
+      "url": "web/static/images/techniques/52-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-28 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-28_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-28 (Campbell 13th Ed)"
+    }
+  ],
+  "52-29": [
+    {
+      "url": "web/static/images/techniques/52-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-29_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-29 (Campbell 13th Ed)"
+    }
+  ],
+  "52-30": [
+    {
+      "url": "web/static/images/techniques/52-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-30 (Campbell 13th Ed)"
+    }
+  ],
+  "52-31": [
+    {
+      "url": "web/static/images/techniques/52-31.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-31_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-31 (Campbell 13th Ed)"
+    }
+  ],
+  "52-32": [
+    {
+      "url": "web/static/images/techniques/52-32.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-32 (Campbell 13th Ed)"
+    }
+  ],
+  "52-33": [
+    {
+      "url": "web/static/images/techniques/52-33.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-33 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-33_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-33 (Campbell 13th Ed)"
+    }
+  ],
+  "52-34": [
+    {
+      "url": "web/static/images/techniques/52-34.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-34 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-34_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-34 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-34_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 52-34 (Campbell 13th Ed)"
+    }
+  ],
+  "52-35": [
+    {
+      "url": "web/static/images/techniques/52-35.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-35 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-35_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-35 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-35_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 52-35 (Campbell 13th Ed)"
+    }
+  ],
+  "52-36": [
+    {
+      "url": "web/static/images/techniques/52-36.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-36 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-36_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-36 (Campbell 13th Ed)"
+    }
+  ],
+  "52-37": [
+    {
+      "url": "web/static/images/techniques/52-37.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-37 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-37_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-37 (Campbell 13th Ed)"
+    }
+  ],
+  "52-38": [
+    {
+      "url": "web/static/images/techniques/52-38.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-38 (Campbell 13th Ed)"
+    }
+  ],
+  "53-1": [
+    {
+      "url": "web/static/images/techniques/53-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-1 (Campbell 13th Ed)"
+    }
+  ],
+  "53-2": [
+    {
+      "url": "web/static/images/techniques/53-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/53-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 53-2 (Campbell 13th Ed)"
+    }
+  ],
+  "53-3": [
+    {
+      "url": "web/static/images/techniques/53-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/53-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 53-3 (Campbell 13th Ed)"
+    }
+  ],
+  "53-4": [
+    {
+      "url": "web/static/images/techniques/53-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/53-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 53-4 (Campbell 13th Ed)"
+    }
+  ],
+  "53-5": [
+    {
+      "url": "web/static/images/techniques/53-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/53-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 53-5 (Campbell 13th Ed)"
+    }
+  ],
+  "53-6": [
+    {
+      "url": "web/static/images/techniques/53-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/53-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 53-6 (Campbell 13th Ed)"
+    }
+  ],
+  "54-1": [
+    {
+      "url": "web/static/images/techniques/54-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 54-1 (Campbell 13th Ed)"
+    }
+  ],
+  "54-2": [
+    {
+      "url": "web/static/images/techniques/54-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-2_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 54-2 (Campbell 13th Ed)"
+    }
+  ],
+  "54-3": [
+    {
+      "url": "web/static/images/techniques/54-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-3 (Campbell 13th Ed)"
+    }
+  ],
+  "54-4": [
+    {
+      "url": "web/static/images/techniques/54-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-4_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 54-4 (Campbell 13th Ed)"
+    }
+  ],
+  "54-5": [
+    {
+      "url": "web/static/images/techniques/54-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-5 (Campbell 13th Ed)"
+    }
+  ],
+  "54-6": [
+    {
+      "url": "web/static/images/techniques/54-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-6 (Campbell 13th Ed)"
+    }
+  ],
+  "54-7": [
+    {
+      "url": "web/static/images/techniques/54-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-7 (Campbell 13th Ed)"
+    }
+  ],
+  "54-8": [
+    {
+      "url": "web/static/images/techniques/54-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-8 (Campbell 13th Ed)"
+    }
+  ],
+  "54-9": [
+    {
+      "url": "web/static/images/techniques/54-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-9 (Campbell 13th Ed)"
+    }
+  ],
+  "54-10": [
+    {
+      "url": "web/static/images/techniques/54-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-10 (Campbell 13th Ed)"
+    }
+  ],
+  "54-11": [
+    {
+      "url": "web/static/images/techniques/54-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-11_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 54-11 (Campbell 13th Ed)"
+    }
+  ],
+  "54-12": [
+    {
+      "url": "web/static/images/techniques/54-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-12 (Campbell 13th Ed)"
+    }
+  ],
+  "54-13": [
+    {
+      "url": "web/static/images/techniques/54-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-13 (Campbell 13th Ed)"
+    }
+  ],
+  "54-14": [
+    {
+      "url": "web/static/images/techniques/54-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-14 (Campbell 13th Ed)"
+    }
+  ],
+  "54-15": [
+    {
+      "url": "web/static/images/techniques/54-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-15 (Campbell 13th Ed)"
+    }
+  ],
+  "54-16": [
+    {
+      "url": "web/static/images/techniques/54-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-16 (Campbell 13th Ed)"
+    }
+  ],
+  "54-17": [
+    {
+      "url": "web/static/images/techniques/54-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-17_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 54-17 (Campbell 13th Ed)"
+    }
+  ],
+  "54-18": [
+    {
+      "url": "web/static/images/techniques/54-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-18 (Campbell 13th Ed)"
+    }
+  ],
+  "54-19": [
+    {
+      "url": "web/static/images/techniques/54-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-19_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 54-19 (Campbell 13th Ed)"
+    }
+  ],
+  "54-20": [
+    {
+      "url": "web/static/images/techniques/54-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-20 (Campbell 13th Ed)"
+    }
+  ],
+  "54-21": [
+    {
+      "url": "web/static/images/techniques/54-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-21 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-21_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-21 (Campbell 13th Ed)"
+    }
+  ],
+  "54-22": [
+    {
+      "url": "web/static/images/techniques/54-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-22 (Campbell 13th Ed)"
+    }
+  ],
+  "54-23": [
+    {
+      "url": "web/static/images/techniques/54-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-23 (Campbell 13th Ed)"
+    }
+  ],
+  "54-24": [
+    {
+      "url": "web/static/images/techniques/54-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-24 (Campbell 13th Ed)"
+    }
+  ],
+  "54-25": [
+    {
+      "url": "web/static/images/techniques/54-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-25 (Campbell 13th Ed)"
+    }
+  ],
+  "54-26": [
+    {
+      "url": "web/static/images/techniques/54-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-26 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-26_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-26 (Campbell 13th Ed)"
+    }
+  ],
+  "54-27": [
+    {
+      "url": "web/static/images/techniques/54-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-27 (Campbell 13th Ed)"
+    }
+  ],
+  "54-28": [
+    {
+      "url": "web/static/images/techniques/54-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-28 (Campbell 13th Ed)"
+    }
+  ],
+  "54-29": [
+    {
+      "url": "web/static/images/techniques/54-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-29 (Campbell 13th Ed)"
+    }
+  ],
+  "54-30": [
+    {
+      "url": "web/static/images/techniques/54-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-30_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-30 (Campbell 13th Ed)"
+    }
+  ],
+  "54-31": [
+    {
+      "url": "web/static/images/techniques/54-31.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-31_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-31 (Campbell 13th Ed)"
+    }
+  ],
+  "54-32": [
+    {
+      "url": "web/static/images/techniques/54-32.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-32 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-32_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-32 (Campbell 13th Ed)"
+    }
+  ],
+  "54-33": [
+    {
+      "url": "web/static/images/techniques/54-33.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-33 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-33_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-33 (Campbell 13th Ed)"
+    }
+  ],
+  "55-1": [
+    {
+      "url": "web/static/images/techniques/55-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 55-1 (Campbell 13th Ed)"
+    }
+  ],
+  "55-2": [
+    {
+      "url": "web/static/images/techniques/55-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-2_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 55-2 (Campbell 13th Ed)"
+    }
+  ],
+  "55-3": [
+    {
+      "url": "web/static/images/techniques/55-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-3 (Campbell 13th Ed)"
+    }
+  ],
+  "55-4": [
+    {
+      "url": "web/static/images/techniques/55-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-4 (Campbell 13th Ed)"
+    }
+  ],
+  "55-5": [
+    {
+      "url": "web/static/images/techniques/55-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-5 (Campbell 13th Ed)"
+    }
+  ],
+  "55-6": [
+    {
+      "url": "web/static/images/techniques/55-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-6 (Campbell 13th Ed)"
+    }
+  ],
+  "55-7": [
+    {
+      "url": "web/static/images/techniques/55-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-7 (Campbell 13th Ed)"
+    }
+  ],
+  "55-8": [
+    {
+      "url": "web/static/images/techniques/55-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-8_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 55-8 (Campbell 13th Ed)"
+    }
+  ],
+  "55-9": [
+    {
+      "url": "web/static/images/techniques/55-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-9_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 55-9 (Campbell 13th Ed)"
+    }
+  ],
+  "55-10": [
+    {
+      "url": "web/static/images/techniques/55-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-10 (Campbell 13th Ed)"
+    }
+  ],
+  "56-1": [
+    {
+      "url": "web/static/images/techniques/56-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-1 (Campbell 13th Ed)"
+    }
+  ],
+  "56-2": [
+    {
+      "url": "web/static/images/techniques/56-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-2 (Campbell 13th Ed)"
+    }
+  ],
+  "56-3": [
+    {
+      "url": "web/static/images/techniques/56-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-3 (Campbell 13th Ed)"
+    }
+  ],
+  "56-4": [
+    {
+      "url": "web/static/images/techniques/56-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-4 (Campbell 13th Ed)"
+    }
+  ],
+  "56-5": [
+    {
+      "url": "web/static/images/techniques/56-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-5 (Campbell 13th Ed)"
+    }
+  ],
+  "56-6": [
+    {
+      "url": "web/static/images/techniques/56-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-6 (Campbell 13th Ed)"
+    }
+  ],
+  "56-7": [
+    {
+      "url": "web/static/images/techniques/56-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-7 (Campbell 13th Ed)"
+    }
+  ],
+  "56-8": [
+    {
+      "url": "web/static/images/techniques/56-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-8 (Campbell 13th Ed)"
+    }
+  ],
+  "56-9": [
+    {
+      "url": "web/static/images/techniques/56-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-9 (Campbell 13th Ed)"
+    }
+  ],
+  "56-10": [
+    {
+      "url": "web/static/images/techniques/56-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-10_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 56-10 (Campbell 13th Ed)"
+    }
+  ],
+  "56-11": [
+    {
+      "url": "web/static/images/techniques/56-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-11 (Campbell 13th Ed)"
+    }
+  ],
+  "80-1": [
+    {
+      "url": "web/static/images/techniques/80-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 80-1 (Campbell 13th Ed)"
+    }
+  ],
+  "80-2": [
+    {
+      "url": "web/static/images/techniques/80-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 80-2 (Campbell 13th Ed)"
+    }
+  ],
+  "80-3": [
+    {
+      "url": "web/static/images/techniques/80-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 80-3 (Campbell 13th Ed)"
+    }
+  ],
+  "80-4": [
+    {
+      "url": "web/static/images/techniques/80-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 80-4 (Campbell 13th Ed)"
+    }
+  ],
+  "80-5": [
+    {
+      "url": "web/static/images/techniques/80-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 80-5 (Campbell 13th Ed)"
+    }
+  ],
+  "81-1": [
+    {
+      "url": "web/static/images/techniques/81-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-1 (Campbell 13th Ed)"
+    }
+  ],
+  "81-2": [
+    {
+      "url": "web/static/images/techniques/81-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-2_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-2 (Campbell 13th Ed)"
+    }
+  ],
+  "81-3": [
+    {
+      "url": "web/static/images/techniques/81-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-3 (Campbell 13th Ed)"
+    }
+  ],
+  "81-4": [
+    {
+      "url": "web/static/images/techniques/81-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-4 (Campbell 13th Ed)"
+    }
+  ],
+  "81-5": [
+    {
+      "url": "web/static/images/techniques/81-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-5 (Campbell 13th Ed)"
+    }
+  ],
+  "81-6": [
+    {
+      "url": "web/static/images/techniques/81-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-6 (Campbell 13th Ed)"
+    }
+  ],
+  "81-7": [
+    {
+      "url": "web/static/images/techniques/81-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-7 (Campbell 13th Ed)"
+    }
+  ],
+  "81-8": [
+    {
+      "url": "web/static/images/techniques/81-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-8 (Campbell 13th Ed)"
+    }
+  ],
+  "81-9": [
+    {
+      "url": "web/static/images/techniques/81-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-9_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-9 (Campbell 13th Ed)"
+    }
+  ],
+  "81-10": [
+    {
+      "url": "web/static/images/techniques/81-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-10 (Campbell 13th Ed)"
+    }
+  ],
+  "81-11": [
+    {
+      "url": "web/static/images/techniques/81-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-11 (Campbell 13th Ed)"
+    }
+  ],
+  "81-12": [
+    {
+      "url": "web/static/images/techniques/81-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-12 (Campbell 13th Ed)"
+    }
+  ],
+  "81-13": [
+    {
+      "url": "web/static/images/techniques/81-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-13 (Campbell 13th Ed)"
+    }
+  ],
+  "81-14": [
+    {
+      "url": "web/static/images/techniques/81-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-14_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-14 (Campbell 13th Ed)"
+    }
+  ],
+  "81-15": [
+    {
+      "url": "web/static/images/techniques/81-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-15 (Campbell 13th Ed)"
+    }
+  ],
+  "81-16": [
+    {
+      "url": "web/static/images/techniques/81-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-16 (Campbell 13th Ed)"
+    }
+  ],
+  "81-17": [
+    {
+      "url": "web/static/images/techniques/81-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-17 (Campbell 13th Ed)"
+    }
+  ],
+  "81-18": [
+    {
+      "url": "web/static/images/techniques/81-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-18 (Campbell 13th Ed)"
+    }
+  ],
+  "81-19": [
+    {
+      "url": "web/static/images/techniques/81-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-19 (Campbell 13th Ed)"
+    }
+  ],
+  "81-20": [
+    {
+      "url": "web/static/images/techniques/81-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-20 (Campbell 13th Ed)"
+    }
+  ],
+  "81-21": [
+    {
+      "url": "web/static/images/techniques/81-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-21 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-21_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-21 (Campbell 13th Ed)"
+    }
+  ],
+  "81-22": [
+    {
+      "url": "web/static/images/techniques/81-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-22_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-22 (Campbell 13th Ed)"
+    }
+  ],
+  "81-23": [
+    {
+      "url": "web/static/images/techniques/81-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-23 (Campbell 13th Ed)"
+    }
+  ],
+  "81-24": [
+    {
+      "url": "web/static/images/techniques/81-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-24 (Campbell 13th Ed)"
+    }
+  ],
+  "81-25": [
+    {
+      "url": "web/static/images/techniques/81-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-25_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-25_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-25 (Campbell 13th Ed)"
+    }
+  ],
+  "81-26": [
+    {
+      "url": "web/static/images/techniques/81-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-26 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-26_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-26 (Campbell 13th Ed)"
+    }
+  ],
+  "81-27": [
+    {
+      "url": "web/static/images/techniques/81-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-27 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-27_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-27 (Campbell 13th Ed)"
+    }
+  ],
+  "81-28": [
+    {
+      "url": "web/static/images/techniques/81-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-28 (Campbell 13th Ed)"
+    }
+  ],
+  "81-29": [
+    {
+      "url": "web/static/images/techniques/81-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-29_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-29 (Campbell 13th Ed)"
+    }
+  ],
+  "81-30": [
+    {
+      "url": "web/static/images/techniques/81-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-30_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-30 (Campbell 13th Ed)"
+    }
+  ],
+  "81-31": [
+    {
+      "url": "web/static/images/techniques/81-31.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-31_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-31 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-31_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-31 (Campbell 13th Ed)"
+    }
+  ],
+  "81-32": [
+    {
+      "url": "web/static/images/techniques/81-32.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-32 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-32_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-32 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-32_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-32 (Campbell 13th Ed)"
+    }
+  ],
+  "81-33": [
+    {
+      "url": "web/static/images/techniques/81-33.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-33 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-33_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-33 (Campbell 13th Ed)"
+    }
+  ],
+  "81-34": [
+    {
+      "url": "web/static/images/techniques/81-34.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-34 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-34_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-34 (Campbell 13th Ed)"
+    }
+  ],
+  "81-35": [
+    {
+      "url": "web/static/images/techniques/81-35.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-35 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-35_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-35 (Campbell 13th Ed)"
+    }
+  ],
+  "81-36": [
+    {
+      "url": "web/static/images/techniques/81-36.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-36 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-36_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-36 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-36_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-36 (Campbell 13th Ed)"
+    }
+  ],
+  "81-37": [
+    {
+      "url": "web/static/images/techniques/81-37.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-37 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-37_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-37 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-37_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-37 (Campbell 13th Ed)"
+    }
+  ],
+  "81-38": [
+    {
+      "url": "web/static/images/techniques/81-38.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-38 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-38_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-38 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-38_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-38 (Campbell 13th Ed)"
+    }
+  ],
+  "81-39": [
+    {
+      "url": "web/static/images/techniques/81-39.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-39 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-39_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-39 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-39_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 81-39 (Campbell 13th Ed)"
+    }
+  ],
+  "82-1": [
+    {
+      "url": "web/static/images/techniques/82-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-1 (Campbell 13th Ed)"
+    }
+  ],
+  "82-2": [
+    {
+      "url": "web/static/images/techniques/82-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-2 (Campbell 13th Ed)"
+    }
+  ],
+  "82-3": [
+    {
+      "url": "web/static/images/techniques/82-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-3 (Campbell 13th Ed)"
+    }
+  ],
+  "82-4": [
+    {
+      "url": "web/static/images/techniques/82-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-4 (Campbell 13th Ed)"
+    }
+  ],
+  "82-5": [
+    {
+      "url": "web/static/images/techniques/82-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-5 (Campbell 13th Ed)"
+    }
+  ],
+  "82-6": [
+    {
+      "url": "web/static/images/techniques/82-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-6 (Campbell 13th Ed)"
+    }
+  ],
+  "82-7": [
+    {
+      "url": "web/static/images/techniques/82-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-7_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-7 (Campbell 13th Ed)"
+    }
+  ],
+  "82-8": [
+    {
+      "url": "web/static/images/techniques/82-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-8_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-8 (Campbell 13th Ed)"
+    }
+  ],
+  "82-9": [
+    {
+      "url": "web/static/images/techniques/82-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-9_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-9 (Campbell 13th Ed)"
+    }
+  ],
+  "82-10": [
+    {
+      "url": "web/static/images/techniques/82-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-10 (Campbell 13th Ed)"
+    }
+  ],
+  "82-11": [
+    {
+      "url": "web/static/images/techniques/82-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-11 (Campbell 13th Ed)"
+    }
+  ],
+  "82-12": [
+    {
+      "url": "web/static/images/techniques/82-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-12_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-12 (Campbell 13th Ed)"
+    }
+  ],
+  "82-13": [
+    {
+      "url": "web/static/images/techniques/82-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-13 (Campbell 13th Ed)"
+    }
+  ],
+  "82-14": [
+    {
+      "url": "web/static/images/techniques/82-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-14 (Campbell 13th Ed)"
+    }
+  ],
+  "82-15": [
+    {
+      "url": "web/static/images/techniques/82-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-15 (Campbell 13th Ed)"
+    }
+  ],
+  "82-16": [
+    {
+      "url": "web/static/images/techniques/82-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-16 (Campbell 13th Ed)"
+    }
+  ],
+  "82-17": [
+    {
+      "url": "web/static/images/techniques/82-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-17 (Campbell 13th Ed)"
+    }
+  ],
+  "82-18": [
+    {
+      "url": "web/static/images/techniques/82-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-18 (Campbell 13th Ed)"
+    }
+  ],
+  "82-19": [
+    {
+      "url": "web/static/images/techniques/82-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-19 (Campbell 13th Ed)"
+    }
+  ],
+  "82-20": [
+    {
+      "url": "web/static/images/techniques/82-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-20 (Campbell 13th Ed)"
+    }
+  ],
+  "82-21": [
+    {
+      "url": "web/static/images/techniques/82-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-21 (Campbell 13th Ed)"
+    }
+  ],
+  "82-22": [
+    {
+      "url": "web/static/images/techniques/82-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-22 (Campbell 13th Ed)"
+    }
+  ],
+  "82-23": [
+    {
+      "url": "web/static/images/techniques/82-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-23 (Campbell 13th Ed)"
+    }
+  ],
+  "82-24": [
+    {
+      "url": "web/static/images/techniques/82-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-24_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-24 (Campbell 13th Ed)"
+    }
+  ],
+  "82-25": [
+    {
+      "url": "web/static/images/techniques/82-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-25_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-25 (Campbell 13th Ed)"
+    }
+  ],
+  "82-26": [
+    {
+      "url": "web/static/images/techniques/82-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-26 (Campbell 13th Ed)"
+    }
+  ],
+  "82-27": [
+    {
+      "url": "web/static/images/techniques/82-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-27 (Campbell 13th Ed)"
+    }
+  ],
+  "82-28": [
+    {
+      "url": "web/static/images/techniques/82-28.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-28 (Campbell 13th Ed)"
+    }
+  ],
+  "82-29": [
+    {
+      "url": "web/static/images/techniques/82-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-29_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-29 (Campbell 13th Ed)"
+    }
+  ],
+  "82-30": [
+    {
+      "url": "web/static/images/techniques/82-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-30_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-30_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-30 (Campbell 13th Ed)"
+    }
+  ],
+  "83-1": [
+    {
+      "url": "web/static/images/techniques/83-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-1 (Campbell 13th Ed)"
+    }
+  ],
+  "83-2": [
+    {
+      "url": "web/static/images/techniques/83-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-2 (Campbell 13th Ed)"
+    }
+  ],
+  "83-3": [
+    {
+      "url": "web/static/images/techniques/83-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-3 (Campbell 13th Ed)"
+    }
+  ],
+  "83-4": [
+    {
+      "url": "web/static/images/techniques/83-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-4 (Campbell 13th Ed)"
+    }
+  ],
+  "83-5": [
+    {
+      "url": "web/static/images/techniques/83-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-5 (Campbell 13th Ed)"
+    }
+  ],
+  "83-6": [
+    {
+      "url": "web/static/images/techniques/83-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-6 (Campbell 13th Ed)"
+    }
+  ],
+  "83-7": [
+    {
+      "url": "web/static/images/techniques/83-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-7 (Campbell 13th Ed)"
+    }
+  ],
+  "83-8": [
+    {
+      "url": "web/static/images/techniques/83-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-8 (Campbell 13th Ed)"
+    }
+  ],
+  "83-9": [
+    {
+      "url": "web/static/images/techniques/83-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-9 (Campbell 13th Ed)"
+    }
+  ],
+  "83-10": [
+    {
+      "url": "web/static/images/techniques/83-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-10 (Campbell 13th Ed)"
+    }
+  ],
+  "83-11": [
+    {
+      "url": "web/static/images/techniques/83-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-11 (Campbell 13th Ed)"
+    }
+  ],
+  "83-12": [
+    {
+      "url": "web/static/images/techniques/83-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-12 (Campbell 13th Ed)"
+    }
+  ],
+  "83-13": [
+    {
+      "url": "web/static/images/techniques/83-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-13 (Campbell 13th Ed)"
+    }
+  ],
+  "83-14": [
+    {
+      "url": "web/static/images/techniques/83-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-14 (Campbell 13th Ed)"
+    }
+  ],
+  "83-15": [
+    {
+      "url": "web/static/images/techniques/83-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-15_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 83-15 (Campbell 13th Ed)"
+    }
+  ],
+  "83-16": [
+    {
+      "url": "web/static/images/techniques/83-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-16 (Campbell 13th Ed)"
+    }
+  ],
+  "83-17": [
+    {
+      "url": "web/static/images/techniques/83-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-17 (Campbell 13th Ed)"
+    }
+  ],
+  "83-18": [
+    {
+      "url": "web/static/images/techniques/83-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-18 (Campbell 13th Ed)"
+    }
+  ],
+  "83-19": [
+    {
+      "url": "web/static/images/techniques/83-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-19 (Campbell 13th Ed)"
+    }
+  ],
+  "83-20": [
+    {
+      "url": "web/static/images/techniques/83-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-20 (Campbell 13th Ed)"
+    }
+  ],
+  "83-21": [
+    {
+      "url": "web/static/images/techniques/83-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-21 (Campbell 13th Ed)"
+    }
+  ],
+  "83-22": [
+    {
+      "url": "web/static/images/techniques/83-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-22 (Campbell 13th Ed)"
+    }
+  ],
+  "83-23": [
+    {
+      "url": "web/static/images/techniques/83-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-23 (Campbell 13th Ed)"
+    }
+  ],
+  "83-24": [
+    {
+      "url": "web/static/images/techniques/83-24.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-24 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-24_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-24 (Campbell 13th Ed)"
+    }
+  ],
+  "83-25": [
+    {
+      "url": "web/static/images/techniques/83-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-25_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-25_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 83-25 (Campbell 13th Ed)"
+    }
+  ],
+  "83-26": [
+    {
+      "url": "web/static/images/techniques/83-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-26 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-26_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-26 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-26_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 83-26 (Campbell 13th Ed)"
+    }
+  ],
+  "83-27": [
+    {
+      "url": "web/static/images/techniques/83-27.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-27 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-27_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-27 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-27_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 83-27 (Campbell 13th Ed)"
+    }
+  ],
+  "84-1": [
+    {
+      "url": "web/static/images/techniques/84-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-1 (Campbell 13th Ed)"
+    }
+  ],
+  "84-2": [
+    {
+      "url": "web/static/images/techniques/84-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-2 (Campbell 13th Ed)"
+    }
+  ],
+  "84-3": [
+    {
+      "url": "web/static/images/techniques/84-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-3_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 84-3 (Campbell 13th Ed)"
+    }
+  ],
+  "84-4": [
+    {
+      "url": "web/static/images/techniques/84-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-4 (Campbell 13th Ed)"
+    }
+  ],
+  "84-5": [
+    {
+      "url": "web/static/images/techniques/84-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-5 (Campbell 13th Ed)"
+    }
+  ],
+  "84-6": [
+    {
+      "url": "web/static/images/techniques/84-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-6 (Campbell 13th Ed)"
+    }
+  ],
+  "84-7": [
+    {
+      "url": "web/static/images/techniques/84-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-7_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 84-7 (Campbell 13th Ed)"
+    }
+  ],
+  "84-8": [
+    {
+      "url": "web/static/images/techniques/84-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-8_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 84-8 (Campbell 13th Ed)"
+    }
+  ],
+  "84-9": [
+    {
+      "url": "web/static/images/techniques/84-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-9 (Campbell 13th Ed)"
+    }
+  ],
+  "84-10": [
+    {
+      "url": "web/static/images/techniques/84-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-10 (Campbell 13th Ed)"
+    }
+  ],
+  "84-11": [
+    {
+      "url": "web/static/images/techniques/84-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-11 (Campbell 13th Ed)"
+    }
+  ],
+  "84-12": [
+    {
+      "url": "web/static/images/techniques/84-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-12 (Campbell 13th Ed)"
+    }
+  ],
+  "86-1": [
+    {
+      "url": "web/static/images/techniques/86-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-1 (Campbell 13th Ed)"
+    }
+  ],
+  "86-2": [
+    {
+      "url": "web/static/images/techniques/86-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-2 (Campbell 13th Ed)"
+    }
+  ],
+  "86-3": [
+    {
+      "url": "web/static/images/techniques/86-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-3 (Campbell 13th Ed)"
+    }
+  ],
+  "86-4": [
+    {
+      "url": "web/static/images/techniques/86-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-4 (Campbell 13th Ed)"
+    }
+  ],
+  "86-5": [
+    {
+      "url": "web/static/images/techniques/86-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-5_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 86-5 (Campbell 13th Ed)"
+    }
+  ],
+  "86-6": [
+    {
+      "url": "web/static/images/techniques/86-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-6 (Campbell 13th Ed)"
+    }
+  ],
+  "86-7": [
+    {
+      "url": "web/static/images/techniques/86-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-7 (Campbell 13th Ed)"
+    }
+  ],
+  "86-8": [
+    {
+      "url": "web/static/images/techniques/86-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-8 (Campbell 13th Ed)"
+    }
+  ],
+  "86-9": [
+    {
+      "url": "web/static/images/techniques/86-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-9 (Campbell 13th Ed)"
+    }
+  ],
+  "86-10": [
+    {
+      "url": "web/static/images/techniques/86-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-10 (Campbell 13th Ed)"
+    }
+  ],
+  "86-11": [
+    {
+      "url": "web/static/images/techniques/86-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-11 (Campbell 13th Ed)"
+    }
+  ],
+  "86-12": [
+    {
+      "url": "web/static/images/techniques/86-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-12 (Campbell 13th Ed)"
+    }
+  ],
+  "86-13": [
+    {
+      "url": "web/static/images/techniques/86-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-13_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 86-13 (Campbell 13th Ed)"
+    }
+  ],
+  "86-14": [
+    {
+      "url": "web/static/images/techniques/86-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-14_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 86-14 (Campbell 13th Ed)"
+    }
+  ],
+  "86-15": [
+    {
+      "url": "web/static/images/techniques/86-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-15_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-15 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-15_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 86-15 (Campbell 13th Ed)"
+    }
+  ],
+  "86-16": [
+    {
+      "url": "web/static/images/techniques/86-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-16 (Campbell 13th Ed)"
+    }
+  ],
+  "86-17": [
+    {
+      "url": "web/static/images/techniques/86-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-17 (Campbell 13th Ed)"
+    }
+  ],
+  "86-18": [
+    {
+      "url": "web/static/images/techniques/86-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-18 (Campbell 13th Ed)"
+    }
+  ],
+  "86-19": [
+    {
+      "url": "web/static/images/techniques/86-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-19 (Campbell 13th Ed)"
+    }
+  ],
+  "86-20": [
+    {
+      "url": "web/static/images/techniques/86-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-20_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-20 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-20_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 86-20 (Campbell 13th Ed)"
+    }
+  ],
+  "87-1": [
+    {
+      "url": "web/static/images/techniques/87-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-1 (Campbell 13th Ed)"
+    }
+  ],
+  "87-2": [
+    {
+      "url": "web/static/images/techniques/87-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-2 (Campbell 13th Ed)"
+    }
+  ],
+  "87-3": [
+    {
+      "url": "web/static/images/techniques/87-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-3 (Campbell 13th Ed)"
+    }
+  ],
+  "87-4": [
+    {
+      "url": "web/static/images/techniques/87-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-4 (Campbell 13th Ed)"
+    }
+  ],
+  "87-5": [
+    {
+      "url": "web/static/images/techniques/87-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-5 (Campbell 13th Ed)"
+    }
+  ],
+  "87-6": [
+    {
+      "url": "web/static/images/techniques/87-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-6 (Campbell 13th Ed)"
+    }
+  ],
+  "87-7": [
+    {
+      "url": "web/static/images/techniques/87-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-7 (Campbell 13th Ed)"
+    }
+  ],
+  "87-8": [
+    {
+      "url": "web/static/images/techniques/87-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-8 (Campbell 13th Ed)"
+    }
+  ],
+  "87-9": [
+    {
+      "url": "web/static/images/techniques/87-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-9_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 87-9 (Campbell 13th Ed)"
+    }
+  ],
+  "87-10": [
+    {
+      "url": "web/static/images/techniques/87-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-10_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 87-10 (Campbell 13th Ed)"
+    }
+  ],
+  "87-11": [
+    {
+      "url": "web/static/images/techniques/87-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-11_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 87-11 (Campbell 13th Ed)"
+    }
+  ],
+  "87-12": [
+    {
+      "url": "web/static/images/techniques/87-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 87-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/87-12_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 87-12 (Campbell 13th Ed)"
+    }
+  ],
+  "88-1": [
+    {
+      "url": "web/static/images/techniques/88-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-1 (Campbell 13th Ed)"
+    }
+  ],
+  "88-2": [
+    {
+      "url": "web/static/images/techniques/88-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-2 (Campbell 13th Ed)"
+    }
+  ],
+  "88-3": [
+    {
+      "url": "web/static/images/techniques/88-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-3 (Campbell 13th Ed)"
+    }
+  ],
+  "88-4": [
+    {
+      "url": "web/static/images/techniques/88-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-4_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-4 (Campbell 13th Ed)"
+    }
+  ],
+  "88-5": [
+    {
+      "url": "web/static/images/techniques/88-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-5_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-5 (Campbell 13th Ed)"
+    }
+  ],
+  "88-6": [
+    {
+      "url": "web/static/images/techniques/88-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-6_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-6 (Campbell 13th Ed)"
+    }
+  ],
+  "88-7": [
+    {
+      "url": "web/static/images/techniques/88-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-7 (Campbell 13th Ed)"
+    }
+  ],
+  "88-8": [
+    {
+      "url": "web/static/images/techniques/88-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-8_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-8 (Campbell 13th Ed)"
+    }
+  ],
+  "88-9": [
+    {
+      "url": "web/static/images/techniques/88-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-9_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-9 (Campbell 13th Ed)"
+    }
+  ],
+  "88-10": [
+    {
+      "url": "web/static/images/techniques/88-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-10 (Campbell 13th Ed)"
+    }
+  ],
+  "88-11": [
+    {
+      "url": "web/static/images/techniques/88-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-11_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-11 (Campbell 13th Ed)"
+    }
+  ],
+  "88-12": [
+    {
+      "url": "web/static/images/techniques/88-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-12 (Campbell 13th Ed)"
+    }
+  ],
+  "88-13": [
+    {
+      "url": "web/static/images/techniques/88-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-13 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-13 (Campbell 13th Ed)"
+    }
+  ],
+  "88-14": [
+    {
+      "url": "web/static/images/techniques/88-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-14 (Campbell 13th Ed)"
+    }
+  ],
+  "88-15": [
+    {
+      "url": "web/static/images/techniques/88-15.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-15 (Campbell 13th Ed)"
+    }
+  ],
+  "88-16": [
+    {
+      "url": "web/static/images/techniques/88-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-16 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-16 (Campbell 13th Ed)"
+    }
+  ],
+  "88-17": [
+    {
+      "url": "web/static/images/techniques/88-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-17 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-17 (Campbell 13th Ed)"
+    }
+  ],
+  "88-18": [
+    {
+      "url": "web/static/images/techniques/88-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-18 (Campbell 13th Ed)"
+    }
+  ],
+  "88-19": [
+    {
+      "url": "web/static/images/techniques/88-19.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-19_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-19 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-19_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-19 (Campbell 13th Ed)"
+    }
+  ],
+  "88-20": [
+    {
+      "url": "web/static/images/techniques/88-20.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-20 (Campbell 13th Ed)"
+    }
+  ],
+  "88-21": [
+    {
+      "url": "web/static/images/techniques/88-21.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-21 (Campbell 13th Ed)"
+    }
+  ],
+  "89-1": [
+    {
+      "url": "web/static/images/techniques/89-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 89-1 (Campbell 13th Ed)"
+    }
+  ],
+  "89-2": [
+    {
+      "url": "web/static/images/techniques/89-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-2 (Campbell 13th Ed)"
+    }
+  ],
+  "89-3": [
+    {
+      "url": "web/static/images/techniques/89-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-3 (Campbell 13th Ed)"
+    }
+  ],
+  "89-4": [
+    {
+      "url": "web/static/images/techniques/89-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-4 (Campbell 13th Ed)"
+    }
+  ],
+  "89-5": [
+    {
+      "url": "web/static/images/techniques/89-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-5 (Campbell 13th Ed)"
+    }
+  ],
+  "89-6": [
+    {
+      "url": "web/static/images/techniques/89-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-6 (Campbell 13th Ed)"
+    }
+  ],
+  "89-7": [
+    {
+      "url": "web/static/images/techniques/89-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-7 (Campbell 13th Ed)"
+    }
+  ],
+  "89-8": [
+    {
+      "url": "web/static/images/techniques/89-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-8 (Campbell 13th Ed)"
+    }
+  ],
+  "89-9": [
+    {
+      "url": "web/static/images/techniques/89-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-9 (Campbell 13th Ed)"
+    }
+  ],
+  "89-10": [
+    {
+      "url": "web/static/images/techniques/89-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-10_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 89-10 (Campbell 13th Ed)"
+    }
+  ],
+  "89-11": [
+    {
+      "url": "web/static/images/techniques/89-11.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-11_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-11 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-11_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 89-11 (Campbell 13th Ed)"
+    }
+  ],
+  "89-12": [
+    {
+      "url": "web/static/images/techniques/89-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-12 (Campbell 13th Ed)"
+    }
+  ]
+}

@@ -195,42 +195,40 @@ class TestE2EViewer(unittest.TestCase):
     # =========================================================================
 
     def test_tier1_frontend_viewer_toolbar_and_autocomplete_markup(self):
-        """Verify index.html contains modal zoom controls, page navigation, and autocomplete container."""
+        """Verify index.html contains clinical modal components, search, and autocomplete container."""
         resp = self.client.get("/")
         self.assertEqual(resp.status_code, 200)
         html = resp.text
 
         required_ids = [
-            "btnPrevPage",
-            "btnNextPage",
-            "btnZoomIn",
-            "btnZoomOut",
-            "btnZoomReset",
-            "pagePreviewLabel",
+            "modalTechId",
+            "modalTechTitle",
+            "modalExtractedText",
             "searchSuggestions",
-            "globalSearch"
+            "globalSearch",
+            "allClassificationsGrid"
         ]
         for element_id in required_ids:
             self.assertIn(f'id="{element_id}"', html, f"index.html must include element with id='{element_id}'")
 
     def test_tier1_frontend_app_js_features(self):
-        """Verify app.js implements zoom, page navigation, and search autocomplete logic."""
+        """Verify app.js implements search autocomplete and clinical classification directory logic."""
         resp = self.client.get("/static/app.js")
         self.assertEqual(resp.status_code, 200)
         js = resp.text
 
         required_functions = [
-            "applyZoom",
-            "setModalPdfPage",
             "handleSearchAutocomplete",
             "loadAllClassificationsCache",
-            "closeSuggestions"
+            "closeSuggestions",
+            "renderAllClassificationsDirectory",
+            "openTechniqueModal"
         ]
         for func_name in required_functions:
             self.assertIn(func_name, js, f"app.js must include implementation of {func_name}")
 
     def test_tier1_frontend_styles_autocomplete(self):
-        """Verify styles.css includes styling rules for search suggestions and viewer toolbar."""
+        """Verify styles.css includes styling rules for search suggestions and clinical card components."""
         resp = self.client.get("/static/styles.css")
         self.assertEqual(resp.status_code, 200)
         css = resp.text
@@ -238,8 +236,8 @@ class TestE2EViewer(unittest.TestCase):
         required_classes = [
             ".search-suggestions",
             ".suggestion-item",
-            ".viewer-toolbar",
-            ".page-preview-img"
+            ".clinical-card-wrapper",
+            ".clinical-section-card"
         ]
         for class_name in required_classes:
             self.assertIn(class_name, css, f"styles.css must include CSS rule for '{class_name}'")
