@@ -1,1 +1,49 @@
-{"tech_id": "79-32", "name_en": "Thumb Shortening (Millesi)", "name_vi": "Cắt Bỏ Cầu Sụn Tiếp Hợp Bất Thường (Physiolysis) Trị Đốt Ngón Delta", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4307, "author": "Millesi", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Cầu Sụn Tiếp Hợp Bất Thường (Physiolysis) Trị Đốt Ngón Delta (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Thumb Shortening (Millesi): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Under tourniquet control, excise the distal half of the nail and nail matrix and the underlying distal phalangeal tuft (Fig. 79-59A).", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Through a dorsal longitudinal incision overlying the proximal and distal phalanx, remove the middle third of the distal phalanx and the middle third of the overlying nail and matrix.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Cắt Bỏ Cầu Sụn Tiếp Hợp Bất Thường)", "detail": "Remove the middle third of the proximal phalanx by making parallel oblique osteotomies (Fig. 79-59B).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Reduce the two remaining longitudinal components of the distal phalanx and pin them with a transverse Kirsch- ner wire.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Reduce the distal and proximal fragments of the proximal phalanx in a shortened fashion and pin them with an oblique Kirschner wire (Fig. 79-59C).", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-32",
+  "name_en": "Thumb Shortening (Millesi)",
+  "name_vi": "Cắt Bỏ Cầu Sụn Tiếp Hợp Bất Thường (Physiolysis) Trị Đốt Ngón Delta",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4307,
+  "author": "Millesi",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Cầu Sụn Tiếp Hợp Bất Thường (Physiolysis) Trị Đốt Ngón Delta (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Thumb Shortening (Millesi): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da mặt mu đốt gần & Đốt xa ngón cái (Dorsal Incision & Exposure)",
+      "detail": "Through a dorsal longitudinal incision overlying the proximal and distal phalanx, expose the phalangeal bones subperiosteally while protecting the nail bed and digital neurovascular bundles.",
+      "action": "Bộc lộ xương đốt gần và đốt xa ngón cái phì đại qua đường mổ mặt mu."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Cắt thu nhỏ nửa xa móng và mầm móng (Distal Nail Matrix Excision)",
+      "detail": "Under tourniquet control, excise the distal half of the nail and nail matrix and the underlying distal phalangeal tuft (Fig. 79-59A).",
+      "action": "Cắt bớt nửa xa phiến móng và mầm móng tương ứng để thu nhỏ kích thước ngón cái."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cắt xương thu ngắn đốt gần ngón cái (Proximal Phalanx Osteotomy)",
+      "detail": "Remove the middle third of the proximal phalanx by making parallel oblique osteotomies (Fig. 79-59B).",
+      "action": "Cắt bỏ 1/3 giữa xương đốt gần bằng hai đường cắt xương chéo song song."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Nắn chỉnh & Ghim kim K-wire đốt ngón xa (Distal Phalanx Reduction & Pinning)",
+      "detail": "Reduce the two remaining longitudinal components of the distal phalanx and pin them with a transverse Kirschner wire.",
+      "action": "Nắn ép hai nửa xương đốt xa và ghim cố định vững chắc bằng kim K-wire ngang."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Cố định kim K-wire đốt gần & Đóng da thu nhỏ (Proximal Phalanx Pinning & Skin Closure)",
+      "detail": "Reduce the distal and proximal fragments of the proximal phalanx in a shortened fashion and pin them with an oblique Kirschner wire (Fig. 79-59C). Cắt lọc vạt da thừa và khâu da mũi rời bằng chỉ nylon 5-0, nẹp bột bất động ngón cái.",
+      "action": "Thu ngắn ngón cái cân đối với bàn tay đối bên, khâu da không sức căng."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": null,
+  "images": []
+}

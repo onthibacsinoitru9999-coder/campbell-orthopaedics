@@ -1,1 +1,37 @@
-{"tech_id": "67-14", "name_en": "Percutaneous Pinning of Metacarpal Shaft Fracture", "name_vi": "Nắn Kín & Ghim Kim K-Wire Điều Trị Trật Khớp Bàn Ngón Bất Vững", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3817, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Ghim Kim K-Wire Điều Trị Trật Khớp Bàn Ngón Bất Vững (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Percutaneous Pinning of Metacarpal Shaft Fracture: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Nắn Kín & Ghim Kim K-Wire Điều Trị Trật Khớp Bàn Ngón Bất Vững)", "detail": "Use general or regional block anesthesia.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Use a fluoroscopic image to find the middle of the meta- carpal base proximally and dorsally and mark the area with a skin pen (Fig. 67-39A).", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a 0.5-cm longitudinal incision beginning 1.0 to 1.5 cm proximal to this mark.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-14",
+  "name_en": "Percutaneous Pinning of Metacarpal Shaft Fracture",
+  "name_vi": "Nắn Kín & Ghim Kim K-Wire Điều Trị Trật Khớp Bàn Ngón Bất Vững",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3817,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Ghim Kim K-Wire Điều Trị Trật Khớp Bàn Ngón Bất Vững (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Percutaneous Pinning of Metacarpal Shaft Fracture: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Vô cảm, chuẩn bị phẫu trường & Nắn chỉnh ổ gãy (Anesthesia & Reduction)",
+      "detail": "Use general or regional block anesthesia. Nắn chỉnh diện gãy xương bàn tay dưới màn tăng sáng C-arm để phục hồi trục thẳng và chiều dài giải phẫu.",
+      "action": "Nắn chỉnh kín diện gãy thẳng trục trước khi ghim kim cố định."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Xác định mốc cuống xương bàn dưới C-arm (Fluoroscopic Localization)",
+      "detail": "Use a fluoroscopic image to find the middle of the metacarpal base proximally and dorsally and mark the area with a skin pen (Fig. 67-39A).",
+      "action": "Đánh dấu chính xác vị trí vào kim ở nền xương bàn tay."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Rạch da nhỏ & Ghim kim K-wire cố định (Incision & Pinning)",
+      "detail": "Make a 0.5-cm longitudinal incision beginning 1.0 to 1.5 cm proximal to this mark. Tách mô dưới da bảo vệ gân duỗi và nhánh cảm giác thần kinh quay/trụ. Ghim kim Kirschner xuôi dòng hoặc ngược dòng qua ổ gãy dưới C-arm, uốn cong và cắt ngắn đầu kim, băng vô trùng và nẹp bột cẳng bàn tay.",
+      "action": "Kim K-wire xuyên chắc vào vỏ xương đối diện, không cản trở cử động gân duỗi."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": null,
+  "images": []
+}

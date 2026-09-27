@@ -1,1 +1,60 @@
-{"tech_id": "39-12", "name_en": "Thoracic Discectomy—Anterior Approach", "name_vi": "Kỹ thuật Phẫu thuật 39-12: Thoracic Discectomy—Anterior Approach", "chapter": 39, "category": "General", "pdf_page": 1853, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 39 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Thoracic Discectomy—Anterior Approach bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "39-12",
+  "name_en": "Thoracic Discectomy—Anterior Approach",
+  "name_vi": "Phẫu Thuật Cột Sống (39-12): Thoracic Discectomy—Anterior Approach",
+  "chapter": 39,
+  "category": "Phẫu Thuật Cột Sống",
+  "pdf_page": 1853,
+  "author": "",
+  "clinical_indications": "Chỉ định trong chấn thương mất vững cột sống, thoát vị đĩa đệm chèn ép tủy/rễ thần kinh kháng trị, hẹp ống sống, trượt đốt sống, gù vẹo cột sống vô căn (AIS) hoặc thoái hóa cột sống mất vững theo phân loại TLICS/SLIC.",
+  "contraindications": "Nhiễm trùng huyết hoặc nhiễm trùng mô mềm vùng cột sống; bệnh lý loãng xương quá nặng không thể neo giữ ốc vít (cần gia cố xi măng); liệt hoàn toàn tủy sống quá thời gian vàng phục hồi.",
+  "patient_prep": "Bệnh nhân nằm sấp trên khung mổ cột sống chuyên dụng (Jackson table hoặc khung Wilson) để giảm áp lực ổ bụng, chống ứ trệ tĩnh mạch ngoài màng tủy gây chảy máu (hoặc nằm ngửa trong mổ ACDF lối trước). Lắp đặt hệ thống theo dõi điện sinh lý thần kinh trong mổ (IONM: MEPs và SSEPs).",
+  "surgical_approach": "Cấu trúc nguy cơ: BẢO VỆ TỐI THƯỢNG TỦY SỐNG VÀ RỄ THẦN KINH (Spinal cord & Nerve roots); Đám rối tĩnh mạch ngoài màng cứng Batson (chảy máu ồ ạt nếu rách); Động mạch đốt sống (Vertebral artery) trong mổ cột sống cổ; Khí quản, thực quản và dây thần kinh quặt ngược thanh quản trong lối trước cổ; Động mạch và tĩnh mạch chủ chậu trong lối trước ngực thắt lưng.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Định vị C-arm tầng can thiệp & Rạch da bộc lộ",
+      "detail": "A to E, Exposure of thoracic disc provided by standard laminectomy (A), transpedicular approach (B), costotransver­ sectomy approach (C), lateral extracavitary approach (D), and transthoracic approach (E). D A C B E Laminectomy Transpedicular Lateral extracavitary Costotransversectomy Transthoracic ventral dura is required. This is best done with blunt Penfield-type dissectors and small curets of various designs and orientations. Even if a drill is used, the removal of the posteriormost tissue should be done with hand instruments, not powered instruments. Expect significant bleeding from the epidural veins, which usually are congested at the...",
+      "action": "Chụp C-arm định vị chính xác đốt sống tổn thương; rạch da đường giữa dọc mỏm gai."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bóc tách cơ cạnh sống & Bộc lộ mốc cuống sống / diện khớp",
+      "detail": "After removal of the disc, strip the endplates of their cartilage.",
+      "action": "Dùng dao điện bóc tách cơ cạnh sống sát màng xương ra đến mỏm ngang hai bên."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Mở cung sau giải ép tủy và rễ thần kinh (Laminectomy)",
+      "detail": "Make a slot on the margin of the superior endplate to accept the graft material. Preserve the subchondral bone on both sides of the disc space. Insert iliac, tibial, or rib grafts into the disc space. If multiple short rib grafts are used, they can be tied together with heavy suture material when the maximal number of grafts has been inserted. This helps maintain vertical alignment for all such grafts.",
+      "action": "Cắt dây chằng vàng, dùng kẹp Kerrison gặm giải phóng hoàn toàn chèn ép rễ và bao tủy."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Khoan bắt vít cuống sống & Đặt miếng ghép liên thân đốt",
+      "detail": "Close the wound in the usual manner and use standard chest drainage.",
+      "action": "Tạo lỗ cuống sống, dò 4 thành xương an toàn, bắt vít cuống sống và đặt lồng Cage ghép xương."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Nắn chỉnh góc gù vẹo, khóa thanh Rod & Đóng mổ theo lớp",
+      "detail": "Alternatively, if fusion is not desired, a more limited resection using an operating microscope can be done.",
+      "action": "Lắp thanh nẹp dọc (Rod), ép nén phục hồi đường cong sinh lý, siết chặt ốc khóa và đóng da."
+    }
+  ],
+  "postop_protocol": "Nằm nghỉ tại giường ngày đầu, mang áo nẹp cột sống cứng (Thoracolumbosacral orthosis - TLSO) hoặc nẹp cổ Philadelphia khi ngồi dậy và tập đi từ ngày thứ 2. Theo dõi sát chức năng vận động, cảm giác 2 chi dưới và cơ tròn bàng quang. Điều trị giảm đau đa mô thức.",
+  "pearls_pitfalls": "Luôn kiểm tra mốc đốt sống bằng C-arm trước khi rạch da; Dùng máy mài cao tốc (High-speed burr) và kẹp Kerrison thận trọng giải ép không chạm bao màng cứng; Kiểm tra độ chính xác của đường luồn vít cuống sống bằng que thăm dò bóng (Ball-tip probe) ở cả 4 thành vỏ xương trước khi bắt vít.",
+  "image_url": "web/static/images/techniques/39-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/39-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 39-12 (Thoracic Discectomy—Anterior Approach) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/39-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 39-12 (Thoracic Discectomy—Anterior Approach) - Campbell 13th Ed"
+    }
+  ]
+}

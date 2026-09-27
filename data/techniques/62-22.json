@@ -1,1 +1,60 @@
-{"tech_id": "62-22", "name_en": "Approach to the Common, Superficial, and Deep Peroneal Nerves", "name_vi": "Kỹ thuật Phẫu thuật 62-22: Approach to the Common, Superficial, and Deep Peroneal Nerves", "chapter": 62, "category": "General", "pdf_page": 3585, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 62 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Approach to the Common, Superficial, and Deep Peroneal Nerves bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "62-22",
+  "name_en": "Approach to the Common, Superficial, and Deep Peroneal Nerves",
+  "name_vi": "Kỹ thuật Phẫu Thuật (62-22): Approach to the Common, Superficial, and Deep Peroneal Nerves",
+  "chapter": 62,
+  "category": "Phẫu Thuật Chỉnh Hình Campbell",
+  "pdf_page": 3585,
+  "author": "",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý và chấn thương theo nguyên bản sách Campbell's Operative Orthopaedics 13th Edition cho kỹ thuật Approach to the Common, Superficial, and Deep Peroneal Nerves.",
+  "contraindications": "Nhiễm trùng tại chỗ phẫu trường; bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát; thể trạng chưa sẵn sàng cho cuộc mổ lớn.",
+  "patient_prep": "Bệnh nhân nằm trên bàn mổ ở tư thế phù hợp theo vùng giải phẫu. Sát trùng rộng rãi, trải săng vô trùng cho phép cử động tự do các khớp lân cận.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bảo tồn các mạch máu và dây thần kinh lớn đi qua vùng can thiệp; tránh kéo căng quá mức mô mềm.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường theo lớp giải phẫu",
+      "detail": "divides into digital cutaneous nerves that supply the web between the great and second toe, the lateral aspect of the dorsum of the great toe, and the medial aspect of the dorsum of the second toe. EXAMINATION The muscles supplied by the common peroneal nerve that can be tested accurately have been listed previously (see Sciatic Nerve). Typically, injury of the peroneal nerve results in foot­ drop, which cannot be overcome or disguised by any supple­ mentary or trick movement. The nerve may be stimulated easily in situ at the head of the fibula. The presence and extent of the autonomous zone of this nerve vary, but this zone may have value...",
+      "action": "Rạch da chính xác theo đường mổ chuẩn, bóc tách nhẹ nhàng theo lớp giải phẫu."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đánh giá thương tổn & Chuẩn bị diện phẫu thuật",
+      "detail": "It is worthwhile, however, to attempt such repair, especially in children and young adults, to prevent or minimize trophic ulceration on the plantar surface of the foot. Although division of the sural nerve may result in a troublesome neuroma, it rarely causes a severe clinical problem. Compression of this nerve at the lateral aspect of the ankle has been described, resulting in pain, paresthesias, dysesthesias, and hypesthesias. Relief was achieved by excision of a ganglion or release of a posttrau­ matic scar. On the medial side of the ankle, the tibial nerve may be compressed in the tarsal tunnel between the laciniate ligament and the...",
+      "action": "Nhận diện rõ thương tổn bệnh lý, bảo tồn tối đa mô lành xung quanh."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thực hiện can thiệp tạo hình / Tái tạo chính thức",
+      "detail": "The flexor digitorum longus and flexor hallucis longus can be difficult to test, but the tendon of the flexor hallucis longus can be palpated posterior to the medial malleolus as it passes to cross the medial aspect of the plantar arch. Atrophy of the intrinsic muscles of the foot may allow palpation of the flexor digitorum longus tendons; otherwise, this muscle may not be palpable for testing. The autonomous zone of the tibial nerve as it passes deep to the soleus muscle is smaller than that of the nerve as it passes through the popliteal fossa because the sural nerve is excluded. Although EMG may be necessary for evaluating injury to the...",
+      "action": "Thực hiện các thao tác chuyên sâu theo quy trình chuẩn của Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định phương tiện kết hợp xương / Khâu phục hồi",
+      "detail": "TIBIAL NERVE The tibial nerve, composed of fibers from L4, L5, S1, S2, and S3, is the larger and more important of the two divisions of the sciatic nerve. It begins in the distal third of the thigh just proximal to the popliteal fossa as the common peroneal nerve leaves the sciatic nerve to course laterally. It continues distally through the middle of the popliteal fossa and supplies branches to the plantaris, the soleus, the popliteus, and both heads of the gastrocnemius before passing beneath the arch of the soleus (Fig. Also given off within the popliteal fossa is the tibial anastomotic branch, which joins the pero­ neal anastomotic...",
+      "action": "Cố định phương tiện chỉnh hình đạt độ vững chắc sinh học cơ học tối ưu."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra cơ học, cầm máu & Đóng vết mổ theo lớp",
+      "detail": "The Anatomy of tibial nerve in popliteal space and proximal third of leg (see text for discussion of exposure). Branches to gastrocnemius muscle Branch to soleus muscle Branch to deep flexor muscle Peroneal artery and vein Posterior tibial artery Soleus and gastrocnemius muscle Tibial communicating branch positioning when gaps are to be closed in the tibial nerve. Although the lesion itself can be fully exposed, a significant gap rarely can be closed by mobilizing this part of the nerve alone. Plantarflexing the foot to obtain length may lead to disabling equinus contracture of the ankle and is not recom­ mended. Exposing and mobilizing the...",
+      "action": "Rửa sạch phẫu trường, kiểm tra cầm máu kỹ lưỡng và đóng vết mổ theo từng lớp."
+    }
+  ],
+  "postop_protocol": "Chăm sóc theo dõi vết mổ, nẹp bột hoặc đai đỡ bất động theo đúng chỉ định. Bắt đầu tập phục hồi chức năng sớm chống cứng khớp và teo cơ.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; tuân thủ các mốc giải phẫu an toàn của Campbell.",
+  "image_url": "web/static/images/techniques/62-22.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/62-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 62-22 (Approach to the Common, Superficial, and Deep Peroneal Nerves) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/62-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 62-22 (Approach to the Common, Superficial, and Deep Peroneal Nerves) - Campbell 13th Ed"
+    }
+  ]
+}

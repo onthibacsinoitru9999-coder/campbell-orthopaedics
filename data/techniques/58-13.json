@@ -1,1 +1,60 @@
-{"tech_id": "58-13", "name_en": "Subcondylar Osteotomy and Wedge Graft for Malunion of Lateral Condyle", "name_vi": "Kỹ thuật Phẫu thuật 58-13: Subcondylar Osteotomy and Wedge Graft for Malunion of Lateral Condyle", "chapter": 58, "category": "General", "pdf_page": 3384, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 58 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Subcondylar Osteotomy and Wedge Graft for Malunion of Lateral Condyle bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "58-13",
+  "name_en": "Subcondylar Osteotomy and Wedge Graft for Malunion of Lateral Condyle",
+  "name_vi": "Chấn Thương Chi Trên (58-13): Subcondylar Osteotomy and Wedge Graft for Malunion of Lateral Condyle",
+  "chapter": 58,
+  "category": "Chấn Thương Gãy Xương Chi Trên",
+  "pdf_page": 3384,
+  "author": "",
+  "clinical_indications": "Chỉ định trong gãy xương đòn di lệch, trật khớp cùng đòn, gãy đầu trên xương cánh tay (Neer 3-4 phần), gãy thân xương cánh tay mất vững, gãy mỏm khuỷu, gãy chỏm quay Mason, gãy hai xương cẳng tay Monteggia/Galeazzi di lệch.",
+  "contraindications": "Nhiễm trùng da và mô mềm vùng cánh cẳng tay; tổn thương gãy xương không di lệch có thể điều trị bảo tồn thành công bằng nẹp bột.",
+  "patient_prep": "Bệnh nhân nằm ngửa kê vai đối với xương đòn/vai hoặc nằm nghiêng/ngửa có bàn để tay đối với khuỷu và cẳng tay. Đặt garo hơi cánh tay (nếu can thiệp khuỷu - cẳng tay). Chuẩn bị máy tăng sáng C-arm và bộ nẹp khóa giải phẫu LC-DCP/PHILOS 3.5mm/4.5mm.",
+  "surgical_approach": "Cấu trúc nguy cơ: Dây thần kinh quay (Radial nerve - nằm trong rãnh xoắn xương cánh tay ở mặt sau và xuyên vách gian cơ ngoài 10 cm trên lồi cầu ngoài); Dây thần kinh gian cốt sau (PIN - xuyên qua cung Frohse, bắt buộc giữ cẳng tay ở tư thế SẤP khi bộc lộ); Thần kinh nách ở cổ phẫu thuật xương cánh tay; Thần kinh trụ ở rãnh ròng rọc khuỷu.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường mổ giải phẫu chuẩn & Bộc lộ ổ gãy",
+      "detail": "fracture and the exact source of the disability. Before surgery, the lateral instability might seem to indicate that a ligament should be repaired; yet after correction of the bony deformity, the joint usually is stable. If the disability is caused mainly by axial malalignment after depression of a condyle, the weight-bearing surfaces of the tibia usually do not need to be disturbed. Rather, a trans­ verse subcondylar osteotomy combined with the insertion of a graft and internal fixation is indicated; this procedure is especially appropriate when the patient is of middle age, the malunion is of long duration, and the lateral displacement is...",
+      "action": "Rạch da dọc theo đường mổ giải phẫu kinh điển, tách cơ nhẹ nhàng bộc lộ mặt xương."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Nhận diện và treo bảo vệ dây thần kinh nguy cơ",
+      "detail": "Completely divide the bone by a transverse osteotomy at a point immediately distal to the tibial tuberosity.",
+      "action": "Phẫu tích nhẹ nhàng nhận diện và bộc lộ dây thần kinh nguy cơ (quay/trụ/nách), treo giữ cẩn thận."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Làm sạch ổ gãy, nắn chỉnh phục hồi giải phẫu",
+      "detail": "Using a broad osteotome as a lever, tilt the upper fragment proximally and angulate the distal shaft medially; the normal transverse plane of the tibial condyles and the normal alignment of the extremity are largely restored.",
+      "action": "Gắp sạch mô xơ và máu tụ ổ gãy, nắn chỉnh mảnh gãy khớp khít giải phẫu, kẹp giữ xương."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định bằng nẹp khóa giải phẫu / Đinh nội tủy",
+      "detail": "Fill the wedge-shaped or cuneiform space created by the osteotomy with bone grafts. Make an anterior incision 7.5 cm long and 5 cm distal to the first incision and expose the shaft of the tibia; remove a free cortical graft to serve as a wedge (usually 1.9 cm wide and about 3.8 cm long). Set the graft on edge and, using an inlay, drive it tightly into the space beneath the lateral condyle. Insert around this graft cancellous bone from the opening in the tibia and a few shavings from the surface of the bone. No undue lateral motion should be possible after the procedure. A full-thickness iliac graft provides more stability, but removal of...",
+      "action": "Áp nẹp khóa giải phẫu ôm khít thân xương, bắt các vít vỏ xương và vít khóa nén ép vững chắc."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm biên độ vận động, cầm máu & Đóng mổ",
+      "detail": "Stabilize the osteotomy as for a fresh fracture with a T-plate as a buttress.",
+      "action": "Kiểm tra C-arm thấy trục thẳng diện gãy phẳng; vận động thử kiểm tra độ vững và đóng vết mổ."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp đỡ cánh cẳng bàn tay trong vài ngày đầu để giảm đau và chống nề. Bắt đầu tập vận động chủ động có trợ lực các ngón tay và khớp vai/khuỷu sớm từ ngày thứ 3-5 để chống cứng khớp. Chụp phim X-quang kiểm tra liền xương sau 4, 8 và 12 tuần.",
+  "pearls_pitfalls": "Luôn phẫu tích nhận diện và bảo vệ thần kinh quay trước khi thao tác bắt nẹp thân xương cánh tay; Luôn giữ cẳng tay ở tư thế SẤP khi bộc lộ chỏm quay qua đường mổ Kocher; Khôi phục hoàn hảo chiều dài và độ cong sinh lý của xương quay để bảo tồn biên độ sấp ngửa.",
+  "image_url": "web/static/images/techniques/58-13.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/58-13.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 58-13 (Subcondylar Osteotomy and Wedge Graft for Malunion of Lateral Condyle) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/58-13_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 58-13 (Subcondylar Osteotomy and Wedge Graft for Malunion of Lateral Condyle) - Campbell 13th Ed"
+    }
+  ]
+}

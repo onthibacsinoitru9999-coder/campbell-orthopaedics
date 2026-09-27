@@ -1,1 +1,55 @@
-{"tech_id": "70-1", "name_en": "Escharotomy (Sheridan et al.)", "name_vi": "Mở Cân Cấp Cứu Giải Phóng Vảy Bỏng Hoại Tử Bàn Ngón Tay (Escharotomy)", "chapter": 70, "category": "Hand & Wrist", "pdf_page": 3985, "author": "Sheridan et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mở Cân Cấp Cứu Giải Phóng Vảy Bỏng Hoại Tử Bàn Ngón Tay (Escharotomy) (Chương 70, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Bệnh nhân có tình trạng shock bỏng hoặc nhiễm độc cấp chưa ổn định huyết động; hoại tử mô rộng không còn nguồn tưới máu nuôi chi.", "patient_prep": "Nằm ngửa, tay đặt bàn mổ. Chuẩn bị dao điện, bộ dụng cụ cắt lọc mô mềm và hệ thống ghép da.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Escharotomy (Sheridan et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "After inducing general anesthesia, place the patient supine and support the upper limb on the hand table. Apply a well-padded pneumatic tourniquet. Thoroughly clean the limb with antiseptic soap solution, with atten- tion to the nails and removal of blebs and loose surface debris. The tourniquet can", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Mở Cân Cấp Cứu Giải Phóng Vảy Bỏng Hoại Tử Bàn Ngón Tay)", "detail": "Suspend the hand to an overhead pulley if needed for excision of the forearm and arm wounds. Usually this is unnecessary for hand excision.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Exsanguinate the limb and inflate the tourniquet.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Using a guarded knife or a dermatome, shave the burned areas tangentially in layers about 0.010-inch thick until punctate bleeding is encountered when the tourniquet is deflated. Shave the dermal and subcutaneous tissues containing venous thrombosis until healthy, bleeding tissue is encountered.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Deflate the tourniquet and obtain hemostasis by electrocautery.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Chăm sóc vết thương bỏng vô trùng, nẹp giữ ở tư thế chống co rút (Safe position) liên tục, tập vận động phục hồi chức năng sớm nhất có thể.", "pearls_pitfalls": "Đường rạch mở vảy bỏng escharotomy phải đi qua bờ bên để tránh bó mạch thần kinh ngón tay; Ghép da dày toàn bộ vào các nếp gấp chống co rút sẹo thứ phát.", "image_url": "web/static/images/techniques/70-1.webp", "images": [{"url": "web/static/images/techniques/70-1.webp", "type": "diagram", "caption": "Sơ đồ các đường rạch giải phóng vảy bỏng hoại tử (Escharotomy) ở bàn ngón tay"}]}
+{
+  "tech_id": "70-1",
+  "name_en": "Escharotomy (Sheridan et al.)",
+  "name_vi": "Mở Cân Cấp Cứu Giải Phóng Vảy Bỏng Hoại Tử Bàn Ngón Tay (Escharotomy)",
+  "chapter": 70,
+  "category": "Hand & Wrist",
+  "pdf_page": 3985,
+  "author": "Sheridan et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mở Cân Cấp Cứu Giải Phóng Vảy Bỏng Hoại Tử Bàn Ngón Tay (Escharotomy) (Chương 70, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Bệnh nhân có tình trạng shock bỏng hoặc nhiễm độc cấp chưa ổn định huyết động; hoại tử mô rộng không còn nguồn tưới máu nuôi chi.",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ. Chuẩn bị dao điện, bộ dụng cụ cắt lọc mô mềm và hệ thống ghép da.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Escharotomy (Sheridan et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Vô cảm, chuẩn bị bệnh nhân & Vệ sinh phẫu trường (Preparation & Anesthesia)",
+      "detail": "After inducing general or regional anesthesia, place the patient supine and support the upper limb on the hand table. Apply a well-padded pneumatic tourniquet. Thoroughly clean the limb with antiseptic soap solution, with attention to the nails and removal of blebs and loose surface debris.",
+      "action": "Vệ sinh sát khuẩn phẫu trường nhẹ nhàng, bảo vệ các đảo da lành."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Treo tay tư thế phẫu thuật & Bơm garo hơi (Positioning & Tourniquet Inflation)",
+      "detail": "Suspend the hand to an overhead pulley if needed for excision of the forearm and arm wounds. Exsanguinate the limb with an elastic wrap and inflate the pneumatic tourniquet to achieve a bloodless field.",
+      "action": "Bơm garo hơi tạo phẫu trường khô ráo giúp đánh giá chính xác độ sâu lớp hoại tử."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cắt gọt mỏng từng lớp vảy bỏng hoại tử (Tangential Excision)",
+      "detail": "Using a guarded knife (Goulian/Weck) or a dermatome, shave the burned areas tangentially in layers about 0.010-inch thick until punctate bleeding is encountered when the tourniquet is deflated. Shave the dermal and subcutaneous tissues containing venous thrombosis until healthy, bleeding tissue is encountered.",
+      "action": "Cắt gọt lớp hoại tử cho đến khi nền mô phía dưới chảy máu vi thể hồng hào."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Xả garo hơi, cầm máu tỉ mỉ bằng điện lưỡng cực (Hemostasis)",
+      "detail": "Deflate the tourniquet and obtain hemostasis by electrocautery. Apply topical thrombin or warm saline soaked sponges to control diffuse capillary oozing.",
+      "action": "Cầm máu bề mặt tuyệt đối trước khi ghép da để tránh tụ máu dưới mảnh ghép."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Ghép da ngay hoặc phủ màng sinh học & Băng ép vô trùng (Grafting & Dressing)",
+      "detail": "Tiến hành ghép da xẻ mỏng (split-thickness skin graft) hoặc phủ gạc sinh học / Allograft tạm thời. Đặt gạc mỡ vô trùng, băng ép nhẹ nhàng và cố định nẹp tư thế an toàn bàn tay (khớp MP gập 70°, khớp IP duỗi thẳng).",
+      "action": "Bất động bàn tay ở tư thế an toàn chống co rút biến dạng vuốt thú."
+    }
+  ],
+  "postop_protocol": "Chăm sóc vết thương bỏng vô trùng, nẹp giữ ở tư thế chống co rút (Safe position) liên tục, tập vận động phục hồi chức năng sớm nhất có thể.",
+  "pearls_pitfalls": "Đường rạch mở vảy bỏng escharotomy phải đi qua bờ bên để tránh bó mạch thần kinh ngón tay; Ghép da dày toàn bộ vào các nếp gấp chống co rút sẹo thứ phát.",
+  "image_url": "web/static/images/techniques/70-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/70-1.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ các đường rạch giải phóng vảy bỏng hoại tử (Escharotomy) ở bàn ngón tay"
+    }
+  ]
+}

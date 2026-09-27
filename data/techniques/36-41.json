@@ -1,1 +1,60 @@
-{"tech_id": "36-41", "name_en": "Open Reduction and Internal Fixation", "name_vi": "Kỹ thuật Phẫu thuật 36-41: Open Reduction and Internal Fixation", "chapter": 36, "category": "General", "pdf_page": 1715, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 36 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Open Reduction and Internal Fixation bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "36-41",
+  "name_en": "Open Reduction and Internal Fixation",
+  "name_vi": "Chỉnh Hình Nhi Khoa (36-41): Open Reduction and Internal Fixation",
+  "chapter": 36,
+  "category": "Chỉnh Hình Nhi Khoa",
+  "pdf_page": 1715,
+  "author": "",
+  "clinical_indications": "Chỉ định trong các dị tật bẩm sinh hoặc di chứng chấn thương ở trẻ em (bàn chân khoèo, trật khớp háng bẩm sinh DDH, trượt chỏm xương đùi SCFE, bệnh Perthes, biến dạng trục chi, gãy xương trẻ em) theo phác đồ Campbell Nhi khoa.",
+  "contraindications": "Nhiễm trùng cấp tính tại chỗ; các dị tật bẩm sinh đa cơ quan nặng chưa ổn định tim mạch hô hấp; chống chỉ định toàn thân với gây mê nội khí quản.",
+  "patient_prep": "Bệnh nhân nhi được gây mê nội khí quản kết hợp gây tê vùng/phong bế thần kinh ngoại vi để giảm đau đa mô thức. Đặt tư thế phù hợp trên bàn mổ có sưởi ấm thân nhiệt liên tục. Chuẩn bị máy tăng sáng C-arm với liều xạ thấp nhất có thể.",
+  "surgical_approach": "Cấu trúc nguy cơ: BẢO VỆ TỐI THƯỢNG SỤN TIẾP HỢP (Physis / Growth plate) - tránh khoan hoặc bắt vít vắt chéo sụn tiếp hợp trừ khi bắt buộc có chỉ định triệt tiêu sụn; Bảo vệ cuống mạch nuôi chỏm xương đùi (nhánh sâu động mạch mũ đùi trong) trong trật háng và SCFE; Bảo tồn thần kinh chày sau và thần kinh mác.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Nhận diện mốc giải phẫu nhi khoa",
+      "detail": "This occurs after the medial part of the physis has closed (Fig. 36-183) but before the lateral part closes. The resultant fracture through the physis runs across the epiphysis and distally into the joint, creating a Salter-Harris type III or IV fracture. If nondis­ placed, these fractures can be treated conservatively with close observation to ensure a nonunion or delayed union does not occur. If there is any doubt, however, a CT is recom­ mended to evaluate the extent of articular displacement. ORIF is indicated if the fracture is displaced (Fig.",
+      "action": "Rạch da theo nếp lằn tự nhiên; phẫu tích nhẹ nhàng nhận diện và bảo vệ sụn tiếp hợp."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bảo tồn sụn tiếp hợp & Giải phóng mô xơ co rút",
+      "detail": "Fracture displacement of more than 2 mm generally is con­ sidered an indication for fracture reduction and fixation. The fracture fragment, because it is pulled off by the anterior tibiofibular ligament, is almost always anterior. Generally, Tillaux fractures occur in adolescents just before the entire physis (not just the medial part) closes, and there is little worry about using fixation across the physis as in either smooth pins or a transverse screw across the epiphysis should be used as in see Figure 36-179. OPEN REDUCTION AND INTERNAL FIXATION preferred treatment for type I mildly or nondisplaced frac­ tures. If an adequate reduction...",
+      "action": "Kéo dài gân hoặc cắt bao khớp co rút nới lỏng tổ chức mô mềm quanh khớp."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cắt xương chỉnh trục / Nắn chỉnh giải phẫu ổ khớp",
+      "detail": "Most of the closed reductions are done is dislocated at the ankle joint, the talar neck is fractured, and the head of the talus is dislocated at the talonavicular joint. Most of the fractures in our series were types I, II, or III. We use the treatment recommended by Boyd and Knight. Closed reduction followed by non–weight bearing is the significant displacement. D and E, After satisfactory open reduction and internal fixation. C, While fracture is held reduced with Steinmann pin, Kirschner wire is inserted in fragment and across fracture.",
+      "action": "Cắt xương chỉnh góc mở/đóng hoặc nắn kín/nắn mở đưa chỏm khớp vào trung tâm ổ cối."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định bằng kim Kirschner / Nẹp vít chuyên dụng nhi",
+      "detail": "A B C Hawkins line is not visible in sclerotic (latent osteonecrosis) talar dome 3 months after injury. Bone scan 8 days after open reduction of type IV talar neck fracture with talonavicular dislocation shows decreased uptake indicating area of osteonecrosis. In type II, III, and IV fractures, open reduction with or without internal fixation is used frequently because of the difficulty of maintaining an adequate reduc­ tion by closed methods in significantly displaced fractures. Open fractures require a thorough irrigation and debride­ ment, and internal fixation is done only if required for stability of reduction. If the soft-tissue...",
+      "action": "Ghim kim K-wire dẫn đường hoặc nẹp khóa nhi khoa đạt độ cố định cơ học vững vàng."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm 2 bình diện, cầm máu & Bó bột bất động",
+      "detail": "A special radiographic technique is used to determine the amount of varus angulation in the anteroposterior plane. A cassette is placed directly under the foot, and the ankle is placed in maximal equinus position, the usual position after reduction of the fracture of the talar neck. This position can be main­ tained more easily by maximal flexion of the hip and knee. The foot is pronated 15 degrees, and the x-ray tube is directed cephalad at a 75-degree angle from the horizontal tabletop. This technique has enabled us to detect any offset or varus deformity of the head and neck of the talus. For open reduction, an anteromedial approach is...",
+      "action": "Chụp kiểm tra C-arm xác nhận góc trục giải phẫu hoàn hảo; băng vô trùng và bó bột Spica."
+    }
+  ],
+  "postop_protocol": "Bất động bằng bột chậu - lưng - chân (Spica cast) hoặc nẹp bột đùi cẳng bàn chân trong 6-12 tuần tùy lứa tuổi. Chụp X-quang kiểm tra vị trí nắn chỉnh và dụng cụ kết hợp xương định kỳ. Hướng dẫn phụ huynh chăm sóc nẹp bột chống loét tì đè.",
+  "pearls_pitfalls": "Thao tác phẫu tích ở trẻ em phải cực kỳ tinh tế, nhẹ nhàng; Không bóc tách màng xương quá mức gây dính sụn phát triển; Luôn kiểm tra đối chiếu bên lành trên màn tăng sáng C-arm; Đạt được nắn chỉnh đồng tâm tuyệt đối trong trật háng.",
+  "image_url": "web/static/images/techniques/36-41.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/36-41.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 36-41 (Open Reduction and Internal Fixation) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/36-41_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 36-41 (Open Reduction and Internal Fixation) - Campbell 13th Ed"
+    }
+  ]
+}

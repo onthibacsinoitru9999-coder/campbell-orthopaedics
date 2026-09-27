@@ -1,1 +1,49 @@
-{"tech_id": "76-5", "name_en": "Surgical Treatment of De Quervain Disease", "name_vi": "Phẫu thuật Mổ Mở Bộc Lộ Rộng Giải Ép Ống Cổ Tay Tái Phát Kèm Bọc Vạt Mỡ", "chapter": 76, "category": "Hand & Wrist", "pdf_page": 4186, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Mổ Mở Bộc Lộ Rộng Giải Ép Ống Cổ Tay Tái Phát Kèm Bọc Vạt Mỡ (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Surgical Treatment of De Quervain Disease: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Use a local anesthetic and a tourniquet.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Infiltrate the skin well proximal to the area of the first dorsal compartment with sufficient local anesthetic before skin preparation and draping. An Esmarch bandage on the proximal forearm usually suffices as a tourniquet.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make an incision carefully through the skin only. An oblique incision coursing along the extensor brevis tendon is preferred; however, a transverse, oblique, or longitudi- nal incision is also perfectly satisfactory (Fig. 76-16). The longitudinal incision advocated by some surgeons creates a longer ", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Carry sharp dissection just through the dermis and not into the subcutaneous fat, avoiding the sensory branches (lateral antebrachial cutaneous nerve above the cephalic vein and superficial radial nerve branches more deeply).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.", "pearls_pitfalls": "Luôn nhận diện và bảo vệ tuyệt đối nhánh vận động quặp ngược của thần kinh giữa trong ống cổ tay và nhánh cảm giác nông thần kinh quay trong phẫu thuật De Quervain; Cắt trọn vẹn bề dày dây chằng mà không bỏ sót mép đầu gần.", "image_url": "web/static/images/techniques/76-5.webp", "images": [{"url": "web/static/images/techniques/76-5.webp", "type": "diagram", "caption": "Giải phẫu ngăn gân duỗi thứ nhất, các nhánh cảm giác nông thần kinh quay và vách ngăn gân phụ EPB"}]}
+{
+  "tech_id": "76-5",
+  "name_en": "Surgical Treatment of De Quervain Disease",
+  "name_vi": "Phẫu thuật Mổ Mở Bộc Lộ Rộng Giải Ép Ống Cổ Tay Tái Phát Kèm Bọc Vạt Mỡ",
+  "chapter": 76,
+  "category": "Hand & Wrist",
+  "pdf_page": 4186,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Mổ Mở Bộc Lộ Rộng Giải Ép Ống Cổ Tay Tái Phát Kèm Bọc Vạt Mỡ (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Surgical Treatment of De Quervain Disease: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Vô cảm, chuẩn bị bệnh nhân & Đặt garo hơi (Anesthesia & Tourniquet)",
+      "detail": "Use a local anesthetic and a tourniquet. Infiltrate the skin well proximal to the area of the first dorsal compartment with sufficient local anesthetic before skin preparation and draping. An Esmarch bandage on the proximal forearm usually suffices as a tourniquet.",
+      "action": "Gây tê tại chỗ vùng mỏm trâm quay và bơm garo hơi tạo phẫu trường rõ nét."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đường rạch da qua khoang gân duỗi số 1 (Incision over 1st Dorsal Compartment)",
+      "detail": "Make an incision carefully through the skin only. An oblique incision coursing along the extensor pollicis brevis tendon is preferred; however, a transverse, oblique, or longitudinal incision is also perfectly satisfactory (Fig. 76-16).",
+      "action": "Rạch qua lớp da đơn thuần, không rạch sâu để bảo vệ mạng lưới thần kinh cảm giác."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Phẫu tích bảo tồn nhánh cảm giác nông thần kinh quay (Radial Sensory Nerve Protection)",
+      "detail": "Carry sharp dissection just through the dermis and not into the subcutaneous fat, avoiding the sensory branches (lateral antebrachial cutaneous nerve above the cephalic vein and superficial radial nerve branches more deeply).",
+      "action": "Bộc lộ và bảo vệ nguyên vẹn các nhánh cảm giác nông thần kinh quay (SBRN)."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cắt mở bao gân khoang 1, giải phóng APL & EPB, đóng vết mổ (Pulley Release & Closure)",
+      "detail": "Rạch mở trọn vẹn bao xơ khoang gân duỗi số 1 ở bờ sau. Kiểm tra tìm khoang phụ chứa gân duỗi ngắn ngón cái (EPB) và giải phóng hoàn toàn gân dạng dài ngón cái (APL) cùng EPB. Khâu da bằng chỉ nylon 5-0, băng vô trùng.",
+      "action": "Tìm và giải phóng ngăn riêng của gân EPB để tránh tái phát triệu chứng đau."
+    }
+  ],
+  "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.",
+  "pearls_pitfalls": "Luôn nhận diện và bảo vệ tuyệt đối nhánh vận động quặp ngược của thần kinh giữa trong ống cổ tay và nhánh cảm giác nông thần kinh quay trong phẫu thuật De Quervain; Cắt trọn vẹn bề dày dây chằng mà không bỏ sót mép đầu gần.",
+  "image_url": "web/static/images/techniques/76-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/76-5.webp",
+      "type": "diagram",
+      "caption": "Giải phẫu ngăn gân duỗi thứ nhất, các nhánh cảm giác nông thần kinh quay và vách ngăn gân phụ EPB"
+    }
+  ]
+}

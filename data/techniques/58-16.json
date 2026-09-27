@@ -1,1 +1,60 @@
-{"tech_id": "58-16", "name_en": "Osteotomy for Femoral Malunion", "name_vi": "Kỹ thuật Phẫu thuật 58-16: Osteotomy for Femoral Malunion", "chapter": 58, "category": "General", "pdf_page": 3390, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 58 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Osteotomy for Femoral Malunion bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "58-16",
+  "name_en": "Osteotomy for Femoral Malunion",
+  "name_vi": "Chấn Thương Chi Trên (58-16): Osteotomy for Femoral Malunion",
+  "chapter": 58,
+  "category": "Chấn Thương Gãy Xương Chi Trên",
+  "pdf_page": 3390,
+  "author": "",
+  "clinical_indications": "Chỉ định trong gãy xương đòn di lệch, trật khớp cùng đòn, gãy đầu trên xương cánh tay (Neer 3-4 phần), gãy thân xương cánh tay mất vững, gãy mỏm khuỷu, gãy chỏm quay Mason, gãy hai xương cẳng tay Monteggia/Galeazzi di lệch.",
+  "contraindications": "Nhiễm trùng da và mô mềm vùng cánh cẳng tay; tổn thương gãy xương không di lệch có thể điều trị bảo tồn thành công bằng nẹp bột.",
+  "patient_prep": "Bệnh nhân nằm ngửa kê vai đối với xương đòn/vai hoặc nằm nghiêng/ngửa có bàn để tay đối với khuỷu và cẳng tay. Đặt garo hơi cánh tay (nếu can thiệp khuỷu - cẳng tay). Chuẩn bị máy tăng sáng C-arm và bộ nẹp khóa giải phẫu LC-DCP/PHILOS 3.5mm/4.5mm.",
+  "surgical_approach": "Cấu trúc nguy cơ: Dây thần kinh quay (Radial nerve - nằm trong rãnh xoắn xương cánh tay ở mặt sau và xuyên vách gian cơ ngoài 10 cm trên lồi cầu ngoài); Dây thần kinh gian cốt sau (PIN - xuyên qua cung Frohse, bắt buộc giữ cẳng tay ở tư thế SẤP khi bộc lộ); Thần kinh nách ở cổ phẫu thuật xương cánh tay; Thần kinh trụ ở rãnh ròng rọc khuỷu.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường mổ giải phẫu chuẩn & Bộc lộ ổ gãy",
+      "detail": "Occasionally, internal fixation devices are fractured and deformed when the patient experiences a new injury. This situation frequently is difficult because the deformed internal fixation device must be removed first before the new fracture can be definitively fixed. If not corrected acutely, malalign­ ments can cause pain and joint deformity. OSTEOTOMY FOR FEMORAL MALUNION A, Malunited fracture of femur with overlapping of fragments in 11-year-old boy. B, Five months after open reduc­ tion, insertion of Kirschner wire through distal femur and application of spica cast incorporating wire. Length of limb and function of knee were regained. A B",
+      "action": "Rạch da dọc theo đường mổ giải phẫu kinh điển, tách cơ nhẹ nhàng bộc lộ mặt xương."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Nhận diện và treo bảo vệ dây thần kinh nguy cơ",
+      "detail": "Incise the periosteum and strip it from the lateral, anterior, and posterior surfaces of the proximal fragment.",
+      "action": "Phẫu tích nhẹ nhàng nhận diện và bộc lộ dây thần kinh nguy cơ (quay/trụ/nách), treo giữ cẩn thận."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Làm sạch ổ gãy, nắn chỉnh phục hồi giải phẫu",
+      "detail": "Use a reciprocating motor saw to separate the fragments through the plane of union, or, if desired, outline the plane of union with a motor-driven drill and divide the bone with a narrow osteotome by connecting the holes. With either method of osteotomy, proceed cautiously to avoid injuring important nerves and vessels on the medial side of the femur. If union is far advanced, an oblique osteotomy can be made without regard to the plane of fracture.",
+      "action": "Gắp sạch mô xơ và máu tụ ổ gãy, nắn chỉnh mảnh gãy khớp khít giải phẫu, kẹp giữ xương."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định bằng nẹp khóa giải phẫu / Đinh nội tủy",
+      "detail": "Resect 0.6 to 1.3 cm of bone from each fragment with a saw. This resection is made for several reasons: (1) the ends of the fragments usually are sclerotic and should be resected back to comparatively normal bone; (2) the surfaces formed permit more stable and accurate apposition; and (3) apposing the fragments is less difficult and recurrence of deformity is less likely when the malunion has been of long duration and the soft tissues otherwise would be under too much tension.",
+      "action": "Áp nẹp khóa giải phẫu ôm khít thân xương, bắt các vít vỏ xương và vít khóa nén ép vững chắc."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm biên độ vận động, cầm máu & Đóng mổ",
+      "detail": "Apposing and firmly interlocking the fragments may be possible; apply a plate for fixation. If the deformity is severe, apposing the fragments may be impossible without too much stripping of soft tissues and without resection of too much bone from the ends of the fragments. In this instance, external fixation may be preferable. In older children and adolescents, an intramedullary nail usually is preferred for fixation. If adequate radiography or equipment for interlocking intramedullary nailing techniques or internal fixation is unavailable or cannot be used, older techniques can provide good results (Fig. 58-26). Malunions of the femoral...",
+      "action": "Kiểm tra C-arm thấy trục thẳng diện gãy phẳng; vận động thử kiểm tra độ vững và đóng vết mổ."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp đỡ cánh cẳng bàn tay trong vài ngày đầu để giảm đau và chống nề. Bắt đầu tập vận động chủ động có trợ lực các ngón tay và khớp vai/khuỷu sớm từ ngày thứ 3-5 để chống cứng khớp. Chụp phim X-quang kiểm tra liền xương sau 4, 8 và 12 tuần.",
+  "pearls_pitfalls": "Luôn phẫu tích nhận diện và bảo vệ thần kinh quay trước khi thao tác bắt nẹp thân xương cánh tay; Luôn giữ cẳng tay ở tư thế SẤP khi bộc lộ chỏm quay qua đường mổ Kocher; Khôi phục hoàn hảo chiều dài và độ cong sinh lý của xương quay để bảo tồn biên độ sấp ngửa.",
+  "image_url": "web/static/images/techniques/58-16.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/58-16.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 58-16 (Osteotomy for Femoral Malunion) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/58-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 58-16 (Osteotomy for Femoral Malunion) - Campbell 13th Ed"
+    }
+  ]
+}

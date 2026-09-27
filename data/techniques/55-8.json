@@ -6,39 +6,39 @@
   "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
   "pdf_page": 3173,
   "author": "Campbell Clinic Service",
-  "clinical_indications": "Chỉ định trong phẫu thuật kết hợp xương gãy xương chi dưới (Fixation of Subtrochanteric Femoral Fracture with a Proximal Femoral Locking Plate), gãy di lệch mất vững theo phân loại AO/OTA và Campbell 13th Ed.",
+  "clinical_indications": "Chỉ định gãy dưới mấu chuyển xương đùi (AO/OTA 32-A/B/C, Seinsheimer, Russell-Taylor), gãy xương đùi mở rộng lên mấu chuyển lớn hoặc có tổn thương hố mấu chuyển.",
   "contraindications": "Tổn thương mô mềm độ nặng Tscherne C3 hoặc Gustilo IIIC chưa kiểm soát mạch máu; Hội chứng chèn ép khoang cấp chưa giải áp; Sốc đa chấn thương chưa ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa hoặc nằm nghiêng trên bàn thấu quang/bàn kéo chỉnh hình, C-arm sẵn sàng kiểm tra 2 bình diện.",
-  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chính của chi (thần kinh ngồi, mác chung, chày, bó mạch đùi/khoeo/chày trước).",
+  "surgical_approach": "Đường mổ ngoài trực tiếp vùng dưới mấu chuyển (Direct lateral approach to proximal femur). Cấu trúc nguy cơ: Bó mạch mũ đùi ngoài (nhánh lên/ngang), các nhánh xuyên động mạch đùi sâu.",
   "surgical_steps": [
     {
       "step": 1,
       "title": "Thì 1: Bộc lộ phẫu trường & Bảo tồn mô mềm",
-      "detail": "FIXATION OF SUBTROCHANTERIC FEMORAL FRACTURE WITH A BLADE PLATE ■ Preoperative planning for the placement of a blade plate is extremely important. Even with computerized radiographs, we use printed radiographs to create an accurate template.",
+      "detail": "Proximal femoral locking plate fixation of subtrochanteric femoral fracture with proximal extension. B, Preoperative axial CT scan shows extension proximally into piriformis fossa.",
       "action": "Rạch da theo mốc chuẩn, hạn chế bóc tách màng xương bảo tồn mạch máu nuôi."
     },
     {
       "step": 2,
       "title": "Thì 2: Bộc lộ ổ gãy & Làm sạch diện gãy",
-      "detail": "Lấy bỏ máu tụ và mô xơ kẹt giữa các diện gãy xương.",
+      "detail": "C and D, After fixation with locking plate. A B C D Rotation can be assessed by comparison of contour of affected lesser trochanter to that of contralateral hip.",
       "action": "Bộc lộ rõ diện gãy, lấy sạch máu tụ và mô mềm chèn kẹt."
     },
     {
       "step": 3,
       "title": "Thì 3: Nắn chỉnh phục hồi giải phẫu (Reduction)",
-      "detail": "Dùng kẹp nắn xương nắn chỉnh thẳng trục, phục hồi chiều dài và diện khớp.",
+      "detail": "A, The contour of the lesser trochanter from the contralateral uninjured side with the patella oriented anteriorly. B, The contour of the lesser trochanter from the injured side should match the uninjured side after correct rotation has been restored.",
       "action": "Dùng kẹp nắn xương nắn chỉnh phục hồi diện khớp và thẳng trục chi dưới C-arm."
     },
     {
       "step": 4,
       "title": "Thì 4: Đặt phương tiện kết hợp xương (Nẹp vít / Đinh nội tủy)",
-      "detail": "Bắt vít nén ép liên mảnh, đặt nẹp khóa giải phẫu hoặc đóng đinh nội tủy.",
+      "detail": "C, The contour of the lesser trochanter is diminished as the proximal fragment is internally rotated relative to the distal fragment. This indicates an overall external rotation deformity of the extremity.",
       "action": "Bắt vít nén ép liên mảnh hoặc đặt nẹp khóa/đinh nội tủy đạt độ vững sinh cơ học cao."
     },
     {
       "step": 5,
       "title": "Thì 5: Kiểm tra C-arm, Dẫn lưu kín & Đóng vết mổ",
-      "detail": "Kiểm tra kỹ phim C-arm thẳng nghiêng, rửa sạch và đóng vết mổ theo lớp.",
+      "detail": "D, The contour of the lesser trochanter is enlarged as the proximal fragment is externally rotated relative to the distal fragment. This indicates an overall internal rotation deformity of the extremity.",
       "action": "Kiểm tra kỹ phim C-arm 2 bình diện, đặt dẫn lưu kín và khâu phục hồi theo lớp."
     }
   ],

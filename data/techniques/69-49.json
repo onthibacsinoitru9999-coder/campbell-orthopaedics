@@ -1,1 +1,49 @@
-{"tech_id": "69-49", "name_en": "Dorsal Capsulodesis (Blatt with Berger Modification)", "name_vi": "Cắt Dây Thần Kinh Cảm Giác Cổ Tay Giảm Đau Khớp (Wrist Denervation)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3957, "author": "Blatt with Berger Modification", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Dây Thần Kinh Cảm Giác Cổ Tay Giảm Đau Khớp (Wrist Denervation) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Dorsal Capsulodesis (Blatt with Berger Modification): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Cắt Dây Thần Kinh Cảm Giác Cổ Tay Giảm Đau Khớp)", "detail": "Make a notch in the dorsum of the distal pole of the scaphoid proximal to the distal articular surface and distal to the midaxis of rotation of the scaphoid with a narrow osteotome or small rongeur.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Trim the dorsal capsuloligamentous flap to attach into the distal pole of the scaphoid with a 4-0 stainless steel pull-out wire suture. Pass this wire suture through fine drill holes to the volar tubercle of the scaphoid and tie it at the level of the skin over felt and a button (Fig. 69-95B).", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Deflate the tourniquet, obtain hemostasis, and close the skin. (BLATT WITH BERGER MODIFICATION)", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Cắt Dây Thần Kinh Cảm Giác Cổ Tay Giảm Đau Khớp)", "detail": "Before the operative procedure, thoroughly evaluate the radiographs to determine the nature and extent of the scapholunate dissociation and rotary subluxation of the scaphoid. Blatt stated, “a single criterion for this procedure is the ability to anatomically reduce the scaph- oid at the time of sur", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "After achieving satisfactory anesthesia and appropriate skin preparation and draping of the extremity and with the well-padded tourniquet inflated, make a longitudinal dorsoradial incision.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-49",
+  "name_en": "Dorsal Capsulodesis (Blatt with Berger Modification)",
+  "name_vi": "Cắt Dây Thần Kinh Cảm Giác Cổ Tay Giảm Đau Khớp (Wrist Denervation)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3957,
+  "author": "Blatt with Berger Modification",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Dây Thần Kinh Cảm Giác Cổ Tay Giảm Đau Khớp (Wrist Denervation) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Dorsal Capsulodesis (Blatt with Berger Modification): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đánh giá X-quang, đường rạch da mặt mu cổ tay (Incision & Exposure)",
+      "detail": "Before the operative procedure, thoroughly evaluate the radiographs to determine the nature and extent of the scapholunate dissociation and rotary subluxation of the scaphoid. Make a longitudinal dorsoradial incision centered over the radiocarpal joint.",
+      "action": "Bảo vệ các nhánh cảm giác nông của thần kinh quay và thần kinh bì cẳng tay sau."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Tạo vạt bao khớp mặt mu cổ tay (Dorsal Capsuloligamentous Flap Creation)",
+      "detail": "Phẫu tích bộc lộ bao khớp mặt mu. Rạch tạo một vạt bao khớp - dây chằng đáy ở bờ xa (distally based capsuloligamentous flap) từ dây chằng gian cổ tay mu (DIC) hoặc dây chằng quay - cổ tay mu (DRT) có chiều rộng khoảng 1 cm.",
+      "action": "Tạo vạt bao khớp dày dặn, có độ bền cơ học cao để chống gập xương thuyền."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Tạo rãnh xương ở cực xa xương thuyền (Scaphoid Notch Preparation)",
+      "detail": "Make a notch in the dorsum of the distal pole of the scaphoid proximal to the distal articular surface and distal to the midaxis of rotation of the scaphoid with a narrow osteotome or small rongeur.",
+      "action": "Tạo rãnh xương xốp tươi máu để vạt bao khớp liền chắc vào xương thuyền."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Nắn chỉnh xương thuyền & Đính vạt bao khớp (Scaphoid Reduction & Flap Anchorage)",
+      "detail": "Nắn chỉnh xương thuyền xoay ngửa trở lại tư thế giải phẫu, ghim 1 kim K-wire tạm thời giữ xương thuyền vào xương cả. Trim the dorsal capsuloligamentous flap to attach into the distal pole of the scaphoid with a 4-0 stainless steel pull-out wire suture or suture anchor tied securely.",
+      "action": "Căng vạt bao khớp tạo lực kéo giữ cực xa xương thuyền không bị gập ra trước (flexion deformity)."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động nẹp bột (Closure & Postoperative Splinting)",
+      "detail": "Deflate the tourniquet, obtain hemostasis, and close the skin. Băng vô trùng và đặt nẹp bột cẳng bàn tay giữ cổ tay duỗi nhẹ 20-30° trong 6-8 tuần.",
+      "action": "Giữ cổ tay duỗi nhẹ giúp giảm sức căng lên vạt bao khớp mu vừa đính."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": null,
+  "images": []
+}

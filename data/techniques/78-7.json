@@ -1,1 +1,55 @@
-{"tech_id": "78-7", "name_en": "Incision and Drainage of Radial and Ulnar Bursae", "name_vi": "Rạch Mở Nhỏ & Bơm Rửa Áp Lực Liên Tục Bao Gân Gấp Neviaser Trị Viêm Mủ Bao Gân", "chapter": 78, "category": "Hand & Wrist", "pdf_page": 4243, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Rạch Mở Nhỏ & Bơm Rửa Áp Lực Liên Tục Bao Gân Gấp Neviaser Trị Viêm Mủ Bao Gân (Chương 78, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Chống chỉ định gây tê ngấm tại chỗ trong mô viêm mủ; chống chỉ định khâu kín da thì đầu ổ nhiễm trùng mủ sâu bàn tay.", "patient_prep": "Gây mê hoặc tê vùng (tránh gây tê tại chỗ vào ổ nhiễm trùng). Bơm rửa số lượng lớn nước muối sinh lý vô trùng.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Incision and Drainage of Radial and Ulnar Bursae: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "With the patient under appropriate anesthesia, apply and inflate a tourniquet but do not wrap the arm.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "To drain the metacarpophalangeal joint, make an incision on either side of the metacarpal head, retract the exten- sor expansion distally, and open the joint capsule dorsal to the collateral ligament sufficiently to allow free drain- age and irrigation of the joint.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Leave the capsule and skin incisions open.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "To drain the thumb and finger interphalangeal joints and the thumb metacarpophalangeal joint, use a midaxial incision on either side of the joint. Avoid injury to the neurovascular bundles.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "In the fingers, section the transverse retinacular ligament, retract the extensor lateral band dorsally, and retract the neurovascular bundle toward the palm.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Ngâm rửa sát khuẩn ấm hàng ngày. Thay băng vô trùng. Bắt đầu tập vận động nhẹ nhàng ngay khi ổ nhiễm trùng kiểm soát được để chống xơ dính khớp.", "pearls_pitfalls": "Lấy bệnh phẩm cấy vi khuẩn và kháng sinh đồ trước khi dùng kháng sinh; Dẫn lưu triệt để các khoang mủ sâu (ô mô cái, Parona, bao gân Kanavel); Để hở vết mổ có bấc dẫn lưu.", "image_url": "web/static/images/techniques/78-7.webp", "images": [{"url": "web/static/images/techniques/78-7.webp", "type": "diagram", "caption": "Kỹ thuật rạch mở nhỏ và luồn catheter bơm rửa áp lực liên tục bao gân gấp theo Neviaser"}]}
+{
+  "tech_id": "78-7",
+  "name_en": "Incision and Drainage of Radial and Ulnar Bursae",
+  "name_vi": "Rạch Mở Nhỏ & Bơm Rửa Áp Lực Liên Tục Bao Gân Gấp Neviaser Trị Viêm Mủ Bao Gân",
+  "chapter": 78,
+  "category": "Hand & Wrist",
+  "pdf_page": 4243,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Rạch Mở Nhỏ & Bơm Rửa Áp Lực Liên Tục Bao Gân Gấp Neviaser Trị Viêm Mủ Bao Gân (Chương 78, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Chống chỉ định gây tê ngấm tại chỗ trong mô viêm mủ; chống chỉ định khâu kín da thì đầu ổ nhiễm trùng mủ sâu bàn tay.",
+  "patient_prep": "Gây mê hoặc tê vùng (tránh gây tê tại chỗ vào ổ nhiễm trùng). Bơm rửa số lượng lớn nước muối sinh lý vô trùng.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Incision and Drainage of Radial and Ulnar Bursae: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Vô cảm, chuẩn bị bệnh nhân & Đặt garo hơi (Anesthesia & Tourniquet)",
+      "detail": "With the patient under appropriate anesthesia, apply and inflate a tourniquet but do not wrap the arm. Tránh băng ép cuốn chi bằng chun Esmarch để không đẩy dịch mủ lan rộng lên cẳng tay.",
+      "action": "Không dồn máu bằng băng chun Esmarch ở chi đang nhiễm trùng cấp tính."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đường rạch da bộc lộ khớp bàn ngón và túi hoạt dịch quay (Incision over Radial Bursa & MP Joint)",
+      "detail": "To drain the metacarpophalangeal joint, make an incision on either side of the metacarpal head, retract the extensor expansion distally, and open the joint capsule dorsal to the collateral ligament sufficiently to allow free drainage and irrigation of the joint.",
+      "action": "Mở rộng phẫu trường dẫn lưu triệt để mủ khoang túi hoạt dịch quay mô cái."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Đường rạch dẫn lưu khớp liên đốt & Túi hoạt dịch trụ (Incision over Ulnar Bursa & IP Joints)",
+      "detail": "To drain the thumb and finger interphalangeal joints and the thumb metacarpophalangeal joint, use a midaxial incision on either side of the joint. Avoid injury to the neurovascular bundles.",
+      "action": "Rạch đường giữa bên ngón tay, bảo vệ tuyệt đối các bó mạch thần kinh ngón."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Phẫu tích giải phóng mạc hãm gân & Bộc lộ phẫu trường sâu (Retinacular Section & Decompression)",
+      "detail": "In the fingers, section the transverse retinacular ligament, retract the extensor lateral band dorsally, and retract the neurovascular bundle toward the palm.",
+      "action": "Cắt mạc hãm ngang giải áp khoang gân gấp và dẫn lưu toàn bộ dịch mủ túi hoạt dịch trụ."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Mở để ngỏ dẫn lưu, bơm rửa & Nẹp bất động bàn tay (Open Drainage & Splinting)",
+      "detail": "Leave the capsule and skin incisions open. Đặt bấc dẫn lưu gạc mỡ hoặc ống dẫn lưu cao su mềm. Bơm rửa sạch phẫu trường, băng gạc vô trùng thấm dịch và bất động bàn tay trên nẹp bột nâng cao.",
+      "action": "Để ngỏ vết mổ dẫn lưu mủ tự do, tránh khâu kín làm tái ứ đọng ổ áp xe."
+    }
+  ],
+  "postop_protocol": "Ngâm rửa sát khuẩn ấm hàng ngày. Thay băng vô trùng. Bắt đầu tập vận động nhẹ nhàng ngay khi ổ nhiễm trùng kiểm soát được để chống xơ dính khớp.",
+  "pearls_pitfalls": "Lấy bệnh phẩm cấy vi khuẩn và kháng sinh đồ trước khi dùng kháng sinh; Dẫn lưu triệt để các khoang mủ sâu (ô mô cái, Parona, bao gân Kanavel); Để hở vết mổ có bấc dẫn lưu.",
+  "image_url": "web/static/images/techniques/78-7.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/78-7.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật rạch mở nhỏ và luồn catheter bơm rửa áp lực liên tục bao gân gấp theo Neviaser"
+    }
+  ]
+}

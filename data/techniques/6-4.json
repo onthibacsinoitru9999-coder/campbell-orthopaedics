@@ -1,49 +1,49 @@
 {
   "tech_id": "6-4",
   "name_en": "Bernese Periacetabular Osteotomy (Matheney et al.)",
-  "name_vi": "Phẫu thuật Khớp Háng (6-4): Bernese Periacetabular Osteotomy (Matheney et al.)",
+  "name_vi": "Phẫu thuật Cắt xương Xoay Ổ cối Bernese (Ganz Periacetabular Osteotomy - PAO)",
   "chapter": 6,
   "category": "Tái tạo & Thay Khớp Háng",
   "pdf_page": 396,
   "author": "Matheney et al.",
-  "clinical_indications": "Chỉ định trong bệnh lý thoái hóa hoặc tổn thương khớp háng (Bernese Periacetabular Osteotomy (Matheney et al.)), hoại tử vô mạch chỏm đùi, tổn thương ổ cối hoặc cần tái tạo bảo tồn khớp háng theo Campbell 13th Ed.",
-  "contraindications": "Nhiễm trùng khớp háng hoạt tính, suy kiệt toàn thân nặng, tổn thương thần kinh mạch máu không thể phục hồi.",
-  "patient_prep": "Bệnh nhân nằm nghiêng 90° hoặc nằm ngửa, đệm lót bảo vệ các điểm tì đè, sát khuẩn rộng từ bờ sườn đến bàn chân, chuẩn bị bộ dụng cụ phẫu thuật khớp háng chuyên dụng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thần kinh ngồi (Sciatic nerve); Thần kinh đùi và bó mạch đùi; Nhánh xuyên động mạch mũ đùi ngoài; Vùng an toàn bắt vít ổ cối: góc sau trên.",
+  "clinical_indications": "Loạn sản khớp háng ở người trẻ hoặc trưởng thành (Developmental Dysplasia of the Hip - DDH), góc Wiberg LCEA < 20°, góc Tönnis > 10°, đau khớp háng cơ học do hở chỏm đùi trước ngoài, sụn khớp háng còn bảo tồn tốt (Tönnis grade 0-1).",
+  "contraindications": "Thoái hóa khớp háng tiến triển nặng (Tönnis grade 2-3), cứng khớp háng (gập háng < 90°), tuổi > 45-50 tuổi có thoái hóa diện rộng (ưu tiên thay khớp háng THA).",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ thấu quang, đặt thông tiểu Foley, sát khuẩn và phủ săng cho phép di động tự do chi dưới để kiểm tra tầm vận động và xung đột chỏm cổ sau khi xoay ổ cối. Máy tăng sáng C-arm chụp tư thế chậu thẳng (AP pelvis) và tư thế False-profile.",
+  "surgical_approach": "Đường mổ trước ngoài kiểu Smith-Petersen cải tiến hoặc đường Bikini. Cấu trúc nguy cơ: Dây thần kinh bì đùi ngoài (LFCN); Thần kinh đùi và bó mạch đùi ở phía trước trong; Dây thần kinh ngồi (Sciatic nerve) ở phía sau khuyết háng lớn.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Đường rạch da & Bộc lộ bao khớp háng",
-      "detail": "tabular segment is individualized for each patient. Care must be taken not to overantevert the acetabular segment because posterior impingement can be created. In combined type deformity, an osteochondroplasty of the femoral head-neck junction can be done through the Smith-Petersen approach used for the PAO. reported the use of PAO for impingement caused by acetabular retroversion in 29 hips, 24 of which had concurrent reshaping of the femoral head-neck junction. They strove for 30 degrees of internal rotation in 90 degrees of hip flexion. Seventy-one percent had good to excellent results...",
-      "action": "Bảo vệ thần kinh ngồi và nhánh mạch mũ đùi ngoài."
+      "title": "Đường rạch da trước & Bộc lộ khung chậu",
+      "detail": "Rạch da theo bờ trước mào chậu qua gai chậu trước trên (ASIS) hướng xuống đùi trước ngoài. Bộc lộ gai chậu trước dưới (AIIS), tách chỗ bám cơ thẳng đùi đầu thẳng và đầu quặp để tiếp cận mặt trước bao khớp háng.",
+      "action": "Bảo vệ tối đa dây thần kinh bì đùi ngoài (LFCN) nằm sát bờ trong ASIS."
     },
     {
       "step": 2,
-      "title": "Thì 2: Phẫu tích theo lớp & Bộc lộ phẫu trường",
-      "detail": "Which patients are better treated with arthroscopic and open techniques will be better defined as longer follow-up studies with better levels of evidence become available. More rapid recovery following arthroscopy has been reported by multiple authors, while radiographic and clinical para­ meters of impingement are treated effectively. Although advanced techniques of arthroscopy are being developed, there do appear to be some general limitations to the arthroscopic technique and situations in which open tech­ niques may be preferable. A cam deformity extending into the posterior-superior...",
-      "action": "Phẫu tích cẩn trọng, cầm máu kỹ lưỡng các nhánh mạch nuôi."
+      "title": "Cắt xương ngành ngồi & Ngành mu (Ischial & Pubic Osteotomies)",
+      "detail": "Phẫu tích bờ trong và bờ dưới ổ cối. Dùng đục cong 30° cắt xương ngành ngồi dưới ổ cối (chừa lại 1 cm vỏ xương cột sau). Cắt ngang ngành trên xương mu cách ổ cối 1-1.5 cm dưới sự bảo vệ của banh Langenbeck che chở bó mạch đùi.",
+      "action": "Luôn đặt banh bảo vệ mặt trong xương mu để tránh làm tổn thương động mạch đùi."
     },
     {
       "step": 3,
-      "title": "Thì 3: Thao tác kỹ thuật chính",
-      "detail": "Factors that increased clini­ cal suspicion of extraarticular FAI included a history of lateral or posterior pain, decreased external rotation, decreased internal rotation with no evidence of a cam lesion, absence of major pelvic or acetabular deformity, a positive posterior impingement sign, incomplete response to intraarticular injection of a local anesthetic or corticosteroid, and contin­ ued impingement-type symptoms after arthroscopic treat­ ment without a residual cam lesion. The types of extraarticular impingement were character­ ized as anterior, posterior, and complex (Fig. In the...",
-      "action": "Đảm bảo diện cắt và nắn chỉnh chuẩn xác theo trục cơ học."
+      "title": "Cắt xương cánh chậu trên ổ cối & Cột sau (Supra-acetabular & Retroacetabular Cuts)",
+      "detail": "Cắt xương cánh chậu từ dưới AIIS hướng ra sau tới đường vô danh, nằm cách khuyết ngồi lớn khoảng 1.5 cm. Tiếp tục đường cắt xương cột sau từ trên xuống dưới nối vào đường cắt ngồi, giữ nguyên vẹn cột sau và độ vững vòng chậu.",
+      "action": "Không được cắt phạm vào khuyết ngồi lớn để tránh tổn thương thần kinh ngồi và động mạch mông trên."
     },
     {
       "step": 4,
-      "title": "Thì 4: Đặt phương tiện cố định / Phục hồi giải phẫu",
-      "detail": "The treatment of these disorders in skeletally immature patients is discussed in Chapter 30. Radiographically, dysplasia of the hip is characterized by an LCE angle of less than 20 degrees, with hips in the 20- to 25-degree range having borderline dysplasia. Typically, the Tönnis angle is increased above 10 degrees. Dysplastic hips also display a lateralized hip center with a broadened radio­ graphic teardrop. The femoral neck-shaft angle usually is increased, and the proximal femur is excessively anteverted. The femoral head may be small and have a flattened lateral contour. Many patients...",
-      "action": "Đặt implant hoặc phương tiện kết hợp xương vững chắc sinh học."
+      "title": "Xoay nắn chỉnh mảnh ổ cối (Acetabular Fragment Reorientation)",
+      "detail": "Bắt 1 vít Schanz 5.0 mm vào gai chậu trước dưới của mảnh ổ cối rời làm cần điều khiển. Nhẹ nhàng xoay ổ cối ra trước và ra ngoài để tăng che phủ chỏm đùi (phục hồi góc LCEA 25-35°, góc Tönnis 0-5°). Kiểm tra độ gập háng không bị xung đột (cam/pincer impingement).",
+      "action": "Tránh xoay ổ cối quá mức ra trước gây hội chứng xung đột chỏm cổ đùi (Pincer FAI)."
     },
     {
       "step": 5,
-      "title": "Thì 5: Kiểm tra vận động, Dẫn lưu kín & Đóng vết mổ",
-      "detail": "found that for each degree of reduction in the lateral center edge angle below 28 degrees there was a 14% increase in the risk of developing secondary osteoarthritis, implying that our definition of dysplasia based on a lateral center edge angle of 20 degrees may be too restrictive. Typically, patients with hip dysplasia become symptom­ atic between their second and fifth decades of life. Initially, pain may occur only with high-stress activities or prolonged standing. Impingement or FADIR testing may become posi­ tive with injury to the labrum. Apprehension testing can be positive with...",
-      "action": "Khâu phục hồi bao khớp và cân cơ tỉ mỉ chống trật khớp."
+      "title": "Cố định vít & Kiểm tra C-arm (Fixation & Closure)",
+      "detail": "Bắt 3-4 vít xốp 3.5 mm / 4.5 mm từ mào chậu xuống mảnh ổ cối đã xoay. Kiểm tra C-arm AP chậu: góc che phủ đạt chuẩn, đường Shenton liên tục. Bơm rửa sạch, đặt dẫn lưu kín áp lực âm, khâu phục hồi gân cơ thẳng đùi và đóng da theo lớp.",
+      "action": "Đảm bảo các vít ngậm chặt xương xốp và tuyệt đối không xuyên vào khe khớp háng."
     }
   ],
-  "postop_protocol": "Nằm ngửa kê gối dạng háng giữa 2 chân. Bắt đầu tập co cơ tĩnh cơ tứ đầu và tập vận động thụ động sớm từ ngày 1-2. Tì đè theo hướng dẫn của phẫu thuật viên.",
-  "pearls_pitfalls": "Bảo vệ nguyên vẹn thần kinh ngồi ở bờ sau bao khớp; Xác định chính xác góc nghiêng (40-45°) và góc ngửa trước (15-20°) của cup ổ cối để tránh trật khớp.",
+  "postop_protocol": "Đi lại bằng nạng không tì đè (non-weight bearing) trong 6-8 tuần đầu. Tập gập duỗi thụ động sớm (CPM) và co cơ tĩnh cơ tứ đầu. Tì đè một phần sau tuần 8-10 khi có can xương liền ở các đường cắt xương. Tì đè hoàn toàn sau tuần 12.",
+  "pearls_pitfalls": "Cẩn trọng đường cắt cột sau: giữ nguyên bản lề xương cột sau giúp bệnh nhân có thể ngồi dậy sớm mà không sợ di lệch; Luôn kiểm tra kiểm soát xung đột chỏm cổ sau khi nắn xoay ổ cối.",
   "image_url": "web/static/images/techniques/6-4.webp",
   "images": [
     {

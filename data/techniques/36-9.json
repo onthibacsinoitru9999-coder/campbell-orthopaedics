@@ -1,1 +1,60 @@
-{"tech_id": "36-9", "name_en": "Open Reduction and Internal Fixation of Medial Condylar Fracture", "name_vi": "Kỹ thuật Phẫu thuật 36-9: Open Reduction and Internal Fixation of Medial Condylar Fracture", "chapter": 36, "category": "General", "pdf_page": 1613, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 36 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Open Reduction and Internal Fixation of Medial Condylar Fracture bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "36-9",
+  "name_en": "Open Reduction and Internal Fixation of Medial Condylar Fracture",
+  "name_vi": "Chỉnh Hình Nhi Khoa (36-9): Open Reduction and Internal Fixation of Medial Condylar Fracture",
+  "chapter": 36,
+  "category": "Chỉnh Hình Nhi Khoa",
+  "pdf_page": 1613,
+  "author": "",
+  "clinical_indications": "Chỉ định trong các dị tật bẩm sinh hoặc di chứng chấn thương ở trẻ em (bàn chân khoèo, trật khớp háng bẩm sinh DDH, trượt chỏm xương đùi SCFE, bệnh Perthes, biến dạng trục chi, gãy xương trẻ em) theo phác đồ Campbell Nhi khoa.",
+  "contraindications": "Nhiễm trùng cấp tính tại chỗ; các dị tật bẩm sinh đa cơ quan nặng chưa ổn định tim mạch hô hấp; chống chỉ định toàn thân với gây mê nội khí quản.",
+  "patient_prep": "Bệnh nhân nhi được gây mê nội khí quản kết hợp gây tê vùng/phong bế thần kinh ngoại vi để giảm đau đa mô thức. Đặt tư thế phù hợp trên bàn mổ có sưởi ấm thân nhiệt liên tục. Chuẩn bị máy tăng sáng C-arm với liều xạ thấp nhất có thể.",
+  "surgical_approach": "Cấu trúc nguy cơ: BẢO VỆ TỐI THƯỢNG SỤN TIẾP HỢP (Physis / Growth plate) - tránh khoan hoặc bắt vít vắt chéo sụn tiếp hợp trừ khi bắt buộc có chỉ định triệt tiêu sụn; Bảo vệ cuống mạch nuôi chỏm xương đùi (nhánh sâu động mạch mũ đùi trong) trong trật háng và SCFE; Bảo tồn thần kinh chày sau và thần kinh mác.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Nhận diện mốc giải phẫu nhi khoa",
+      "detail": "OPEN REDUCTION AND INTERNAL FIXATION OF MEDIAL CONDYLAR FRACTURE locations, and it is important to ensure that the medial epi­ condyle is not entrapped after reduction of the dislocation. The most common mechanism of injury is an avulsion that can occur as a result of a valgus stress being placed on the extended elbow, usually after a fall. The medial epicondy­ lar apophysis is the origin of the ulnar collateral ligament, which if under valgus stress, avulses it.",
+      "action": "Rạch da theo nếp lằn tự nhiên; phẫu tích nhẹ nhàng nhận diện và bảo vệ sụn tiếp hợp."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bảo tồn sụn tiếp hợp & Giải phóng mô xơ co rút",
+      "detail": "It can also occur as a result of a pure avulsion by the forearm flexors and rarely with a direct blow to the elbow. In complete fractures, the avulsed apophysis displaces distally from pull of the forearm flexor mass originating on it. Radiographic and CT studies have shown that accurately measuring the true amount of displace­ ment in all planes is difficult.",
+      "action": "Kéo dài gân hoặc cắt bao khớp co rút nới lỏng tổ chức mô mềm quanh khớp."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cắt xương chỉnh trục / Nắn chỉnh giải phẫu ổ khớp",
+      "detail": "Nondisplaced fractures can be treated with 2 to 3 weeks of immobilization in a long arm cast or brace followed by gradual resumption of activity. The absolute indication for operative treatment is an entrapped intraarticular apophyseal fragment in an elbow dislocation. Other indications include fractures associated with elbow dislocations to allow early range of motion and fractures displaced more than 1 cm.",
+      "action": "Cắt xương chỉnh góc mở/đóng hoặc nắn kín/nắn mở đưa chỏm khớp vào trung tâm ổ cối."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định bằng kim Kirschner / Nẹp vít chuyên dụng nhi",
+      "detail": "A relative indication is a minimally displaced fracture in a highdemand throwing athlete. Treatment of mildly displaced fractures, less than 1 cm, remains controversial because of the difficulty in measuring true displacement, the good results being reported in small series of patients treated both Anteroposterior (A) and lateral (B) radiographs of patient with an elbow dislocation and associated fracture of the medial epicondyle. C, Postreduction CT showing true displacement of the epicondyle.",
+      "action": "Ghim kim K-wire dẫn đường hoặc nẹp khóa nhi khoa đạt độ cố định cơ học vững vàng."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm 2 bình diện, cầm máu & Bó bột bất động",
+      "detail": "D, Hammerlock position allows for relaxation of forearm flexors attached to the displaced fragment. Anteroposterior (E) and lateral (F) radiographs after fixation with a cannulated screw and washer. A B C D E F operatively and nonoperatively, and the lack of comparison studies.",
+      "action": "Chụp kiểm tra C-arm xác nhận góc trục giải phẫu hoàn hảo; băng vô trùng và bó bột Spica."
+    }
+  ],
+  "postop_protocol": "Bất động bằng bột chậu - lưng - chân (Spica cast) hoặc nẹp bột đùi cẳng bàn chân trong 6-12 tuần tùy lứa tuổi. Chụp X-quang kiểm tra vị trí nắn chỉnh và dụng cụ kết hợp xương định kỳ. Hướng dẫn phụ huynh chăm sóc nẹp bột chống loét tì đè.",
+  "pearls_pitfalls": "Thao tác phẫu tích ở trẻ em phải cực kỳ tinh tế, nhẹ nhàng; Không bóc tách màng xương quá mức gây dính sụn phát triển; Luôn kiểm tra đối chiếu bên lành trên màn tăng sáng C-arm; Đạt được nắn chỉnh đồng tâm tuyệt đối trong trật háng.",
+  "image_url": "web/static/images/techniques/36-9.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/36-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 36-9 (Open Reduction and Internal Fixation of Medial Condylar Fracture) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/36-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 36-9 (Open Reduction and Internal Fixation of Medial Condylar Fracture) - Campbell 13th Ed"
+    }
+  ]
+}

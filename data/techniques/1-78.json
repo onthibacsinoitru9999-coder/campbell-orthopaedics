@@ -1,1 +1,60 @@
-{"tech_id": "1-78", "name_en": "Triradiate Extensile Approach to the Acetabulum (Mears and Rubash)", "name_vi": "Kỹ thuật Phẫu thuật 1-78: Triradiate Extensile Approach to the Acetabulum (Mears and Rubash)", "chapter": 1, "category": "General", "pdf_page": 101, "author": "Mears and Rubash", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 1 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Triradiate Extensile Approach to the Acetabulum (Mears and Rubash) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "1-78",
+  "name_en": "Triradiate Extensile Approach to the Acetabulum (Mears and Rubash)",
+  "name_vi": "Đường Mổ Ngoại Khoa (1-78): Triradiate Extensile Approach to the Acetabulum (Mears and Rubash)",
+  "chapter": 1,
+  "category": "Đường Mổ & Tiếp Cận Ngoại Khoa",
+  "pdf_page": 101,
+  "author": "Mears and Rubash",
+  "clinical_indications": "Tiếp cận phẫu thuật chuẩn xác cho các can thiệp chỉnh hình và chấn thương thuộc vùng giải phẫu của kỹ thuật Triradiate Extensile Approach to the Acetabulum (Mears and Rubash) theo nguyên bản Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng nông hoặc tổn thương da trợt loét tại vị trí rạch mổ; suy dinh dưỡng nặng hoặc tổn thương mạch máu nuôi dưỡng vạt da chưa tái thông.",
+  "patient_prep": "Bệnh nhân nằm trên bàn mổ ở tư thế thích hợp theo vị trí giải phẫu can thiệp. Bộc lộ rộng rãi, sát khuẩn 3 lần bằng cồn Povidone-Iodine, trải săng vô khuẩn cho phép cử động tự do các khớp lân cận.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bảo tồn các nhánh thần kinh cảm giác nông dưới da (nhánh bì), các bó mạch nuôi dưỡng màng xương; tuyệt đối tôn trọng ranh giới gian cơ (internervous plane) để tránh làm mất phân bố thần kinh cơ.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Định vị mốc giải phẫu & Đường rạch da",
+      "detail": "TRIRADIATE EXTENSILE APPROACH TO THE ACETABULUM Mears and Rubash modified Charnley’s initial total hip arthroplasty approach and developed an extensile acetabu­ lar approach providing access to the acetabulum, the ante­ rior and posterior columns, the inner iliac wall, the anterior aspect of the sacroiliac joint, and the outer aspect of the innominate bone. This triradiate approach was developed for reduction and repair of complex acetabular fractures. It avoids the potential complication of massive ischemic necrosis of the hip abductors caused by injury to the supe­ rior gluteal vessels, which is a possibility when the extended iliofemoral...",
+      "action": "Đánh dấu mốc xương bề mặt; rạch da chính xác theo chiều dài phẫu trường dự kiến."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích lớp dưới da & Xác định khe gian cơ",
+      "detail": "Mears and Rubash triradiate extensile approach. B, Superficial fascial incision. C, Origin of tensor fasciae latae has been elevated from anterior iliac crest.",
+      "action": "Tách vạt da dưới da dày; nhận diện chính xác khe gian cơ tự nhiên."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Mở mạc sâu & Bộc lộ bao khớp / màng xương",
+      "detail": "Gluteus maximus has been split in line with its fibers up to inferior gluteal nerve and vessels. D, Greater trochanter has been osteotomized and reflected posteriorly exposing sciatic nerve and short external rotators. Gluteal and tensor fasciae latae muscles have been ele­ vated from outer table of ilium and hip joint capsule and reflected posteriorly.",
+      "action": "Rạch mạc cơ dọc thớ; bóc tách màng xương nhẹ nhàng bảo vệ cuống mạch."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt banh tự động bảo vệ thần kinh - mạch máu",
+      "detail": "E, Short external rotators have been severed from greater trochanter and reflected posteriorly. Quadratus femoris remains intact. Gluteal and tensor fasciae latae muscles have been retracted superiorly and held with Steinmann pins to expose posterior column.",
+      "action": "Đặt các banh tỳ xương vững chắc, tránh tì đè kéo căng bó mạch thần kinh."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra phẫu trường, cầm máu & Đóng vết mổ theo lớp",
+      "detail": "Joint capsule has been severed circumferen­ tially from acetabulum. F, Abdominal muscles have been incised and iliacus muscle elevated subperiosteally from ilium and reflected medially to expose inner table of ilium (see text and also Fig. (Modified from Mears DC, Rubash HE: Pelvic and acetabu­ lar fractures, Thorofare, NJ, Slack, 1986.) SEE",
+      "action": "Rửa sạch phẫu trường, khâu phục hồi mạc sâu mũi rời và khâu mép da không căng."
+    }
+  ],
+  "postop_protocol": "Chăm sóc theo dõi vết mổ, thay băng vô trùng ngày thứ 2, phát hiện sớm dấu hiệu tụ máu hoặc hoại tử mép da. Bất động nẹp đỡ tạm thời và hướng dẫn tập vận động chủ động sớm cơ khớp lân cận.",
+  "pearls_pitfalls": "Rạch da dứt khoát 1 lần vuông góc với mặt da; bóc tách vạt da và tổ chức dưới da cùng 1 lớp (full thickness) để bảo tồn mạng lưới mạch dưới da; bộc lộ dọc theo các khe gian cơ sinh lý.",
+  "image_url": "web/static/images/techniques/1-78.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/1-78.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 1-78 (Triradiate Extensile Approach to the Acetabulum (Mears and Rubash)) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/1-78_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 1-78 (Triradiate Extensile Approach to the Acetabulum (Mears and Rubash)) - Campbell 13th Ed"
+    }
+  ]
+}

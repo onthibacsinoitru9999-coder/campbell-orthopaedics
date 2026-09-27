@@ -1,1 +1,60 @@
-{"tech_id": "15-7", "name_en": "Transmetatarsal Amputation", "name_vi": "Kỹ thuật Phẫu thuật 15-7: Transmetatarsal Amputation", "chapter": 15, "category": "General", "pdf_page": 730, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 15 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Transmetatarsal Amputation bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "15-7",
+  "name_en": "Transmetatarsal Amputation",
+  "name_vi": "Phẫu Thuật Cắt Cụt (15-7): Transmetatarsal Amputation",
+  "chapter": 15,
+  "category": "Phẫu Thuật Cắt Cụt & Tạo Hình Mỏm Cụt",
+  "pdf_page": 730,
+  "author": "",
+  "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
+  "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thiết kế vạt da mỏm cụt & Rạch da theo tỷ lệ",
+      "detail": "violate any abscess, leaving the metatarsophalangeal joint intact.",
+      "action": "Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo chuẩn tỷ lệ chiều dài/rộng."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích khối cơ, thắt mạch máu chính 2 lần",
+      "detail": "Identify the nerves and divide them well proximally so that their cut ends fall proximal to the end of the bones.",
+      "action": "Cắt cơ theo lớp vát hình nón; phẫu tích bộc lộ bó mạch lớn và thắt kép an toàn."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cắt xử lý thân thần kinh chống u thần kinh mỏm cụt",
+      "detail": "Divide the tendons under tension so that they retract into the foot. As an alternative, suture the flexor and extensor tendons to each other to form a myoplasty. A drain may be used as necessary.",
+      "action": "Kéo nhẹ thân thần kinh xuống 3-5 cm, cắt ngang dứt khoát để đầu thần kinh co sâu vào cơ."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cắt xương, vát tròn bờ xương & Khâu cố định cơ Myodesis",
+      "detail": "Bring the long plantar flap over the ends of the bones and suture it to the dorsal flap with interrupted nonabsorbable sutures (Fig. 15-17G-I). Be careful about “contouring” skin tags at the medial and lateral edges because this may jeopardize the blood supply to the flap. This excessive tissue disappears with time.",
+      "action": "Cắt xương ngang mức dự kiến; dùng giũa mài tròn nhẵn các góc cạnh sắc của vỏ xương."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Cầm máu triệt để, đặt dẫn lưu kín & Đóng da không căng",
+      "detail": "Apply a light compressive dressing and place the foot in a carefully padded posterior splint with the ankle in neutral to slight dorsiflexion.",
+      "action": "Khâu vạt cơ qua các lỗ khoan xương màng xương; khâu da mũi rời nới lỏng không thiếu máu."
+    }
+  ],
+  "postop_protocol": "Băng ép mỏm cụt bằng băng chun vô khuẩn hình số 8 hoặc nẹp bột cứng bảo vệ tránh co rút gập khớp. Theo dõi sát màu sắc mép vạt và dịch dẫn lưu. Rút dẫn lưu sau 24-48 giờ. Hướng dẫn tập gồng cơ mỏm cụt và tập phục hồi chức năng đi chi giả sớm.",
+  "pearls_pitfalls": "Tuyệt đối không khâu căng mép vạt da mỏm cụt; Bắt buộc khâu đính cơ qua xương (Myodesis) hoặc khâu cơ đối cơ (Myoplasty) để tạo đệm êm vững chắc cho mỏm cụt tì đè; Vát tròn các bờ xương sắc nhọn.",
+  "image_url": "web/static/images/techniques/15-7.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/15-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 15-7 (Transmetatarsal Amputation) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/15-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 15-7 (Transmetatarsal Amputation) - Campbell 13th Ed"
+    }
+  ]
+}

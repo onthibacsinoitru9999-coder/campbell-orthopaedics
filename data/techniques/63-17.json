@@ -1,1 +1,60 @@
-{"tech_id": "63-17", "name_en": "Dissection for Latissimus Dorsi Transfer", "name_vi": "Kỹ thuật Phẫu thuật 63-17: Dissection for Latissimus Dorsi Transfer", "chapter": 63, "category": "General", "pdf_page": 3632, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 63 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Dissection for Latissimus Dorsi Transfer bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "63-17",
+  "name_en": "Dissection for Latissimus Dorsi Transfer",
+  "name_vi": "Kỹ thuật Phẫu Thuật (63-17): Dissection for Latissimus Dorsi Transfer",
+  "chapter": 63,
+  "category": "Phẫu Thuật Chỉnh Hình Campbell",
+  "pdf_page": 3632,
+  "author": "",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý và chấn thương theo nguyên bản sách Campbell's Operative Orthopaedics 13th Edition cho kỹ thuật Dissection for Latissimus Dorsi Transfer.",
+  "contraindications": "Nhiễm trùng tại chỗ phẫu trường; bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát; thể trạng chưa sẵn sàng cho cuộc mổ lớn.",
+  "patient_prep": "Bệnh nhân nằm trên bàn mổ ở tư thế phù hợp theo vùng giải phẫu. Sát trùng rộng rãi, trải săng vô trùng cho phép cử động tự do các khớp lân cận.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bảo tồn các mạch máu và dây thần kinh lớn đi qua vùng can thiệp; tránh kéo căng quá mức mô mềm.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường theo lớp giải phẫu",
+      "detail": "the lower portion of the posterior trunk and passes laterally to insert on the inferior portion of the bicipital groove of the humerus. The principal vascular supply to the latissimus dorsi is through the thoracodorsal branch of the subscapular artery with its venae comitantes. The thoracodorsal artery courses just deep to the anterior margin of the latissimus dorsi and enters the muscle on its deep surface 8 to 12 cm from the insertion (Fig.",
+      "action": "Rạch da chính xác theo đường mổ chuẩn, bóc tách nhẹ nhàng theo lớp giải phẫu."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đánh giá thương tổn & Chuẩn bị diện phẫu thuật",
+      "detail": "If the thoracodorsal artery is taken below the circumflex scapular branch, it has a diameter of 1.5 to 3 mm. Secondary vascular pedicles enter the muscle medially from the perfo­ rating branches of the lumbar and posterior intercostal arter­ ies. The thoracodorsal nerve follows the artery and has two to three fascicles with a diameter of about 2 mm.",
+      "action": "Nhận diện rõ thương tổn bệnh lý, bảo tồn tối đa mô lành xung quanh."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thực hiện can thiệp tạo hình / Tái tạo chính thức",
+      "detail": "All of the muscle with most of its overlying skin can be transferred with the thoracodorsal neurovascular bundle. Skin flaps of varying sizes may be oriented over the muscle as needed. DISSECTION FOR LATISSIMUS DORSI TRANSFER A, Latissimus dorsi musculocutaneous flap design (dotted line).",
+      "action": "Thực hiện các thao tác chuyên sâu theo quy trình chuẩn của Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định phương tiện kết hợp xương / Khâu phục hồi",
+      "detail": "Note skin flap along anterior inferior portion of muscle. B, Latissimus dorsi muscle flap incision is parallel and 3 cm posterior to anterior edge of muscle. C, Latissimus dorsi flap isola­ tion.",
+      "action": "Cố định phương tiện chỉnh hình đạt độ vững chắc sinh học cơ học tối ưu."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra cơ học, cầm máu & Đóng vết mổ theo lớp",
+      "detail": "Distal and posteromedial portions have been released to allow for cephalad dissection of vascular pedicle. Anterior arterial branch to underlying serratus anterior is divided. D, Division of circumflex scapular artery allows dissection up to subscapular artery origin of axillary artery.",
+      "action": "Rửa sạch phẫu trường, kiểm tra cầm máu kỹ lưỡng và đóng vết mổ theo từng lớp."
+    }
+  ],
+  "postop_protocol": "Chăm sóc theo dõi vết mổ, nẹp bột hoặc đai đỡ bất động theo đúng chỉ định. Bắt đầu tập phục hồi chức năng sớm chống cứng khớp và teo cơ.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; tuân thủ các mốc giải phẫu an toàn của Campbell.",
+  "image_url": "web/static/images/techniques/63-17.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/63-17.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 63-17 (Dissection for Latissimus Dorsi Transfer) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/63-17_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 63-17 (Dissection for Latissimus Dorsi Transfer) - Campbell 13th Ed"
+    }
+  ]
+}

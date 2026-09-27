@@ -1,1 +1,55 @@
-{"tech_id": "69-5", "name_en": "Open Reduction and Internal Fixation of Acute Displaced Fractures of the Scaphoid—Volar Approach", "name_vi": "Mổ Mở Nắn Chỉnh & Bắt Vít Nén Ép Không Đầu Mặt Lòng Gãy Xương Thuyền (Herbert/Acutrak)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3887, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh & Bắt Vít Nén Ép Không Đầu Mặt Lòng Gãy Xương Thuyền (Herbert/Acutrak) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Reduction and Internal Fixation of Acute Displaced Fractures of the Scaphoid—Volar Approach: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Placement of Kirschner wires down the long axis of the scaphoid is made easier by gentle radial deviation of the wrist, aligning the scaphoid vertically. With the wrist in this position, direct the wires almost dorsally into the scaphoid.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "After stable reduction and fixation are obtained, check the position and alignment of the reduction and the placement of the internal fixation with image intensifica- tion or radiographs.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Deflate the tourniquet and obtain hemostasis.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Insert a drain if needed, and close the wrist capsule with nonabsorbable sutures or long-lasting absorbable sutures.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Close the skin and apply a dressing that includes either a thumb spica splint or a thumb spica cast. Transverse incision of skin. Radial-based capsular flap between dorsal radiotriquetral and dorsal intercarpal ligaments (enlargement shows proximal one third fracture of scaphoid). SEE", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": "web/static/images/techniques/69-5.webp", "images": [{"url": "web/static/images/techniques/69-5.webp", "type": "diagram", "caption": "Đường mổ mặt lòng và kỹ thuật bắt vít nén ép không đầu Herbert kết hợp xương thuyền"}]}
+{
+  "tech_id": "69-5",
+  "name_en": "Open Reduction and Internal Fixation of Acute Displaced Fractures of the Scaphoid—Volar Approach",
+  "name_vi": "Mổ Mở Nắn Chỉnh & Bắt Vít Nén Ép Không Đầu Mặt Lòng Gãy Xương Thuyền (Herbert/Acutrak)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3887,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh & Bắt Vít Nén Ép Không Đầu Mặt Lòng Gãy Xương Thuyền (Herbert/Acutrak) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Reduction and Internal Fixation of Acute Displaced Fractures of the Scaphoid—Volar Approach: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da lối lòng bàn tay kiểu Russe / Henry & Bộc lộ xương thuyền (Incision & Volar Approach)",
+      "detail": "Thực hiện đường rạch da dọc hơi cong ở bờ quay gan cổ tay qua rãnh gân gấp cổ tay quay (FCR). Mở bao gân FCR, phẫu tích kéo gân FCR vào trong và kéo động mạch quay ra ngoài. Rạch mở bao khớp cổ tay bộc lộ rõ diện gãy mặt gan xương thuyền.",
+      "action": "Bảo vệ nguyên vẹn động mạch quay và nhánh cảm giác bì gan tay thần kinh giữa."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ ổ gãy, làm sạch diện gãy & Nắn chỉnh giải phẫu (Debridement & Reduction)",
+      "detail": "Lấy sạch máu tụ và mô mềm chèn kẹt giữa hai mảnh gãy xương thuyền. Dùng kim K-wire nhỏ làm cần điều khiển (joystick) nắn chỉnh mặt sụn khớp và thẳng trục giải phẫu xương thuyền.",
+      "action": "Phục hồi góc gập xương thuyền (tránh biến dạng gập góc lưng gù humpback deformity)."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Đặt kim dẫn đường & Bắt vít nén ép không mũ (Headless Compression Screw Fixation)",
+      "detail": "Placement of Kirschner wires down the long axis of the scaphoid is made easier by gentle radial deviation of the wrist, aligning the scaphoid vertically. With the wrist in this position, direct the wires almost dorsally into the scaphoid. Khoan doa rãnh và bắt vít xốp rỗng không đầu (headless cannulated compression screw) chìm ngập hoàn toàn dưới mặt sụn khớp.",
+      "action": "Đảm bảo vít nằm chính tâm trục xương thuyền và tạo lực nén ép liên mảnh tối đa."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra C-arm 2 bình diện & Đánh giá độ vững chắc (Fluoroscopic Verification)",
+      "detail": "After stable reduction and fixation are obtained, check the position and alignment of the reduction and the placement of the internal fixation with image intensification or radiographs across AP, lateral, and scaphoid views.",
+      "action": "Xác nhận đầu vít chìm ngập hoàn toàn dưới diện sụn, không phạm vào khe khớp quay thuyền hay thuyền thê."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Cầm máu, đóng bao khớp, dẫn lưu kín & Bất động nẹp bột (Closure & Splinting)",
+      "detail": "Deflate the tourniquet and obtain hemostasis. Insert a drain if needed, and close the wrist capsule with nonabsorbable sutures. Close the skin and apply a dressing that includes either a thumb spica splint or a thumb spica cast.",
+      "action": "Khâu kín bao khớp che chở vít và bất động nẹp bột ôm ngón cái (thumb spica) ở tư thế cơ năng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-5.webp",
+      "type": "diagram",
+      "caption": "Đường mổ mặt lòng và kỹ thuật bắt vít nén ép không đầu Herbert kết hợp xương thuyền"
+    }
+  ]
+}

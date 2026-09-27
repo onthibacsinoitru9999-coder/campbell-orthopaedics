@@ -1,1 +1,49 @@
-{"tech_id": "79-9", "name_en": "Cleft Closure (Barsky)", "name_vi": "Tái Tạo Khớp Cổ Tay Bằng Mảnh Ghép Xương Sụn Vi Phẫu Điều Trị Bất Sản Xương Quay", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4280, "author": "Barsky", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Khớp Cổ Tay Bằng Mảnh Ghép Xương Sụn Vi Phẫu Điều Trị Bất Sản Xương Quay (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Cleft Closure (Barsky): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Under tourniquet control, sharply elevate a distally based, diamond-shaped flap from one side of the opposing sides of the involved fingers (Fig. 79-25A). Place the flap slightly dorsally to allow for a gentle slope of the commissure. Make the flap approximately 1 cm at the base and 1.5 times longer", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make an incision from the free end of the flap along the opposing surfaces of the cleft.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Expose the metacarpals extraperiosteally.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tái Tạo Khớp Cổ Tay Bằng Mảnh Ghép Xương Sụn Vi Phẫu Điều Trị Bất Sản Xương Quay)", "detail": "Excise excess soft tissue and bony elements that would prevent apposing of the metacarpals.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Drill two holes in each metacarpal just proximal to the heads and place a heavy suture through the holes (Fig. 79-25B).", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-9",
+  "name_en": "Cleft Closure (Barsky)",
+  "name_vi": "Tái Tạo Khớp Cổ Tay Bằng Mảnh Ghép Xương Sụn Vi Phẫu Điều Trị Bất Sản Xương Quay",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4280,
+  "author": "Barsky",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Khớp Cổ Tay Bằng Mảnh Ghép Xương Sụn Vi Phẫu Điều Trị Bất Sản Xương Quay (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Cleft Closure (Barsky): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da dọc mép khe hở bàn tay (Incision along Cleft Margins)",
+      "detail": "Make an incision from the free end of the flap along the opposing surfaces of the cleft. Rạch da theo bờ các ngón tay cạnh khe hở bàn tay bẩm sinh.",
+      "action": "Thiết kế đường rạch bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thiết kế & Bóc tách vạt da hình thoi đáy ngọn (Diamond-Shaped Flap Elevation)",
+      "detail": "Under tourniquet control, sharply elevate a distally based, diamond-shaped flap from one side of the opposing sides of the involved fingers (Fig. 79-25A). Place the flap slightly dorsally to allow for a gentle slope of the commissure. Make the flap approximately 1 cm at the base and 1.5 times longer.",
+      "action": "Bóc tách vạt da hình thoi có cuống đáy ở ngọn ngón tay để tái tạo kẽ ngón mới."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Bộc lộ xương bàn tay ngoài màng xương (Extraperiosteal Metacarpal Exposure)",
+      "detail": "Expose the metacarpals extraperiosteally. Phẫu tích bộc lộ thân và đầu các xương bàn ngón tay hai bên khe hở.",
+      "action": "Bộc lộ xương bàn ngoài màng xương bảo vệ các nhánh mạch máu thần kinh."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cắt lọc mô mềm thừa & Thành phần xương cản trở (Excision of Excess Elements)",
+      "detail": "Excise excess soft tissue and bony elements that would prevent apposing of the metacarpals.",
+      "action": "Giải phóng triệt để các cấu trúc xơ xương bất thường ngăn cản việc khép các xương bàn tay."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Khoan lỗ xương bàn, khâu khép khe hở & Đóng da chuyển vạt (Metacarpal Approximation & Flap Inset)",
+      "detail": "Drill two holes in each metacarpal just proximal to the heads and place a heavy suture through the holes (Fig. 79-25B) to appose the metacarpals. Chuyển vạt hình thoi tái tạo kẽ ngón và khâu đóng da bằng chỉ nylon 5-0 không sức căng, nẹp bột bất động bàn tay.",
+      "action": "Buộc khép vững chắc hai xương bàn tay và tạo vòm kẽ ngón mềm mại tự nhiên."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": null,
+  "images": []
+}

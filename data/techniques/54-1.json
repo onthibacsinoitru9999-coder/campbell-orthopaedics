@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định trong phẫu thuật kết hợp xương gãy xương chi dưới (Fixation of the Lateral Malleolus), gãy di lệch mất vững theo phân loại AO/OTA và Campbell 13th Ed.",
   "contraindications": "Tổn thương mô mềm độ nặng Tscherne C3 hoặc Gustilo IIIC chưa kiểm soát mạch máu; Hội chứng chèn ép khoang cấp chưa giải áp; Sốc đa chấn thương chưa ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa hoặc nằm nghiêng trên bàn thấu quang/bàn kéo chỉnh hình, C-arm sẵn sàng kiểm tra 2 bình diện.",
-  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chính của chi (thần kinh ngồi, mác chung, chày, bó mạch đùi/khoeo/chày trước).",
+  "surgical_approach": "Đường mổ dọc bờ sau ngoài mắt cá ngoài. Cấu trúc nguy cơ: Thần kinh mác nông (Superficial peroneal nerve - SPN) bắt chéo phía trước ngoài và Thần kinh bắp chân (Sural nerve) cùng tĩnh mạch hiển bé chạy ngay bờ sau mắt cá ngoài.",
   "surgical_steps": [
     {
       "step": 1,

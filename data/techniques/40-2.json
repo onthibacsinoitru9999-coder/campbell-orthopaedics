@@ -1,1 +1,60 @@
-{"tech_id": "40-2", "name_en": "In Situ Posterolateral Instrumented Fusion: Wiltse and Spencer Approach", "name_vi": "Kỹ thuật Phẫu thuật 40-2: In Situ Posterolateral Instrumented Fusion: Wiltse and Spencer Approach", "chapter": 40, "category": "General", "pdf_page": 1934, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 40 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật In Situ Posterolateral Instrumented Fusion: Wiltse and Spencer Approach bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "40-2",
+  "name_en": "In Situ Posterolateral Instrumented Fusion: Wiltse and Spencer Approach",
+  "name_vi": "Phẫu Thuật Cột Sống (40-2): In Situ Posterolateral Instrumented Fusion: Wiltse and Spencer Approach",
+  "chapter": 40,
+  "category": "Phẫu Thuật Cột Sống",
+  "pdf_page": 1934,
+  "author": "",
+  "clinical_indications": "Chỉ định trong chấn thương mất vững cột sống, thoát vị đĩa đệm chèn ép tủy/rễ thần kinh kháng trị, hẹp ống sống, trượt đốt sống, gù vẹo cột sống vô căn (AIS) hoặc thoái hóa cột sống mất vững theo phân loại TLICS/SLIC.",
+  "contraindications": "Nhiễm trùng huyết hoặc nhiễm trùng mô mềm vùng cột sống; bệnh lý loãng xương quá nặng không thể neo giữ ốc vít (cần gia cố xi măng); liệt hoàn toàn tủy sống quá thời gian vàng phục hồi.",
+  "patient_prep": "Bệnh nhân nằm sấp trên khung mổ cột sống chuyên dụng (Jackson table hoặc khung Wilson) để giảm áp lực ổ bụng, chống ứ trệ tĩnh mạch ngoài màng tủy gây chảy máu (hoặc nằm ngửa trong mổ ACDF lối trước). Lắp đặt hệ thống theo dõi điện sinh lý thần kinh trong mổ (IONM: MEPs và SSEPs).",
+  "surgical_approach": "Cấu trúc nguy cơ: BẢO VỆ TỐI THƯỢNG TỦY SỐNG VÀ RỄ THẦN KINH (Spinal cord & Nerve roots); Đám rối tĩnh mạch ngoài màng cứng Batson (chảy máu ồ ạt nếu rách); Động mạch đốt sống (Vertebral artery) trong mổ cột sống cổ; Khí quản, thực quản và dây thần kinh quặt ngược thanh quản trong lối trước cổ; Động mạch và tĩnh mạch chủ chậu trong lối trước ngực thắt lưng.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Định vị C-arm tầng can thiệp & Rạch da bộc lộ",
+      "detail": "prefer the term “lytic acquired spondylolisthesis”) present with low-grade deformities (less than a 50% slip); 90% to 95% involve the L5-S1 level, with 5% to 8% at L4-L5, and very few at the more cephalic levels. Low-grade slips are much more common than those of more than 50% by a ratio of 10 : 1; however, the severity can range from spondylolysis (no slip) all the way to grade V. Fortunately, most cases of low-grade isthmic spondylolisthesis are not associated with significant kyphosis or spinal imbalance. The typical presentation is a patient with axial low-back pain that tends to be mechanical and radicular pain in an L5 distribution....",
+      "action": "Chụp C-arm định vị chính xác đốt sống tổn thương; rạch da đường giữa dọc mỏm gai."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bóc tách cơ cạnh sống & Bộc lộ mốc cuống sống / diện khớp",
+      "detail": "PATHOPHYSIOLOGY The simple presence of an isthmic spondylolisthesis is not sufficient to identify the cause of the patient’s symptoms because 7% of the population has spondylolysis, with or without spondylolisthesis, and most are asymptomatic. From retrospective long-term studies it has been found that about 80% of acquired lytic defects occur between the ages of 5 and 10 years, with the remaining 20% of fractures occurring before the age of 20 years. In most patients, spondylolisthesis is asymptomatic. Determining whether spondylolisthesis is the source of back pain requires a careful evaluation of the complaints. Mechanical back pain can...",
+      "action": "Dùng dao điện bóc tách cơ cạnh sống sát màng xương ra đến mỏm ngang hai bên."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Mở cung sau giải ép tủy và rễ thần kinh (Laminectomy)",
+      "detail": "If there is translational instability at the involved level, this can cause traction on the nerve root and produce radicular symptoms as well. In addition to these possibilities at the L5-S1 level, the L5 root can be compromised by lateral recess stenosis at the L4-5 level or less commonly by a disc herniation at the L4 disc level. Determination of the patient’s primary complaint (mechanical back pain or radicular pain) will have a signifi­ cant impact on the type of surgery that will be most appropri­ ate if conservative treatment is not successful. NONOPERATIVE TREATMENT For many patients in the 5-to-10-year age group the initial fracture...",
+      "action": "Cắt dây chằng vàng, dùng kẹp Kerrison gặm giải phóng hoàn toàn chèn ép rễ và bao tủy."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Khoan bắt vít cuống sống & Đặt miếng ghép liên thân đốt",
+      "detail": "Once the acute symptoms begin to subside, a program of low-impact aerobic exercise, trunk stabilization avoiding extension, and hamstring stretching is instituted. This often is successful in allowing the patient to return to full activity over a period of 8 to 12 weeks. Even with good resolution of mechanical symptoms, the patient needs to understand that trunk stabilization exercises will be necessary indefinitely to manage the expected episodic back pain. Patients with a lytic defect of the pars have abnormal load sharing. Normally 20% of the axial load of the lumbar spine is transmitted through the posterior column, with 80% transmitted...",
+      "action": "Tạo lỗ cuống sống, dò 4 thành xương an toàn, bắt vít cuống sống và đặt lồng Cage ghép xương."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Nắn chỉnh góc gù vẹo, khóa thanh Rod & Đóng mổ theo lớp",
+      "detail": "Before embarking on operative management of the spinal pathology, evaluation of these two areas is worthwhile. If the patient has signifi­ cant degenerative changes of the hip, an intra-articular hip injection can be confirmatory as to whether the hip is the primary pathology. In patients with significant hip or knee degeneration, correction of these problems usually is rec­ ommended before spinal surgery. The mechanical lumbar complaints often improve with improvement in gait and aerobic activities made possible by pain reduction. When neurologic symptoms predominate, spinal surgery generally should be done first. OPERATIVE TREATMENT...",
+      "action": "Lắp thanh nẹp dọc (Rod), ép nén phục hồi đường cong sinh lý, siết chặt ốc khóa và đóng da."
+    }
+  ],
+  "postop_protocol": "Nằm nghỉ tại giường ngày đầu, mang áo nẹp cột sống cứng (Thoracolumbosacral orthosis - TLSO) hoặc nẹp cổ Philadelphia khi ngồi dậy và tập đi từ ngày thứ 2. Theo dõi sát chức năng vận động, cảm giác 2 chi dưới và cơ tròn bàng quang. Điều trị giảm đau đa mô thức.",
+  "pearls_pitfalls": "Luôn kiểm tra mốc đốt sống bằng C-arm trước khi rạch da; Dùng máy mài cao tốc (High-speed burr) và kẹp Kerrison thận trọng giải ép không chạm bao màng cứng; Kiểm tra độ chính xác của đường luồn vít cuống sống bằng que thăm dò bóng (Ball-tip probe) ở cả 4 thành vỏ xương trước khi bắt vít.",
+  "image_url": "web/static/images/techniques/40-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/40-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 40-2 (In Situ Posterolateral Instrumented Fusion: Wiltse and Spencer Approach) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/40-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 40-2 (In Situ Posterolateral Instrumented Fusion: Wiltse and Spencer Approach) - Campbell 13th Ed"
+    }
+  ]
+}

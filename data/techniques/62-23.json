@@ -1,1 +1,60 @@
-{"tech_id": "62-23", "name_en": "Approach to the Tibial Nerve Deep to the Soleus Muscle", "name_vi": "Kỹ thuật Phẫu thuật 62-23: Approach to the Tibial Nerve Deep to the Soleus Muscle", "chapter": 62, "category": "General", "pdf_page": 3587, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 62 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Approach to the Tibial Nerve Deep to the Soleus Muscle bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "62-23",
+  "name_en": "Approach to the Tibial Nerve Deep to the Soleus Muscle",
+  "name_vi": "Kỹ thuật Phẫu Thuật (62-23): Approach to the Tibial Nerve Deep to the Soleus Muscle",
+  "chapter": 62,
+  "category": "Phẫu Thuật Chỉnh Hình Campbell",
+  "pdf_page": 3587,
+  "author": "",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý và chấn thương theo nguyên bản sách Campbell's Operative Orthopaedics 13th Edition cho kỹ thuật Approach to the Tibial Nerve Deep to the Soleus Muscle.",
+  "contraindications": "Nhiễm trùng tại chỗ phẫu trường; bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát; thể trạng chưa sẵn sàng cho cuộc mổ lớn.",
+  "patient_prep": "Bệnh nhân nằm trên bàn mổ ở tư thế phù hợp theo vùng giải phẫu. Sát trùng rộng rãi, trải săng vô trùng cho phép cử động tự do các khớp lân cận.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bảo tồn các mạch máu và dây thần kinh lớn đi qua vùng can thiệp; tránh kéo căng quá mức mô mềm.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường theo lớp giải phẫu",
+      "detail": "Toros T, Karabay N, Ozaksar K, et al: Evaluation of peripheral nerves of the upper limb with ultrasonography: a comparison of ultrasonographic examination and the intra-operative findings, J Bone Joint Surg 91B:762,",
+      "action": "Rạch da chính xác theo đường mổ chuẩn, bóc tách nhẹ nhàng theo lớp giải phẫu."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đánh giá thương tổn & Chuẩn bị diện phẫu thuật",
+      "detail": "SURGICAL TECHNIQUE Chhabra A, Williams EH, Wang KC, et al: MR neurography of neuromas related to nerve injury and entrapment with surgical correlation, AJNR Am J Neuroradiol 31:1362, 2010. Cho MS, Rinker BD, Weber RV, et al: Functional outcome following nerve repair in the upper extremity using processed nerve allograft, J Hand Surg Am 37:2340, 2012. George SC, Boyce DE: An evidence-based structured review to assess the results of common peroneal nerve repair, Plast Reconstr Surg 134:302e,",
+      "action": "Nhận diện rõ thương tổn bệnh lý, bảo tồn tối đa mô lành xung quanh."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thực hiện can thiệp tạo hình / Tái tạo chính thức",
+      "detail": "Isaacs JE, McDaniel CO, Owen JR, Wayne JS: Comparative analysis of bio­ mechanical performance of available “nerve glues,” J Hand Surg Am 33A:893, 2008. Koenig RW, Schmidt TE, Heinen CPG, et al: Intraoperative high-resolution ultrasound: a new technique in the management of peripheral nerve disorders, J Neurosurg 114:514, 2011. Ma J, Novikov LN, Kellerth JO, Wiberg M: Early nerve repair after injury to the postganglionic plexus: an experimental study of sensory and motor neuronal survival in adult rats, Scand J Plast Reconstr Hand Surg 37:1,",
+      "action": "Thực hiện các thao tác chuyên sâu theo quy trình chuẩn của Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định phương tiện kết hợp xương / Khâu phục hồi",
+      "detail": "Mackinnon SE, Colbert SH: Nerve transfers in the hand and upper extremity, Tech Hand Up Extrem Surg 12:20, 2008. Nath RK, Lyons AB, Bietz G: Microneurolysis and decompression of long thoracic nerve injury are effective in reversing scapular winging: longterm results in 50 cases, BMC Musculoskelet Disord 78:25, 2007. Neubauer D, Graham JB, Muir D: Chondroitinase treatment increases the effective length of acellular nerve grafts, Exp Neurol 207:163, 2007. Tung TH, Mackinnon SE: Nerve transfers: indications techniques and out­ comes, J Hand Surg Am 35A:332, 2010. Whitlock EL, Tuffaha SH, Luciano JP, et al: Processed allografts and type I...",
+      "action": "Cố định phương tiện chỉnh hình đạt độ vững chắc sinh học cơ học tối ưu."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra cơ học, cầm máu & Đóng vết mổ theo lớp",
+      "detail": "Dy CJ, Garg R, Lee SK, et al: A systematic review of outcomes reporting for brachial plexus reconstruction, J Hand Surg Am 40:308, 2015. Garg R, Merrell GA, Hillstron JG, Wolfe SW: Comparison of nerve transfers and nerve grafting for traumatic upper plexus palsy: a systematic review and analysis, J Bone Joint Surg 93A:819, 2011. Giuffre JL, Kakar S, Bishop AT, et al: Current concepts of the treatment of adult brachial plexus injuries, J Hand Surg Am 35A:678, 2010. Hausner TH, Schmidhammer R, Pelinka H, Redl H: [Critical evaluation of diagnostics and therapeutic strategies in brachial plexus injuries in Austria: a retrospective study on...",
+      "action": "Rửa sạch phẫu trường, kiểm tra cầm máu kỹ lưỡng và đóng vết mổ theo từng lớp."
+    }
+  ],
+  "postop_protocol": "Chăm sóc theo dõi vết mổ, nẹp bột hoặc đai đỡ bất động theo đúng chỉ định. Bắt đầu tập phục hồi chức năng sớm chống cứng khớp và teo cơ.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; tuân thủ các mốc giải phẫu an toàn của Campbell.",
+  "image_url": "web/static/images/techniques/62-23.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/62-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 62-23 (Approach to the Tibial Nerve Deep to the Soleus Muscle) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/62-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 62-23 (Approach to the Tibial Nerve Deep to the Soleus Muscle) - Campbell 13th Ed"
+    }
+  ]
+}

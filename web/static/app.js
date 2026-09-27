@@ -9,6 +9,26 @@ let currentAuthor = '';
 let searchQuery = '';
 let activeTechnique = null;
 let currentBoneSelection = null;
+let currentPortal = 'all';
+
+const PORTAL_SPECS = {
+  'spine-pelvis': {
+    chapters: [37, 38, 39, 40, 41, 42, 43, 44, 55, 56],
+    nameVi: 'Cột Sống & Vùng Chậu'
+  },
+  'general': {
+    chapters: [1, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 48, 80],
+    nameVi: 'Đại Cương & Đường Mổ'
+  },
+  'upper': {
+    chapters: [12, 13, 14, 46, 47, 52, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79],
+    nameVi: 'Chi Trên & Khớp Vai'
+  },
+  'lower': {
+    chapters: [3, 4, 5, 6, 7, 8, 9, 10, 11, 45, 50, 51, 54, 55, 56, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
+    nameVi: 'Chi Dưới & Khung Chậu'
+  }
+};
 
 // DOM Elements
 const navTabs = document.querySelectorAll('.tab-btn');
@@ -231,6 +251,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   if (initialRegion !== 'all') {
+    currentPortal = initialRegion;
     currentClassifRegion = initialRegion;
     if (classifFilterPills) {
       const pills = classifFilterPills.querySelectorAll('.pill-btn');
@@ -847,8 +868,10 @@ async function loadCategories() {
 
     // Populate category dropdown
     if (categoryFilter) {
+      const portalChaps = (currentPortal && currentPortal !== 'all' && PORTAL_SPECS[currentPortal]) ? new Set(PORTAL_SPECS[currentPortal].chapters) : null;
       categoryFilter.innerHTML = '<option value="">Tất cả vùng giải phẫu</option>';
       categoriesData.forEach(cat => {
+        if (portalChaps && !(cat.chapters || []).some(c => portalChaps.has(c))) return;
         const opt = document.createElement('option');
         opt.value = cat.id;
         opt.textContent = `${cat.icon} ${cat.vi}` + (cat.technique_count ? ` (${cat.technique_count} kỹ thuật)` : '');
@@ -900,10 +923,12 @@ async function loadChapters() {
   try {
     chaptersData = await loadStaticOrApi('/api/chapters', 'data/chapters_catalog.json');
 
-    chapterFilter.innerHTML = '<option value="">Tất cả chương sách (1-89)</option>';
+    const portalChaps = (currentPortal && currentPortal !== 'all' && PORTAL_SPECS[currentPortal]) ? PORTAL_SPECS[currentPortal].chapters : null;
+    chapterFilter.innerHTML = portalChaps ? `<option value="">Tất cả chương chuyên khoa (${portalChaps.length} chương)</option>` : '<option value="">Tất cả chương sách (1-89)</option>';
     chaptersGrid.innerHTML = '';
 
     chaptersData.forEach(chap => {
+      if (portalChaps && !portalChaps.includes(chap.chapter)) return;
       const opt = document.createElement('option');
       opt.value = chap.chapter;
       opt.textContent = `Chương ${chap.chapter}: ${chap.title} (${chap.technique_count} KT)`;
@@ -975,6 +1000,7 @@ async function loadTechniques() {
     if (currentCategory) params.append('category', currentCategory);
     if (currentChapter) params.append('chapter', currentChapter);
     if (currentAuthor) params.append('author', currentAuthor);
+    if (currentPortal && currentPortal !== 'all') params.append('portal', currentPortal);
 
     if (!isStaticMode) {
       try {
@@ -988,6 +1014,10 @@ async function loadTechniques() {
     if (!data) {
       const all = await getAllTechniques();
       let filtered = all;
+      if (currentPortal && currentPortal !== 'all' && PORTAL_SPECS[currentPortal]) {
+        const portalChaps = PORTAL_SPECS[currentPortal].chapters;
+        filtered = filtered.filter(t => portalChaps.includes(t.chapter));
+      }
       if (currentCategory) {
         filtered = filtered.filter(t => (t.categories && t.categories.includes(currentCategory)) || t.category === currentCategory);
       }

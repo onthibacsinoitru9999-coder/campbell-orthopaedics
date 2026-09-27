@@ -1,1 +1,49 @@
-{"tech_id": "67-29", "name_en": "Proximal Interphalangeal Joint Capsulotomy (Curtis)", "name_vi": "Mổ Mở Nắn Chỉnh Trật Khớp Cổ Bàn Ngón Tay (CMC Dislocation)", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3848, "author": "Curtis", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh Trật Khớp Cổ Bàn Ngón Tay (CMC Dislocation) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Proximal Interphalangeal Joint Capsulotomy (Curtis): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Contracture of skin on the dorsum of the finger", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Contracture of long extensor muscle or adherence of tendon", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Contracture of interosseous muscle or adherence of tendon", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Mổ Mở Nắn Chỉnh Trật Khớp Cổ Bàn Ngón Tay)", "detail": "Contracture of capsular ligament, especially the collat­ eral ligament", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Mổ Mở Nắn Chỉnh Trật Khớp Cổ Bàn Ngón Tay)", "detail": "Bony block or exostosis Extension may be blocked by the following conditions:", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-29",
+  "name_en": "Proximal Interphalangeal Joint Capsulotomy (Curtis)",
+  "name_vi": "Mổ Mở Nắn Chỉnh Trật Khớp Cổ Bàn Ngón Tay (CMC Dislocation)",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3848,
+  "author": "Curtis",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh Trật Khớp Cổ Bàn Ngón Tay (CMC Dislocation) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Proximal Interphalangeal Joint Capsulotomy (Curtis): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da bờ bên & Giải phóng co rút da mặt mu (Incision & Skin Release)",
+      "detail": "Make a midlateral or dorsal curved incision over the proximal interphalangeal joint. Bộc lộ và giải phóng co rút da trên mặt mu ngón tay (Contracture of skin on the dorsum of the finger).",
+      "action": "Giải phóng mô sẹo dưới da mặt mu ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích giải phóng gân duỗi dài dính (Extensor Tendon Adhesiolysis)",
+      "detail": "Phẫu tích bộc lộ dải giữa gân duỗi và dải bên. Giải phóng tình trạng co rút gân duỗi dài hoặc gân dính vào xương (Contracture of long extensor muscle or adherence of tendon).",
+      "action": "Tách dính gân duỗi cho phép gân trượt tự do trên bao khớp."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Giải phóng cơ liên cốt & Dải bên (Interosseous Release)",
+      "detail": "Bộc lộ và phẫu tích giải phóng co rút cơ liên cốt hoặc sự dính gân cơ liên cốt (Contracture of interosseous muscle or adherence of tendon).",
+      "action": "Giải phóng dải bên di động tự do quanh trục xoay khớp ngón."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cắt bao khớp & Dây chằng bên (Collateral Ligament & Capsulotomy)",
+      "detail": "Cắt giải phóng dây chằng bên và bao khớp (Contracture of capsular ligament, especially the collateral ligament). Cắt rời chỗ bám dây chằng bên khỏi lồi cầu đốt gần.",
+      "action": "Giải phóng bao khớp bên cho đến khi khớp gập được hoàn toàn 90°."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Cắt bỏ chồi xương, kiểm tra biên độ & Đóng vết mổ (Excision of Bony Block, ROM & Closure)",
+      "detail": "Lấy bỏ các chồi xương cản trở (Bony block or exostosis). Vận động thụ động kiểm tra khớp PIP đạt biên độ gập duỗi tối đa. Cầm máu, khâu da mũi rời, nẹp bột duỗi ngón và bắt đầu tập PHCN chủ động sớm.",
+      "action": "Đảm bảo biên độ khớp PIP phục hồi hoàn toàn trước khi đóng da."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": null,
+  "images": []
+}

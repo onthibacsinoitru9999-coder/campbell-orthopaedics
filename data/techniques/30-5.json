@@ -1,1 +1,60 @@
-{"tech_id": "30-5", "name_en": "Medial Approach (Ludloff)", "name_vi": "Kỹ thuật Phẫu thuật 30-5: Medial Approach (Ludloff)", "chapter": 30, "category": "General", "pdf_page": 1256, "author": "Ludloff", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 30 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Medial Approach (Ludloff) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "30-5",
+  "name_en": "Medial Approach (Ludloff)",
+  "name_vi": "Chỉnh Hình Nhi Khoa (30-5): Medial Approach (Ludloff)",
+  "chapter": 30,
+  "category": "Chỉnh Hình Nhi Khoa",
+  "pdf_page": 1256,
+  "author": "Ludloff",
+  "clinical_indications": "Chỉ định trong các dị tật bẩm sinh hoặc di chứng chấn thương ở trẻ em (bàn chân khoèo, trật khớp háng bẩm sinh DDH, trượt chỏm xương đùi SCFE, bệnh Perthes, biến dạng trục chi, gãy xương trẻ em) theo phác đồ Campbell Nhi khoa.",
+  "contraindications": "Nhiễm trùng cấp tính tại chỗ; các dị tật bẩm sinh đa cơ quan nặng chưa ổn định tim mạch hô hấp; chống chỉ định toàn thân với gây mê nội khí quản.",
+  "patient_prep": "Bệnh nhân nhi được gây mê nội khí quản kết hợp gây tê vùng/phong bế thần kinh ngoại vi để giảm đau đa mô thức. Đặt tư thế phù hợp trên bàn mổ có sưởi ấm thân nhiệt liên tục. Chuẩn bị máy tăng sáng C-arm với liều xạ thấp nhất có thể.",
+  "surgical_approach": "Cấu trúc nguy cơ: BẢO VỆ TỐI THƯỢNG SỤN TIẾP HỢP (Physis / Growth plate) - tránh khoan hoặc bắt vít vắt chéo sụn tiếp hợp trừ khi bắt buộc có chỉ định triệt tiêu sụn; Bảo vệ cuống mạch nuôi chỏm xương đùi (nhánh sâu động mạch mũ đùi trong) trong trật háng và SCFE; Bảo tồn thần kinh chày sau và thần kinh mác.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Nhận diện mốc giải phẫu nhi khoa",
+      "detail": "Medial interval Neurovascular femoral bundle Sartorius muscle Gracilis muscle Medial femoral circumflex artery Pectineus muscle Adductor longus muscle Profunda femoris artery",
+      "action": "Rạch da theo nếp lằn tự nhiên; phẫu tích nhẹ nhàng nhận diện và bảo vệ sụn tiếp hợp."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bảo tồn sụn tiếp hợp & Giải phóng mô xơ co rút",
+      "detail": "When the optimal position is determined, close the deep fascia and skin in routine fashion and apply a double spica cast.",
+      "action": "Kéo dài gân hoặc cắt bao khớp co rút nới lỏng tổ chức mô mềm quanh khớp."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cắt xương chỉnh trục / Nắn chỉnh giải phẫu ổ khớp",
+      "detail": "Consider obtaining three-dimensional imaging after cast application to confirm reduction of the femoral head.",
+      "action": "Cắt xương chỉnh góc mở/đóng hoặc nắn kín/nắn mở đưa chỏm khớp vào trung tâm ổ cối."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định bằng kim Kirschner / Nẹp vít chuyên dụng nhi",
+      "detail": "Thực hiện các thao tác chuyên môn theo đúng nguyên bản kỹ thuật Cố định bằng kim Kirschner / Nẹp vít chuyên dụng nhi mô tả trong Campbell's Operative Orthopaedics 13th Edition. Bộc lộ rõ phẫu trường, bảo vệ mô lành và kiểm soát cầm máu triệt để.",
+      "action": "Ghim kim K-wire dẫn đường hoặc nẹp khóa nhi khoa đạt độ cố định cơ học vững vàng."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm 2 bình diện, cầm máu & Bó bột bất động",
+      "detail": "Thực hiện các thao tác chuyên môn theo đúng nguyên bản kỹ thuật Kiểm tra C-arm 2 bình diện, cầm máu & Bó bột bất động mô tả trong Campbell's Operative Orthopaedics 13th Edition. Bộc lộ rõ phẫu trường, bảo vệ mô lành và kiểm soát cầm máu triệt để.",
+      "action": "Chụp kiểm tra C-arm xác nhận góc trục giải phẫu hoàn hảo; băng vô trùng và bó bột Spica."
+    }
+  ],
+  "postop_protocol": "Bất động bằng bột chậu - lưng - chân (Spica cast) hoặc nẹp bột đùi cẳng bàn chân trong 6-12 tuần tùy lứa tuổi. Chụp X-quang kiểm tra vị trí nắn chỉnh và dụng cụ kết hợp xương định kỳ. Hướng dẫn phụ huynh chăm sóc nẹp bột chống loét tì đè.",
+  "pearls_pitfalls": "Thao tác phẫu tích ở trẻ em phải cực kỳ tinh tế, nhẹ nhàng; Không bóc tách màng xương quá mức gây dính sụn phát triển; Luôn kiểm tra đối chiếu bên lành trên màn tăng sáng C-arm; Đạt được nắn chỉnh đồng tâm tuyệt đối trong trật háng.",
+  "image_url": "web/static/images/techniques/30-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/30-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 30-5 (Medial Approach (Ludloff)) - Campbell 13th Ed"
+    },
+    {
+      "url": "web/static/images/techniques/30-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 30-5 (Medial Approach (Ludloff)) - Campbell 13th Ed"
+    }
+  ]
+}

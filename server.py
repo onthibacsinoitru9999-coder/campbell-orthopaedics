@@ -46,6 +46,25 @@ with open(os.path.join(DATA_DIR, "chapters_catalog.json"), "r", encoding="utf-8"
 with open(os.path.join(DATA_DIR, "anatomical_categories.json"), "r", encoding="utf-8") as f:
     CATEGORIES_CONFIG = json.load(f)
 
+PORTAL_CONFIG = {
+    "spine-pelvis": {
+        "chapters": [37, 38, 39, 40, 41, 42, 43, 44, 55, 56],
+        "name": "Cột Sống & Vùng Chậu"
+    },
+    "general": {
+        "chapters": [1, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 48, 80],
+        "name": "Đại Cương & Đường Mổ"
+    },
+    "upper": {
+        "chapters": [12, 13, 14, 46, 47, 52, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79],
+        "name": "Chi Trên & Khớp Vai"
+    },
+    "lower": {
+        "chapters": [3, 4, 5, 6, 7, 8, 9, 10, 11, 45, 50, 51, 54, 55, 56, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
+        "name": "Chi Dưới & Khung Chậu"
+    },
+}
+
 with open(os.path.join(DATA_DIR, "outline_tree.json"), "r", encoding="utf-8") as f:
     OUTLINE_TREE = json.load(f)
 
@@ -381,11 +400,19 @@ def get_techniques(
     category: Optional[str] = Query(None, description="Filter by anatomical category ID or name"),
     chapter: Optional[int] = Query(None, description="Filter by chapter number"),
     author: Optional[str] = Query(None, description="Filter by author name"),
+    portal: Optional[str] = Query(None, description="Filter by portal scope (spine-pelvis, general, upper, lower)"),
     page: int = Query(1, ge=1),
     limit: int = Query(25, ge=1, le=200)
 ):
     # Base candidates
     candidates = INDEXED_TECHNIQUES
+
+    # 0. Filter by portal scope
+    if portal:
+        portal_key = portal.strip().lower()
+        if portal_key in PORTAL_CONFIG:
+            allowed_portal_chaps = set(PORTAL_CONFIG[portal_key]["chapters"])
+            candidates = [it for it in candidates if it["raw"]["chapter"] in allowed_portal_chaps]
 
     # 1. Filter by category
     if category:

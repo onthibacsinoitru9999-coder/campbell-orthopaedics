@@ -1,49 +1,49 @@
 {
   "tech_id": "6-2",
   "name_en": "Combined Hip Arthroscopy and Limited Open Osteochondroplasty (Clohisy and McClure)",
-  "name_vi": "Phẫu thuật Cắt xương Xoay Ổ cối Bernese (Ganz Periacetabular Osteotomy - PAO)",
+  "name_vi": "Nội Soi Khớp Háng Kết Hợp Mổ Mở Tạo Hình Chỏm - Cổ Xương Đùi (Clohisy và McClure)",
   "chapter": 6,
   "category": "Tái tạo & Thay Khớp Háng",
   "pdf_page": 391,
   "author": "Clohisy and McClure",
-  "clinical_indications": "Loạn sản khớp háng ở người trẻ hoặc trưởng thành (Developmental Dysplasia of the Hip - DDH), góc Wiberg LCEA < 20°, góc Tönnis > 10°, đau khớp háng cơ học do hở chỏm đùi trước ngoài, sụn khớp háng còn bảo tồn tốt (Tönnis grade 0-1).",
-  "contraindications": "Thoái hóa khớp háng tiến triển nặng (Tönnis grade 2-3), cứng khớp háng (gập háng < 90°), tuổi > 45-50 tuổi có thoái hóa diện rộng (ưu tiên thay khớp háng THA).",
-  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ thấu quang, đặt thông tiểu Foley, sát khuẩn và phủ săng cho phép di động tự do chi dưới để kiểm tra tầm vận động và xung đột chỏm cổ sau khi xoay ổ cối. Máy tăng sáng C-arm chụp tư thế chậu thẳng (AP pelvis) và tư thế False-profile.",
-  "surgical_approach": "Đường mổ trước ngoài kiểu Smith-Petersen cải tiến hoặc đường Bikini. Cấu trúc nguy cơ: Dây thần kinh bì đùi ngoài (LFCN); Thần kinh đùi và bó mạch đùi ở phía trước trong; Dây thần kinh ngồi (Sciatic nerve) ở phía sau khuyết háng lớn.",
+  "clinical_indications": "Hội chứng xung đột chỏm đùi - ổ cối (Femoroacetabular Impingement - FAI thể Cam, Pincer hoặc hỗn hợp), rách sụn viền ổ cối (acetabular labral tear), mất liên tục gờ chỏm cổ đùi, đau khớp háng cơ học ở người trẻ tuổi vận động nhiều.",
+  "contraindications": "Thoái hóa khớp háng tiến triển nặng (Tönnis grade 2-3), hẹp khe khớp háng < 2mm, loạn sản ổ cối nặng (LCEA < 18° cần phẫu thuật cắt xương PAO).",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn kéo nắn khớp chuyên dụng (traction table), đặt đệm chèn đáy chậu bảo vệ thần kinh thẹn. C-arm kiểm tra khe khớp háng khi kéo nắn đạt 8-10 mm. Dụng cụ nội soi khớp háng 30° và 70°, mũi burr mài xương cao tần.",
+  "surgical_approach": "Các cổng nội soi khớp háng chuẩn: Cổng trước bên (Anterolateral portal - AL), Cổng giữa trước (Mid-anterior portal - MAP). Đường mổ mở tối thiểu trước ngoài (Modified Smith-Petersen) bộc lộ chỏm - cổ đùi. Cấu trúc nguy cơ: Dây thần kinh bì đùi ngoài (LFCN); Bó mạch mũ đùi ngoài (nhánh lên); Thần kinh đùi.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Đường rạch da trước & Bộc lộ khung chậu",
-      "detail": "Rạch da theo bờ trước mào chậu qua gai chậu trước trên (ASIS) hướng xuống đùi trước ngoài. Bộc lộ gai chậu trước dưới (AIIS), tách chỗ bám cơ thẳng đùi đầu thẳng và đầu quặp để tiếp cận mặt trước bao khớp háng.",
-      "action": "Bảo vệ tối đa dây thần kinh bì đùi ngoài (LFCN) nằm sát bờ trong ASIS."
+      "title": "Thì 1: Thiết lập các cổng nội soi khớp háng & Đánh giá tổn thương",
+      "detail": "Bệnh nhân nằm trên bàn kéo nắn thấu quang. Thiết lập cổng trước ngoài (AL) và cổng giữa trước (MAP). Khảo sát toàn diện khoang ngoại vi và khoang trung tâm khớp háng, đánh giá tổn thương sụn viền (labrum) và gờ xương nhô FAI Cam/Pincer.",
+      "action": "Duy trì áp lực bơm rửa ổn định, tránh thoát dịch vào khoang sau phúc mạc."
     },
     {
       "step": 2,
-      "title": "Cắt xương ngành ngồi & Ngành mu (Ischial & Pubic Osteotomies)",
-      "detail": "Phẫu tích bờ trong và bờ dưới ổ cối. Dùng đục cong 30° cắt xương ngành ngồi dưới ổ cối (chừa lại 1 cm vỏ xương cột sau). Cắt ngang ngành trên xương mu cách ổ cối 1-1.5 cm dưới sự bảo vệ của banh Langenbeck che chở bó mạch đùi.",
-      "action": "Luôn đặt banh bảo vệ mặt trong xương mu để tránh làm tổn thương động mạch đùi."
+      "title": "Thì 2: Xử trí sụn viền & Tạo hình viền ổ cối (Acetabuloplasty)",
+      "detail": "Cắt lọc mô thoái hóa hoặc khâu cố định lại sụn viền rách bằng neo chỉ (suture anchor). Nếu có tổn thương Pincer (gờ ổ cối nhô sâu), dùng burr mài xương mài phẳng bờ xương ổ cối trước trên.",
+      "action": "Bảo tồn tối đa phần sụn viền lành tính để duy trì hiệu ứng gioăng kín (suction seal) của ổ cối."
     },
     {
       "step": 3,
-      "title": "Cắt xương cánh chậu trên ổ cối & Cột sau (Supra-acetabular & Retroacetabular Cuts)",
-      "detail": "Cắt xương cánh chậu từ dưới AIIS hướng ra sau tới đường vô danh, nằm cách khuyết ngồi lớn khoảng 1.5 cm. Tiếp tục đường cắt xương cột sau từ trên xuống dưới nối vào đường cắt ngồi, giữ nguyên vẹn cột sau và độ vững vòng chậu.",
-      "action": "Không được cắt phạm vào khuyết ngồi lớn để tránh tổn thương thần kinh ngồi và động mạch mông trên."
+      "title": "Thì 3: Đường mổ mở tối thiểu trước ngoài bộc lộ chỏm - cổ đùi (Clohisy Approach)",
+      "detail": "Thực hiện đường rạch da nhỏ dọc bờ trước ngoài khớp háng kiểu Smith-Petersen cải tiến. Mở bao khớp hình chữ T hoặc dọc theo trục cổ xương đùi, bộc lộ rõ vùng tiếp giáp chỏm - cổ đùi bị biến dạng Cam.",
+      "action": "Bảo vệ nhánh lên của động mạch mũ đùi ngoài và các nhánh mạch nuôi chỏm đùi ở vùng sau trên."
     },
     {
       "step": 4,
-      "title": "Xoay nắn chỉnh mảnh ổ cối (Acetabular Fragment Reorientation)",
-      "detail": "Bắt 1 vít Schanz 5.0 mm vào gai chậu trước dưới của mảnh ổ cối rời làm cần điều khiển. Nhẹ nhàng xoay ổ cối ra trước và ra ngoài để tăng che phủ chỏm đùi (phục hồi góc LCEA 25-35°, góc Tönnis 0-5°). Kiểm tra độ gập háng không bị xung đột (cam/pincer impingement).",
-      "action": "Tránh xoay ổ cối quá mức ra trước gây hội chứng xung đột chỏm cổ đùi (Pincer FAI)."
+      "title": "Thì 4: Tạo hình chỏm - cổ xương đùi (Femoral Head-Neck Osteochondroplasty)",
+      "detail": "Dùng đục lòng máng và burr mài xương mài tạo hình lại đường cong sinh lý tiếp giáp chỏm - cổ xương đùi (khôi phục góc alpha < 50° và tỷ lệ chỏm/cổ đùi bình thường). Vận động kiểm tra khớp háng trong phạm vi gập 90°, xoay trong 30° và khép mà không còn hiện tượng chạm cối.",
+      "action": "Không mài xương quá 30% đường kính cổ đùi để tránh nguy cơ gãy cổ đùi thứ phát."
     },
     {
       "step": 5,
-      "title": "Cố định vít & Kiểm tra C-arm (Fixation & Closure)",
-      "detail": "Bắt 3-4 vít xốp 3.5 mm / 4.5 mm từ mào chậu xuống mảnh ổ cối đã xoay. Kiểm tra C-arm AP chậu: góc che phủ đạt chuẩn, đường Shenton liên tục. Bơm rửa sạch, đặt dẫn lưu kín áp lực âm, khâu phục hồi gân cơ thẳng đùi và đóng da theo lớp.",
-      "action": "Đảm bảo các vít ngậm chặt xương xốp và tuyệt đối không xuyên vào khe khớp háng."
+      "title": "Thì 5: Khâu phục hồi bao khớp, dẫn lưu kín & Đóng vết mổ",
+      "detail": "Bơm rửa kỹ phẫu trường lấy sạch mạt xương mài. Khâu phục hồi bao khớp bằng chỉ tiêu chậm số 1. Đặt dẫn lưu kín áp lực âm và đóng vết mổ theo từng lớp giải phẫu.",
+      "action": "Khâu kín bao khớp giúp tái tạo áp lực âm sinh lý và chống thoát dịch mô mềm."
     }
   ],
-  "postop_protocol": "Đi lại bằng nạng không tì đè (non-weight bearing) trong 6-8 tuần đầu. Tập gập duỗi thụ động sớm (CPM) và co cơ tĩnh cơ tứ đầu. Tì đè một phần sau tuần 8-10 khi có can xương liền ở các đường cắt xương. Tì đè hoàn toàn sau tuần 12.",
-  "pearls_pitfalls": "Cẩn trọng đường cắt cột sau: giữ nguyên bản lề xương cột sau giúp bệnh nhân có thể ngồi dậy sớm mà không sợ di lệch; Luôn kiểm tra kiểm soát xung đột chỏm cổ sau khi nắn xoay ổ cối.",
+  "postop_protocol": "Đi lại chống nạng tì đè một phần (flat-foot weight bearing 20 kg) trong 2-4 tuần. Tránh gập háng quá 90° và xoay ngoài tối đa trong 4 tuần đầu. Tập gập duỗi sớm thụ động (CPM). Trở lại thể thao sau 4-6 tháng.",
+  "pearls_pitfalls": "Bảo tồn tối đa sụn viền ổ cối, khâu đính lại bằng neo chỉ (suture anchor); Khi mài tạo hình chỏm cổ (osteochondroplasty), không mài sâu quá 30% đường kính cổ đùi để tránh nguy cơ gãy cổ đùi sau mổ.",
   "image_url": "web/static/images/techniques/6-2.webp",
   "images": [
     {
