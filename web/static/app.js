@@ -83,8 +83,42 @@ let isPanning = false;
 let startPanX = 0;
 let startPanY = 0;
 let allClassesData = [];
+let allTechniquesData = [];
 let debounceTimer = null;
 let activeSuggestionIndex = -1;
+let isStaticMode = window.location.hostname.includes('github.io') || window.location.protocol === 'file:';
+const GDRIVE_PDF_URL = 'https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view';
+
+// Universal Data Loader (Supports both FastAPI backend & GitHub Pages static mode)
+async function loadStaticOrApi(apiUrl, staticPath) {
+  if (isStaticMode) {
+    try {
+      const res = await fetch(staticPath);
+      if (res.ok) return await res.json();
+    } catch (e) {
+      console.warn(`Static load failed for ${staticPath}`, e);
+    }
+  } else {
+    try {
+      const res = await fetch(apiUrl);
+      if (res.ok) return await res.json();
+    } catch (e) {
+      isStaticMode = true;
+    }
+  }
+  const res2 = await fetch(staticPath);
+  return await res2.json();
+}
+
+async function getAllTechniques() {
+  if (allTechniquesData.length > 0) return allTechniquesData;
+  try {
+    allTechniquesData = await loadStaticOrApi('/api/techniques?limit=2000', 'data/techniques_catalog.json');
+  } catch (e) {
+    console.error('Failed to load techniques catalog:', e);
+  }
+  return allTechniquesData || [];
+}
 
 // Bone Anatomical Mappings for Skeleton Explorer
 const BONE_MAPPINGS = {
@@ -521,8 +555,18 @@ async function performSearch(customQuery) {
 // ----------------- SKELETON EXPLORER -----------------
 async function initSkeletonExplorer() {
   try {
-    const res = await fetch('/static/human_skeleton.svg');
-    const svgText = await res.text();
+    let svgText = '';
+    const svgPaths = ['web/static/human_skeleton.svg', '/static/human_skeleton.svg', 'human_skeleton.svg'];
+    for (const p of svgPaths) {
+      try {
+        const res = await fetch(p);
+        if (res.ok) {
+          svgText = await res.text();
+          if (svgText && svgText.includes('<svg')) break;
+        }
+      } catch (e) {}
+    }
+    if (!svgText) throw new Error('Không thể tải file human_skeleton.svg');
     skeletonSvgBox.innerHTML = svgText;
 
     const svg = skeletonSvgBox.querySelector('svg');
@@ -615,15 +659,31 @@ async function selectBone(id, boneInfo) {
   skeletonSampleGrid.innerHTML = '<div style="padding: 1rem; color: var(--text-muted);">Đang tải kỹ thuật...</div>';
 
   try {
-    const params = new URLSearchParams({
-      category: boneInfo.category,
-      limit: 6
-    });
-    const res = await fetch(`/api/techniques?${params.toString()}`);
-    const data = await res.json();
+    let data = null;
+    if (!isStaticMode) {
+      try {
+        const params = new URLSearchParams({
+          category: boneInfo.category,
+          limit: 6
+        });
+        const res = await fetch(`/api/techniques?${params.toString()}`);
+        if (res.ok) data = await res.json();
+      } catch (e) {
+        isStaticMode = true;
+      }
+    }
+
+    if (!data) {
+      const all = await getAllTechniques();
+      const filtered = all.filter(t => (t.categories && t.categories.includes(boneInfo.category)) || t.category === boneInfo.category);
+      data = {
+        total: filtered.length,
+        items: filtered.slice(0, 6)
+      };
+    }
 
     statBoneTechs.textContent = data.total;
-    boneTechSampleCount.textContent = `Hiển thị 6 / ${data.total} kỹ thuật`;
+    boneTechSampleCount.textContent = `Hiển thị ${Math.min(6, data.items.length)} / ${data.total} kỹ thuật`;
 
     skeletonSampleGrid.innerHTML = '';
     data.items.forEach(tech => {
@@ -658,14 +718,30 @@ async function loadBoneClassifications(id, boneInfo) {
   try {
     skeletonClassificationsContainer.innerHTML = '<div style="padding: 1rem; color: var(--text-muted);">Đang tải bảng phân loại gãy xương...</div>';
     
-    // Fetch classifications for this specific bone or its category
-    let res = await fetch(`/api/classifications?bone=${id}`);
-    let data = await res.json();
+    let data = null;
+    if (!isStaticMode) {
+      try {
+        let res = await fetch(`/api/classifications?bone=${id}`);
+        if (res.ok) data = await res.json();
 
-    // If no direct bone match, try by category
-    if (data.length === 0 && boneInfo.category) {
-      const resCat = await fetch(`/api/classifications?category=${encodeURIComponent(boneInfo.category)}`);
-      data = await resCat.json();
+        // If no direct bone match, try by category
+        if (data && data.length === 0 && boneInfo.category) {
+          const resCat = await fetch(`/api/classifications?category=${encodeURIComponent(boneInfo.category)}`);
+          if (resCat.ok) data = await resCat.json();
+        }
+      } catch (e) {
+        isStaticMode = true;
+      }
+    }
+
+    if (!data) {
+      if (allClassesData.length === 0) {
+        allClassesData = await loadStaticOrApi('/api/classifications', 'data/fracture_classifications.json');
+      }
+      data = allClassesData.filter(c => c.bone === id || c.bone_id === id || (c.bones && c.bones.includes(id)));
+      if (data.length === 0 && boneInfo.category) {
+        data = allClassesData.filter(c => c.category === boneInfo.category);
+      }
     }
 
     statBoneClassifications.textContent = data.length;
@@ -756,8 +832,7 @@ async function loadBoneClassifications(id, boneInfo) {
 // Load Categories
 async function loadCategories() {
   try {
-    const res = await fetch('/api/categories');
-    categoriesData = await res.json();
+    categoriesData = await loadStaticOrApi('/api/categories', 'data/anatomical_categories.json');
 
     // Populate category dropdown
     categoryFilter.innerHTML = '<option value="">Tất cả vùng giải phẫu</option>';
@@ -808,8 +883,7 @@ async function loadCategories() {
 // Load Chapters
 async function loadChapters() {
   try {
-    const res = await fetch('/api/chapters');
-    chaptersData = await res.json();
+    chaptersData = await loadStaticOrApi('/api/chapters', 'data/chapters_catalog.json');
 
     chapterFilter.innerHTML = '<option value="">Tất cả chương sách (1-89)</option>';
     chaptersGrid.innerHTML = '';
@@ -856,17 +930,7 @@ async function loadChapters() {
 async function loadAuthors() {
   if (!authorFilter) return;
   try {
-    let authors = [];
-    try {
-      const res = await fetch('/api/authors');
-      if (res.ok) authors = await res.json();
-    } catch (e) {
-      console.warn('API /api/authors failed, trying static fallback', e);
-    }
-    if (!authors || authors.length === 0) {
-      const resStatic = await fetch('/static/authors.json');
-      if (resStatic.ok) authors = await resStatic.json();
-    }
+    const authors = await loadStaticOrApi('/api/authors', 'web/static/authors.json');
     authorFilter.innerHTML = '<option value="">Tất cả tác giả phẫu thuật</option>';
     if (Array.isArray(authors)) {
       authors.forEach(auth => {
@@ -887,6 +951,7 @@ async function loadTechniques() {
     techResultCount.textContent = 'Đang tìm kiếm...';
     techniquesGrid.innerHTML = '<div style="padding: 2rem; color: var(--text-muted); grid-column: 1/-1;">Đang tải danh sách kỹ thuật...</div>';
 
+    let data = null;
     const params = new URLSearchParams({
       page: currentPage,
       limit: 24
@@ -896,8 +961,46 @@ async function loadTechniques() {
     if (currentChapter) params.append('chapter', currentChapter);
     if (currentAuthor) params.append('author', currentAuthor);
 
-    const res = await fetch(`/api/techniques?${params.toString()}`);
-    const data = await res.json();
+    if (!isStaticMode) {
+      try {
+        const res = await fetch(`/api/techniques?${params.toString()}`);
+        if (res.ok) data = await res.json();
+      } catch (e) {
+        isStaticMode = true;
+      }
+    }
+
+    if (!data) {
+      const all = await getAllTechniques();
+      let filtered = all;
+      if (currentCategory) {
+        filtered = filtered.filter(t => (t.categories && t.categories.includes(currentCategory)) || t.category === currentCategory);
+      }
+      if (currentChapter) {
+        filtered = filtered.filter(t => String(t.chapter) === String(currentChapter));
+      }
+      if (currentAuthor) {
+        filtered = filtered.filter(t => t.author && t.author.toLowerCase().includes(currentAuthor.toLowerCase()));
+      }
+      if (searchQuery) {
+        const normQ = normalizeStr(searchQuery);
+        filtered = filtered.filter(t => {
+          return (
+            t.tech_id.toLowerCase().includes(normQ) ||
+            normalizeStr(t.name).includes(normQ) ||
+            (t.author && normalizeStr(t.author).includes(normQ)) ||
+            (t.chapter_title && normalizeStr(t.chapter_title).includes(normQ))
+          );
+        });
+      }
+      const limit = 24;
+      const total = filtered.length;
+      const pages = Math.ceil(total / limit) || 1;
+      const page = Math.min(Math.max(currentPage, 1), pages);
+      const start = (page - 1) * limit;
+      const items = filtered.slice(start, start + limit);
+      data = { total, page, pages, items };
+    }
 
     techResultCount.textContent = `Tìm thấy ${data.total} kỹ thuật mổ (Trang ${data.page}/${data.pages || 1})`;
     techniquesGrid.innerHTML = '';
@@ -996,8 +1099,26 @@ async function openTechniqueModal(techId) {
     modalPageImage.src = '';
     applyZoom(1.0);
 
-    const res = await fetch(`/api/techniques/${techId}`);
-    const tech = await res.json();
+    let tech = null;
+    if (!isStaticMode) {
+      try {
+        const res = await fetch(`/api/techniques/${techId}`);
+        if (res.ok) {
+          tech = await res.json();
+        } else {
+          isStaticMode = true;
+        }
+      } catch (e) {
+        isStaticMode = true;
+      }
+    }
+
+    if (!tech) {
+      const all = await getAllTechniques();
+      tech = all.find(t => String(t.tech_id) === String(techId));
+    }
+
+    if (!tech) throw new Error('Không tìm thấy kỹ thuật ' + techId);
     activeTechnique = tech;
 
     modalTechTitle.textContent = tech.name;
@@ -1018,8 +1139,7 @@ async function openTechniqueModal(techId) {
 async function loadOutline() {
   try {
     outlineContainer.innerHTML = '<p style="color: var(--text-muted);">Đang dựng cây đề mục phẫu thuật...</p>';
-    const res = await fetch('/api/outline');
-    const outline = await res.json();
+    const outline = await loadStaticOrApi('/api/outline', 'data/outline_tree.json');
 
     outlineContainer.innerHTML = '';
     outline.forEach(node => {
@@ -1104,20 +1224,47 @@ function setModalPdfPage(pageNum) {
   panY = 0;
   updateViewerTransform();
 
-  modalPageImage.src = `/api/page-image/${pageNum}?dpi=150`;
-  downloadPageBtn.href = `/api/page-image/${pageNum}?dpi=200`;
+  const drivePdfUrl = 'https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view';
+  const staticFallback = document.getElementById('modalStaticPageFallback');
+  const staticPageNum = document.getElementById('staticPageNum');
+  const btnOpenDrivePdf = document.getElementById('btnOpenDrivePdf');
+
+  if (isStaticMode) {
+    if (modalPageImage) modalPageImage.style.display = 'none';
+    if (staticFallback) staticFallback.style.display = 'block';
+    if (staticPageNum) staticPageNum.textContent = `Trang PDF: ${pageNum} / 4887`;
+    if (btnOpenDrivePdf) btnOpenDrivePdf.href = drivePdfUrl;
+    if (downloadPageBtn) downloadPageBtn.href = drivePdfUrl;
+  } else {
+    if (modalPageImage) {
+      modalPageImage.style.display = 'block';
+      modalPageImage.onerror = () => {
+        isStaticMode = true;
+        modalPageImage.style.display = 'none';
+        if (staticFallback) staticFallback.style.display = 'block';
+        if (staticPageNum) staticPageNum.textContent = `Trang PDF: ${pageNum} / 4887`;
+        if (btnOpenDrivePdf) btnOpenDrivePdf.href = drivePdfUrl;
+        if (downloadPageBtn) downloadPageBtn.href = drivePdfUrl;
+      };
+      modalPageImage.src = `/api/page-image/${pageNum}?dpi=150`;
+    }
+    if (staticFallback) staticFallback.style.display = 'none';
+    if (downloadPageBtn) downloadPageBtn.href = `/api/page-image/${pageNum}?dpi=200`;
+  }
 
   if (btnPrevPage) btnPrevPage.disabled = (pageNum <= 1);
   if (btnNextPage) btnNextPage.disabled = (pageNum >= 4887);
 
-  // Preload adjacent pages for instant sub-500ms navigation
-  if (pageNum > 1) {
-    const prevCache = new Image();
-    prevCache.src = `/api/page-image/${pageNum - 1}?dpi=150`;
-  }
-  if (pageNum < 4887) {
-    const nextCache = new Image();
-    nextCache.src = `/api/page-image/${pageNum + 1}?dpi=150`;
+  // Preload adjacent pages for instant sub-500ms navigation only in API mode
+  if (!isStaticMode) {
+    if (pageNum > 1) {
+      const prevCache = new Image();
+      prevCache.src = `/api/page-image/${pageNum - 1}?dpi=150`;
+    }
+    if (pageNum < 4887) {
+      const nextCache = new Image();
+      nextCache.src = `/api/page-image/${pageNum + 1}?dpi=150`;
+    }
   }
 }
 
@@ -1153,8 +1300,7 @@ function escapeHtml(str) {
 
 async function loadAllClassificationsCache() {
   try {
-    const res = await fetch('/api/classifications');
-    allClassesData = await res.json();
+    allClassesData = await loadStaticOrApi('/api/classifications', 'data/fracture_classifications.json');
   } catch (err) {
     console.error('Failed to pre-cache classifications:', err);
   }
@@ -1195,14 +1341,31 @@ async function handleSearchAutocomplete() {
     return matchName || matchEn || matchBone || matchCat;
   }).slice(0, 3);
 
-  // Match in techniques via API
+  // Match in techniques via API or static fallback
   let matchedTechs = [];
-  try {
-    const res = await fetch(`/api/techniques?q=${encodeURIComponent(query)}&limit=5`);
-    const data = await res.json();
-    matchedTechs = data.items || [];
-  } catch (e) {
-    console.error('Error fetching autocomplete techniques:', e);
+  if (!isStaticMode) {
+    try {
+      const res = await fetch(`/api/techniques?q=${encodeURIComponent(query)}&limit=5`);
+      if (res.ok) {
+        const data = await res.json();
+        matchedTechs = data.items || [];
+      } else {
+        isStaticMode = true;
+      }
+    } catch (e) {
+      isStaticMode = true;
+    }
+  }
+
+  if (isStaticMode) {
+    const all = await getAllTechniques();
+    matchedTechs = all.filter(t => {
+      return (
+        t.tech_id.toLowerCase().includes(normQuery) ||
+        normalizeStr(t.name).includes(normQuery) ||
+        (t.author && normalizeStr(t.author).includes(normQuery))
+      );
+    }).slice(0, 5);
   }
 
   if (matchedClass.length === 0 && matchedTechs.length === 0) {
@@ -1309,18 +1472,45 @@ async function handleTechniqueSearchAutocomplete() {
     return matchName || matchEn || matchBone;
   }).slice(0, 2);
 
-  // Match in techniques via API
+  // Match in techniques via API or static fallback
   let matchedTechs = [];
-  try {
-    const params = new URLSearchParams({ q: query, limit: 6 });
-    if (currentCategory) params.append('category', currentCategory);
-    if (currentChapter) params.append('chapter', currentChapter);
-    if (currentAuthor) params.append('author', currentAuthor);
-    const res = await fetch(`/api/techniques?${params.toString()}`);
-    const data = await res.json();
-    matchedTechs = data.items || [];
-  } catch (e) {
-    console.error('Error fetching autocomplete techniques for catalog:', e);
+  if (!isStaticMode) {
+    try {
+      const params = new URLSearchParams({ q: query, limit: 6 });
+      if (currentCategory) params.append('category', currentCategory);
+      if (currentChapter) params.append('chapter', currentChapter);
+      if (currentAuthor) params.append('author', currentAuthor);
+      const res = await fetch(`/api/techniques?${params.toString()}`);
+      if (res.ok) {
+        const data = await res.json();
+        matchedTechs = data.items || [];
+      } else {
+        isStaticMode = true;
+      }
+    } catch (e) {
+      isStaticMode = true;
+    }
+  }
+
+  if (isStaticMode) {
+    const all = await getAllTechniques();
+    let filtered = all;
+    if (currentCategory) {
+      filtered = filtered.filter(t => (t.categories && t.categories.includes(currentCategory)) || t.category === currentCategory);
+    }
+    if (currentChapter) {
+      filtered = filtered.filter(t => String(t.chapter) === String(currentChapter));
+    }
+    if (currentAuthor) {
+      filtered = filtered.filter(t => t.author && t.author.toLowerCase().includes(currentAuthor.toLowerCase()));
+    }
+    matchedTechs = filtered.filter(t => {
+      return (
+        t.tech_id.toLowerCase().includes(normQuery) ||
+        normalizeStr(t.name).includes(normQuery) ||
+        (t.author && normalizeStr(t.author).includes(normQuery))
+      );
+    }).slice(0, 6);
   }
 
   if (matchedClass.length === 0 && matchedTechs.length === 0) {

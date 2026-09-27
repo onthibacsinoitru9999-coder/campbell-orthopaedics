@@ -680,9 +680,17 @@ def admin_prewarm(dpi: int = 150, max_pages: Optional[int] = None):
 STATIC_DIR = os.path.join(BASE_DIR, "web", "static")
 if os.path.exists(STATIC_DIR):
     app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+    app.mount("/web/static", StaticFiles(directory=STATIC_DIR), name="web_static")
+
+DATA_DIR = os.path.join(BASE_DIR, "data")
+if os.path.exists(DATA_DIR):
+    app.mount("/data", StaticFiles(directory=DATA_DIR), name="data")
 
 @app.get("/")
 def serve_index():
+    root_index = os.path.join(BASE_DIR, "index.html")
+    if os.path.exists(root_index):
+        return FileResponse(root_index)
     index_file = os.path.join(BASE_DIR, "web", "static", "index.html")
     if os.path.exists(index_file):
         return FileResponse(index_file)
