@@ -55,15 +55,29 @@
     
     <!-- 1. Categories View -->
     <section id="view-categories" class="view-section active">
-      <div style="margin-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+      <div style="margin-bottom: 1.25rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
         <div>
           <h2 style="font-size: 1.5rem; font-weight: 700;">Guidemap Phân loại Gãy xương & Danh mục Giải phẫu</h2>
-          <p style="color: var(--text-muted); font-size: 0.95rem;">Chọn trực tiếp vị trí xương trên Sơ đồ Giải phẫu để tra cứu Bảng phân loại gãy xương và Phẫu thuật điều trị tương ứng</p>
+          <p style="color: var(--text-muted); font-size: 0.95rem;">Hệ thống phân loại gãy xương kinh điển (Campbell's 13th Ed) và phẫu thuật điều trị tương ứng</p>
         </div>
         <div class="view-mode-toggle">
-          <button class="view-mode-btn active" id="btnModeSkeleton">🦴 Sơ đồ Khung xương Guidemap</button>
-          <button class="view-mode-btn" id="btnModeGrid">🗂️ Dạng Lưới Thẻ</button>
+          <button class="view-mode-btn active" id="btnModeSkeleton">🦴 Sơ đồ Khung xương</button>
+          <button class="view-mode-btn" id="btnModeAllClassifications">📋 Toàn bộ 23+ Bảng Phân loại</button>
+          <button class="view-mode-btn" id="btnModeGrid">🗂️ 14 Vùng Giải phẫu</button>
         </div>
+      </div>
+
+      <!-- Quick Bone Selector Bar for Mobile/Tablet -->
+      <div class="quick-bones-bar" id="quickBonesBar">
+        <span class="quick-bones-label">📍 CHỌN NHANH VÙNG:</span>
+        <button class="bone-chip-btn active" data-bone="PatellaLeft">Mâm chày (Schatzker)</button>
+        <button class="bone-chip-btn" data-bone="FemurRight">Cổ & Thân x.đùi (Garden/Winquist)</button>
+        <button class="bone-chip-btn" data-bone="PelvicGirdle">Khung chậu & Ổ cối</button>
+        <button class="bone-chip-btn" data-bone="TarsalsRight">Cổ chân (Danis-Weber/Pilon)</button>
+        <button class="bone-chip-btn" data-bone="HumerusRight">Đầu trên x.cánh tay (Neer)</button>
+        <button class="bone-chip-btn" data-bone="RadiusRight">Cẳng tay & Cổ tay (Colles/Monteggia)</button>
+        <button class="bone-chip-btn" data-bone="Cranium">Cột sống (Denis/Anderson)</button>
+        <button class="bone-chip-btn" data-bone="gustilo">Gãy hở (Gustilo-Anderson)</button>
       </div>
 
       <!-- Skeleton Explorer Mode -->
@@ -118,6 +132,31 @@
               <!-- Rendered via JS -->
             </div>
           </div>
+        </div>
+      </div>
+
+      <!-- All Classifications Directory View -->
+      <div id="allClassificationsDirectory" style="display: none; margin-top: 1.5rem;">
+        <div class="classif-search-bar-wrap">
+          <div class="classif-search-box">
+            <input 
+              type="text" 
+              id="classifSearchInput" 
+              class="classif-search-input" 
+              placeholder="🔍 Tìm nhanh bảng phân loại (vd: Schatzker, Garden, Neer, Denis, Gustilo, Bado, Pilon, Barton...)"
+              autocomplete="off"
+            >
+          </div>
+          <div class="classif-filter-pills" id="classifFilterPills">
+            <button class="pill-btn active" data-filter="all">Tất cả (23+)</button>
+            <button class="pill-btn" data-filter="lower">Chi dưới & Khớp háng</button>
+            <button class="pill-btn" data-filter="upper">Chi trên & Cổ tay</button>
+            <button class="pill-btn" data-filter="spine-pelvis">Cột sống & Khung chậu</button>
+            <button class="pill-btn" data-filter="general">Toàn thân & Gãy hở</button>
+          </div>
+        </div>
+        <div id="allClassificationsGrid" class="all-classif-grid">
+          <!-- Rendered via JS -->
         </div>
       </div>
 
@@ -212,11 +251,33 @@
         <button class="modal-close" id="modalCloseBtn">&times;</button>
       </div>
       <div class="modal-tabs">
-        <button class="modal-tab-btn active" data-modaltab="pagePreview">🖼️ Bản chụp trang sách gốc (DPI cao)</button>
-        <button class="modal-tab-btn" data-modaltab="extractedText">📄 Văn bản kỹ thuật trích xuất</button>
+        <button class="modal-tab-btn active" data-modaltab="extractedText">📄 Quy trình & Nội dung phẫu thuật (Campbell)</button>
+        <button class="modal-tab-btn" data-modaltab="pagePreview">🖼️ Bản chụp trang sách gốc (DPI cao)</button>
       </div>
       <div class="modal-body">
-        <div id="tabContentPagePreview" class="page-preview-container">
+        <!-- 1. Text & Procedure Content Tab (Active by default) -->
+        <div id="tabContentExtractedText" class="tech-content-wrapper">
+          <div id="modalTechDetailHeader" class="tech-detail-header-card">
+            <!-- Rendered via JS -->
+          </div>
+          <div id="modalLinkedClassifBox" class="linked-classif-banner" style="display: none;">
+            <!-- Rendered via JS if linked to fracture classification -->
+          </div>
+          <div class="extracted-text-box" id="modalExtractedText">
+            Đang tải nội dung quy trình kỹ thuật...
+          </div>
+          <div class="tech-text-footer-actions">
+            <a id="btnTextOpenDrive" href="#" target="_blank" class="view-btn" style="text-decoration: none; padding: 0.6rem 1.25rem;">
+              🚀 Mở toàn văn trang sách trên Google Drive &rarr;
+            </a>
+            <button id="btnTextSwitchScan" class="view-btn" style="background: #475569; color: #fff; padding: 0.6rem 1.25rem;">
+              🖼️ Chuyển sang xem bản scan trang sách
+            </button>
+          </div>
+        </div>
+
+        <!-- 2. Page Image / Scan Tab -->
+        <div id="tabContentPagePreview" class="page-preview-container" style="display: none;">
           <div class="viewer-toolbar">
             <div class="viewer-nav-group">
               <button class="nav-page-btn" id="btnPrevPage" title="Trang trước (Phím ←)">◄ Trang trước</button>
@@ -230,7 +291,7 @@
               <button class="zoom-btn" id="btnZoomIn" title="Phóng to (+)">➕ Phóng to</button>
               <button class="zoom-btn" id="btnZoomReset" title="Kích thước gốc (100%)">↺ 100%</button>
             </div>
-            <a id="downloadPageBtn" href="#" target="_blank" class="zoom-btn" style="color: #38bdf8; text-decoration: none; font-weight: 600; margin-left: auto;">🔍 Xem bản gốc</a>
+            <a id="downloadPageBtn" href="#" target="_blank" class="zoom-btn" style="color: #38bdf8; text-decoration: none; font-weight: 600; margin-left: auto;">🔍 Mở PDF ngoài</a>
           </div>
           <div class="page-img-wrapper" id="pageImgWrapper">
             <img id="modalPageImage" class="page-preview-img" src="" alt="Đang tải trang sách..." draggable="false">
@@ -241,14 +302,9 @@
                 🚀 Mở toàn văn sách trên Google Drive &rarr;
               </a>
               <div style="margin-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1.5rem; text-align: left;">
-                <p style="font-size: 0.85rem; color: #94a3b8;">💡 <em>Mẹo: Bạn cũng có thể chuyển sang tab <strong>"📄 Văn bản kỹ thuật trích xuất"</strong> ở phía trên để đọc toàn bộ quy trình, chỉ định và các bước phẫu thuật chi tiết ngay tại đây.</em></p>
+                <p style="font-size: 0.85rem; color: #94a3b8;">💡 <em>Mẹo: Bạn có thể đọc trực tiếp toàn văn quy trình, giải phẫu và các bước phẫu thuật ở tab <strong>"📄 Quy trình & Nội dung phẫu thuật"</strong>.</em></p>
               </div>
             </div>
-          </div>
-        </div>
-        <div id="tabContentExtractedText" style="display: none;">
-          <div class="extracted-text-box" id="modalExtractedText">
-            Đang trích xuất nội dung kỹ thuật...
           </div>
         </div>
       </div>

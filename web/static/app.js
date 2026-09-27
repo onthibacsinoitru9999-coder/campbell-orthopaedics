@@ -27,10 +27,16 @@ const techniqueSuggestions = document.getElementById('techniqueSuggestions');
 const techResultCount = document.getElementById('techResultCount');
 const techPagination = document.getElementById('techPagination');
 
-// Skeleton Elements
+// Skeleton & Classification Elements
 const btnModeSkeleton = document.getElementById('btnModeSkeleton');
+const btnModeAllClassifications = document.getElementById('btnModeAllClassifications');
 const btnModeGrid = document.getElementById('btnModeGrid');
 const skeletonExplorerContainer = document.getElementById('skeletonExplorerContainer');
+const allClassificationsDirectory = document.getElementById('allClassificationsDirectory');
+const allClassificationsGrid = document.getElementById('allClassificationsGrid');
+const classifSearchInput = document.getElementById('classifSearchInput');
+const classifFilterPills = document.getElementById('classifFilterPills');
+const quickBonesBar = document.getElementById('quickBonesBar');
 const skeletonSvgBox = document.getElementById('skeletonSvgBox');
 const skeletonTooltip = document.getElementById('skeletonTooltip');
 const skeletonHoverTag = document.getElementById('skeletonHoverTag');
@@ -55,8 +61,12 @@ const modalCloseBtn = document.getElementById('modalCloseBtn');
 const modalTechId = document.getElementById('modalTechId');
 const modalTechTitle = document.getElementById('modalTechTitle');
 const modalTechMeta = document.getElementById('modalTechMeta');
+const modalTechDetailHeader = document.getElementById('modalTechDetailHeader');
+const modalLinkedClassifBox = document.getElementById('modalLinkedClassifBox');
 const modalPageImage = document.getElementById('modalPageImage');
 const modalExtractedText = document.getElementById('modalExtractedText');
+const btnTextOpenDrive = document.getElementById('btnTextOpenDrive');
+const btnTextSwitchScan = document.getElementById('btnTextSwitchScan');
 const pagePreviewLabel = document.getElementById('pagePreviewLabel');
 const pageIndicator = document.getElementById('pageIndicator');
 const pageImgWrapper = document.getElementById('pageImgWrapper');
@@ -204,12 +214,13 @@ const BONE_MAPPINGS = {
 // Initialization
 document.addEventListener('DOMContentLoaded', async () => {
   setupEventListeners();
+  initQuickBonesBar();
   await loadCategories();
   await loadChapters();
   await loadAuthors();
   await loadTechniques();
   await initSkeletonExplorer();
-  loadAllClassificationsCache();
+  await loadAllClassificationsCache();
 });
 
 // Setup Events
@@ -222,20 +233,63 @@ function setupEventListeners() {
     });
   });
 
-  // View Mode Switcher in Categories
-  btnModeSkeleton.addEventListener('click', () => {
-    btnModeSkeleton.classList.add('active');
-    btnModeGrid.classList.remove('active');
-    skeletonExplorerContainer.style.display = 'grid';
-    categoriesGrid.style.display = 'none';
-  });
+  // View Mode Switcher in Categories (3 Modes)
+  if (btnModeSkeleton) {
+    btnModeSkeleton.addEventListener('click', () => {
+      btnModeSkeleton.classList.add('active');
+      if (btnModeAllClassifications) btnModeAllClassifications.classList.remove('active');
+      if (btnModeGrid) btnModeGrid.classList.remove('active');
+      if (skeletonExplorerContainer) skeletonExplorerContainer.style.display = 'grid';
+      if (quickBonesBar) quickBonesBar.style.display = 'flex';
+      if (allClassificationsDirectory) allClassificationsDirectory.style.display = 'none';
+      if (categoriesGrid) categoriesGrid.style.display = 'none';
+    });
+  }
 
-  btnModeGrid.addEventListener('click', () => {
-    btnModeGrid.classList.add('active');
-    btnModeSkeleton.classList.remove('active');
-    skeletonExplorerContainer.style.display = 'none';
-    categoriesGrid.style.display = 'grid';
-  });
+  if (btnModeAllClassifications) {
+    btnModeAllClassifications.addEventListener('click', () => {
+      btnModeAllClassifications.classList.add('active');
+      if (btnModeSkeleton) btnModeSkeleton.classList.remove('active');
+      if (btnModeGrid) btnModeGrid.classList.remove('active');
+      if (skeletonExplorerContainer) skeletonExplorerContainer.style.display = 'none';
+      if (quickBonesBar) quickBonesBar.style.display = 'none';
+      if (allClassificationsDirectory) allClassificationsDirectory.style.display = 'block';
+      if (categoriesGrid) categoriesGrid.style.display = 'none';
+      renderAllClassificationsDirectory();
+    });
+  }
+
+  if (btnModeGrid) {
+    btnModeGrid.addEventListener('click', () => {
+      btnModeGrid.classList.add('active');
+      if (btnModeSkeleton) btnModeSkeleton.classList.remove('active');
+      if (btnModeAllClassifications) btnModeAllClassifications.classList.remove('active');
+      if (skeletonExplorerContainer) skeletonExplorerContainer.style.display = 'none';
+      if (quickBonesBar) quickBonesBar.style.display = 'none';
+      if (allClassificationsDirectory) allClassificationsDirectory.style.display = 'none';
+      if (categoriesGrid) categoriesGrid.style.display = 'grid';
+    });
+  }
+
+  // All Classifications Directory Search Input
+  if (classifSearchInput) {
+    classifSearchInput.addEventListener('input', () => {
+      renderAllClassificationsDirectory(classifSearchInput.value, currentClassifRegion);
+    });
+  }
+
+  // All Classifications Directory Region Filter Pills
+  if (classifFilterPills) {
+    const pills = classifFilterPills.querySelectorAll('.pill-btn');
+    pills.forEach(p => {
+      p.addEventListener('click', () => {
+        pills.forEach(b => b.classList.remove('active'));
+        p.classList.add('active');
+        currentClassifRegion = p.dataset.filter || 'all';
+        renderAllClassificationsDirectory(classifSearchInput ? classifSearchInput.value : '', currentClassifRegion);
+      });
+    });
+  }
 
   // Global Search
   searchBtn.addEventListener('click', () => performSearch());
@@ -1088,6 +1142,197 @@ function renderPagination(current, total) {
   techPagination.appendChild(nextBtn);
 }
 
+// Quick Bones Bar Initialization
+function initQuickBonesBar() {
+  const chips = document.querySelectorAll('.bone-chip-btn');
+  chips.forEach(btn => {
+    btn.addEventListener('click', () => {
+      chips.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const boneKey = btn.dataset.bone;
+      if (boneKey === 'gustilo') {
+        if (btnModeAllClassifications) btnModeAllClassifications.click();
+        if (classifSearchInput) {
+          classifSearchInput.value = 'Gustilo';
+          renderAllClassificationsDirectory('Gustilo', 'all');
+        }
+      } else if (BONE_MAPPINGS[boneKey]) {
+        if (btnModeSkeleton && !btnModeSkeleton.classList.contains('active')) {
+          btnModeSkeleton.click();
+        }
+        selectBone(boneKey, BONE_MAPPINGS[boneKey]);
+        if (tabBtnClassifications) tabBtnClassifications.click();
+        
+        setTimeout(() => {
+          if (skeletonClassificationsContainer) {
+            skeletonClassificationsContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          }
+        }, 150);
+      }
+    });
+  });
+}
+
+// All Classifications Directory Renderer
+let currentClassifRegion = 'all';
+let currentClassifSearch = '';
+
+function renderAllClassificationsDirectory(filterText, regionFilter) {
+  if (!allClassificationsGrid) return;
+
+  if (typeof filterText === 'string') currentClassifSearch = filterText.trim().toLowerCase();
+  if (typeof regionFilter === 'string') currentClassifRegion = regionFilter;
+
+  if (allClassesData.length === 0) {
+    allClassificationsGrid.innerHTML = '<div style="padding: 2rem; color: var(--text-muted); text-align: center;">Đang nạp 23+ bảng phân loại gãy xương...</div>';
+    return;
+  }
+
+  let filtered = allClassesData;
+
+  // Region filter
+  if (currentClassifRegion === 'lower') {
+    filtered = filtered.filter(c => c.category === 'Knee & Lower Leg' || c.category === 'Hip & Pelvis' || c.category === 'Foot & Ankle');
+  } else if (currentClassifRegion === 'upper') {
+    filtered = filtered.filter(c => c.category === 'Shoulder & Arm' || c.category === 'Elbow & Forearm' || c.category === 'Hand & Wrist');
+  } else if (currentClassifRegion === 'spine-pelvis') {
+    filtered = filtered.filter(c => c.category === 'Spine' || (c.bone_vi && (c.bone_vi.includes('chậu') || c.bone_vi.includes('cối') || c.bone_vi.includes('sống'))));
+  } else if (currentClassifRegion === 'general') {
+    filtered = filtered.filter(c => c.category === 'Approaches & General Principles' || c.id === 'gustilo' || c.id === 'salter_harris' || c.id === 'ao_ota');
+  }
+
+  // Text search filter
+  if (currentClassifSearch) {
+    const qNorm = normalizeStr(currentClassifSearch);
+    filtered = filtered.filter(c => {
+      return (
+        normalizeStr(c.name).includes(qNorm) ||
+        normalizeStr(c.en_name).includes(qNorm) ||
+        normalizeStr(c.bone_vi).includes(qNorm) ||
+        normalizeStr(c.category).includes(qNorm) ||
+        (c.types && c.types.some(t => normalizeStr(t.name).includes(qNorm) || normalizeStr(t.code).includes(qNorm) || normalizeStr(t.description).includes(qNorm)))
+      );
+    });
+  }
+
+  if (filtered.length === 0) {
+    allClassificationsGrid.innerHTML = `
+      <div style="background: #fff; padding: 2.5rem; text-align: center; border-radius: 12px; border: 1px dashed var(--border); color: var(--text-muted);">
+        <p style="font-size: 1.1rem; font-weight: 600;">Không tìm thấy bảng phân loại gãy phù hợp với "${escapeHtml(currentClassifSearch)}"</p>
+        <p style="margin-top: 0.5rem; font-size: 0.9rem;">Hãy thử gõ tên tác giả (Schatzker, Neer, Garden, Denis, Gustilo, Bado...) hoặc vị trí xương (mâm chày, cổ xương đùi, cổ chân...).</p>
+      </div>
+    `;
+    return;
+  }
+
+  allClassificationsGrid.innerHTML = '';
+
+  filtered.forEach(item => {
+    const card = document.createElement('div');
+    card.className = 'classification-card';
+    card.id = `all-classif-${item.id}`;
+
+    const typesHtml = (item.types || []).map(t => {
+      const typeCode = t.code || t.type || '';
+      const typeName = t.name || '';
+      const typeDesc = t.desc || t.description || '';
+      const typeMgmt = t.management || t.principles || '';
+      const techId = t.technique_id || '';
+      const btnLabel = t.button_label || (techId ? `Xem Kỹ thuật ${techId} (${t.technique_title || ''})` : '');
+
+      return `
+        <div class="type-item">
+          <div class="type-item-header">
+            <span class="type-code">📌 ${escapeHtml(typeCode)}</span>
+            ${typeName ? `<strong style="color: var(--dark); font-size: 0.925rem;">${escapeHtml(typeName)}</strong>` : ''}
+          </div>
+          ${typeDesc ? `<div class="type-desc" style="line-height: 1.45; color: #334155;">${escapeHtml(typeDesc)}</div>` : ''}
+          ${typeMgmt ? `<div class="type-management" style="margin-top: 0.4rem; color: #0369a1; font-weight: 500;">⚡ <strong>Chỉ định & Xử trí:</strong> ${escapeHtml(typeMgmt)}</div>` : ''}
+          ${techId ? `
+            <div class="type-action-row" style="margin-top: 0.5rem;">
+              <button class="type-tech-btn" onclick="openTechniqueModal('${techId}')" title="Mở toàn văn quy trình phẫu thuật">
+                🔪 ${escapeHtml(btnLabel)} &rarr;
+              </button>
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }).join('');
+
+    const techsHtml = (item.techniques || []).map(t_id => `
+      <button class="tech-tag-btn" onclick="openTechniqueModal('${t_id}')">🔪 Kỹ thuật ${t_id}</button>
+    `).join('');
+
+    card.innerHTML = `
+      <div class="classification-header">
+        <div class="classification-title">
+          <h3 style="font-size: 1.25rem; font-weight: 800; color: #0f172a;">${escapeHtml(item.name)}</h3>
+          <span style="font-size: 0.85rem; color: #0284c7; font-weight: 600;">${escapeHtml(item.en_name)} • Vị trí: ${escapeHtml(item.bone_vi)} • Chuyên khoa: ${escapeHtml(item.category)}</span>
+        </div>
+        <button class="view-btn" onclick="openPageImageDirect(${item.pdf_page}, '${escapeHtml(item.name)}')">
+          📖 Sách PDF p.${item.pdf_page} &rarr;
+        </button>
+      </div>
+      <p class="classification-desc" style="font-size: 0.925rem; line-height: 1.5; color: #475569; margin: 0.75rem 0 1rem;">
+        ${escapeHtml(item.description)}
+      </p>
+      <div class="classification-types">
+        ${typesHtml}
+      </div>
+      ${techsHtml ? `
+        <div class="classification-techniques" style="margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border);">
+          <span style="font-size: 0.8rem; font-weight: 800; color: #64748b; display: block; margin-bottom: 0.5rem;">CÁC KỸ THUẬT MỔ CHỈ ĐỊNH (CAMPBELL 13TH ED):</span>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">${techsHtml}</div>
+        </div>
+      ` : ''}
+    `;
+
+    allClassificationsGrid.appendChild(card);
+  });
+}
+
+// Full-text loading & formatting helpers
+let allTechniqueTextsCache = null;
+
+async function getAllTechniqueTexts() {
+  if (allTechniqueTextsCache) return allTechniqueTextsCache;
+  try {
+    const res = await fetch('data/techniques_text.json');
+    if (res.ok) {
+      allTechniqueTextsCache = await res.json();
+      return allTechniqueTextsCache;
+    }
+  } catch (e) {
+    console.warn('Failed to load techniques_text.json:', e);
+  }
+  return {};
+}
+
+function formatTechniqueText(rawText) {
+  if (!rawText) {
+    return '<p style="color: var(--text-muted); font-style: italic;">Không có nội dung văn bản trích xuất trực tiếp cho kỹ thuật này.</p>';
+  }
+
+  // Join hyphenated line breaks
+  let text = rawText.replace(/(\w+)-\s*\n\s*(\w+)/g, '$1$2');
+  const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+
+  let html = '<div class="formatted-tech-body">';
+
+  lines.forEach(line => {
+    if (/^(TECHNIQUE\s+\d+-\d+|SURGICAL\s+APPROACH|INDICATIONS|OPERATIVE\s+TECHNIQUE|POSTOPERATIVE\s+CARE|AFTERTREATMENT|COMPLICATIONS|SURGICAL\s+ANATOMY|EQUIPMENT|PITFALLS)/i.test(line)) {
+      html += `<div class="tech-heading">📌 ${escapeHtml(line)}</div>`;
+    } else if (/^(STEP\s+\d+|Thì\s+\d+|Bước\s+\d+|\d+\.\s+)/i.test(line)) {
+      html += `<div class="tech-step"><strong>${escapeHtml(line)}</strong></div>`;
+    } else {
+      html += `<p style="margin-bottom: 0.75rem; line-height: 1.75;">${escapeHtml(line)}</p>`;
+    }
+  });
+
+  html += '</div>';
+  return html;
+}
+
 // Open Technique Modal
 async function openTechniqueModal(techId) {
   try {
@@ -1095,9 +1340,15 @@ async function openTechniqueModal(techId) {
     modalTechId.textContent = `TECHNIQUE ${techId}`;
     modalTechTitle.textContent = 'Đang tải thông tin...';
     modalTechMeta.textContent = '';
-    modalExtractedText.textContent = 'Đang trích xuất văn bản...';
-    modalPageImage.src = '';
-    applyZoom(1.0);
+    
+    // Always default to extractedText tab for instant procedure reading
+    modalTabs.forEach(b => {
+      b.classList.toggle('active', b.dataset.modaltab === 'extractedText');
+    });
+    if (tabContentExtractedText) tabContentExtractedText.style.display = 'block';
+    if (tabContentPagePreview) tabContentPagePreview.style.display = 'none';
+
+    modalExtractedText.innerHTML = '<div style="padding: 1.5rem; color: var(--text-muted);">Đang nạp toàn văn quy trình phẫu thuật từ Campbell 13th Ed...</div>';
 
     let tech = null;
     if (!isStaticMode) {
@@ -1124,14 +1375,91 @@ async function openTechniqueModal(techId) {
     modalTechTitle.textContent = tech.name;
     modalTechMeta.textContent = `Chương ${tech.chapter}: ${tech.chapter_title} • Trang sách gốc: p.${tech.book_page || 'N/A'} • Trang PDF tài liệu: ${tech.pdf_page}`;
 
+    // Render structured header card
+    if (modalTechDetailHeader) {
+      modalTechDetailHeader.innerHTML = `
+        <div class="tech-detail-top-row">
+          <span class="tech-code" style="font-size: 0.85rem; font-weight: 800;">CAMPBELL TECHNIQUE ${tech.tech_id}</span>
+          <span class="badge" style="font-size: 0.8rem; background: #0284c7; color: #fff;">PDF Trang ${tech.pdf_page} / 4.887</span>
+        </div>
+        <h3 class="tech-detail-title">${escapeHtml(tech.name)}</h3>
+        ${tech.author ? `<div class="tech-detail-author">👨‍⚕️ Tác giả / Tên định danh phẫu thuật: <strong>${escapeHtml(tech.author)}</strong></div>` : ''}
+        <div class="tech-detail-meta-pills">
+          <span>📖 Chương ${tech.chapter}: ${escapeHtml(tech.chapter_title)}</span>
+          <span>•</span>
+          <span>Trang sách in: <strong>p.${tech.book_page || 'N/A'}</strong></span>
+          ${tech.categories && tech.categories.length > 0 ? `<span>•</span><span>Giải phẫu: <strong>${tech.categories.map(c => c.vi || c.id).join(', ')}</strong></span>` : ''}
+        </div>
+      `;
+    }
+
+    // Check if this technique is linked to a fracture classification!
+    if (allClassesData.length === 0) {
+      allClassesData = await loadStaticOrApi('/api/classifications', 'data/fracture_classifications.json');
+    }
+    const linkedClass = allClassesData.find(c => {
+      if (c.techniques && c.techniques.includes(techId)) return true;
+      if (c.types && c.types.some(t => t.technique_id === techId)) return true;
+      return false;
+    });
+
+    if (modalLinkedClassifBox) {
+      if (linkedClass) {
+        const matchingType = linkedClass.types ? linkedClass.types.find(t => t.technique_id === techId) : null;
+        modalLinkedClassifBox.style.display = 'flex';
+        modalLinkedClassifBox.innerHTML = `
+          <div class="linked-classif-info">
+            <h4>🦴 BẢNG PHÂN LOẠI GÃY LIÊN QUAN: ${escapeHtml(linkedClass.name)} (${escapeHtml(linkedClass.bone_vi)})</h4>
+            <p>${matchingType ? `⚡ <strong>Chỉ định (${escapeHtml(matchingType.code)} - ${escapeHtml(matchingType.name)}):</strong> ${escapeHtml(matchingType.principles || matchingType.description)}` : escapeHtml(linkedClass.description)}</p>
+          </div>
+          <button class="linked-classif-btn" id="btnGoToLinkedClassif">
+            Xem Bảng phân loại &rarr;
+          </button>
+        `;
+        const btnGo = modalLinkedClassifBox.querySelector('#btnGoToLinkedClassif');
+        if (btnGo) {
+          btnGo.onclick = () => {
+            techModal.classList.remove('active');
+            switchTab('categories');
+            if (btnModeSkeleton && !btnModeSkeleton.classList.contains('active')) btnModeSkeleton.click();
+            const boneKey = (linkedClass.svg_ids && linkedClass.svg_ids.find(k => BONE_MAPPINGS[k])) || linkedClass.bone_id || Object.keys(BONE_MAPPINGS).find(k => BONE_MAPPINGS[k].category === linkedClass.category);
+            if (boneKey && BONE_MAPPINGS[boneKey]) selectBone(boneKey, BONE_MAPPINGS[boneKey]);
+            if (tabBtnClassifications) tabBtnClassifications.click();
+          };
+        }
+      } else {
+        modalLinkedClassifBox.style.display = 'none';
+      }
+    }
+
+    // Load full extracted surgical text
+    let fullText = tech.extracted_text || '';
+    if (!fullText) {
+      const allTexts = await getAllTechniqueTexts();
+      fullText = allTexts[techId] || '';
+    }
+
+    modalExtractedText.innerHTML = formatTechniqueText(fullText);
+
+    // Setup action buttons
+    const driveUrl = `https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view`;
+    if (btnTextOpenDrive) btnTextOpenDrive.href = driveUrl;
+    if (btnTextSwitchScan) {
+      btnTextSwitchScan.onclick = () => {
+        const scanTabBtn = document.querySelector('.modal-tab-btn[data-modaltab="pagePreview"]');
+        if (scanTabBtn) scanTabBtn.click();
+      };
+    }
+
+    // Prepare PDF scan page
     if (tech.pdf_page) {
       setModalPdfPage(tech.pdf_page);
     }
 
-    modalExtractedText.textContent = tech.extracted_text || 'Không có đoạn văn bản trích xuất trực tiếp.';
   } catch (err) {
     console.error('Failed to load technique detail:', err);
     modalTechTitle.textContent = 'Lỗi tải kỹ thuật';
+    modalExtractedText.innerHTML = '<div style="color: red; padding: 1.5rem;">Không thể nạp nội dung kỹ thuật mổ.</div>';
   }
 }
 
