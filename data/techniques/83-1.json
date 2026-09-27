@@ -1,1 +1,60 @@
-{"tech_id": "83-1", "name_en": "Primary Plantar Plate Repair Through a Dorsal Approach", "name_vi": "Kỹ thuật Phẫu thuật 83-1: Primary Plantar Plate Repair Through a Dorsal Approach", "chapter": 83, "category": "General", "pdf_page": 4563, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 83 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Primary Plantar Plate Repair Through a Dorsal Approach bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "83-1",
+  "name_en": "Primary Plantar Plate Repair Through a Dorsal Approach",
+  "name_vi": "Phẫu thuật Phục hồi Bản Gan Chân qua Đường mổ Cắt xương Weil (Plantar Plate Repair)",
+  "chapter": 83,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4563,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Rách bản gan chân (Plantar Plate Tear) khớp bàn ngón chân nhỏ (thường gặp ngón 2-3), mất vững khớp MTP, nghiệm pháp ngăn kéo Lachman bàn chân dương tính, ngón chân búa hoặc biến dạng bắt chéo ngón (crossover toe).",
+  "contraindications": "Thoái hóa cứng hoàn toàn diện khớp bàn ngón; ngón chân co rút cứng đờ lâu năm cần cắt khớp; nhiễm trùng da mu chân.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đặt garo cổ chân 200 mmHg, C-arm mini sẵn sàng. Bộ dụng cụ vi phẫu phục hồi bản gan chân (mini suture passer) và vít vi phẫu Weil 2.0 mm.",
+  "surgical_approach": "Đường mổ dọc mu chân trên khoang gian ngón và khớp bàn ngón 2 dài 3-4 cm. Cấu trúc nguy cơ: Dây thần kinh cảm giác mu ngón chân; Động mạch mu bàn chân kẽ ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ mu chân & Bộc lộ bao khớp MTP",
+      "detail": "Rạch da dọc mu chân trên khớp MTP ngón 2. Tách gân duỗi ngón dài và ngắn sang bên. Mở bao khớp mu chân bộc lộ chỏm xương bàn 2.",
+      "action": "Bảo vệ tối đa các nhánh thần kinh cảm giác mu ngón chân đi kèm."
+    },
+    {
+      "step": 2,
+      "title": "Cắt xương Weil ngắn thân xương bàn 2",
+      "detail": "Thực hiện đường cắt xương Weil song song với mặt lòng bàn chân từ mu chỏm xương bàn ra sau. Đẩy lùi chỏm xương bàn 2 ra sau 3-4 mm để bộc lộ rõ toàn bộ khoang đáy khớp và bản gan chân.",
+      "action": "Đẩy lùi chỏm xương bàn 2 ra sau tạo khoảng không gian nhìn trực tiếp bản gan chân."
+    },
+    {
+      "step": 3,
+      "title": "Nhận diện & Khâu néo bản gan chân bị rách",
+      "detail": "Dùng dụng cụ luồn chỉ vi phẫu chuyên dụng (Scorpion/Mini Passer) luồn 2 mũi chỉ siêu bền FiberWire qua bờ rách của bản gan chân ở đáy khớp.",
+      "action": "Xuyên chỉ chắc chắn qua phần mô lành của bản gan chân sát điểm bám nền đốt gần."
+    },
+    {
+      "step": 4,
+      "title": "Khoan đường hầm đốt gần & Buộc chỉ cố định",
+      "detail": "Khoan 2 lỗ nhỏ 1.5 mm qua nền đốt gần ngón chân. Luồn các đầu chỉ khâu bản gan chân qua lỗ khoan lên mặt mu đốt gần và buộc chặt ở tư thế ngón chân gập nhẹ 10-15°.",
+      "action": "Buộc chỉ nén ép bản gan chân áp sát vào nền đốt gần ở tư thế ngón chân gập nhẹ 10-15°."
+    },
+    {
+      "step": 5,
+      "title": "Cố định nẹp vít Weil & Đóng vết mổ",
+      "detail": "Bắt 1 vít nén ép vi phẫu 2.0 mm cố định chỏm xương bàn 2 đã lùi ra sau. Gọt phẳng gờ xương mu thừa. Khâu phục hồi bao khớp và khâu da.",
+      "action": "Bắt vít vi phẫu Weil chắc chắn; kiểm tra ngón chân nằm thẳng trục hoàn hảo, nghiệm pháp Lachman âm tính."
+    }
+  ],
+  "postop_protocol": "Băng nẹp cố định giữ ngón chân ở tư thế hơi gập lòng nhẹ (plantarflexion) trong 4-6 tuần. Cho phép đi giày Darco đế cứng tì đè gót chân ngay. Tránh ưỡn ngón chân trong 6 tuần đầu.",
+  "pearls_pitfalls": "Đường cắt xương Weil là chìa khóa bộc lộ bản gan chân: cắt xương quá dốc sẽ làm hạ thấp chỏm bàn gây đau buốt tì đè gan chân sau mổ.",
+  "image_url": "web/static/images/techniques/83-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/83-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-1 (Campbell 13th Ed)"
+    }
+  ]
+}

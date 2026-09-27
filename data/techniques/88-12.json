@@ -1,1 +1,60 @@
-{"tech_id": "88-12", "name_en": "Open Reduction and Internal Fixation of Fractures of the Lateral Process of the Talus", "name_vi": "Kỹ thuật Phẫu thuật 88-12: Open Reduction and Internal Fixation of Fractures of the Lateral Process of the Talus", "chapter": 88, "category": "General", "pdf_page": 4777, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 88 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Open Reduction and Internal Fixation of Fractures of the Lateral Process of the Talus bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "88-12",
+  "name_en": "Open Reduction and Internal Fixation of Fractures of the Lateral Process of the Talus",
+  "name_vi": "Phẫu thuật Bàn Cổ Chân (88-12): Open Reduction and Internal Fixation of Fractures of the Lateral Process of the Talus",
+  "chapter": 88,
+  "category": "Chấn thương Gãy Xương Bàn Cổ Chân (Xương gót, Xương sên, Khớp Lisfranc)",
+  "pdf_page": 4777,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong phẫu thuật cổ bàn chân (Open Reduction and Internal Fixation of Fractures of the Lateral Process of the Talus), chấn thương hoặc biến dạng bàn ngón chân theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng mô mềm bàn chân cấp, suy mạch chi dưới nặng, loét mất cảm giác Charcot tiến triển.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi cổ chân hoặc bắp chân (200-250 mmHg), C-arm mini sẵn sàng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch mu chân; Bó mạch thần kinh gan chân trong và ngoài; Thần kinh bắp chân; Thần kinh mác nông.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Tôn trọng mô mềm bàn chân",
+      "detail": "V-sign for radiographic diagnosis of lateral process fractures. A and B, Intact lateral process has symmetric V-shaped contour (negative V sign). C and D, Disruption or asymmetry of V shape indicates lateral process fracture (positive V sign). (B and D from von Knoch F, Reckord U, von Knoch M, Sommer C: Fracture of the lateral process of the talus in snowboarders, J Bone Joint Surg 89B:772, 2007.",
+      "action": "Rạch da theo mốc giải phẫu chuẩn bàn chân, phẫu tích vạt da dày toàn bộ."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ tổn thương & Giải phóng mô co rút",
+      "detail": "Copyright British Editorial Society of Bone and Joint Surgery.) A C B D Posteromedial talar facet fracture also can be associated with a medial subtalar dislocation and often is missed on initial postreduction evaluation. It can be confused with an os trigonum, demonstrating the fact that patients with medial subtalar dislocations should have additional diagnostic imaging studies, such as coronal CT scan. Prognosis is poor if the fracture is through the medial side of the talar body. A fracture through an incomplete medial facet tarsal coalition, easily seen on CT, can be confused with a...",
+      "action": "Bộc lộ ổ tổn thương, bảo vệ các nhánh thần kinh cảm giác mu chân và gan chân."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp chính (Cắt xương / Nắn chỉnh / Khâu nối)",
+      "detail": "Fractures of the entire posterior process of the talus are rare and may need ORIF because the fragment may involve a large portion of the articular surface. In general, posterior process fractures, if small and/or minimally dis­ placed, can be treated nonoperatively. If the fragment is large enough to involve a significant portion of the articular surface and/or is displaced, surgical fixation through a posterolateral or posteromedial approach can lead to good outcomes. Late excision of symptomatic fractures can be helpful.",
+      "action": "Thực hiện thao tác kỹ thuật chuẩn xác, kiểm tra trục giải phẫu dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định nẹp vít vi phẫu / Kim Kirschner",
+      "detail": "TRANSCHONDRAL FRACTURES OF THE TALUS See Chapter 50 for a discussion of arthroscopic treatment of transchondral fractures of the talus. TALAR BODY EXTRUSION Extrusion of the talar body or entire talus typically occurs with high-energy trauma and usually is associated with severely displaced open fractures, severe soft-tissue injury, contamination, and disruption of the talar blood supply (Fig. Consensus on the treatment of a completely extruded talar body is lacking. Because the results of talar body excision with or without tibiocalcaneal fusion are most often poor, we believe that...",
+      "action": "Bắt vít nén ép vi phẫu hoặc nẹp khóa định hình ôm sát bề mặt xương."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Tháo garo, Cầm máu & Đóng vết mổ",
+      "detail": "The body should not be replaced in two situations: severe contamination or severe comminution and crushing of the talar body. Open reduction is almost Possible mechanisms of injury in fractures of posterior facet of talus. Probable mechanism is compression. Fragment is sheared off posterior facet by corresponding area of calcaneus as foot is forced into dorsiflexion and slight external rotation.",
+      "action": "Tháo garo kiểm tra tưới máu hồng ấm đầu ngón, khâu da không căng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cẳng bàn chân tư thế trung tính. Kê cao chân chống phù nề. Đi giày đế cứng hoặc tì đè theo phác đồ từng phẫu thuật.",
+  "pearls_pitfalls": "Vạt da bàn chân rất mỏng manh: luôn phẫu tích vạt dày toàn bộ và hạn chế kẹp kéo mép da; Phục hồi vòm chân sinh lý.",
+  "image_url": "web/static/images/techniques/88-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/88-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-12 (Campbell 13th Ed)"
+    }
+  ]
+}

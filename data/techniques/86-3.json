@@ -1,1 +1,60 @@
-{"tech_id": "86-3", "name_en": "Interdigital Neuroma Excision (Dorsal) (Amis)", "name_vi": "Kỹ thuật Phẫu thuật 86-3: Interdigital Neuroma Excision (Dorsal) (Amis)", "chapter": 86, "category": "General", "pdf_page": 4684, "author": "Dorsal", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 86 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Interdigital Neuroma Excision (Dorsal) (Amis) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "86-3",
+  "name_en": "Interdigital Neuroma Excision (Dorsal) (Amis)",
+  "name_vi": "Phẫu thuật Cắt Bỏ U Thần Kinh Gian Ngón Chân Morton qua Đường Mổ Mu Chân (Amis)",
+  "chapter": 86,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4684,
+  "author": "Dorsal",
+  "clinical_indications": "U thần kinh gian ngón chân Morton (Morton's Neuroma / Interdigital Neuroma) điển hình ở kẽ gian ngón 3-4 hoặc 2-3; đau rát bỏng bàn ngón chân lan ra đầu ngón, cảm giác như dẫm phải hòn sỏi trong giày; dấu hiệu Mulder's click dương tính; siêu âm hoặc MRI xác nhận khối u thần kinh > 5 mm; thất bại điều trị bảo tồn (đổi giày mũi rộng, đệm lót mu bàn chân, tiêm corticoid).",
+  "contraindications": "Đau ngón chân do viêm bao hoạt dịch khớp bàn ngón, rách bản gan chân (plantar plate tear) hoặc gãy mệt xương bàn chân chưa loại trừ; nhiễm trùng kẽ ngón chân.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi cổ chân hoặc bắp chân (200-250 mmHg). Chuẩn bị banh tự động nhỏ hoặc banh lamina spreader mini, kéo phẫu tích vi phẫu đầu nhọn cong.",
+  "surgical_approach": "Đường rạch dọc mu chân dài 3-4 cm ở kẽ gian ngón 3-4 (hoặc 2-3), bắt đầu từ nếp gấp kẽ ngón chân kéo dài lên phía cổ chân khoảng 3 cm. Cấu trúc nguy cơ: Dây chằng gian xương bàn ngang sâu (Deep Transverse Metatarsal Ligament - DTML); Bó mạch gan ngón chân chung; Màng bao khớp bàn ngón chân.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Rạch da dọc mu chân kẽ gian ngón 3-4 & Tách mô mềm",
+      "detail": "Rạch da dọc mu chân dài 3 cm ở khoảng kẽ ngón 3-4. Tách nhẹ nhàng tổ chức dưới da bằng kéo cong đầu tù, tránh làm tổn thương các nhánh tĩnh mạch mu chân nhỏ.",
+      "action": "Rạch da dọc mu chân kẽ ngón 3-4, phẫu tích nhẹ nhàng tách mô liên kết dưới da."
+    },
+    {
+      "step": 2,
+      "title": "Cắt đứt dây chằng gian xương bàn ngang sâu (DTML)",
+      "detail": "Đặt banh lamina spreader hoặc banh tự động nhỏ giữa hai chỏm xương bàn chân để bộc lộ dây chằng gian xương bàn ngang sâu (DTML). Đặt que thăm dò bảo vệ bên dưới dây chằng, sau đó dùng dao sắc cắt đứt hoàn toàn dây chằng DTML.",
+      "action": "Cắt đứt hoàn toàn dây chằng gian xương bàn ngang sâu (DTML) để giải phóng khoang chèn ép thần kinh."
+    },
+    {
+      "step": 3,
+      "title": "Đẩy u thần kinh lên trên & Phẫu tích tách khỏi động mạch",
+      "detail": "Dùng ngón tay ấn từ mặt gan chân đẩy khối u thần kinh phồng to trồi lên phẫu trường mu chân. Phẫu tích tách nhẹ khối u thần kinh khỏi động mạch gan ngón chung đi kèm và bao hoạt dịch xung quanh.",
+      "action": "Ấn nhẹ gan chân đẩy khối u thần kinh trồi lên mu chân; bóc tách vỏ u khỏi động mạch gan ngón."
+    },
+    {
+      "step": 4,
+      "title": "Cắt các nhánh ngón xa & Cắt thần kinh đoạn gần (Neurectomy 3 cm)",
+      "detail": "Kẹp và cắt đứt các nhánh thần kinh cảm giác đi ra hai ngón chân ở đầu xa khối u. Kéo căng nhẹ thân thần kinh ra xa rồi dùng dao sắc cắt đứt thân thần kinh ở vị trí CÁCH DÂY CHẰNG DTML ÍT NHẤT 3 CM VỀ PHÍA GẦN để đầu mỏm cụt co rút vùi sâu vào cơ nội tại bàn chân.",
+      "action": "Cắt thân thần kinh cách DTML 3 cm về phía gần, để đầu mỏm cụt tự co rút vùi vào trong cơ liên cốt."
+    },
+    {
+      "step": 5,
+      "title": "Tháo garo kiểm tra & Đóng da mũi rời",
+      "detail": "Gửi bệnh phẩm u thần kinh làm giải phẫu bệnh. Tháo garo kiểm tra cầm máu kỹ kẽ gian ngón chân. Khâu da mũi rời bằng chỉ nylon 4-0 hoặc 5-0. Băng ép vừa phải kẽ ngón.",
+      "action": "Kiểm tra cầm máu kỹ lưỡng kẽ ngón chân sau tháo garo, khâu da mũi rời không căng."
+    }
+  ],
+  "postop_protocol": "Băng đệm gạc êm vô khuẩn kẽ ngón chân. Bệnh nhân có thể đi lại tì đè nhẹ trên gót chân ngay ngày đầu tiên với giày chỉnh hình đế phẳng cứng hoặc dép hở mũi. Kê cao chân khi nằm nghỉ. Cắt chỉ sau 10-14 ngày. Trở lại đi giày bình thường sau 3-4 tuần.",
+  "pearls_pitfalls": "Cắt thân thần kinh không đủ cao về phía gần là nguyên nhân số 1 gây u xơ mỏm cụt (stump neuroma) tái phát vô cùng đau đớn: bắt buộc phải cắt cách DTML ít nhất 3 cm về phía gần để đầu mỏm cụt lọt sâu vào khối cơ nội tại; Bảo tồn động mạch gan ngón để tránh thiếu máu nuôi ngón chân.",
+  "image_url": "web/static/images/techniques/86-3.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/86-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-3 (Campbell 13th Ed)"
+    }
+  ]
+}

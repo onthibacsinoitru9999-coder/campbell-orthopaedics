@@ -1,1 +1,65 @@
-{"tech_id": "88-8", "name_en": "Open Reduction of the Talar Neck", "name_vi": "Kỹ thuật Phẫu thuật 88-8: Open Reduction of the Talar Neck", "chapter": 88, "category": "General", "pdf_page": 4767, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 88 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Open Reduction of the Talar Neck bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "88-8",
+  "name_en": "Open Reduction of the Talar Neck",
+  "name_vi": "Phẫu thuật Kết hợp xương Gãy Cổ Xương Sên Hawkins qua Hai Đường mổ Trong - Ngoài",
+  "chapter": 88,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4767,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Gãy cổ xương sên di lệch Hawkins độ II (trật khớp dưới sên), độ III (trật cả khớp dưới sên và khớp cổ chân), độ IV (trật kèm khớp sên ghe); gãy có bậc thang diện khớp > 2mm.",
+  "contraindications": "Gãy cổ xương sên không di lệch Hawkins độ I (điều trị bảo tồn bó bột không tì đè); nhiễm trùng vùng cổ chân; đụng dập phần mềm quá nặng.",
+  "patient_prep": "Bệnh nhân nằm ngửa, kê gối độn dưới mông cùng bên. Đặt garo hơi đùi hoặc bắp chân. C-arm sẵn sàng chụp tư thế thẳng, nghiêng và tư thế Canale view (tư thế đặc hiệu khảo sát cổ xương sên).",
+  "surgical_approach": "Hai đường mổ phối hợp: Đường mổ trước trong (bờ trong gân chày trước) và Đường mổ trước ngoài (bờ ngoài gân duỗi các ngón dài). Cấu trúc nguy cơ tử vong của xương sên: Bó mạch nuôi thân xương sên (nhánh động mạch ống cổ chân của động mạch chày sau và động mạch xoang cổ chân); Bó mạch chày trước.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ trước trong & Bộc lộ mặt trong cổ xương sên",
+      "detail": "Rạch da dọc từ mắt cá trong qua xương sên đến củ xương ghe. Bộc lộ mặt trong cổ xương sên và diện khớp sên ghe. Tôn trọng màng xương và mạch nuôi ở mặt dưới cổ sên.",
+      "action": "Không bóc tách màng xương mặt dưới cổ sên để bảo vệ nguồn máu nuôi duy nhất còn sót lại."
+    },
+    {
+      "step": 2,
+      "title": "Đường mổ trước ngoài & Bộc lộ diện khớp dưới sên",
+      "detail": "Rạch da trước ngoài dọc theo trục xương bàn 4 lên cẳng chân. Bộc lộ mặt ngoài cổ sên, xoang cổ chân và khớp dưới sên. Gắp sạch máu tụ và mảnh vụn kẹt trong khớp.",
+      "action": "Bộc lộ cả mặt trong và mặt ngoài giúp kiểm soát hoàn toàn xoay trục của thân xương sên."
+    },
+    {
+      "step": 3,
+      "title": "Nắn chỉnh giải phẫu ổ gãy cổ sên dưới C-arm Canale view",
+      "detail": "Dùng cây nâng xương hoặc kim K-wire làm cần điều khiển nắn thân sên vào lại mộng chày và diện khớp dưới sên. Đưa cổ sên về đúng trục giải phẫu. Kiểm tra trên phim Canale view.",
+      "action": "Kiểm tra phim Canale view: bàn chân gập lòng 15° và xoay trong 15° để thấy trọn vẹn cổ xương sên."
+    },
+    {
+      "step": 4,
+      "title": "Bắt 2 vít nén ép rỗng từ trước ra sau hoặc sau ra trước",
+      "detail": "Khoan 2 kim dẫn đường K-wire song song qua cổ sên vào thân sên (1 vít từ ngoài và 1 vít từ trong). Bắt 2 vít xốp rỗng mini 3.5 mm hoặc 4.0 mm có đệm chìm dưới sụn cổ sên.",
+      "action": "Bắt 2 vít bắt chéo hoặc song song tạo lực nén ép đồng trục vững chắc qua khe gãy cổ sên."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra C-arm, rửa sạch & Đóng vết mổ theo lớp",
+      "detail": "Soi C-arm kiểm tra ở cả 3 tư thế (thẳng, nghiêng, Canale): cổ sên thẳng trục hoàn hảo, không còn biến dạng gập góc vẹo trong. Khâu đóng da mũi rời cẩn thận.",
+      "action": "Đảm bảo đầu vít chìm hoàn toàn dưới mặt sụn cổ sên, không cản trở diện khớp sên ghe."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột cẳng bàn chân tư thế trung tính. TUYỆT ĐỐI KHÔNG TÌ ĐÈ trong 8-12 tuần đầu. Chụp X-quang kiểm tra dấu hiệu Hawkins (Hawkins sign - viền tiêu xương dưới sụn vòm sên ở tuần 6-8 chứng tỏ mạch máu nuôi chỏm còn tốt). Cho phép tì đè khi có can xương liền vững.",
+  "pearls_pitfalls": "Biến dạng can lệch vẹo trong (Varus malunion) là lỗi kỹ thuật phổ biến nhất nếu chỉ mổ một đường mổ trong: bắt buộc phải dùng 2 đường mổ trong ngoài; Theo dõi sát hoại tử vô mạch thân sên (AVN) theo phân loại Hawkins.",
+  "image_url": "web/static/images/techniques/88-8.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/88-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-8_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-8 (Campbell 13th Ed)"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"tech_id": "45-1", "name_en": "Open Meniscal Repair", "name_vi": "Kỹ thuật Phẫu thuật 45-1: Open Meniscal Repair", "chapter": 45, "category": "General", "pdf_page": 2399, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 45 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Open Meniscal Repair bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "45-1",
+  "name_en": "Open Meniscal Repair",
+  "name_vi": "Phẫu thuật Khâu Phục hồi Sụn chêm Khớp gối Mở (Open Meniscal Repair)",
+  "chapter": 45,
+  "category": "Y học Thể thao & Nội soi Khớp",
+  "pdf_page": 2399,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Rách sụn chêm vùng giàu mạch máu (Red-Red zone) hoặc vùng giáp ranh (Red-White zone) sát bao khớp (< 3-4 mm tính từ bờ bao khớp); rách dọc dài, rách quai xô ở bệnh nhân trẻ tuổi có nhu cầu bảo tồn tối đa thể tích sụn chêm; thường phối hợp trong mổ tái tạo dây chằng chéo trước (ACL).",
+  "contraindications": "Rách phức tạp, rách thoái hóa vỡ vụn vùng vô mạch (White-White zone); thoái hóa khớp gối nặng Kellgren-Lawrence độ 3-4; mất vững khớp gối kèm theo chưa được tái tạo dây chằng.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đặt garo hơi đùi (250-300 mmHg), bàn đạp chân giữ gối gập 90°. Tháp nội soi và bộ dụng cụ khâu sụn chêm mở sẵn sàng.",
+  "surgical_approach": "Đường mổ sau trong hoặc sau ngoài khớp gối dài 4-5 cm. Với sụn chêm trong: rạch da sau bờ trong mâm chày, phẫu tích giữa bao khớp sau trong và bờ trước cơ bán màng. Cấu trúc nguy cơ: Thần kinh hiển và tĩnh mạch hiển ở phía trong; Thần kinh mác chung và động mạch gối dưới ngoài ở phía sau ngoài; Bó mạch khoeo ở phía sau giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Nội soi thăm khám & Làm tươi mép rách sụn chêm",
+      "detail": "Nội soi gối đánh giá hình thái đường rách, kiểm tra độ di lệch của quai xô. Dùng dao cạo sụn chêm hoặc shaver làm tươi mép rách và cạo xước nhẹ bao khớp kế cận để tạo giường liền xương chảy máu điểm.",
+      "action": "Làm tươi kỹ lưỡng 2 mép rách và bao khớp để kích thích liền sụn chêm sinh học."
+    },
+    {
+      "step": 2,
+      "title": "Đường rạch da sau & Bộc lộ bao khớp sau sụn chêm",
+      "detail": "Gập gối 90°. Rạch da 4-5 cm ở góc sau trong (hoặc sau ngoài). Phẫu tích qua mạc sâu, kéo cơ bụng chân ra sau. Đặt thanh banh chuyên dụng dạng thìa (spoon retractor) nằm giữa bao khớp và cơ bụng chân để che chở bảo vệ bó mạch thần kinh.",
+      "action": "ĐẶT THANH BANH THÌA CHE CHỞ PHÍA SAU BAO KHỚP để bảo vệ tuyệt đối bó mạch khoeo và thần kinh."
+    },
+    {
+      "step": 3,
+      "title": "Luồn kim khâu sụn chêm từ trong ra ngoài (Inside-Out Technique)",
+      "detail": "Đưa nòng dẫn kim khâu đôi chuyên dụng qua cổng nội soi trước trong. Xuyên các kim dài mang chỉ tiêu chậm PDS 2-0 hoặc chỉ bện FiberWire qua sụn chêm và bao khớp ra vết mổ sau, tựa vào thanh banh thìa bảo vệ.",
+      "action": "Khâu các mũi chỉ nẹp đứng (Vertical Mattress) cách nhau 3-4 mm để đạt độ bền cơ học cao nhất."
+    },
+    {
+      "step": 4,
+      "title": "Buộc chỉ nẹp sát bao khớp sau",
+      "detail": "Thu gom các cặp chỉ khâu ở vết mổ sau. Kéo căng nhẹ nhàng và buộc chỉ trực tiếp lên bao khớp sau khi gối ở tư thế gập 20-30°. Kiểm tra nội soi xác nhận mép rách sụn chêm khép khít phẳng hoàn hảo, không còn bậc thang.",
+      "action": "Buộc chỉ ở tư thế gối gập 20-30° để tránh kéo căng quá mức bao khớp sau."
+    },
+    {
+      "step": 5,
+      "title": "Bơm rửa, đóng vết mổ & Cố định nẹp gối",
+      "detail": "Hút sạch dịch nội khớp, kiểm tra probe độ vững của sụn chêm sau khâu. Khâu đóng vết mổ sau theo từng lớp giải phẫu. Khâu các cổng nội soi và băng ép nẹp gối khóa duỗi.",
+      "action": "Đảm bảo sụn chêm sau khâu vững chắc hoàn toàn dưới que thăm dò nội soi (probe)."
+    }
+  ],
+  "postop_protocol": "Đeo nẹp gối có khóa ở tư thế duỗi thẳng trong 4-6 tuần đầu. Tập co cơ tĩnh cơ tứ đầu ngay ngày thứ nhất. Giới hạn tầm gập gối 0-90° trong 4 tuần đầu để tránh lực cắt trượt lên sụn chêm. Đi nạng tì đè chạm đầu ngón trong 4 tuần đầu, tì đè tăng dần sau tuần thứ 6.",
+  "pearls_pitfalls": "Thanh banh thìa bảo vệ phía sau bao khớp là bắt buộc để tránh đâm kim xuyên vào động mạch khoeo hoặc thần kinh chày; Mũi khâu nẹp đứng (vertical mattress) có độ bền gấp đôi mũi khâu nẹp ngang.",
+  "image_url": "web/static/images/techniques/45-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/45-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 45-1 (Campbell 13th Ed)"
+    }
+  ]
+}

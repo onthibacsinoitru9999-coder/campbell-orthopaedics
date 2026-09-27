@@ -1,1 +1,60 @@
-{"tech_id": "50-1", "name_en": "Arthroscopic Examination and Debridement of the Ankle Joint", "name_vi": "Kỹ thuật Phẫu thuật 50-1: Arthroscopic Examination and Debridement of the Ankle Joint", "chapter": 50, "category": "General", "pdf_page": 2757, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 50 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Arthroscopic Examination and Debridement of the Ankle Joint bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "50-1",
+  "name_en": "Arthroscopic Examination and Debridement of the Ankle Joint",
+  "name_vi": "Nội soi Khớp Cổ Chân Thăm khám & Cắt lọc (Ankle Arthroscopy & Debridement)",
+  "chapter": 50,
+  "category": "Y học Thể thao & Nội soi Khớp",
+  "pdf_page": 2757,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Hội chứng xung đột mô mềm hoặc xương cổ chân trước / sau (Anterior/Posterior Impingement), dị vật tự do nội khớp, tổn thương sụn vòm sên (Osteochondral Lesions of the Talus - OLT), viêm màng hoạt dịch cổ chân mạn tính.",
+  "contraindications": "Nhiễm trùng da vùng đặt cổng nội soi; suy giảm tưới máu ngoại vi nghiêm trọng; cứng khớp cổ chân hoàn toàn (không thể căng khớp).",
+  "patient_prep": "Bệnh nhân nằm ngửa, kê gối nhỏ dưới mông cùng bên. Đặt dụng cụ kéo căng cổ chân không xâm lấn (non-invasive ankle distractor). Garo bắp chân hoặc đùi 250 mmHg. Hệ thống ống soi 2.7 mm hoặc 4.0 mm góc 30°.",
+  "surgical_approach": "Cổng trước trong (Anteromedial Portal - nằm sát trong gân cơ chày trước) và Cổng trước ngoài (Anterolateral Portal - nằm sát ngoài gân cơ mác ba). Cấu trúc nguy cơ: Nhánh thần kinh mác nông bì mu chân; Bó mạch thần kinh chày trước; Thần kinh hiển và tĩnh mạch hiển lớn.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Kéo căng khớp & Bơm phồng khớp cổ chân",
+      "detail": "Kéo căng cổ chân bằng đai treo kéo không xâm lấn với lực 10-12 lbs. Dùng kim 18G đâm vào khớp trước trong, bơm căng khớp bằng 15-20 mL nước muối sinh lý.",
+      "action": "Bơm phồng bao khớp trước giúp đẩy bó mạch chày trước ra xa, tạo khoảng trống an toàn."
+    },
+    {
+      "step": 2,
+      "title": "Thiết lập cổng trước trong (Anteromedial Portal)",
+      "detail": "Rạch da dọc nhỏ 5 mm ngay sát bờ trong gân chày trước ngang mức khe khớp chày sên. Dùng kẹp mosquito phẫu tích cùn qua bao khớp, đưa trocar đầu tù và ống soi vào khớp.",
+      "action": "Chỉ rạch da lớp biểu bì, dùng kẹp tách cùn để bảo vệ tĩnh mạch và thần kinh hiển."
+    },
+    {
+      "step": 3,
+      "title": "Thiết lập cổng trước ngoài dưới soi sáng (Anterolateral Portal)",
+      "detail": "Dưới hướng dẫn của nguồn sáng ống soi rọi xuyên da (transillumination), nhận diện các nhánh thần kinh mác nông bì mu chân. Rạch da bờ ngoài gân mác ba đưa dụng cụ thao tác vào.",
+      "action": "Rọi sáng xuyên da nhận diện rõ thần kinh mác nông trước khi rạch cổng trước ngoài."
+    },
+    {
+      "step": 4,
+      "title": "Khảo sát 8 điểm giải phẫu & Cắt lọc màng hoạt dịch / Gai xương",
+      "detail": "Khảo sát toàn diện vòm sên, rãnh trong, rãnh ngoài và mộng chày mác. Dùng máy bào Shaver cắt lọc màng hoạt dịch phì đại. Dùng đục nội soi hoặc mũi mài Bur mài phẳng gai xương trước chày và trước sên.",
+      "action": "Cắt lọc sạch gai xương trước chày và trước sên cản trở biên độ gập mu cổ chân."
+    },
+    {
+      "step": 5,
+      "title": "Bơm rửa, hút sạch dị vật & Đóng cổng",
+      "detail": "Bơm rửa sạch toàn bộ mạt xương, hút sạch dịch khớp, khâu đóng 2 cổng bằng chỉ nylon 4-0. Băng ép nhẹ nhàng.",
+      "action": "Đảm bảo cổ chân gập mu nhẹ nhàng > 15° sau khi mài gai xương."
+    }
+  ],
+  "postop_protocol": "Kê cao chân chống phù nề trong 48 giờ đầu. Cho phép tập vận động gập duỗi cổ chân sớm ngay ngày thứ nhất. Tì đè chịu lực theo dung nạp với giày mềm sau 48 giờ.",
+  "pearls_pitfalls": "Biến chứng tổn thương thần kinh mác nông là phổ biến nhất: luôn dùng kỹ thuật rọi sáng xuyên da và phẫu tích cùn; Giới hạn thời gian kéo căng khớp < 60 phút để tránh liệt thần kinh do đè ép.",
+  "image_url": "web/static/images/techniques/50-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/50-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 50-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/50-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 50-1 (Campbell 13th Ed)"
+    }
+  ]
+}

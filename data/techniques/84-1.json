@@ -1,1 +1,60 @@
-{"tech_id": "84-1", "name_en": "Arthrodesis of the First Metatarsophalangeal Joint with Resection of the Lesser Metatarsophalangeal Joints (Thompson and Mann)", "name_vi": "Kỹ thuật Phẫu thuật 84-1: Arthrodesis of the First Metatarsophalangeal Joint with Resection of the Lesser Metatarsophalangeal Joints (Thompson and Mann)", "chapter": 84, "category": "General", "pdf_page": 4618, "author": "Thompson and Mann", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 84 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Arthrodesis of the First Metatarsophalangeal Joint with Resection of the Lesser Metatarsophalangeal Joints (Thompson and Mann) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "84-1",
+  "name_en": "Arthrodesis of the First Metatarsophalangeal Joint with Resection of the Lesser Metatarsophalangeal Joints (Thompson and Mann)",
+  "name_vi": "Phẫu thuật Hàn Khớp Bàn Ngón Cái Kết hợp Cắt chỏm các Xương bàn Nhỏ (Thompson-Mann)",
+  "chapter": 84,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4618,
+  "author": "Thompson and Mann",
+  "clinical_indications": "Viêm khớp dạng thấp bàn chân biến dạng nặng phá hủy toàn bộ các khớp bàn ngón chân (Rheumatoid Forefoot Deformity), trật khớp hoàn toàn các ngón 2-5 kèm móng quặp, chai chân loét tì đè nặng vùng gan chân trước.",
+  "contraindications": "Nhiễm trùng phần mềm bàn chân cấp tính; suy tắc động mạch nặng chi dưới; viêm tắc tĩnh mạch hoạt tính.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đặt garo cổ chân hoặc bắp chân 200-250 mmHg, C-arm mini sẵn sàng. Bộ nẹp khóa giải phẫu hàn khớp bàn ngón cái và dụng cụ cưa xương.",
+  "surgical_approach": "Đường mổ trong khớp bàn ngón 1 kết hợp đường mổ ngang gan chân hoặc các đường mổ dọc mu chân ngón 2-5. Cấu trúc nguy cơ: Bó mạch thần kinh gan ngón chân; Thần kinh bì mu chân.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Bộc lộ & Chuẩn bị diện hàn khớp bàn ngón cái",
+      "detail": "Rạch da dọc bờ trong khớp bàn ngón 1. Cắt lọc sụn khớp chỏm bàn 1 và nền đốt gần bằng dụng cụ nạo dạng chén-cầu (cup-and-cone reamers) tạo diện khớp hình bán cầu chảy máu điểm.",
+      "action": "Tạo diện khớp dạng chén-cầu giúp chỉnh trục ba chiều linh hoạt và tối đa hóa diện tiếp xúc xương."
+    },
+    {
+      "step": 2,
+      "title": "Định vị tư thế hàn khớp ngón cái tối ưu chuẩn Campbell",
+      "detail": "Đặt ngón cái ở tư thế chức năng bắt buộc: Gập mu 10-15° so với mặt phẳng sàn chân (hoặc 25-30° so với trục thân xương bàn 1), vẹo ngoài 10-15°, xoay trung tính (mặt móng nằm ngang).",
+      "action": "TUYỆT ĐỐI KHÔNG HÀN NGÓN CÁI Ở TƯ THẾ GẬP LÒNG HOẶC XOAY LẬT MẶT MÓNG."
+    },
+    {
+      "step": 3,
+      "title": "Cố định vững chắc khớp bàn ngón cái bằng nẹp khóa",
+      "detail": "Bắt 1 vít nén ép liên mảnh chéo qua diện khớp. Đặt nẹp khóa định hình giải phẫu mặt mu bàn ngón 1, bắt các vít khóa cố định tuyệt đối vững chắc.",
+      "action": "Bắt vít nén ép tạo lực ép tối đa qua diện hàn khớp trước khi bắt nẹp khóa giải phẫu."
+    },
+    {
+      "step": 4,
+      "title": "Cắt chỏm các xương bàn nhỏ 2-3-4-5 (Hoffmann/Clayton)",
+      "detail": "Qua đường rạch ngang gan chân hoặc các đường mu chân, bộc lộ và cắt bỏ chỏm các xương bàn nhỏ từ ngón 2 đến 5 theo hình vòng cung dốc đều từ trong ra ngoài.",
+      "action": "Cắt các chỏm xương bàn tạo đường cong hài hòa (độ dài bàn 2 > bàn 3 > bàn 4 > bàn 5) để tránh điểm tì đè tập trung."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra C-arm, làm phẳng gan chân & Đóng vết mổ",
+      "detail": "Soi C-arm kiểm tra toàn bộ bàn chân trước. Kéo vạt mỡ gan chân che phủ các đầu xương cắt. Đặt nẹp bột cẳng bàn chân.",
+      "action": "Kéo lớp mỡ đệm gan chân che chở các đầu xương bàn nhỏ để phòng ngừa loét tì đè tái phát."
+    }
+  ],
+  "postop_protocol": "Đi giày Darco đế cứng tì đè gót chân ngay sau mổ. Băng nẹp giữ thẳng các ngón chân trong 6 tuần. Chụp X-quang kiểm tra liền xương ở tuần thứ 6 và 12.",
+  "pearls_pitfalls": "Tư thế hàn ngón cái là yếu tố quyết định: nếu gập mu quá nhiều sẽ gây đau cọ sát mu ngón vào mui giày, nếu gập mu quá ít sẽ gây đau buốt tì đè đỉnh ngón cái khi đi lại.",
+  "image_url": "web/static/images/techniques/84-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/84-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 84-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/84-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 84-1 (Campbell 13th Ed)"
+    }
+  ]
+}

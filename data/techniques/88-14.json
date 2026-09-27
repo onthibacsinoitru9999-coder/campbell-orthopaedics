@@ -1,1 +1,60 @@
-{"tech_id": "88-14", "name_en": "Open Reduction and Internal Fixation of Tarsometatarsal (Lisfranc) Fractures", "name_vi": "Kỹ thuật Phẫu thuật 88-14: Open Reduction and Internal Fixation of Tarsometatarsal (Lisfranc) Fractures", "chapter": 88, "category": "General", "pdf_page": 4795, "author": "Lisfranc", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 88 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Open Reduction and Internal Fixation of Tarsometatarsal (Lisfranc) Fractures bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "88-14",
+  "name_en": "Open Reduction and Internal Fixation of Tarsometatarsal (Lisfranc) Fractures",
+  "name_vi": "Phẫu thuật Kết hợp xương Tổn thương Khớp Lisfranc bằng Vít Nén ép & Nẹp Khóa",
+  "chapter": 88,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4795,
+  "author": "Lisfranc",
+  "clinical_indications": "Gãy trật khớp Lisfranc (Tarsometatarsal Joint Fracture-Dislocation) di lệch > 1-2 mm, mất vững khớp Lisfranc trên phim chụp X-quang chịu lực (Weight-bearing view) hoặc test xoay khớp có di lệch giãn rộng khe xương chêm trong - xương bàn 2.",
+  "contraindications": "Chấn thương phần mềm bàn chân sưng nề quá nặng, chèn ép khoang bàn chân cấp (cần rạch giải áp khoang trước); bệnh lý bàn chân thần kinh Charcot (ưu tiên hàn cứng khớp thì đầu).",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi cổ chân hoặc bắp chân 200-250 mmHg. C-arm mini sẵn sàng chụp tư thế thẳng, nghiêng và chếch 30° bàn chân. Bộ vít xốp rỗng 3.5 mm / 4.0 mm và nẹp khóa mini bàn chân.",
+  "surgical_approach": "Hai đường mổ mu chân dọc song song: Đường mổ 1 nằm dọc khoảng gian xương bàn 1-2; Đường mổ 2 nằm dọc khoảng gian xương bàn 3-4. Cấu trúc nguy cơ: Bó mạch mu chân (Động mạch mu chân Dorsalis pedis và thần kinh mác sâu - nằm ngay sát đường mổ 1); Nhánh thần kinh bì mu chân nông.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ mu chân 1 & Bộc lộ cột trong và cột giữa",
+      "detail": "Rạch da dọc mu chân giữa xương bàn 1 và 2. Kéo gân duỗi ngón cái dài (EHL) ra trong, kéo bó mạch thần kinh mu chân ra ngoài. Bộc lộ khớp chêm 1 - bàn 1 và chêm trong - nền bàn 2.",
+      "action": "Nhận diện và bảo vệ cẩn trọng động mạch mu chân và thần kinh mác sâu ở kẽ gian bàn 1-2."
+    },
+    {
+      "step": 2,
+      "title": "Làm sạch diện khớp & Nắn chỉnh nền xương bàn 2 (Keystone)",
+      "detail": "Gắp sạch mô xơ và mảnh xương vụn kẹt trong khe khớp Lisfranc. Nắn chỉnh mộng khớp nền xương bàn 2 lọt khít trở lại vào hốc giữa 3 xương chêm (xương bàn 2 là chìa khóa keystone của vòm ngang).",
+      "action": "Nắn chỉnh giải phẫu hoàn hảo nền xương bàn 2 vào hốc xương chêm vì đây là viên đá đỉnh vòm (keystone)."
+    },
+    {
+      "step": 3,
+      "title": "Bắt vít Lisfranc Home-Run (C1-M2 Screw)",
+      "detail": "Bắt vít nén ép Lisfranc kinh điển (Home-Run screw 3.5 mm hoặc 4.0 mm) từ xương chêm trong (C1) sang nền xương bàn 2 (M2) để phục hồi dây chằng Lisfranc. Kiểm tra khe C1-M2 khép khít tuyệt đối.",
+      "action": "Bắt vít Home-Run từ xương chêm trong (C1) sang nền xương bàn 2 (M2) ép khít khe tổn thương."
+    },
+    {
+      "step": 4,
+      "title": "Cố định khớp chêm 1 - bàn 1 & Cột giữa (C2-M2, C3-M3)",
+      "detail": "Bắt vít nén ép hoặc nẹp khóa nén ép cố định khớp chêm 1 - bàn 1 (C1-M1) và chêm giữa - bàn 2 (C2-M2), chêm ngoài - bàn 3 (C3-M3). Đảm bảo các vít chìm dưới mặt vỏ xương.",
+      "action": "Cố định vững chắc cột trong và cột giữa bằng vít nén ép hoặc nẹp khóa bắt cầu qua khớp."
+    },
+    {
+      "step": 5,
+      "title": "Nắn chỉnh cột ngoài (M4-M5) & Kiểm tra C-arm",
+      "detail": "Nếu cột ngoài (xương bàn 4-5) bị trật: nắn kín hoặc mở nhỏ và cố định tạm thời bằng 2 kim K-wire 1.6 mm (KHÔNG bắt vít qua khớp bàn 4-5 để duy trì biên độ nhún sinh lý). Khâu vết mổ.",
+      "action": "Cột ngoài (khớp xương bàn 4-5 với xương hộp) chỉ ghim kim K-wire tạm thời, tuyệt đối không bắt vít cứng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cẳng bàn chân không tì đè trong 6-8 tuần đầu. Rút kim K-wire cột ngoài sau 6 tuần. Cho phép đi boot tì đè một phần từ tuần 8-10. Tháo vít Lisfranc Home-Run sau 4-6 tháng trước khi cho bệnh nhân chạy nhảy thể thao.",
+  "pearls_pitfalls": "Nắn chỉnh giải phẫu di lệch Lisfranc < 1 mm là bắt buộc để ngăn ngừa thoái hóa đau tì đè bàn chân mạn tính; Không bắt vít cứng qua khớp cột ngoài (bàn 4-5) để bảo tồn chuyển động nhún đàn hồi của bàn chân.",
+  "image_url": "web/static/images/techniques/88-14.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/88-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-14 (Campbell 13th Ed)"
+    }
+  ]
+}

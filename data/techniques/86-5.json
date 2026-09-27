@@ -1,1 +1,65 @@
-{"tech_id": "86-5", "name_en": "Plantar Fascia Release", "name_vi": "Kỹ thuật Phẫu thuật 86-5: Plantar Fascia Release", "chapter": 86, "category": "General", "pdf_page": 4691, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 86 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Plantar Fascia Release bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "86-5",
+  "name_en": "Plantar Fascia Release",
+  "name_vi": "Phẫu thuật Giải Phóng Cân Gan Chân (Plantar Fascia Release / Fasciotomy)",
+  "chapter": 86,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4691,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Viêm cân gan chân mạn tính kháng trị (Chronic Plantar Fasciitis) thất bại với điều trị bảo tồn tích cực trên 6-12 tháng (kéo giãn gân gót/cân gan chân, nẹp đêm, tiêm PRP hoặc corticoid, sóng xung kích shockwave); đau nhức gót chân dữ dội bước chân đầu tiên buổi sáng; co rút cân gan chân kèm biến dạng bàn chân vòm cao (pes cavus).",
+  "contraindications": "Đau gót chân do gãy mệt xương gót (calcaneal stress fracture), viêm cột sống dính khớp (ankylosing spondylitis) hoặc teo mỡ đệm gót chân; suy van tĩnh mạch hoặc suy động mạch chi dưới nặng.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đệm kê mông cùng bên xoay ngoài khớp háng và cổ chân; garo bắp chân hoặc cổ chân (200 mmHg). Chuẩn bị kéo cắt mạc chuyên dụng hoặc dao cắt mạc nội soi.",
+  "surgical_approach": "Đường rạch da bờ trong gót chân dài 3-4 cm nằm cách bờ sau củ gót 3-4 cm và nằm ngay trên bờ trên cân gan chân. Cấu trúc nguy cơ: Dây thần kinh chi phối cơ dạng ngón út (Nerve to abductor digiti minimi - Baxter's nerve); Nhánh thần kinh gót trong; Bó mạch thần kinh gan chân ngoài.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Rạch da bờ trong củ gót & Bộc lộ mạc nông",
+      "detail": "Rạch da 3-4 cm ở bờ trong gót chân tại vùng chuyển tiếp giữa da mu chân và da gan chân. Phẫu tích nhẹ nhàng qua mô mỡ dưới da, bảo vệ các nhánh bì gót trong.",
+      "action": "Rạch da bờ trong gót chân tại ranh giới da gan chân và da mu, bảo vệ thần kinh bì gót trong."
+    },
+    {
+      "step": 2,
+      "title": "Bộc lộ diện bám cân gan chân vào củ gót trong",
+      "detail": "Kéo mép da bộc lộ rõ dải cân dày màu trắng óng của cân gan chân (Plantar fascia) bám vào củ gót trong. Nhận diện bờ trong của dải cân.",
+      "action": "Bộc lộ rõ diện bám của cân gan chân vào mặt dưới củ gót trong."
+    },
+    {
+      "step": 3,
+      "title": "Cắt giải phóng một phần cân gan chân (Partial Fasciotomy 50-60%)",
+      "detail": "Luồn một que thăm dò có rãnh hoặc kéo cong đầu tù luồn sát mặt dưới và mặt trên của dải cân để bảo vệ mô sâu. Dùng dao hoặc kéo cắt đứt 50-60% bề rộng dải cân gan chân tính từ bờ trong sang bờ giữa (CHỪA LẠI DẢI NGOÀI ĐỂ TRÁNH SẬP VÒM BÀN CHÂN).",
+      "action": "Cắt 50-60% dải trong và dải giữa của cân gan chân; bảo tồn dải ngoài chống sập vòm dọc ngoài."
+    },
+    {
+      "step": 4,
+      "title": "Giải ép nhánh thần kinh Baxter (Nerve to Abductor Digiti Minimi)",
+      "detail": "Thăm khám nhánh thần kinh chi phối cơ dạng ngón út (thần kinh Baxter) chạy ngang giữa cơ dạng ngón cái và cơ gấp các ngón chân ngắn. Cắt mở dải mạc sâu che phủ để giải phóng chèn ép nhánh thần kinh này nếu bệnh nhân có hội chứng Baxter.",
+      "action": "Cắt mở mạc sâu giải phóng nhánh thần kinh Baxter chống đau thần kinh gót chân sau mổ."
+    },
+    {
+      "step": 5,
+      "title": "Gọt gai xương gót (nếu có nhô lớn) & Đóng vết mổ",
+      "detail": "Nếu có gai xương gót (calcaneal spur) nhô lớn gây tì cấn, dùng đục nhỏ gọt phẳng gai xương. Tháo garo cầm máu kỹ và khâu da mũi rời.",
+      "action": "Gọt phẳng gai xương gót nhô cấn nếu cần, tháo garo cầm máu và khâu da không căng."
+    }
+  ],
+  "postop_protocol": "Băng chun ép đệm gạc êm. Mang giày boot chỉnh hình có đệm gót nâng đỡ vòm trong 2-3 tuần đầu. Đi tì đè nhẹ theo dung nạp từ ngày thứ 3-5. Bắt đầu bài tập kéo giãn nhẹ nhàng cơ bắp chân và cân gan chân sau tuần thứ 2. Trở lại hoạt động thể thao nhẹ sau 6-8 tuần.",
+  "pearls_pitfalls": "Tuyệt đối KHÔNG cắt đứt hoàn toàn 100% bề rộng cân gan chân vì sẽ gây mất vững cột ngoài và sập vòm bàn chân (Lateral column pain / splay foot); Bỏ sót chèn ép nhánh thần kinh Baxter là nguyên nhân khiến triệu chứng đau gót không thuyên giảm sau phẫu thuật.",
+  "image_url": "web/static/images/techniques/86-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/86-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-5_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 86-5 (Campbell 13th Ed)"
+    }
+  ]
+}

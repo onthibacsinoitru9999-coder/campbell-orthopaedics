@@ -1,1 +1,60 @@
-{"tech_id": "86-4", "name_en": "Interdigital Neuroma Excision (Longitudinal Plantar Incision)", "name_vi": "Kỹ thuật Phẫu thuật 86-4: Interdigital Neuroma Excision (Longitudinal Plantar Incision)", "chapter": 86, "category": "General", "pdf_page": 4685, "author": "Longitudinal Plantar Incision", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 86 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Interdigital Neuroma Excision (Longitudinal Plantar Incision) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "86-4",
+  "name_en": "Interdigital Neuroma Excision (Longitudinal Plantar Incision)",
+  "name_vi": "Phẫu thuật Cắt Bỏ U Thần Kinh Morton Tái Phát qua Đường Mổ Gan Chân Dọc",
+  "chapter": 86,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4685,
+  "author": "Longitudinal Plantar Incision",
+  "clinical_indications": "U thần kinh gian ngón chân Morton tái phát (Recurrent Morton's Neuroma / Stump Neuroma) sau mổ thất bại qua đường mu chân; khối u thần kinh kích thước lớn dính chặt vào mô mỡ gan chân; u thần kinh kèm dị dạng giải phẫu mạch máu gan chân.",
+  "contraindications": "Sẹo lồi hoặc vết chai loét tì đè nặng ở gan bàn chân; bệnh nhân có nguy cơ cao hình thành sẹo đau gan chân (đặc biệt người thường xuyên đi chân trần).",
+  "patient_prep": "Bệnh nhân nằm sấp hoặc nằm ngửa gấp khớp gối và háng, garo bắp chân hoặc cổ chân (200-250 mmHg). Kính lúp vi phẫu.",
+  "surgical_approach": "Đường rạch dọc gan chân dài 3-4 cm ở khoảng kẽ ngón 3-4 (hoặc 2-3), bắt đầu từ nếp lằn gian ngón kéo dài về phía gót chân, nằm giữa hai chỏm xương bàn chân. Cấu trúc nguy cơ: Mô mỡ đệm gan chân (plantar fat pad); Bó mạch gan ngón chân chung.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Rạch da dọc gan chân & Tách mô mỡ đệm",
+      "detail": "Rạch da dọc chính xác giữa hai chỏm xương bàn chân. Phẫu tích cẩn thận tách dọc theo các bè xơ của mô mỡ gan chân, tránh cắt ngang làm phá hủy cấu trúc đệm mỡ tì đè.",
+      "action": "Rạch da dọc gan chân, tách dọc theo thớ vách xơ mỡ đệm gan chân bảo tồn mô tì đè."
+    },
+    {
+      "step": 2,
+      "title": "Bộc lộ trực tiếp u mỏm cụt thần kinh (Stump Neuroma)",
+      "detail": "Bộc lộ trực tiếp khối u thần kinh tái phát hoặc mỏm cụt xơ hóa nằm ngay bên dưới lớp mỡ gan chân. Tách khối u khỏi các tổ chức sẹo xơ dính do lần mổ trước.",
+      "action": "Bộc lộ trực diện khối u thần kinh tái phát nằm trong ổ sẹo xơ dưới lớp mỡ gan chân."
+    },
+    {
+      "step": 3,
+      "title": "Phẫu tích thân thần kinh về phía gần & Cắt bỏ triệt để",
+      "detail": "Phẫu tích thân thần kinh đi ngược lên phía gần gian xương bàn chân. Cắt bỏ trọn vẹn khối u mỏm cụt và cắt sâu thân thần kinh vào trong khối cơ gian cốt gan chân.",
+      "action": "Cắt bỏ trọn vẹn khối u và cắt thân thần kinh sâu về phía gần, vùi mỏm cụt vào mô lành."
+    },
+    {
+      "step": 4,
+      "title": "Đóng vách mỡ gan chân chống dính",
+      "detail": "Khâu phục hồi các dải vách xơ của mô mỡ gan chân che phủ lên trên ổ cắt thần kinh bằng chỉ tiêu chậm 4-0 để tránh sẹo dính vào da.",
+      "action": "Khâu phục hồi lớp đệm mỡ gan chân che chở mỏm cụt thần kinh chống dính sẹo tì đè."
+    },
+    {
+      "step": 5,
+      "title": "Đóng da mũi đệm thẳng đứng (Vertical Mattress)",
+      "detail": "Khâu da gan chân bằng các mũi khâu đệm thẳng đứng (vertical mattress) với chỉ nylon 3-0 hoặc 4-0 để lộn mép da ra ngoài, đảm bảo lành sẹo phẳng mịn.",
+      "action": "Khâu da gan chân mũi đệm thẳng đứng lộn mép da phẳng, chống sẹo lõm co kéo đau khi tì đè."
+    }
+  ],
+  "postop_protocol": "KHÔNG tì đè vùng gan bàn chân trước (Non-weight bearing) trong 3 tuần đầu. Kê cao chân chống phù nề. Cắt chỉ muộn sau 3 tuần (da gan chân dày liền chậm). Tập tì đè gót chân và mang giày có đệm êm từ tuần thứ 4.",
+  "pearls_pitfalls": "Đường mổ gan chân cho phép bộc lộ trực diện u mỏm cụt tái phát nhưng có nguy cơ gây sẹo đau tì đè nếu khâu da không cẩn thận; Luôn khâu mũi đệm lộn mép da và bắt buộc bất động không tì đè trong 3 tuần để sẹo gan chân liền hoàn hảo.",
+  "image_url": "web/static/images/techniques/86-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/86-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-4 (Campbell 13th Ed)"
+    }
+  ]
+}

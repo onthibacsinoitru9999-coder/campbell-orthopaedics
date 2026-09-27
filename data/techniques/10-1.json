@@ -1,1 +1,55 @@
-{"tech_id": "10-1", "name_en": "Total Ankle Arthroplasty", "name_vi": "Kỹ thuật Phẫu thuật 10-1: Total Ankle Arthroplasty", "chapter": 10, "category": "General", "pdf_page": 567, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 10 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Total Ankle Arthroplasty bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "10-1",
+  "name_en": "Total Ankle Arthroplasty",
+  "name_vi": "Phẫu thuật Thay Khớp Cổ Chân Toàn Phần (Total Ankle Arthroplasty - TAA)",
+  "chapter": 10,
+  "category": "Thay & Hàn Khớp Cổ Chân",
+  "pdf_page": 567,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Thoái hóa khớp cổ chân tiến triển giai đoạn cuối (Kellgren-Lawrence độ 3-4) ở bệnh nhân > 50 tuổi có nhu cầu vận động vừa phải; viêm khớp cổ chân sau chấn thương, viêm khớp dạng thấp; trục cổ chân thẳng hàng hoặc lệch trục < 10-15° có thể nắn chỉnh.",
+  "contraindications": "Nhiễm trùng cổ chân hoạt tính hoặc tiền sử nhiễm trùng sâu; hoại tử vô mạch nặng thân xương sên (> 1/3 thân sên); bệnh lý thần kinh cơ Charcot; biến dạng lệch trục nặng > 15-20° không thể sửa; liệt cơ chày trước.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đệm mông cùng bên để bàn chân hướng thẳng lên trần nhà. Garo hơi đùi (250-300 mmHg). C-arm sẵn sàng chụp tư thế thẳng, nghiêng và tư thế mộng chày mác. Chuẩn bị hệ thống cắt xương định vị TAA.",
+  "surgical_approach": "Đường mổ trước cổ chân (Anterior Approach) dọc giữa khoảng gân cơ chày trước và gân duỗi ngón cái dài (EHL). Cấu trúc nguy cơ: Bó mạch chày trước và thần kinh mác sâu; Thần kinh mác nông bì mu chân; Nhánh thần kinh hiển.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường rạch da trước & Bộc lộ mộng chày sên",
+      "detail": "Rạch da dọc 12-14 cm mặt trước cổ chân qua nếp gấp cổ chân. Rạch mạc hãm gân duỗi, phẫu tích giữa gân chày trước và gân EHL. Nhận diện và kéo bó mạch thần kinh chày trước ra ngoài cùng gân EHL. Mở dọc bao khớp trước cổ chân.",
+      "action": "Bảo vệ nguyên vẹn bó mạch chày trước và thần kinh mác sâu; không bóc tách mép da mỏng."
+    },
+    {
+      "step": 2,
+      "title": "Cắt xương đầu dưới xương chày (Tibial Resection)",
+      "detail": "Lắp cữ định vị ngoài tủy xương chày gióng theo mào chày. Điều chỉnh độ dốc sau 0°. Dùng cưa dao động cắt phẳng trần mâm chày dưới sự bảo vệ của các thanh banh che chở mạch máu sau.",
+      "action": "Cắt xương chày vuông góc tuyệt đối với trục cơ học xương chày trên cả 2 bình diện."
+    },
+    {
+      "step": 3,
+      "title": "Cắt xương sên (Talar Resection & Chamfer Cuts)",
+      "detail": "Lắp cữ cắt xương sên lên vòm sên. Cắt phẳng bề mặt vòm xương sên, cắt vát trước và sau theo thiết kế giải phẫu của component sên nhân tạo.",
+      "action": "Bảo tồn tối đa xương xốp của thân sên để tạo nền nâng đỡ vững chắc chống lún component sên."
+    },
+    {
+      "step": 4,
+      "title": "Thử nghiệm thành phần & Cân bằng dây chằng (Trials)",
+      "detail": "Lắp các thành phần thử nghiệm chày, sên và miếng đệm polyethylen. Kiểm tra tầm vận động gập mu - gập lòng (yêu cầu gập mu ≥ 10°, gập lòng ≥ 20°). Kiểm tra độ vững mộng chày sên dưới C-arm.",
+      "action": "Giải phóng bao khớp sau hoặc kéo dài gân gót nếu cổ chân bị co rút gập lòng (equinus)."
+    },
+    {
+      "step": 5,
+      "title": "Đặt implant chính thức & Đóng vết mổ",
+      "detail": "Lắp component xương chày và xương sên chính thức (loại phủ Titanium xốp bám xương sinh học hoặc có chốt cuống). Đặt insert Polyethylene di động hoặc cố định. Rửa sạch, đóng bao khớp và mạc hãm gân duỗi, khâu da mũi rời không căng.",
+      "action": "Khâu mép da mũi rời nhẹ nhàng không siết chặt để phòng ngừa hoại tử mép vết mổ trước cổ chân."
+    }
+  ],
+  "postop_protocol": "Bất động bằng nẹp bột cẳng bàn chân tư thế trung tính trong 2 tuần đầu. Cho phép tập vận động gập duỗi cổ chân nhẹ nhàng từ tuần thứ 3. Đi nạng không tì đè trong 4-6 tuần đầu. Tì đè một phần với giày bảo hộ từ tuần thứ 6 và tì đè hoàn toàn sau tuần 10-12.",
+  "pearls_pitfalls": "Biến chứng hoại tử vết mổ mặt trước cổ chân là thảm họa: phải tôn trọng mô mềm và tránh dùng banh móc mép da; Cân bằng hoàn hảo dây chằng hai bên mắt cá là chìa khóa chống mòn lệch insert polyethylen.",
+  "image_url": "web/static/images/techniques/10-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/10-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 10-1 (Campbell 13th Ed)"
+    }
+  ]
+}

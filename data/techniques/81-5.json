@@ -1,1 +1,55 @@
-{"tech_id": "81-5", "name_en": "Johnson Modified Chevron Osteotomy (Johnson)", "name_vi": "Kỹ thuật Phẫu thuật 81-5: Johnson Modified Chevron Osteotomy (Johnson)", "chapter": 81, "category": "General", "pdf_page": 4387, "author": "Johnson", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 81 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Johnson Modified Chevron Osteotomy (Johnson) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "81-5",
+  "name_en": "Johnson Modified Chevron Osteotomy (Johnson)",
+  "name_vi": "Phẫu thuật Cắt xương Chữ V Đầu xa Xương bàn 1 (Austin / Chevron Osteotomy)",
+  "chapter": 81,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4387,
+  "author": "Johnson",
+  "clinical_indications": "Biến dạng ngón chân cái vẹo ngoài (Hallux Valgus) nhẹ đến trung bình, góc IMA 10-14°, góc HVA 20-35°, khớp bàn ngón 1 không thoái hóa, góc nghiêng mặt khớp đầu xa (DMAA) bình thường hoặc tăng nhẹ.",
+  "contraindications": "Gãy/biến dạng nặng IMA > 16° (cần Scarf hoặc Lapidus); thoái hóa khớp bàn ngón 1 nặng; loãng xương nặng làm vỡ chỏm xương.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đặt garo hơi cổ chân (200-250 mmHg). Máy C-arm mini sẵn sàng. Chuẩn bị bộ vít vi phẫu tự vùi Herbert 2.5 mm hoặc 3.0 mm.",
+  "surgical_approach": "Đường mổ dọc bờ trong khớp bàn ngón 1 dài 4-5 cm. Cấu trúc nguy cơ: Nhánh thần kinh bì mu trong; Bó mạch nuôi chỏm xương bàn 1 ở cổ ngoài và mặt lòng bàn chân.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ trong & Mở bao khớp hình chữ T hoặc L",
+      "detail": "Rạch da dọc bờ trong khớp bàn ngón 1. Phẫu tích vạt da dày bộc lộ bao khớp trong. Rạch mở bao khớp chữ L hoặc chữ T bộc lộ củ xương trong và chỏm xương bàn 1.",
+      "action": "Bảo vệ tối đa màng xương cổ xương bàn 1 để bảo tồn nguồn máu nuôi chỏm đùi bàn chân."
+    },
+    {
+      "step": 2,
+      "title": "Cắt gọt củ xương trong (Exostectomy)",
+      "detail": "Dùng cưa dao động cắt bỏ củ xương trong lồi ra dọc theo rãnh sagittal sulcus, thẳng hàng với trục bờ trong thân xương bàn 1.",
+      "action": "Cắt củ xương phẳng phiu, bảo tồn diện sụn khớp chỏm bàn 1."
+    },
+    {
+      "step": 3,
+      "title": "Cắt xương chữ V góc 60° (Chevron V-Cut)",
+      "detail": "Khoan 1 kim K-wire định vị vào tâm chỏm xương bàn 1. Dùng cưa dao động cắt xương hình chữ V góc 60° (đỉnh chữ V quay ra trước vào tâm chỏm, hai nhánh chữ V hướng ra sau lên mu và xuống lòng bàn chân).",
+      "action": "Góc cắt chữ V chính xác 60°; nhánh cắt lòng bàn chân phải nằm trên mức gân gấp và xương vừng."
+    },
+    {
+      "step": 4,
+      "title": "Tịnh tiến chỏm xương bàn ra ngoài & Bắt vít cố định",
+      "detail": "Dùng dụng cụ đẩy tịnh tiến chỏm xương bàn 1 sang ngoài 4-6 mm (tối đa 1/3-1/2 bề rộng thân xương). Bắt 1 vít nén ép vi phẫu tự vùi 2.5 mm hoặc 3.0 mm từ mu trong thân xương vào chỏm đã tịnh tiến.",
+      "action": "Tịnh tiến chỏm ra ngoài 4-5 mm; bắt vít vi phẫu chìm dưới mặt vỏ xương mu bàn chân."
+    },
+    {
+      "step": 5,
+      "title": "Gọt phẳng bờ xương thừa & Khâu bao khớp",
+      "detail": "Dùng cưa gọt phẳng phần gờ xương thân bàn 1 thừa ra ở phía trong. Khâu thu hẹp bao khớp trong giữ ngón cái thẳng trục. Khâu đóng da mũi rời.",
+      "action": "Gọt phẳng gờ xương trong thân bàn 1 để tạo bờ trong bàn chân phẳng nhẵn hoàn hảo."
+    }
+  ],
+  "postop_protocol": "Băng nẹp định hình ngón cái thẳng trục. Cho phép đi lại tì đè gót chân ngay ngày thứ nhất với giày Darco đế cứng. Bỏ giày tập đi lại bình thường sau 6 tuần khi X-quang liền xương vững.",
+  "pearls_pitfalls": "Tránh bóc tách mô mềm quá mức ở mặt ngoài cổ xương bàn 1 để phòng ngừa biến chứng hoại tử vô mạch (AVN) chỏm xương bàn; Tịnh tiến chỏm không vượt quá 50% bề rộng thân xương để tránh mất vững.",
+  "image_url": "web/static/images/techniques/81-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/81-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-5 (Campbell 13th Ed)"
+    }
+  ]
+}

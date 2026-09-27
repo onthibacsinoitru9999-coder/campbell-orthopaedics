@@ -1,1 +1,60 @@
-{"tech_id": "55-4", "name_en": "Compression Hip Screw Fixation of Intertrochanteric Femoral Fractures", "name_vi": "Phẫu thuật Kết hợp xương Gãy Liên mấu chuyển bằng Nẹp Trượt Nén ép DHS (Dynamic Hip Screw)", "chapter": 55, "category": "Hip & Pelvis", "pdf_page": 3147, "author": "Richard / Clawson / Campbell Trauma", "clinical_indications": "Gãy liên mấu chuyển xương đùi thể vững (AO/OTA 31-A1, A2.1); Gãy cổ xương đùi góc Pauwels III ở người trẻ tuổi.", "contraindications": "Gãy liên mấu chuyển thể mất vững có gãy vỡ thành ngoài (Lateral wall fracture < 20.5mm); Gãy có đường gãy xiên ngược (Reverse obliquity 31-A3, ưu tiên đinh nội tủy Gamma/PFNA).", "patient_prep": "Nằm ngửa trên bàn chỉnh hình kéo nắn. Nắn chỉnh diện khớp thẳng trục dưới kiểm tra C-arm.", "surgical_approach": "Đường mổ ngoài trực tiếp (Direct Lateral Approach). Rạch da thẳng dài 8-10 cm từ gốc mấu chuyển lớn xuôi xuống thân đùi. Cắt dải chậu chày, rạch lật cơ rộng ngoài bộc lộ vỏ ngoài xương đùi.", "surgical_steps": [{"step": 1, "title": "Nắn chỉnh kín và đặt thước ngắm góc 135°", "detail": "Kiểm tra phục hồi góc cổ thân xương đùi 130-135°. Đặt dưỡng ngắm góc 135° ở mặt ngoài thân xương đùi, khoan kim dẫn đường xuyên tâm cổ chỏm đùi."}, {"step": 2, "title": "Kiểm tra vị trí kim dẫn (TAD < 25mm)", "detail": "Kim dẫn đường bắt buộc phải nằm ở vị trí trung tâm - trung tâm (Center-Center) hoặc dưới - trung tâm trên cả phim thẳng và nghiêng. Tính khoảng cách chóp - đỉnh (Tip-Apex Distance - TAD) < 20-25mm để chống trôi bung vít (cut-out)."}, {"step": 3, "title": "Doa mở rộng 3 tầng và taro ren", "detail": "Dùng mũi doa 3 tầng (Triple reamer) doa mở đường hầm cho vít trượt và nẹp nòng. Taro ren ở vùng xương xốp chỏm đùi."}, {"step": 4, "title": "Bắt vít trượt cổ đùi (Lag Screw) & Đặt nẹp DHS", "detail": "Vặn vít trượt DHS đúng độ sâu cách mặt sụn 5-8mm. Lồng nẹp DHS 135° có nòng vào thân vít trượt, ép sát nẹp vào thân xương đùi và bắt các vít vỏ xương 4.5mm cố định thân đùi."}, {"step": 5, "title": "Xiết vít nén ép (Compression screw) & Đóng mổ", "detail": "Vặn vít nén ép ở đuôi nòng DHS để kéo nén ổ gãy khép chặt. Đặt dẫn lưu kín cơ rộng ngoài và đóng vết mổ theo lớp."}], "postop_protocol": "Cho bệnh nhân ngồi dậy tại giường ngày thứ 1-2. Tập đứng có khung trợ giúp tì đè một phần có kiểm soát từ tuần thứ 2 nếu nắn chỉnh vững chắc.", "pearls_pitfalls": "Chỉ số TAD > 25mm là nguyên nhân hàng đầu gây bung đứt vít trượt xuyên đỉnh chỏm đùi (Cut-out); Không dùng nẹp DHS cho gãy xiên ngược vì sẽ làm thân xương đùi trượt ra ngoài gây sập ổ gãy.", "image_url": "web/static/images/techniques/55-4.webp"}
+{
+  "tech_id": "55-4",
+  "name_en": "Compression Hip Screw Fixation of Intertrochanteric Femoral Fractures",
+  "name_vi": "Kết hợp xương Gãy Khối Mấu Chuyển Xương Đùi bằng Nẹp Vít Nén Ép Động Học (DHS)",
+  "chapter": 55,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3147,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Gãy liên mấu chuyển xương đùi thể vững (AO/OTA 31-A1.1, A1.2, A1.3, một số thể A2.1 có thành sau trong còn tương đối vững).",
+  "contraindications": "Gãy liên mấu chuyển thể nghịch (Reverse obliquity 31-A3) hoặc gãy mất vững vỡ nát thành sau ngoài (ưu tiên đinh nội tủy PFNA); loãng xương quá nặng độ Singh 1-2; nhiễm trùng da vùng mấu chuyển lớn.",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn chỉnh hình kéo nắn. Kéo dọc trục và xoay trong 10-15° để nắn chỉnh khối mấu chuyển. Đặt máy C-arm kiểm tra tư thế thẳng và nghiêng. Chuẩn bị bộ nẹp DHS góc 135° và vít nén ép trượt (lag screw).",
+  "surgical_approach": "Đường mổ ngoài trực tiếp (Direct Lateral Approach). Rạch da dọc từ đỉnh mấu chuyển lớn kéo dài xuống dưới thân xương đùi 10-12 cm. Rạch mạc đùi (fascia lata), tách nâng cơ rộng ngoài (vastus lateralis) ra trước để bộc lộ vỏ ngoài thân xương đùi.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Nắn chỉnh kín ổ gãy trên bàn kéo & Kiểm tra C-arm",
+      "detail": "Kéo nắn chỉnh kín ổ gãy trên bàn chỉnh hình, kiểm tra trục cổ thân trên phim thẳng và nghiêng. Đạt giải phẫu góc cổ thân đùi 135°.",
+      "action": "Nắn chỉnh phục hồi giải phẫu góc cổ thân đùi 135° trước khi rạch da bộc lộ."
+    },
+    {
+      "step": 2,
+      "title": "Định vị cữ khoan góc 135° & Khoan kim dẫn đường",
+      "detail": "Áp cữ định vị góc 135° lên vỏ ngoài thân đùi cách gốc mấu chuyển lớn 2 cm. Khoan kim dẫn đường K-wire 2.5 mm vào chính giữa cổ và tâm chỏm đùi trên cả hai bình diện thẳng và nghiêng (vị trí Center-Center).",
+      "action": "Đảm bảo kim dẫn đường nằm chính giữa cổ đùi trên cả bình diện thẳng và nghiêng (Center-Center)."
+    },
+    {
+      "step": 3,
+      "title": "Doa 3 nấc (Reaming) & Taro ren cổ đùi",
+      "detail": "Đo chiều dài kim dẫn đường. Dùng mũi doa 3 tầng (triple reamer) doa mở đường vào cổ chỏm đùi có cữ chặn cách sụn chỏm 10 mm. Dùng mũi taro tạo ren nếu xương đặc ở người trẻ.",
+      "action": "Doa cẩn trọng dưới sự theo dõi liên tục của C-arm; tránh làm xoay kim dẫn đường vào khớp."
+    },
+    {
+      "step": 4,
+      "title": "Vặn vít cổ đùi DHS & Lắp nẹp thân xương",
+      "detail": "Đưa vít cổ đùi DHS vào tâm chỏm (TAD < 25 mm). Lắp thân nẹp 135° luồn qua vít cổ đùi ép sát vỏ ngoài xương đùi. Bắt 4-5 vít vỏ xương cố định thân nẹp vào thân xương đùi. Bắt vít nén ép đầu nẹp (compression screw) để kéo ép khe gãy.",
+      "action": "Đạt chỉ số khoảng cách chóp-đỉnh (TAD < 20-25 mm) để ngăn ngừa biến chứng cắt trượt vít (cut-out)."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra C-arm, cầm máu & Đóng vết mổ",
+      "detail": "Kiểm tra C-arm toàn bộ nẹp vít ở tư thế thẳng và nghiêng. Bơm rửa sạch phẫu trường, đặt dẫn lưu kín áp lực âm, khâu phục hồi cơ rộng ngoài, mạc đùi và đóng da.",
+      "action": "Khâu kín cân mạc đùi, đặt dẫn lưu kín hút áp lực âm để chống tụ máu lớn vùng mấu chuyển."
+    }
+  ],
+  "postop_protocol": "Ngồi dậy tại giường ngày thứ nhất. Tập vận động gập duỗi háng gối từ ngày thứ 2. Tập đứng tì đè chịu lực một phần với khung tập đi từ tuần thứ 2-3 tùy độ vững của ổ gãy. Tì đè hoàn toàn sau tuần 8-10 khi có can xương liền.",
+  "pearls_pitfalls": "Chỉ số Tip-Apex Distance (TAD) < 25 mm là yếu tố tiên quyết số 1 chống thất bại cắt trượt vít (cut-out); Tránh chỉ định DHS cho gãy liên mấu chuyển thể nghịch (AO 31-A3) vì lực trượt sẽ làm di lệch thân đùi vào trong.",
+  "image_url": "web/static/images/techniques/55-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/55-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-4 (Campbell 13th Ed)"
+    }
+  ]
+}

@@ -1,1 +1,60 @@
-{"tech_id": "6-5", "name_en": "Rectus-Sparing Modification of Bernese Osteotomy (Novais et al.)", "name_vi": "Kỹ thuật Phẫu thuật 6-5: Rectus-Sparing Modification of Bernese Osteotomy (Novais et al.)", "chapter": 6, "category": "General", "pdf_page": 406, "author": "Novais et al.", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 6 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Rectus-Sparing Modification of Bernese Osteotomy (Novais et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "6-5",
+  "name_en": "Rectus-Sparing Modification of Bernese Osteotomy (Novais et al.)",
+  "name_vi": "Phẫu thuật Khớp Háng (6-5): Rectus-Sparing Modification of Bernese Osteotomy (Novais et al.)",
+  "chapter": 6,
+  "category": "Tái tạo & Thay Khớp Háng",
+  "pdf_page": 406,
+  "author": "Novais et al.",
+  "clinical_indications": "Chỉ định trong bệnh lý thoái hóa hoặc tổn thương khớp háng (Rectus-Sparing Modification of Bernese Osteotomy (Novais et al.)), hoại tử vô mạch chỏm đùi, tổn thương ổ cối hoặc cần tái tạo bảo tồn khớp háng theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng khớp háng hoạt tính, suy kiệt toàn thân nặng, tổn thương thần kinh mạch máu không thể phục hồi.",
+  "patient_prep": "Bệnh nhân nằm nghiêng 90° hoặc nằm ngửa, đệm lót bảo vệ các điểm tì đè, sát khuẩn rộng từ bờ sườn đến bàn chân, chuẩn bị bộ dụng cụ phẫu thuật khớp háng chuyên dụng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Thần kinh ngồi (Sciatic nerve); Thần kinh đùi và bó mạch đùi; Nhánh xuyên động mạch mũ đùi ngoài; Vùng an toàn bắt vít ổ cối: góc sau trên.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ bao khớp háng",
+      "detail": "(A) Twelve years after periacetabular osteotomy in a 22-year-old patient with Tönnis grade 2 arthritis now with end stage arthritis. (B) Subsequent total hip replacement with good superior acetabular coverage. Baqué, Brown, and Matta described using the same Smith-Petersen interval for direct anterior THA after periacetabular osteotomy. They claim that by using this approach for both procedures, the patient’s immediate and ultimate functional recovery and hip stability are opti­ mized. They contend that instead of compromising subse­ quent THA, periacetabular osteotomy may improve THA results...",
+      "action": "Bảo vệ thần kinh ngồi và nhánh mạch mũ đùi ngoài."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích theo lớp & Bộc lộ phẫu trường",
+      "detail": "Differentiation of referred pain from local sources of pain usually can be determined by seeking tenderness to direct palpation over the hip abductors, trochanteric bursa, and iliotibial band, noting that tenderness can also be present with radicular type pain. Pain with resisted hip abduction can suggest abductor tendinitis or a partial tear of the gluteus minimus or medius similar to a rotator cuff tear in the shoulder. Frequently, a steroid combined with a local anesthetic can be injected into the trochanteric bursa as a therapeutic intervention for trochanteric bursitis or abductor...",
+      "action": "Phẫu tích cẩn trọng, cầm máu kỹ lưỡng các nhánh mạch nuôi."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật chính",
+      "detail": "GLUTEUS MEDIUS AND MINIMUS TEARS In patients with chronic greater trochanteric bursitis, edema may be seen within the trochanteric bursa on MRI; however, this finding was reported in one study to occur in only 8% of patients with chronic lateral hip pain whereas gluteus medius tendinitis was apparent in 63%. The recognition of partial and complete gluteal tears on MRI, as well as the development of arthroscopic techniques about the hip, has led to an increase in surgical intervention for these tears. Kagan first described atraumatic tearing of the anterior fibers of the gluteus medius as a...",
+      "action": "Đảm bảo diện cắt và nắn chỉnh chuẩn xác theo trục cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện cố định / Phục hồi giải phẫu",
+      "detail": "The tears were confirmed by MRI. Typical MRI findings included tendon discontinuity, elongation of the gluteus medius tendon, atrophy of the gluteus muscles, and high signal intensity superior to the greater trochanter. They reported average improvement in Harris hip scores from 53 to 87 at 1 year and 88 at 5 years after surgery with an average improvement in hip abduction strength testing from 3.1 to 4.7 out of 5. They had four poor results in patients with large tears. ENDOSCOPIC REPAIR OF THE HIP ABDUCTORS Endoscopic repair of the gluteus medius was reposted by Voos et al. to have good...",
+      "action": "Đặt implant hoặc phương tiện kết hợp xương vững chắc sinh học."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra vận động, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "performed a Open repair of gluteus medius tear. A, Three pull sutures (red) and four simple sutures (purple) are placed in the gluteus medius tendon; one 6.5-mm suture anchor with two sutures (blue) is placed in the gluteus minimus tendon. B, Sutures from the anchor (blue) are tied first to secure gluteus minimus to its facet; then pull sutures (red) are tied down under maximal tension to approxi­ mate the gluteus medius tendon to its footprint. C, Simple sutures (purple) are tied to secure the tendinous flap down to the greater trochanter. (From Davies JF, Stiehl JB, Davies JA, Geiger PB:...",
+      "action": "Khâu phục hồi bao khớp và cân cơ tỉ mỉ chống trật khớp."
+    }
+  ],
+  "postop_protocol": "Nằm ngửa kê gối dạng háng giữa 2 chân. Bắt đầu tập co cơ tĩnh cơ tứ đầu và tập vận động thụ động sớm từ ngày 1-2. Tì đè theo hướng dẫn của phẫu thuật viên.",
+  "pearls_pitfalls": "Bảo vệ nguyên vẹn thần kinh ngồi ở bờ sau bao khớp; Xác định chính xác góc nghiêng (40-45°) và góc ngửa trước (15-20°) của cup ổ cối để tránh trật khớp.",
+  "image_url": "web/static/images/techniques/6-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/6-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-5 (Campbell 13th Ed)"
+    }
+  ]
+}

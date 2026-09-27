@@ -1,1 +1,55 @@
-{"tech_id": "87-2", "name_en": "Partial Nail Plate Removal", "name_vi": "Kỹ thuật Phẫu thuật 87-2: Partial Nail Plate Removal", "chapter": 87, "category": "General", "pdf_page": 4721, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 87 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Partial Nail Plate Removal bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "87-2",
+  "name_en": "Partial Nail Plate Removal",
+  "name_vi": "Phẫu thuật Móng & Da Bàn Ngón Chân (87-2): Partial Nail Plate Removal",
+  "chapter": 87,
+  "category": "Phẫu thuật Móng & Da Bàn Chân (Móng quặp, Cắt bỏ mầm móng Winograd)",
+  "pdf_page": 4721,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong bệnh lý móng chân quặp (Ingrown Toenail / Onychocryptosis), loạn dưỡng móng, nấm móng mạn tính, u dưới móng (Partial Nail Plate Removal) theo chỉ dẫn Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng lan tỏa viêm mô tế bào toàn bộ ngón chân cấp tính (cần điều trị kháng sinh ổn định trước); suy tắc mạch nặng đầu chi (thiếu máu nuôi ngón).",
+  "patient_prep": "Bệnh nhân nằm ngửa, gây tê phong bế gốc ngón chân (Digital nerve block) bằng Lidocaine 1-2% KHÔNG pha adrenaline. Đặt garo gốc ngón chân bằng vòng cao su chuyên dụng (Penrose drain/tourniquet).",
+  "surgical_approach": "Tiếp cận bờ bên móng và gốc móng. Cấu trúc nguy cơ: Bó mạch thần kinh gan ngón chân hai bên; Sụn khớp liên đốt ngón; Giường móng (nail bed) và mầm móng (germinal matrix).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Gây tê gốc ngón chân & Đặt garo ngón",
+      "detail": "The recurrence rate of ingrown toenail after total nail removal ranges from 32% to 78% in published reports; the recurrence rate after a second avulsion is 70% to 80%.",
+      "action": "Gây tê gốc ngón bằng lidocaine không adrenaline; đặt garo gốc ngón kiểm soát chảy máu."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Tách phiến móng khỏi giường móng",
+      "detail": "The benefits of total nail avulsion are uniformly rapid relief of symptoms and resolution of infection.",
+      "action": "Dùng que bóc tách cùn nhẹ nhàng tách rời phiến móng khỏi giường móng và nếp móng gốc."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cắt bỏ bờ móng quặp (Partial/Total Nail Avulsion)",
+      "detail": "PARTIAL NAIL PLATE REMOVAL Partial nail plate removal differs little from total nail plate removal.",
+      "action": "Cắt dọc phiến móng bằng kìm chuyên dụng, rút bỏ bờ móng quặp cắm sâu vào mô mềm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Nạo triệt tiêu mầm móng (Germinal Matrixectomy)",
+      "detail": "The recurrence rate is even higher after partial nail plate removal than after complete removal.",
+      "action": "Cạo sạch hoặc chấm phenol triệt tiêu mầm móng ở góc trong để ngăn móng mọc lại cắm vào thịt."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Tháo garo, Cầm máu & Băng ép chống dính",
+      "detail": "In adolescents, however, this minor procedure, even if it must be repeated, is an attrac­ tive alternative to changing the appearance of the nail perma­ nently.",
+      "action": "Tháo garo ngón kiểm tra tưới máu hồng ấm đầu ngón, băng gạc mỡ kháng sinh không dính."
+    }
+  ],
+  "postop_protocol": "Băng ép nhẹ bằng gạc tẩm mỡ kháng sinh không dính (Jelonet/Bactigras). Kê cao chân trong 24 giờ đầu. Đi dép rộng hở mũi sau 24-48 giờ. Thay băng hàng ngày sau 48 giờ.",
+  "pearls_pitfalls": "Triệt tiêu mầm móng (Matrixectomy) tận gốc bằng dao phẫu tích hoặc phenol 88% là chìa khóa chống tái phát móng quặp; Tuyệt đối không dùng thuốc tê có adrenaline ở ngón chân.",
+  "image_url": "web/static/images/techniques/87-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/87-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 87-2 (Campbell 13th Ed)"
+    }
+  ]
+}

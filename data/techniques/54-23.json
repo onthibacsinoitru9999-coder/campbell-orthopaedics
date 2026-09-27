@@ -1,1 +1,60 @@
-{"tech_id": "54-23", "name_en": "Total Patellectomy", "name_vi": "Kỹ thuật Phẫu thuật 54-23: Total Patellectomy", "chapter": 54, "category": "General", "pdf_page": 3090, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 54 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Total Patellectomy bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "54-23",
+  "name_en": "Total Patellectomy",
+  "name_vi": "Phẫu thuật Kết hợp Xương (54-23): Total Patellectomy",
+  "chapter": 54,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3090,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong phẫu thuật kết hợp xương gãy xương chi dưới (Total Patellectomy), gãy di lệch mất vững theo phân loại AO/OTA và Campbell 13th Ed.",
+  "contraindications": "Tổn thương mô mềm độ nặng Tscherne C3 hoặc Gustilo IIIC chưa kiểm soát mạch máu; Hội chứng chèn ép khoang cấp chưa giải áp; Sốc đa chấn thương chưa ổn định.",
+  "patient_prep": "Bệnh nhân nằm ngửa hoặc nằm nghiêng trên bàn thấu quang/bàn kéo chỉnh hình, C-arm sẵn sàng kiểm tra 2 bình diện.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chính của chi (thần kinh ngồi, mác chung, chày, bó mạch đùi/khoeo/chày trước).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Bảo tồn mô mềm",
+      "detail": "A, Anatomy and surgical exposure. B and C, Intraoperative posteroanterior and lateral radiographs. (From Taitsman LA, Frank JB, Mills WJ, et al: Osteochondral fracture of the distal lateral femoral condyle: a report of two cases, J Orthop Trauma 20:358, 2006.) A Peroneal nerve Gastrocnemius muscle Biceps femoris tendon C B C B peroneal nerve posteriorly. A longitudinal capsulotomy is made from the meniscal attachment to the proximal capsular reflection. The fragment is reduced and provisionally fixed with Kirschner wires. Two 2.0-mm or 2.4-mm screws are used to stabilize the fragments...",
+      "action": "Rạch da theo mốc chuẩn, hạn chế bóc tách màng xương bảo tồn mạch máu nuôi."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ ổ gãy & Làm sạch diện gãy",
+      "detail": "Touch-down weight bearing only is allowed for the first 12 weeks. The authors recommended internal fixation of osteochondral fragments involving the weight-bearing surface of the femoral condyle that have sufficient bone attached to allow healing (Fig. If the diagnosis and surgery are delayed, the edges of the fragment and the defect become rounded, and exact fitting is impossible. The fragment should be excised, the cancellous bed where the fragment originated should be smoothed, and any detached or frayed edges of cartilage should be excised sharply and vertically, rather than beveled or...",
+      "action": "Bộc lộ rõ diện gãy, lấy sạch máu tụ và mô mềm chèn kẹt."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Nắn chỉnh phục hồi giải phẫu (Reduction)",
+      "detail": "Because of the proximity of these fractures to the knee joint, regaining full knee motion and function may be difficult. The incidences of malunion, nonunion, and infec­ tion are relatively high in many reported series. In older patients, treatment may be complicated by previous joint arthroplasty. The classification of distal femoral fractures described by Müller et al. and expanded in the AO/OTA classification is useful in determining treatment and prognosis. It is based on the location and pattern of the fracture and considers all have largely contributed to the shift toward operative...",
+      "action": "Dùng kẹp nắn xương nắn chỉnh phục hồi diện khớp và thẳng trục chi dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện kết hợp xương (Nẹp vít / Đinh nội tủy)",
+      "detail": "Early mobilization of the knee is important in obtaining a good result. PLATE AND SCREW FIXATION The blade plate designed by the AO group in Switzerland was one of the first plate-and-screw devices to gain wide accep­ tance for treatment of fractures of the distal femur. Although it provides stable fixation of most fractures (Fig. 54-68), the technique is technically demanding; early problems included infection and inadequate fixation in osteoporotic bone and refracture after plate removal. As experience with AO plating techniques increased and the use of perioperative antibiotics became...",
+      "action": "Bắt vít nén ép liên mảnh hoặc đặt nẹp khóa/đinh nội tủy đạt độ vững sinh cơ học cao."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "Type A fractures involve the distal shaft only with varying degrees of comminution. Type B fractures are con­ dylar fractures; type B1 is a sagittal split of the lateral condyle, type B2 is a sagittal split of the medial condyle, and type B3 is a coronal plane fracture. Type C fractures are T-condylar and Y-condylar fractures; type C1 fractures have no com­ minution, type C2 fractures have a comminuted shaft fracture with two principal articular fragments, and type C3 fractures have intraarticular comminution. In the 1960s, nonoperative treatment methods, such as traction and cast bracing,...",
+      "action": "Kiểm tra kỹ phim C-arm 2 bình diện, đặt dẫn lưu kín và khâu phục hồi theo lớp."
+    }
+  ],
+  "postop_protocol": "Nẹp đỡ chi, tập vận động chủ động có trợ giúp các khớp lân cận sớm từ ngày thứ 3. Tì đè theo độ vững của kết hợp xương.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; Nắn chỉnh giải phẫu hoàn toàn diện khớp trước khi bắt vít nẹp cố định.",
+  "image_url": "web/static/images/techniques/54-23.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/54-23.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-23 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-23 (Campbell 13th Ed)"
+    }
+  ]
+}

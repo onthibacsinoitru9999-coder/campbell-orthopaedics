@@ -1,1 +1,65 @@
-{"tech_id": "55-1", "name_en": "Fixation of Femoral Neck Fracture with Cannulated Screws", "name_vi": "Phẫu thuật Kết hợp xương Cổ Xương đùi bằng 3 Vít xốp rỗng Song song", "chapter": 55, "category": "Hip & Pelvis", "pdf_page": 3144, "author": "ASIF / AO Trauma Principles", "clinical_indications": "Gãy cổ xương đùi Garden I, II ở mọi lứa tuổi; Gãy Garden III, IV ở người trẻ tuổi (< 65 tuổi) cần bảo tồn chỏm; Gãy góc Pauwels I và II.", "contraindications": "Gãy Garden III, IV ở người cao tuổi loãng xương nặng (ưu tiên thay khớp háng); Gãy Pauwels III góc dốc đứng (ưu tiên nẹp DHS có vít chống xoay); Nhiễm trùng tại chỗ khớp háng.", "patient_prep": "Bệnh nhân nằm ngửa trên bàn chỉnh hình kéo nắn (Fracture table). Chân lành dạng và nâng cao. Chân gãy cố định vào ủng kéo. Máy C-arm đặt giữa 2 chân để soi được cả tư thế thẳng (AP) và nghiêng chậu gối (cross-table lateral).", "surgical_approach": "Kỹ thuật ít xâm lấn qua da (Percutaneous). Rạch 3 đường nhỏ 1.5 cm ở mặt ngoài gốc mấu chuyển lớn, cách đỉnh mấu chuyển lớn 2-4 cm về phía xa.", "surgical_steps": [{"step": 1, "title": "Nắn chỉnh ổ gãy trên bàn chỉnh hình (Closed Reduction)", "detail": "Kéo thẳng dọc trục để phục hồi chiều dài chi, xoay trong bàn chân 15-20° để khử biến dạng xoay ngoài, khép nhẹ chi. Kiểm tra góc bè xương trên C-arm cả 2 bình diện thẳng và nghiêng đạt giải phẫu hoàn hảo (chỉ số Garden 160-180°)."}, {"step": 2, "title": "Định vị 3 kim dẫn đường Kirschner (Guide Wires)", "detail": "Dưới C-arm, khoan 3 kim dẫn 2.8mm song song nhau theo hình tam giác ngược (1 vít dưới nằm sát vỏ xương đùi dưới để chống vẹo trong, 2 vít trên nằm sát vỏ trước và sau). Kim dừng cách mặt sụn chỏm đùi 5mm."}, {"step": 3, "title": "Đo chiều dài và khoan rỗng (Drilling & Measuring)", "detail": "Dùng thước đo chuyên dụng đo chiều dài vít. Khoan mở xương xốp bằng mũi khoan rỗng có cữ chặn dừng trước chỏm đùi."}, {"step": 4, "title": "Bắt 3 vít xốp rỗng nén ép (Screw Insertion)", "detail": "Bắt 3 vít xốp rỗng 7.3mm (hoặc 6.5mm) có đệm (washers). Xiết đều tay từng vít để tạo lực nén ép đồng trục tối đa qua khe gãy. Kiểm tra dưới C-arm thấy khe gãy khép khít hoàn toàn."}, {"step": 5, "title": "Rút kim dẫn đường & Đóng da", "detail": "Rút bỏ 3 kim dẫn đường, rửa sạch vết mổ và khâu da mũi rời. Không cần đặt dẫn lưu."}], "postop_protocol": "Cho bệnh nhân ngồi dậy ngay ngày đầu sau mổ để tránh ứ đọng phổi. Tập gập duỗi khớp háng và khớp gối chủ động có trợ giúp. Đi nạng chống chân không tì đè trong 6-8 tuần đầu. Tì đè một phần từ tuần thứ 8 và tì đè hoàn toàn khi X-quang có cầu xương liền tốt (12 tuần).", "pearls_pitfalls": "Bắt buộc 3 vít phải song song tuyệt đối để cho phép ổ gãy trượt nén ép sinh học; Vít phía dưới phải tựa sát vào vỏ xương đùi dưới (calcar femorale) để chống gập góc varus; Tuyệt đối không để đầu vít xuyên thủng vào khớp háng.", "image_url": "web/static/images/techniques/55-1.webp"}
+{
+  "tech_id": "55-1",
+  "name_en": "Fixation of Femoral Neck Fracture with Cannulated Screws",
+  "name_vi": "Kết hợp xương Gãy Cổ Xương Đùi bằng 3 Vít Xốp Rỗng Can thiệp qua da",
+  "chapter": 55,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3144,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Gãy cổ xương đùi ở người trẻ và người trung niên (< 65 tuổi); gãy thể dưới chỏm hoặc xuyên cổ (Garden I, II, III, IV; Pauwels I, II, III); gãy cài xương ở người cao tuổi có nhu cầu vận động vừa phải.",
+  "contraindications": "Gãy cổ xương đùi ở bệnh nhân cao tuổi loãng xương nặng, di lệch nhiều (Garden IV) có chỉ định thay khớp háng thì đầu; gãy xương đã quá 3 tuần có tiêu cổ đùi; nhiễm trùng tại chỗ vùng mấu chuyển lớn.",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn chỉnh hình kéo nắn (Fracture table). Chân lành dạng rộng và nâng cao trên giá đỡ. Chân gãy gắn chặt vào ủng kéo. Máy tăng sáng C-arm đặt giữa hai chân để soi được cả tư thế thẳng (AP) và nghiêng chậu gối (Cross-table lateral). Chuẩn bị bộ vít rỗng 7.3 mm / 6.5 mm.",
+  "surgical_approach": "Can thiệp qua da (Percutaneous) hoặc đường rạch da tối thiểu mặt ngoài gốc mấu chuyển lớn dài 3-5 cm. Cấu trúc nguy cơ: Nhánh động mạch mũ đùi ngoài (tránh khoan ra trước); Bao khớp háng và diện sụn chỏm đùi (tránh vít xuyên thủng khớp).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Nắn chỉnh ổ gãy trên bàn chỉnh hình (Closed Reduction)",
+      "detail": "Kéo thẳng dọc trục để phục hồi chiều dài chi, xoay trong bàn chân 15-20° để khử biến dạng xoay ngoài, khép nhẹ chi. Kiểm tra góc bè xương trên C-arm cả 2 bình diện thẳng và nghiêng đạt giải phẫu hoàn hảo (chỉ số Garden 160-180°).",
+      "action": "Nắn chỉnh giải phẫu hoàn hảo trước khi khoan kim dẫn đường; tránh tư thế vẹo trong (varus)."
+    },
+    {
+      "step": 2,
+      "title": "Định vị 3 kim dẫn đường Kirschner (Guide Wires)",
+      "detail": "Dưới C-arm, khoan 3 kim dẫn 2.8mm song song nhau theo hình tam giác ngược (1 vít dưới nằm sát vỏ xương đùi dưới để chống vẹo trong, 2 vít trên nằm sát vỏ trước và sau). Kim dừng cách mặt sụn chỏm đùi 5mm.",
+      "action": "Bố trí 3 kim song song dạng tam giác ngược (đáy trên đỉnh dưới), vít dưới tựa vào vỏ calcar."
+    },
+    {
+      "step": 3,
+      "title": "Đo chiều dài và khoan rỗng (Drilling & Measuring)",
+      "detail": "Dùng thước đo chuyên dụng đo chiều dài vít. Khoan mở xương xốp bằng mũi khoan rỗng có cữ chặn dừng trước chỏm đùi.",
+      "action": "Khoan vừa đủ qua khe gãy, không khoan thủng diện sụn khớp chỏm đùi."
+    },
+    {
+      "step": 4,
+      "title": "Bắt 3 vít xốp rỗng nén ép (Screw Insertion)",
+      "detail": "Bắt 3 vít xốp rỗng 7.3mm (hoặc 6.5mm) có đệm (washers). Xiết đều tay từng vít để tạo lực nén ép đồng trục tối đa qua khe gãy. Kiểm tra dưới C-arm thấy khe gãy khép khít hoàn toàn.",
+      "action": "Xiết đều tay cả 3 vít; đảm bảo ren vít nằm trọn vẹn trong chỏm xương đùi qua khe gãy."
+    },
+    {
+      "step": 5,
+      "title": "Rút kim dẫn đường & Đóng da",
+      "detail": "Rút bỏ 3 kim dẫn đường, rửa sạch vết mổ và khâu da mũi rời. Không cần đặt dẫn lưu.",
+      "action": "Soi C-arm kiểm tra toàn bộ chỏm đùi ở các góc xoay; xác nhận không có vít nào xuyên khớp."
+    }
+  ],
+  "postop_protocol": "Cho bệnh nhân ngồi dậy ngay ngày đầu sau mổ để tránh ứ đọng phổi. Tập gập duỗi khớp háng và khớp gối chủ động có trợ giúp. Đi nạng chống chân không tì đè trong 6-8 tuần đầu. Tì đè một phần từ tuần thứ 8 và tì đè hoàn toàn khi X-quang có cầu xương liền tốt (12 tuần).",
+  "pearls_pitfalls": "Nguy cơ hoại tử vô mạch chỏm xương đùi (AVN) và khớp giả nếu nắn chỉnh không đạt giải phẫu; Vít dưới bắt buộc phải tựa sát vào vỏ xương đùi dưới (calcar) để có điểm tựa cơ học vững chắc chống sập vẹo trong.",
+  "image_url": "web/static/images/techniques/55-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/55-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 55-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 55-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/55-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 55-1 (Campbell 13th Ed)"
+    }
+  ]
+}

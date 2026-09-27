@@ -1,1 +1,54 @@
-{"tech_id": "9-4", "name_en": "Excision of Bursa", "name_vi": "Kỹ thuật Phẫu thuật 9-4: Excision of Bursa", "chapter": 9, "category": "General", "pdf_page": 534, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 9 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Excision of Bursa bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "9-4",
+  "name_en": "Excision of Bursa",
+  "name_vi": "Phẫu thuật Khớp Gối (9-4): Excision of Bursa",
+  "chapter": 9,
+  "category": "Tái tạo & Thay Khớp Gối",
+  "pdf_page": 534,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong phẫu thuật khớp gối (Excision of Bursa), thoái hóa khớp gối hoặc biến dạng trục chi dưới theo chỉ dẫn Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng cấp tại khớp gối, mất cơ chế duỗi gối không thể phục hồi, tổn thương mạch máu khoeo nặng.",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ, đặt garo hơi đùi (250-300 mmHg), thanh chặn đùi và giá đỡ chân cho phép gối gập 90-110°.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch khoeo và thần kinh chày ở phía sau; Thần kinh mác chung ở phía ngoài cổ xương mác; Dây chằng bên trong (MCL).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ khớp gối",
+      "detail": "Dillon et al. reported excellent results with no complica­ tions in eight patients who had endoscopic excision of septic prepatellar bursae. Huang and Yeh described endo­ scopic excision of posttraumatic prepatellar bursae in 60 patients in whom conservative treatment failed. The proce­ dures were done through two or three small portals. There were no recurrences. TIBIAL COLLATERAL LIGAMENT FIBROSITIS AND BURSITIS Voshell and Brantigan observed bursae between the longitu­ dinal part of the tibial collateral ligament and the capsule of the knee (Fig. 9-8); these bursae can be located in five...",
+      "action": "Bảo vệ nhánh dưới bánh chè của thần kinh hiển và dây chằng bên."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ phẫu trường & Đánh giá thương tổn",
+      "detail": "With the patient supine, externally rotate the hip fully and flex the knee to 90 degrees. Make a medial hockey-stick incision at the joint line (Fig. 9-9A).",
+      "action": "Đánh giá toàn diện các khoang khớp gối và cân bằng phần mềm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật",
+      "detail": "Use only the posteromedial portion of the incision if an arthroscopic examination already has been performed. Otherwise, inspect the joint through an anteromedial retinacular incision (Fig. 9-9B).",
+      "action": "Đảm bảo diện cắt xương chuẩn xác theo trục cơ học chi dưới."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện chỉnh hình / Thử nghiệm khớp",
+      "detail": "Make a posteromedial capsular incision beginning between the medial epicondyle and adductor tubercle along the posterior border of the tibial collateral ligament (Fig. 9-9B).",
+      "action": "Kiểm tra độ căng cân bằng đối xứng hai bên khe khớp."
+    }
+  ],
+  "postop_protocol": "Nẹp gối có khóa, bắt đầu tập co cơ tĩnh và vận động gập duỗi thụ động CPM sớm từ ngày thứ 2-3. Tì đè theo dung nạp.",
+  "pearls_pitfalls": "Luôn đặt banh bảo vệ bao khớp sau để che chở mạch máu khoeo; Kiểm tra cân bằng khe khớp ở cả tư thế gập và duỗi.",
+  "image_url": "web/static/images/techniques/9-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/9-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-4 (Campbell 13th Ed)"
+    }
+  ]
+}

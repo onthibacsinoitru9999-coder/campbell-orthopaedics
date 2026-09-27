@@ -1,1 +1,60 @@
-{"tech_id": "54-10", "name_en": "Definitive Ring External Fixation of Tibial Pilon Fractures (Watson)", "name_vi": "Kỹ thuật Phẫu thuật 54-10: Definitive Ring External Fixation of Tibial Pilon Fractures (Watson)", "chapter": 54, "category": "General", "pdf_page": 3045, "author": "Watson", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 54 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Definitive Ring External Fixation of Tibial Pilon Fractures (Watson) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "54-10",
+  "name_en": "Definitive Ring External Fixation of Tibial Pilon Fractures (Watson)",
+  "name_vi": "Phẫu thuật Kết hợp Xương (54-10): Definitive Ring External Fixation of Tibial Pilon Fractures (Watson)",
+  "chapter": 54,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3045,
+  "author": "Watson",
+  "clinical_indications": "Chỉ định trong phẫu thuật kết hợp xương gãy xương chi dưới (Definitive Ring External Fixation of Tibial Pilon Fractures (Watson)), gãy di lệch mất vững theo phân loại AO/OTA và Campbell 13th Ed.",
+  "contraindications": "Tổn thương mô mềm độ nặng Tscherne C3 hoặc Gustilo IIIC chưa kiểm soát mạch máu; Hội chứng chèn ép khoang cấp chưa giải áp; Sốc đa chấn thương chưa ổn định.",
+  "patient_prep": "Bệnh nhân nằm ngửa hoặc nằm nghiêng trên bàn thấu quang/bàn kéo chỉnh hình, C-arm sẵn sàng kiểm tra 2 bình diện.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chính của chi (thần kinh ngồi, mác chung, chày, bó mạch đùi/khoeo/chày trước).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Bảo tồn mô mềm",
+      "detail": "Fracture patterns found on CT scans of pilon fracture: anterolateral, posterolateral, anteromedial, or postero­ medial fragments with central impaction or compression. Based on anatomically safe corridors, wires can be passed obliquely through safe zones A and D or B and C; wires cannot be passed safely directly from anterior to posterior. Safe zones A, B, C, and D correspond to incisions. (Redrawn from Watson JT: Tibial pilon fractures, Tech Orthop 11:150, 1996.) A C D B A C D B circular fixator without its impinging on the table. Maintain calcaneal traction through a table extension with a...",
+      "action": "Rạch da theo mốc chuẩn, hạn chế bóc tách màng xương bảo tồn mạch máu nuôi."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ ổ gãy & Làm sạch diện gãy",
+      "detail": "Stabilize the fibula first. If the condition of the soft tissues allows, use a limited open reduction technique to apply a four-hole or six-hole plate. If the soft tissues along the lateral aspect of the fibula are compromised, use percutaneous tenaculum forceps to pull the fibula out to length and pin it temporarily to the lateral tibia with a percutaneous Kirschner wire, which later is replaced with a tensioned olive wire.",
+      "action": "Bộc lộ rõ diện gãy, lấy sạch máu tụ và mô mềm chèn kẹt."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Nắn chỉnh phục hồi giải phẫu (Reduction)",
+      "detail": "The external fixation frame usually consists of three or four rings. Begin the frame with a distally based ring located at the level of the ankle joint. Locate the second ring just proximal to any shaft extension. If there is a wide zone of diaphyseal-metaphyseal extension, an additional middle ring is necessary. Connect the proximal two or three rings above the fracture by long, threaded rods. Leave the distal ring free.",
+      "action": "Dùng kẹp nắn xương nắn chỉnh phục hồi diện khớp và thẳng trục chi dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện kết hợp xương (Nẹp vít / Đinh nội tủy)",
+      "detail": "Open the proximal ring construct in a “clamshell” fashion and place it over the tibial shaft. Place a transverse reference wire parallel to the knee joint and level with the fibular head, and attach the proximal ring to this wire. Obtain appropriate soft-tissue clearance and position the proximal ring on the limb to ensure that it is parallel to the knee joint and collinear with the intact proximal shaft of the tibia.",
+      "action": "Bắt vít nén ép liên mảnh hoặc đặt nẹp khóa/đinh nội tủy đạt độ vững sinh cơ học cao."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "Place a Schanz pin into the proximal tibial shaft and attach it to the most proximal ring. At this point, the proximal ring construct is firmly attached to the tibia above the fracture. Place additional transfixation wires or Schanz pins on the additional proximal rings to obtain two levels of fixation on each ring of the intact proximal shaft. Do not yet place olive wires through any area of comminution.",
+      "action": "Kiểm tra kỹ phim C-arm 2 bình diện, đặt dẫn lưu kín và khâu phục hồi theo lớp."
+    }
+  ],
+  "postop_protocol": "Nẹp đỡ chi, tập vận động chủ động có trợ giúp các khớp lân cận sớm từ ngày thứ 3. Tì đè theo độ vững của kết hợp xương.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; Nắn chỉnh giải phẫu hoàn toàn diện khớp trước khi bắt vít nẹp cố định.",
+  "image_url": "web/static/images/techniques/54-10.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/54-10.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-10 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-10_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-10 (Campbell 13th Ed)"
+    }
+  ]
+}

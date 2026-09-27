@@ -1,1 +1,60 @@
-{"tech_id": "48-26", "name_en": "Repair of Acute Rupture of the Tendon of the Quadriceps Femoris Muscle", "name_vi": "Kỹ thuật Phẫu thuật 48-26: Repair of Acute Rupture of the Tendon of the Quadriceps Femoris Muscle", "chapter": 48, "category": "General", "pdf_page": 2709, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 48 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Repair of Acute Rupture of the Tendon of the Quadriceps Femoris Muscle bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "48-26",
+  "name_en": "Repair of Acute Rupture of the Tendon of the Quadriceps Femoris Muscle",
+  "name_vi": "Phẫu thuật Phục hồi Cơ chế Duỗi Gối (48-26): Repair of Acute Rupture of the Tendon of the Quadriceps Femoris Muscle",
+  "chapter": 48,
+  "category": "Phẫu thuật Cơ chế Duỗi Gối (Gân bánh chè & Tứ đầu)",
+  "pdf_page": 2709,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Đứt hoàn toàn gân bánh chè hoặc gân cơ tứ đầu đùi (Repair of Acute Rupture of the Tendon of the Quadriceps Femoris Muscle), mất cơ chế duỗi gối chủ động (mất duỗi hoàn toàn), bánh chè lên cao (Patella alta) hoặc tụt thấp (Patella baja).",
+  "contraindications": "Nhiễm trùng vùng trước gối; thoái hóa khớp gối nặng mất sụn toàn bộ; tổn thương không có khả năng phục hồi chức năng vận động.",
+  "patient_prep": "Bệnh nhân nằm ngửa, chân duỗi thẳng, đặt garo gốc đùi 250-300 mmHg. C-arm kiểm tra chiều cao xương bánh chè (chỉ số Insall-Salvati 0.8 - 1.2).",
+  "surgical_approach": "Đường mổ dọc giữa trước gối qua xương bánh chè dài 10-12 cm. Cấu trúc nguy cơ: Nhánh dưới bánh chè thần kinh hiển; Sụn khớp bánh chè và lồi cầu đùi.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da trước giữa gối & Bộc lộ diện đứt",
+      "detail": "(see Techniques 48-21 or 48-22) tendon. CHRONIC PATELLAR TENDINOSIS Suggested alternatives to open patellar tenotomy of chronic jumper’s knee include eccentric exercise, sclerosing injections targeting the area of neovessels and nerves on the dorsal side of the patellar tendon, injections of PRP, arthroscopic shaving of the same area, and extracorporeal shockwave therapy. Studies of the effectiveness of eccentric training have had conflicting results, with one randomized controlled study reporting results comparable to surgery and another report­ ing no effect of a 12-week eccentric training...",
+      "action": "Rạch da đường giữa, bộc lộ rõ chỗ đứt gân và các mạc giữ bánh chè rách kèm theo."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Chuẩn bị đầu gân & Bề mặt xương bánh chè",
+      "detail": "Incise the tendon sheath longitudinally and identify and excise the area of degeneration using longitudinal incisions in the tendon.",
+      "action": "Cạo sạch mô xơ bộc lộ diện xương chảy máu ở cực bánh chè để gân liền vào xương."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khoan đường hầm xương qua bánh chè / Bắt chỉ neo",
+      "detail": "The inferior pole of the patella can be curetted or drilled to incite a healing response.",
+      "action": "Khoan 3 đường hầm xương dọc qua bánh chè hoặc bắt vít chỉ neo kim loại."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Luồn chỉ khâu bện & Cân chỉnh chiều cao bánh chè",
+      "detail": "Suture the defect in the tendon with side-to-side interrupted 2-0 Vicryl sutures.",
+      "action": "Luồn chỉ bện Krackow qua các lỗ khoan, cân chỉnh chiều cao bánh chè đối xứng chân lành."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Khâu néo tăng cường & Đóng vết mổ",
+      "detail": "Close the peritenon with interrupted absorbable sutures and close the skin and subcutaneous tissue in routine fashion.",
+      "action": "Khâu néo tăng cường dải mạc giữ hai bên, khâu da đóng kín, nẹp gối cố định ở tư thế duỗi thẳng."
+    }
+  ],
+  "postop_protocol": "Bất động gối bằng nẹp duỗi thẳng hoàn toàn trong 4-6 tuần. Tập co cơ tĩnh cơ tứ đầu (quad sets) ngay ngày đầu. Tập gập gối thụ động tăng dần từ tuần 3-4 (0-60°). Tì đè toàn phần với nẹp khóa duỗi.",
+  "pearls_pitfalls": "Khoan các đường hầm xương bánh chè song song cách đều nhau; Sử dụng chỉ bện Krackow siêu bền và khâu néo tăng cường vòng quanh bánh chè (cerclage wire/fiber) để bảo vệ mối khâu.",
+  "image_url": "web/static/images/techniques/48-26.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/48-26.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-26 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-26_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-26 (Campbell 13th Ed)"
+    }
+  ]
+}

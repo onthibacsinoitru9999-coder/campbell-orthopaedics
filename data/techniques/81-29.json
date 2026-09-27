@@ -1,1 +1,60 @@
-{"tech_id": "81-29", "name_en": "Distal Metatarsal Osteotomy, Medial Capsular Release Without Tendon Transfer", "name_vi": "Kỹ thuật Phẫu thuật 81-29: Distal Metatarsal Osteotomy, Medial Capsular Release Without Tendon Transfer", "chapter": 81, "category": "General", "pdf_page": 4441, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 81 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Distal Metatarsal Osteotomy, Medial Capsular Release Without Tendon Transfer bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "81-29",
+  "name_en": "Distal Metatarsal Osteotomy, Medial Capsular Release Without Tendon Transfer",
+  "name_vi": "Phẫu thuật Bàn Cổ Chân (81-29): Distal Metatarsal Osteotomy, Medial Capsular Release Without Tendon Transfer",
+  "chapter": 81,
+  "category": "Phẫu thuật Biến dạng Ngón Cái (Hallux Valgus / Rigidus)",
+  "pdf_page": 4441,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong phẫu thuật cổ bàn chân (Distal Metatarsal Osteotomy, Medial Capsular Release Without Tendon Transfer), chấn thương hoặc biến dạng bàn ngón chân theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng mô mềm bàn chân cấp, suy mạch chi dưới nặng, loét mất cảm giác Charcot tiến triển.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi cổ chân hoặc bắp chân (200-250 mmHg), C-arm mini sẵn sàng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch mu chân; Bó mạch thần kinh gan chân trong và ngoài; Thần kinh bắp chân; Thần kinh mác nông.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Tôn trọng mô mềm bàn chân",
+      "detail": "TRANSFER OF EXTENSOR HALLUCIS LONGUS WITH ARTHRODESIS OF THE INTERPHALANGEAL JOINT OF THE HALLUX Occasionally, an arthrodesis or tendon transfer may be required in a static, uniplanar deformity, but the patient must be informed preoperatively that one or the other may be required if the deformity cannot be corrected otherwise.",
+      "action": "Rạch da theo mốc giải phẫu chuẩn bàn chân, phẫu tích vạt da dày toàn bộ."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ tổn thương & Giải phóng mô co rút",
+      "detail": "When the metatarsophalangeal joint deformity is static, usually the interphalangeal joint deformity also is static.",
+      "action": "Bộc lộ ổ tổn thương, bảo vệ các nhánh thần kinh cảm giác mu chân và gan chân."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp chính (Cắt xương / Nắn chỉnh / Khâu nối)",
+      "detail": "Extensor hallucis longus transfer usually is recommended for supple deformity of the metatarsophalangeal joint (Fig.",
+      "action": "Thực hiện thao tác kỹ thuật chuẩn xác, kiểm tra trục giải phẫu dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định nẹp vít vi phẫu / Kim Kirschner",
+      "detail": "81-87), combined with interphalangeal joint fusion whether the interphalangeal joint deformity is dynamic or static.",
+      "action": "Bắt vít nén ép vi phẫu hoặc nẹp khóa định hình ôm sát bề mặt xương."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Tháo garo, Cầm máu & Đóng vết mổ",
+      "detail": "For a combined supple interphalangeal and metatarsophalan­ geal joint deformity, transfer of only half of the extensor hallucis longus tendon without arthrodesis of the hallux interphalangeal joint is recommended to allow free inter­ phalangeal joint motion; if the extensor hallucis longus A, Distal chevron metatarsal osteotomy with medial translation of distal fragment.",
+      "action": "Tháo garo kiểm tra tưới máu hồng ấm đầu ngón, khâu da không căng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cẳng bàn chân tư thế trung tính. Kê cao chân chống phù nề. Đi giày đế cứng hoặc tì đè theo phác đồ từng phẫu thuật.",
+  "pearls_pitfalls": "Vạt da bàn chân rất mỏng manh: luôn phẫu tích vạt dày toàn bộ và hạn chế kẹp kéo mép da; Phục hồi vòm chân sinh lý.",
+  "image_url": "web/static/images/techniques/81-29.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/81-29.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-29 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-29_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-29 (Campbell 13th Ed)"
+    }
+  ]
+}

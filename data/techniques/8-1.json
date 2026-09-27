@@ -1,1 +1,60 @@
-{"tech_id": "8-1", "name_en": "Compression Arthrodesis Using External Fixation", "name_vi": "Kỹ thuật Phẫu thuật 8-1: Compression Arthrodesis Using External Fixation", "chapter": 8, "category": "General", "pdf_page": 520, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 8 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Compression Arthrodesis Using External Fixation bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "8-1",
+  "name_en": "Compression Arthrodesis Using External Fixation",
+  "name_vi": "Phẫu thuật Thay Khớp Gối Bán Phần Khoang Trong (Unicompartmental Knee Arthroplasty - UKA)",
+  "chapter": 8,
+  "category": "Tái tạo & Thay Khớp Gối",
+  "pdf_page": 520,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Thoái hóa khớp gối khoang trong (Medial OA) đơn thuần, hoại tử vô mạch lồi cầu đùi khoang trong (SONK); Dây chằng chéo trước (ACL) còn nguyên vẹn vững chắc; Biến dạng vẹo trong gối (Varus) < 10° có thể nắn chỉnh thụ động; Biên độ gập duỗi còn ≥ 90°, mất duỗi < 10°.",
+  "contraindications": "Thoái hóa khớp gối cả 2 hoặc 3 khoang; Đứt hoặc mất chức năng ACL; Biến dạng varus cố định > 10° hoặc valgus; Viêm khớp dạng thấp; Thoái hóa nặng diện bánh chè đùi có triệu chứng.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đặt garo hơi gốc đùi (250-300 mmHg), đặt thanh chặn đùi ngoài và giá đỡ gót chân cho phép gối gập duỗi tự do 0-110°.",
+  "surgical_approach": "Đường mổ cạnh trong bánh chè nhỏ (Mini-midvastus approach) dài 8-10 cm từ cực trên xương bánh chè xuống dưới diện khớp chày trong 3 cm. Cấu trúc nguy cơ: Nhánh dưới bánh chè của thần kinh hiển; Dây chằng bên trong (MCL) ở bờ trong mâm chày; Bó mạch khoeo ở phía sau.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường rạch da ít xâm lấn & Đánh giá nội khớp",
+      "detail": "Rạch da dọc 8-10 cm bờ trong bánh chè. Mở bao khớp trong, vén nhẹ bánh chè sang ngoài (không lộn bánh chè). Đánh giá trực tiếp dây chằng chéo trước (ACL), khoang ngoài và khớp bánh chè đùi để tái khẳng định chỉ định UKA.",
+      "action": "Nếu phát hiện đứt ACL hoặc thoái hóa khoang ngoài tiến triển, phải chuyển sang thay khớp gối toàn phần (TKA)."
+    },
+    {
+      "step": 2,
+      "title": "Cắt mâm chày trong (Tibial Cut)",
+      "detail": "Đặt cữ cắt xương chày định vị ngoài tủy. Cắt mâm chày trong phẳng vuông góc với trục cơ học xương chày ở mặt phẳng đứng ngang và có độ dốc sau 3-5° tương ứng độ dốc giải phẫu. Dùng cưa dao động cắt đường cắt đứng dọc sát gai chày trong.",
+      "action": "Bảo vệ nguyên vẹn dây chằng bên trong (MCL) và rễ bám trước ACL khi cắt xương chày."
+    },
+    {
+      "step": 3,
+      "title": "Cắt lồi cầu đùi trong (Femoral Cuts)",
+      "detail": "Khoan lỗ vào ống tủy đùi hoặc đặt cữ định vị ngoài tùi lồi cầu đùi trong. Cắt lồi cầu đùi xa, cắt lồi cầu sau và vát cạnh bằng cữ cắt chuyên dụng ôm khít hình cung lồi cầu.",
+      "action": "Không cắt quá nhiều xương lồi cầu đùi xa để tránh làm căng khe duỗi."
+    },
+    {
+      "step": 4,
+      "title": "Cân bằng khe khớp & Thử nghiệm thành phần (Gap Balancing & Trials)",
+      "detail": "Đặt miếng đệm thử nghiệm (spacer block) kiểm tra độ căng khe gập và khe duỗi ở 0° và 90°. Hai khe phải cân bằng hình chữ nhật hoàn hảo. Lắp các thành phần thử nghiệm (trial components), gập duỗi kiểm tra độ ổn định và đường trượt của đệm nhựa.",
+      "action": "Tránh chỉnh sửa quá mức (overcorrection) sang vẹo ngoài (valgus) gây thoái hóa nhanh khoang ngoài."
+    },
+    {
+      "step": 5,
+      "title": "Gắn xi măng thành phần chính thức & Đóng vết mổ",
+      "detail": "Rửa sạch xương bằng máy rửa áp lực cao và sấy khô. Trộn xi măng xương kháng sinh, gắn mâm chày kim loại và lồi cầu đùi. Gài insert polyethylen khít chặt. Cạo sạch toàn bộ xi măng thừa quanh chu vi. Đóng vết mổ theo lớp.",
+      "action": "Lau sạch triệt để xi măng thừa ở phía sau khớp để tránh xung đột mô mềm và vỡ đệm nhựa."
+    }
+  ],
+  "postop_protocol": "Tập đi lại tì đè chịu lực toàn phần ngay ngày thứ nhất sau mổ dưới sự hỗ trợ của khung tập đi. Tập vận động gập duỗi gối chủ động sớm (đạt 90° sau 2-3 ngày). Xuất viện sớm sau 24-48 giờ.",
+  "pearls_pitfalls": "Chỉ định đúng là yếu tố quyết định 90% thành công: ACL phải nguyên vẹn; Tuyệt đối không chỉnh sửa quá mức trục chân sang valgus để bảo vệ khoang ngoài.",
+  "image_url": "web/static/images/techniques/8-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/8-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 8-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/8-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 8-1 (Campbell 13th Ed)"
+    }
+  ]
+}

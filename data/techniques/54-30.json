@@ -1,1 +1,60 @@
-{"tech_id": "54-30", "name_en": "Antegrade Femoral Nailing", "name_vi": "Phẫu thuật Đóng đinh Nội tủy có chốt Xuôi dòng Thân Xương đùi", "chapter": 54, "category": "Knee & Lower Leg", "pdf_page": 3110, "author": "Kuntscher / AO Trauma / Campbell", "clinical_indications": "Gãy thân xương đùi Winquist-Hansen Type I đến IV; Gãy 1/3 giữa thân xương đùi; Gãy xương đùi hai bên; Gãy xương đùi trong bệnh cảnh đa chấn thương.", "contraindications": "Nhiễm trùng tại chỗ khớp háng/mấu chuyển lớn; Ổ gãy quá sát lồi cầu đùi (< 5cm từ diện khớp gối, ưu tiên đinh ngược dòng hoặc nẹp khóa); Ống tủy quá hẹp không doa được.", "patient_prep": "Nằm ngửa hoặc nằm nghiêng trên bàn chỉnh hình. Kéo nắn khôi phục chiều dài chi. C-arm kiểm tra xoay từ khớp háng đến khớp gối.", "surgical_approach": "Rạch da nhỏ 3-5 cm phía trên đỉnh mấu chuyển lớn 2cm, đi chếch lên trên và ra sau dọc theo thớ cơ mông lớn.", "surgical_steps": [{"step": 1, "title": "Mở điểm vào ống tủy (Entry Point)", "detail": "Dưới C-arm, định vị điểm vào ở đỉnh mấu chuyển lớn (Trochanteric entry) hoặc hố mấu chuyển (Piriformis fossa). Dùng đục nhọn hoặc khoan rỗng mở vỏ xương vào lòng ống tủy."}, {"step": 2, "title": "Luồn que dẫn đường có đầu bi (Ball-tipped Guide Wire)", "detail": "Đưa que dẫn đường có đầu bi qua ổ gãy xuống đến hành xương đầu dưới xương đùi, dừng tại mức cực trên xương bánh chè ở chính giữa ống tủy trên cả 2 bình diện thẳng và nghiêng."}, {"step": 3, "title": "Doa ống tủy tuần tự (Flexible Reaming)", "detail": "Doa ống tủy bằng mũi doa mềm tăng dần từng 0.5mm cho đến khi lớn hơn đường kính đinh dự kiến 1.0 - 1.5mm. Vừa doa vừa hút áp lực âm nếu có nguy cơ tắc mạch mỡ."}, {"step": 4, "title": "Đóng đinh nội tủy & Bắt chốt tĩnh (Nail Insertion & Interlocking)", "detail": "Lắp đinh vào cần ngắm, đẩy nhẹ đinh xoay dọc theo que dẫn đường vào ống tủy qua ổ gãy. Bắt 1-2 chốt ngang đầu gần qua dưỡng ngắm. Bắt 2 chốt ngang đầu xa theo kỹ thuật ngắm bắn tự do (Free-hand technique) dưới C-arm tròn hoàn hảo (Perfect circles)."}, {"step": 5, "title": "Kiểm tra chiều dài, trục xoay & Đóng vết mổ", "detail": "So sánh độ xoay ngoài bàn chân với chân lành. Kiểm tra độ vững dưới C-arm. Rút cần ngắm, rửa sạch và khâu đóng các lỗ rạch da."}], "postop_protocol": "Gãy vững (Type I, II): Tì đè một phần ngay tuần đầu và tì đè hoàn toàn sau 4-6 tuần. Gãy mất vững vụn nát (Type III, IV): Chống chân chạm đất (Toe-touch) 6 tuần đầu, tăng dần khi có can xương liên kết.", "pearls_pitfalls": "Tránh can lệch xoay (thường gặp nhất là xoay ngoài > 15°); Bắt chốt đầu xa phải đảm bảo lỗ ngắm trên C-arm tròn hoàn hảo trước khi khoan.", "image_url": "web/static/images/techniques/54-30.webp"}
+{
+  "tech_id": "54-30",
+  "name_en": "Antegrade Femoral Nailing",
+  "name_vi": "Đóng Đinh Nội Tủy Xuôi Dòng Có Doa Khóa Chốt Kín Thân Xương Đùi",
+  "chapter": 54,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3110,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Gãy thân xương đùi (AO/OTA 32-A, B, C) từ dưới mấu chuyển nhỏ 5 cm đến trên lồi cầu đùi 8 cm; gãy hai tầng thân xương đùi; gãy xương đùi kèm đa chấn thương sau khi đã ổn định huyết động.",
+  "contraindications": "Nhiễm trùng tại chỗ đường vào đỉnh mấu chuyển hoặc hố mấu chuyển; ống tủy quá hẹp không thể doa; gãy vỡ vụn quá sát lồi cầu đùi (ưu tiên đinh ngược dòng hoặc nẹp LCP).",
+  "patient_prep": "Bệnh nhân nằm nghiêng 90° hoặc nằm ngửa trên bàn chỉnh hình kéo nắn. C-arm đặt kiểm tra trọn vẹn từ khớp háng đến khớp gối trên cả bình diện thẳng và nghiêng. Chuẩn bị bộ đinh nội tủy đùi xuôi dòng có cữ chốt ngang.",
+  "surgical_approach": "Đường mổ nhỏ 3-5 cm phía trên đỉnh mấu chuyển lớn. Tách thớ cơ mông lớn, sờ nhận diện đỉnh mấu chuyển lớn hoặc hố mấu chuyển (piriformis fossa). Cấu trúc nguy cơ: Nhánh thần kinh mông trên; Động mạch mũ đùi trong (ở hố mấu chuyển).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Nắn chỉnh kín ổ gãy trên bàn chỉnh hình & Mở đường vào",
+      "detail": "Kéo dọc trục khử ngắn chi, điều chỉnh xoay bàn chân để phục hồi trục giải phẫu thân đùi. Rạch da 4 cm trên đỉnh mấu chuyển lớn. Dùng dùi nhọn mở nắp ống tủy tại đỉnh mấu chuyển lớn (hoặc hố mấu chuyển) thẳng trục ống tủy.",
+      "action": "Điểm vào đinh nội tủy phải thẳng hàng tuyệt đối với trục ống tủy thân đùi trên cả 2 bình diện."
+    },
+    {
+      "step": 2,
+      "title": "Luồn que dẫn đường có đầu bi qua ổ gãy (Ball-tip Guide Wire)",
+      "detail": "Luồn que dẫn đường có đầu bi qua điểm vào xuống đoạn gần. Dùng kẹp nắn hoặc ngón tay phụ nắn ổ gãy, đẩy que dẫn đường vượt qua khe gãy xuống đoạn xa đến tận trên diện khớp lồi cầu đùi 1-2 cm. Kiểm tra trên C-arm ở cả 2 tư thế.",
+      "action": "Xác nhận que dẫn đầu bi nằm ở trung tâm đoạn xa thân đùi dưới C-arm trước khi doa tủy."
+    },
+    {
+      "step": 3,
+      "title": "Doa ống tủy tăng dần (Reaming)",
+      "detail": "Dùng các mũi doa lòng tủy mềm tăng dần từng 0.5 mm từ kích cỡ nhỏ đến khi mũi doa cọ nhẹ vào vỏ xương đặc. Kích thước doa lớn hơn đường kính đinh dự kiến 1.0 - 1.5 mm.",
+      "action": "Doa tủy từ tốn với tốc độ cao lực đẩy nhẹ để giảm áp lực nội tủy và nguy cơ thuyên tắc mỡ."
+    },
+    {
+      "step": 4,
+      "title": "Đóng đinh nội tủy & Bắt vít chốt ngang đầu gần / đầu xa",
+      "detail": "Lắp đinh nội tủy vào cữ nhắm. Đẩy đinh nhẹ nhàng qua ống tủy đã doa xuống đoạn xa. Bắt vít chốt ngang đầu gần qua cữ định vị. Bắt 2 vít chốt ngang đầu xa bằng kỹ thuật nhìn xuyên tự do (Freehand technique) dưới C-arm.",
+      "action": "Bắt chốt ngang đầu xa đạt độ tròn hoàn hảo (perfect circle) dưới C-arm trước khi khoan bắt vít."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra C-arm toàn bộ thân đùi & Đóng vết mổ",
+      "detail": "Kiểm tra chiều dài hai chi, độ thẳng trục và góc xoay chi dưới. Tháo cữ nhắm, bơm rửa sạch và khâu đóng các vết mổ nhỏ theo từng lớp giải phẫu.",
+      "action": "Kiểm tra nghiệm pháp xoay đùi lâm sàng và đối chiếu với chân lành để tránh biến chứng xoay trục."
+    }
+  ],
+  "postop_protocol": "Tập co cơ tĩnh cơ tứ đầu và tập gập duỗi gối chủ động ngay ngày thứ nhất. Với gãy thân xương đùi gãy chéo vát hoặc ngang: tập đứng tì đè chịu lực một phần với khung tập đi từ ngày thứ 2-3. Tì đè hoàn toàn sau 6-8 tuần khi có can xương bắc cầu dày.",
+  "pearls_pitfalls": "Điểm vào đinh quá lệch ngoài sẽ gây gãy biến dạng vẹo trong (varus); Luôn kiểm tra đối chiếu biến dạng xoay của khớp háng và cổ chân hai bên trước khi bắt chốt ngang đầu xa.",
+  "image_url": "web/static/images/techniques/54-30.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/54-30.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-30 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-30_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-30 (Campbell 13th Ed)"
+    }
+  ]
+}

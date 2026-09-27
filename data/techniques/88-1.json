@@ -1,1 +1,55 @@
-{"tech_id": "88-1", "name_en": "Open Reduction of Calcaneal Fracture (Benirschke and Sangeorzan)", "name_vi": "Kỹ thuật Phẫu thuật 88-1: Open Reduction of Calcaneal Fracture (Benirschke and Sangeorzan)", "chapter": 88, "category": "General", "pdf_page": 4746, "author": "Benirschke and Sangeorzan", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 88 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Open Reduction of Calcaneal Fracture (Benirschke and Sangeorzan) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "88-1",
+  "name_en": "Open Reduction of Calcaneal Fracture (Benirschke and Sangeorzan)",
+  "name_vi": "Phẫu thuật Kết hợp xương Gãy Xương Gót Sanders qua Đường mổ Chữ L Mở rộng Ngoài",
+  "chapter": 88,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4746,
+  "author": "Benirschke and Sangeorzan",
+  "clinical_indications": "Gãy xương gót nội khớp di lệch (Sanders type II, III, IV) có lún diện khớp dưới sên > 2mm, góc Böhler giảm nặng (< 15-20° hoặc âm), góc Gissane biến dạng, mất chiều cao và gót chân bị bẹt rộng vẹo ngoài.",
+  "contraindications": "Phần mềm vùng gót đụng dập bầm dập nặng, nổi nốt phỏng nước (wrinkle test âm tính - phải chờ 10-14 ngày đến khi da nhăn lại); bệnh nhân đái tháo đường biến chứng mạch máu nặng; hút thuốc lá nặng (nguy cơ hoại tử vạt da cực cao).",
+  "patient_prep": "Bệnh nhân nằm nghiêng 90° chân đau ở trên (hoặc nằm ngửa đệm mông cao). Garo hơi đùi (250-300 mmHg). Máy C-arm sẵn sàng chụp các tư thế: nghiêng gót, thẳng bàn chân và tư thế Harris axial view.",
+  "surgical_approach": "Đường mổ chữ L mở rộng ngoài (Extensile Lateral Approach). Rạch da góc vuông 90°: nhánh đứng nằm giữa bờ sau gân gót và bờ sau mắt cá ngoài, nhánh ngang nằm ngang mức nền xương bàn 5. Cấu trúc nguy cơ: DÂY THẦN KINH BẮP CHÂN (Sural nerve) và tĩnh mạch hiển bé; Nhóm gân cơ mác.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Rạch da chữ L góc vuông & Bóc tách vạt da dày toàn bộ (No-Touch)",
+      "detail": "Rạch da chữ L góc vuông 90°. Phẫu tích vạt da dày toàn phần sát xương gót (subperiosteal full-thickness flap). Cắm 3 kim K-wire vào xương sên, mắt cá ngoài và xương hộp bẻ cong làm móc giữ vạt da.",
+      "action": "TUYỆT ĐỐI KHÔNG DÙNG BANH KẸP MÉP DA; dùng kỹ thuật No-Touch giữ vạt da bằng kim K-wire."
+    },
+    {
+      "step": 2,
+      "title": "Bộc lộ diện khớp dưới sên & Nắn chỉnh củ gót sau",
+      "detail": "Tách mở bao khớp dưới sên. Xuyên 1 đinh Schanz 4.5 mm hoặc 5.0 mm vào củ gót sau làm cần nắn (joystick). Kéo dọc trục và bẻ vẹo trong để phục hồi chiều cao xương gót và góc Böhler (25-40°).",
+      "action": "Dùng Schanz pin joystick kéo hạ củ gót sau để phục hồi góc Böhler và khử biến dạng vẹo ngoài."
+    },
+    {
+      "step": 3,
+      "title": "Nắn chỉnh diện khớp dưới sên (Posterior Facet Reduction)",
+      "detail": "Dùng cây nâng xương đội mảnh sụn diện khớp sau bị lún lên ngang bằng với mảnh nâng đỡ bền vững (sustentaculum tali). Cố định tạm thời diện khớp bằng 2 kim K-wire 1.6 mm.",
+      "action": "Lấy mảnh sustentacular tali ở phía trong làm mốc chuẩn giải phẫu để nắn chỉnh mảnh diện khớp sau."
+    },
+    {
+      "step": 4,
+      "title": "Đặt nẹp khóa gót giải phẫu & Bắt vít nâng đỡ",
+      "detail": "Đặt nẹp khóa định hình giải phẫu xương gót ôm sát bờ ngoài. Bắt các vít ngậm vào mảnh sustentaculum tali, mảnh củ gót sau và mấu trước. Bắt các vít bè (rafting screws) sát dưới diện sụn.",
+      "action": "Bắt ít nhất 1-2 vít ngậm chắc vào sustentaculum tali (xương cứng nhất) để giữ vững diện khớp."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra C-arm Harris view, tháo garo & Đóng vạt da Donati-Allgöwer",
+      "detail": "Kiểm tra phim nghiêng gót và tư thế Harris axial: góc Böhler hồi phục hoàn toàn, diện khớp phẳng khít, chiều rộng xương gót bình thường. Đặt dẫn lưu kín. Khâu da bằng mũi Donati-Allgöwer không thiếu máu mép vạt.",
+      "action": "Khâu vạt da bằng mũi Allgöwer-Donati không làm thiếu máu mép da; đặt dẫn lưu hút kín áp lực âm."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cẳng bàn chân tư thế trung tính. Kê cao chân tuyệt đối trong 72 giờ đầu. Rút dẫn lưu sau 24-48 giờ. Bắt đầu tập vận động gập duỗi cổ chân và khớp dưới sên nhẹ nhàng từ tuần thứ 2. TUYỆT ĐỐI KHÔNG TÌ ĐÈ trong 8-10 tuần đầu. Tì đè một phần sau tuần thứ 10 và tì đè hoàn toàn sau tuần 12 khi X-quang liền xương.",
+  "pearls_pitfalls": "Hoại tử vạt da chữ L là tai biến ác mộng: bắt buộc phải chờ da có nếp nhăn (wrinkle test (+)) mới được mổ; Luôn phẫu tích vạt dày toàn bộ tới tận màng xương và khâu da mũi Allgöwer-Donati.",
+  "image_url": "web/static/images/techniques/88-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/88-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-1 (Campbell 13th Ed)"
+    }
+  ]
+}

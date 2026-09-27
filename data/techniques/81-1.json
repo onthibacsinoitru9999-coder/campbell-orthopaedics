@@ -1,1 +1,60 @@
-{"tech_id": "81-1", "name_en": "Modified McBride Bunionectomy", "name_vi": "Kỹ thuật Phẫu thuật 81-1: Modified McBride Bunionectomy", "chapter": 81, "category": "General", "pdf_page": 4367, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 81 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Modified McBride Bunionectomy bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "81-1",
+  "name_en": "Modified McBride Bunionectomy",
+  "name_vi": "Phẫu thuật Cắt bỏ Củ xương & Giải phóng Mô mềm Cải tiến McBride (Modified McBride Bunionectomy)",
+  "chapter": 81,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4367,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Biến dạng ngón chân cái vẹo ngoài (Hallux Valgus) mức độ nhẹ đến trung bình, góc HVA < 25-30°, góc IMA < 12-13°, khớp bàn ngón 1 còn đồng tâm không thoái hóa, đau củ xương bàn 1 do cọ sát giày.",
+  "contraindications": "Hallux valgus nặng (IMA > 15-18°); thoái hóa khớp bàn ngón 1 (Hallux Rigidus); khớp cổ chân bàn chân 1 mất vững (Hypermobility - cần mổ Lapidus).",
+  "patient_prep": "Bệnh nhân nằm ngửa, đặt garo hơi cổ chân hoặc bắp chân (200-250 mmHg). C-arm mini sẵn sàng kiểm tra góc HVA và vị trí xương vừng.",
+  "surgical_approach": "Hai đường mổ: đường mổ dọc bờ trong khớp bàn ngón 1 và đường mổ kẽ ngón chân 1-2. Cấu trúc nguy cơ: Bó mạch thần kinh bì mu chân trong; Thần kinh gan ngón chân cái; Động mạch mu chân kẽ ngón 1.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ kẽ ngón 1-2 & Giải phóng gân cơ khép ngón cái",
+      "detail": "Rạch da dọc 3 cm kẽ ngón 1-2. Phẫu tích sâu vào khoang kẽ ngón, nhận diện và cắt giải phóng bám tận gân cơ khép ngón cái (adductor hallucis) khỏi nền đốt gần và xương vừng ngoài.",
+      "action": "Giải phóng toàn bộ gân cơ khép ngón cái và cắt đứt dây chằng gian xương bàn 1-2."
+    },
+    {
+      "step": 2,
+      "title": "Giải phóng bao khớp ngoài & Xương vừng ngoài",
+      "detail": "Dùng dao mổ số 15 rạch dọc giải phóng bao khớp bên ngoài khớp bàn ngón 1 (lateral capsulotomy) và dây chằng treo xương vừng ngoài để xương vừng trượt trở lại vị trí giải phẫu.",
+      "action": "Giải phóng bao khớp ngoài giúp xương vừng ngoài hồi phục vị trí giải phẫu dưới chỏm bàn 1."
+    },
+    {
+      "step": 3,
+      "title": "Đường mổ trong & Bộc lộ củ xương bàn 1 (Bunion)",
+      "detail": "Rạch da dọc bờ trong khớp bàn ngón 1 dài 4-5 cm. Mở bao khớp hình chữ Y hoặc vạt chữ V lộn ngược. Bộc lộ rõ củ xương lồi ra phía trong của chỏm xương bàn 1.",
+      "action": "Phẫu tích vạt da dày toàn bộ, bảo vệ nhánh thần kinh cảm giác mu trong ngón cái."
+    },
+    {
+      "step": 4,
+      "title": "Gọt củ xương bàn 1 (Eminence Resection)",
+      "detail": "Dùng cưa dao động mỏng cắt phẳng củ xương trong dọc theo đường rãnh sagittal sulcus, song song với thân xương bàn 1. Mài nhẵn các gờ xương sắc nhọn.",
+      "action": "Không cắt quá nhiều xương về phía lòng bàn chân để tránh làm mất bệ đỡ xương vừng trong."
+    },
+    {
+      "step": 5,
+      "title": "Khâu xếp nếp bao khớp trong (Medial Capsulorrhaphy) & Đóng vết mổ",
+      "detail": "Giữ ngón chân cái thẳng trục và xoay ngoài nhẹ. Khâu thu hẹp xếp nếp bao khớp trong bằng các mũi chỉ tiêu chậm số 2-0. Khâu da và băng nẹp nắn chỉnh ngón cái.",
+      "action": "Khâu bao khớp trong với lực căng vừa đủ giữ ngón cái thẳng trục 0-5° vẹo ngoài."
+    }
+  ],
+  "postop_protocol": "Băng nẹp cố định ngón chân cái thẳng trục trong 6 tuần. Cho phép đi lại tì đè gót chân ngay với giày chỉnh hình chuyên dụng (Darco shoe). Tập vận động gập duỗi ngón cái sau 3 tuần.",
+  "pearls_pitfalls": "Cắt bỏ quá nhiều củ xương sẽ dẫn đến biến dạng ngón cái vẹo trong (Hallux Varus) rất khó sửa; Trong kỹ thuật cải tiến McBride: KHÔNG cắt bỏ xương vừng ngoài để tránh biến chứng vẹo trong.",
+  "image_url": "web/static/images/techniques/81-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/81-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-1 (Campbell 13th Ed)"
+    }
+  ]
+}

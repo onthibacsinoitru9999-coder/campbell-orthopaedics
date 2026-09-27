@@ -1,1 +1,60 @@
-{"tech_id": "48-1", "name_en": "Fasciotomy for Acute Compartment Syndrome of the Thigh (Tarlow et al.)", "name_vi": "Kỹ thuật Phẫu thuật 48-1: Fasciotomy for Acute Compartment Syndrome of the Thigh (Tarlow et al.)", "chapter": 48, "category": "General", "pdf_page": 2687, "author": "Tarlow et al.", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 48 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Fasciotomy for Acute Compartment Syndrome of the Thigh (Tarlow et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "48-1",
+  "name_en": "Fasciotomy for Acute Compartment Syndrome of the Thigh (Tarlow et al.)",
+  "name_vi": "Phẫu thuật Cấp cứu Mở Cân Giải áp Khoang (48-1): Fasciotomy for Acute Compartment Syndrome of the Thigh (Tarlow et al.)",
+  "chapter": 48,
+  "category": "Cấp cứu Chấn thương: Rạch mở Cân giải áp Khoang (Fasciotomy)",
+  "pdf_page": 2687,
+  "author": "Tarlow et al.",
+  "clinical_indications": "Chỉ định cấp cứu khẩn cấp trong Hội chứng Chèn ép Khoang cấp tính (Fasciotomy for Acute Compartment Syndrome of the Thigh (Tarlow et al.)) do chấn thương gãy xương, dập nát cơ hoặc sau tái tưới máu mạch máu, áp lực khoang > 30 mmHg hoặc Delta-P < 30 mmHg.",
+  "contraindications": "TUYỆT ĐỐI KHÔNG CÓ CHỐNG CHỈ ĐỊNH can thiệp khi đã có chèn ép khoang cấp; Chỉ định mở cân muộn (> 24-48 giờ cơ đã hoại tử hoàn toàn) cần cân nhắc nguy cơ nhiễm trùng huyết và sốc độc tố.",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ, KHÔNG ĐƯỢC ĐẶT GARO (chống chỉ định tuyệt đối đặt garo làm nặng thêm tình trạng thiếu máu cơ). Sát khuẩn toàn bộ chi dưới từ bẹn đến bàn chân.",
+  "surgical_approach": "Đường rạch mở cân dài một hoặc hai đường mổ (Single or Double Incision). Cấu trúc nguy cơ: Dây thần kinh mác chung ở cổ xương mác; Dây thần kinh hiển và tĩnh mạch hiển lớn ở cẳng chân trong; Thần kinh mác nông khi xẻ khoang trước ngoài.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da mở rộng & Bộc lộ mạc khoang",
+      "detail": "Three compartments of the thigh: anterior, medial, and posterior. Modified from Mithoefer K, Lhowe DW, Vrahas MS, et al: Functional outcome after acute compartment syndrome of the thigh, J Bone Joint Surg 88A:729, 2006. Compartment-Specific Diagnostic Criteria of Acute Compartment Syndrome of the Thigh ANTERIOR COMPARTMENT POSTERIOR COMPARTMENT MEDIAL COMPARTMENT PAIN WITH PASSIVE STRETCH Passive knee flexion with hip in extension Passive knee extension with hip in flexion Passive hip abduction with knee in extension MOTOR DEFICIT Knee extension Knee flexion, plantar flexion (sciatic tibial...",
+      "action": "Rạch da đường dài toàn bộ chiều dài khoang, tuyệt đối không đặt garo."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Rạch mở mạc khoang trước & khoang ngoài",
+      "detail": "During a 10-year period at a large trauma center, 288 (2.8%) of 10,315 patients with extremity trauma required fasciotomy for com­ partment syndrome. The need for fasciotomy varied widely according to mechanism of injury (<1% after motor vehicle accidents to almost 9% after gunshot wounds) and by type of injury (2% with closed fracture to 42% with combined vas­ cular injury). Male sex and age younger than 55 years were among the independent predictors identified.",
+      "action": "Rạch mạc cân hình chữ H hoặc dọc, tránh tổn thương thần kinh mác nông."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Rạch mở mạc khoang sau nông & sau sâu",
+      "detail": "An increasingly common risk factor for the development of compartment syn­ drome is the use of anticoagulation therapy in elderly trauma patients. As with all compartment syndromes, early diagnosis and treatment are essential to a good result. A review of the outcomes of fasciotomy found that 68% of patients treated within 12 hours of symptom onset had normal function, com­ pared with only 8% in those treated more than 12 hours after symptom onset.",
+      "action": "Mở mạc khoang sau sâu sát bờ sau xương chày giải phóng áp lực triệt để."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra sức sống cơ (4C) & Cắt lọc cơ hoại tử",
+      "detail": "Even with timely fasciotomy, many patients have long-term sequelae, including altered sensation, swell­ ing, pain, functional deficits, and cosmetic concerns. Two techniques for release of the compartments of the lower leg are commonly used: single-incision perifibular fas­ ciotomy and double-incision fasciotomy. The single incision may be useful if the soft tissue of the limb is not extensively distorted.",
+      "action": "Đánh giá sức sống cơ qua 4 yếu tố: Màu sắc, Mật độ, Co bóp và Chảy máu (4Cs)."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Băng vết mổ hở & Đặt hệ thống hút áp lực âm (VAC)",
+      "detail": "Because this is rarely true, the double-incision technique is safer and more effective and generally should be used. The role of selective compartment releases remains unclear. Thirty-eight patients with compartment syndromes in association with tibial fractures were treated according to an algorithm in which standard anterior and lateral releases were done through a full-length lateral incision and then Decompression of thigh compartments.",
+      "action": "Để hở vết mổ, băng hút áp lực âm VAC hoặc néo da shoelace, chuẩn bị mổ kiểm tra lại sau 48h."
+    }
+  ],
+  "postop_protocol": "Để hở vết mổ hoàn toàn, băng hút áp lực âm (VAC) hoặc khâu néo da bằng dây chun dạng bậc thang (Shoelace technique). Đánh giá lại cơ sau 48-72 giờ (Second-look debridement). Đóng da thì hai hoặc ghép da mỏng (STSG) sau 5-7 ngày.",
+  "pearls_pitfalls": "NGUYÊN TẮC SỐ 1: TUYỆT ĐỐI KHÔNG ĐƯỢC DÙNG GARO; Đường rạch da và rạch mạc cân phải đủ dài từ đầu trên xuống đầu dưới cẳng chân để giải phóng áp lực triệt để; Bắt buộc mở đủ cả 4 khoang cẳng chân.",
+  "image_url": "web/static/images/techniques/48-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/48-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-1 (Campbell 13th Ed)"
+    }
+  ]
+}

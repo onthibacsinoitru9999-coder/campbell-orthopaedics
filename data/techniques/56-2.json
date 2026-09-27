@@ -1,1 +1,60 @@
-{"tech_id": "56-2", "name_en": "Fixation of Comminuted Posterior Wall Fracture with or without a Transverse Component", "name_vi": "Kỹ thuật Phẫu thuật 56-2: Fixation of Comminuted Posterior Wall Fracture with or without a Transverse Component", "chapter": 56, "category": "General", "pdf_page": 3223, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 56 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Fixation of Comminuted Posterior Wall Fracture with or without a Transverse Component bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "56-2",
+  "name_en": "Fixation of Comminuted Posterior Wall Fracture with or without a Transverse Component",
+  "name_vi": "Phẫu thuật Kết hợp xương Thành sau & Cột sau Ổ cối qua Đường mổ Kocher-Langenbeck",
+  "chapter": 56,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3223,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Gãy thành sau ổ cối di lệch (Posterior Wall Fracture), gãy cột sau (Posterior Column), gãy ngang hoặc gãy hình chữ T có di lệch chủ yếu ở phía sau, trật khớp háng ra sau kèm mảnh vỡ thành sau kẹt trong khớp.",
+  "contraindications": "Gãy cột trước hoặc thành trước ổ cối đơn thuần; nhiễm trùng da vùng mông; tổn thương đụng dập phổi nặng chưa chịu được tư thế nằm sấp/nằm nghiêng.",
+  "patient_prep": "Bệnh nhân nằm sấp hoặc nằm nghiêng 90° trên bàn mổ chỉnh hình thấu quang. BẮT BUỘC gập khớp gối 90° và duỗi háng trong suốt cuộc mổ để làm chùng dây thần kinh ngồi. Chuẩn bị bộ nẹp tái tạo 3.5 mm và kẹp nắn Farabeuf.",
+  "surgical_approach": "Đường mổ Kocher-Langenbeck sau ngoài khớp háng. Cấu trúc nguy cơ cao nhất: DÂY THẦN KINH NGỒI (Sciatic Nerve - chạy ngay sau cơ hình lê và bao khớp sau); Động mạch mông trên (ở bờ trên khuyết ngồi lớn); Động mạch mông dưới.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường rạch da Kocher-Langenbeck & Tách cơ mông lớn",
+      "detail": "Rạch da từ gai chậu sau trên hướng về bờ sau mấu chuyển lớn rồi dọc xuống thân xương đùi 10 cm. Tách mạc đùi và xẻ cơ mông lớn dọc theo thớ cơ. Cầm máu các nhánh động mạch mông.",
+      "action": "Luôn giữ gối gập 90° và duỗi háng để giảm sức căng lên dây thần kinh ngồi."
+    },
+    {
+      "step": 2,
+      "title": "Bộc lộ & Bảo vệ dây thần kinh ngồi",
+      "detail": "Sờ nhận diện dây thần kinh ngồi ở khoang sau. Phẫu tích nhẹ nhàng dọc bờ ngoài dây thần kinh, không bóc tách vỏ bao thần kinh. Luồn dây gạc ướt cao su bảo vệ.",
+      "action": "Không được dùng banh kim loại tự động kéo căng trực tiếp lên dây thần kinh ngồi."
+    },
+    {
+      "step": 3,
+      "title": "Cắt nhóm cơ xoay ngoài ngắn & Mở bao khớp",
+      "detail": "Khâu chỉ chờ và cắt nhóm cơ xoay ngoài ngắn (cơ hình lê, cơ bịt trong, cơ sinh đôi) cách điểm bám xương đùi 1 cm. Lật vạt cơ ra sau che chở thần kinh ngồi. Bộc lộ ổ gãy thành sau và khuyết hổng bao khớp.",
+      "action": "Lật vạt cơ xoay ngắn ra sau làm tấm đệm chắn tự nhiên che chở thần kinh ngồi."
+    },
+    {
+      "step": 4,
+      "title": "Làm sạch diện khớp & Nắn chỉnh mảnh thành sau",
+      "detail": "Gắp sạch toàn bộ các mảnh xương sụn vụn kẹt trong ổ cối. Nắn chỉnh mảnh thành sau lớn về đúng vị trí giải phẫu. Dùng kẹp nắn chuyên dụng hoặc K-wire cố định tạm thời. Bắt vít nén ép liên mảnh ngoài khớp nếu mảnh đủ lớn.",
+      "action": "Lấy sạch triệt để các mảnh xương vụn kẹt trong khớp ổ cối chỏm đùi trước khi nắn chỉnh."
+    },
+    {
+      "step": 5,
+      "title": "Uốn nẹp nâng đỡ thành sau & Cố định vững chắc",
+      "detail": "Uốn nẹp tái tạo 3.5 mm ôm sát bờ sau ổ cối từ ụ ngồi lên cánh chậu. Bắt các vít cố định tạo hiệu ứng nâng đỡ (buttress effect). Kiểm tra C-arm các tư thế Judet. Khâu phục hồi cơ xoay ngoài ngắn và đóng vết mổ.",
+      "action": "Kiểm tra C-arm tư thế Obturator Oblique xác nhận không có vít nào xuyên vào diện khớp."
+    }
+  ],
+  "postop_protocol": "Nằm nghỉ tại giường, tránh gập háng quá 60° và xoay trong trong 4 tuần đầu. Tập co cơ tĩnh sớm. Đi nạng không tì đè trong 8-10 tuần đầu. Tì đè một phần sau tuần 10-12 khi X-quang liền xương.",
+  "pearls_pitfalls": "Tổn thương thần kinh ngồi là tai biến thường gặp nhất: phải giữ gối gập 90° suốt mổ; Vít bắt vào thành sau phải hướng chếch ra ngoài để không phạm vào sụn khớp ổ cối.",
+  "image_url": "web/static/images/techniques/56-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/56-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-2 (Campbell 13th Ed)"
+    }
+  ]
+}

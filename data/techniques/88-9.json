@@ -1,1 +1,65 @@
-{"tech_id": "88-9", "name_en": "Onlay Graft Technique Through a Posterior Approach (Johnson)", "name_vi": "Kỹ thuật Phẫu thuật 88-9: Onlay Graft Technique Through a Posterior Approach (Johnson)", "chapter": 88, "category": "General", "pdf_page": 4773, "author": "Johnson", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 88 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Onlay Graft Technique Through a Posterior Approach (Johnson) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "88-9",
+  "name_en": "Onlay Graft Technique Through a Posterior Approach (Johnson)",
+  "name_vi": "Phẫu thuật Bàn Cổ Chân (88-9): Onlay Graft Technique Through a Posterior Approach (Johnson)",
+  "chapter": 88,
+  "category": "Chấn thương Gãy Xương Bàn Cổ Chân (Xương gót, Xương sên, Khớp Lisfranc)",
+  "pdf_page": 4773,
+  "author": "Johnson",
+  "clinical_indications": "Chỉ định trong phẫu thuật cổ bàn chân (Onlay Graft Technique Through a Posterior Approach (Johnson)), chấn thương hoặc biến dạng bàn ngón chân theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng mô mềm bàn chân cấp, suy mạch chi dưới nặng, loét mất cảm giác Charcot tiến triển.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi cổ chân hoặc bắp chân (200-250 mmHg), C-arm mini sẵn sàng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch mu chân; Bó mạch thần kinh gan chân trong và ngoài; Thần kinh bắp chân; Thần kinh mác nông.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Tôn trọng mô mềm bàn chân",
+      "detail": "fractures have a reported incidence of osteonecrosis of 25%; however, with displacement, the rate of osteonecrosis is 50%. Injuries are considered to be talar body fractures if the inferior fracture line is proximal to the lateral process of the talus and as talar neck fractures if the inferior fracture line is distal to the lateral process of the talus. classified talar body fractures into five major types based on anatomic location: type I, osteochondral or transchondral; type II, coronal-sagittal, horizontal, non­ comminuted, shear; type III, posterior tubercle; type IV, lateral process;...",
+      "action": "Rạch da theo mốc giải phẫu chuẩn bàn chân, phẫu tích vạt da dày toàn bộ."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ tổn thương & Giải phóng mô co rút",
+      "detail": "More recent classification systems include the AO classifica­ tion (Fig. 88-40) in which fractures are grouped according to increasing severity, with increasing treatment difficulty and worse prognosis. Diagnosis should be made with a plain radiograph, although CT may be indicated for complete evaluation of the fracture pattern and displacement. Displaced fractures should be treated with ORIF.",
+      "action": "Bộc lộ ổ tổn thương, bảo vệ các nhánh thần kinh cảm giác mu chân và gan chân."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp chính (Cắt xương / Nắn chỉnh / Khâu nối)",
+      "detail": "Frequently, these injuries require medial malleolar osteotomy for exposure to obtain an adequate reduction. Use of bioabsorbable pins or headless compression screws may be helpful in fixation. A review of the surgical treatment of talar body fractures con­ firmed the morbidity of these injuries. An 88% incidence of osteonecrosis or posttraumatic arthritis was noted on radio­ graphs, and worse results occurred with comminuted and open fractures.",
+      "action": "Thực hiện thao tác kỹ thuật chuẩn xác, kiểm tra trục giải phẫu dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định nẹp vít vi phẫu / Kim Kirschner",
+      "detail": "This study found that all patients who had open fractures and osteonecrosis experienced collapse of the talar body. Another study found only 53% good or excellent results, with worse outcomes in crush injuries, open fractures, and those associated with a talar neck fracture. The approach to surgical correction of these fractures depends on the fracture pattern. A medial malleolar osteotomy may be needed to expose the fracture (Fig.",
+      "action": "Bắt vít nén ép vi phẫu hoặc nẹp khóa định hình ôm sát bề mặt xương."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Tháo garo, Cầm máu & Đóng vết mổ",
+      "detail": "Because the surfaces for fixation in the talar body almost always contain articular cartilage, fixation usually consists of head­ less compression screws or bioabsorbable pins, making sure that the implants are not prominent within the joint (Fig. Comminuted fractures of the body of the talus with gross displacement are difficult to treat. The long-term result is Blair fusion for comminuted fractures and fracture-dislocations of body of talus. B, Sliding graft removed from distal anterior surface of tibia and comminuted fragments excised.",
+      "action": "Tháo garo kiểm tra tưới máu hồng ấm đầu ngón, khâu da không căng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cẳng bàn chân tư thế trung tính. Kê cao chân chống phù nề. Đi giày đế cứng hoặc tì đè theo phác đồ từng phẫu thuật.",
+  "pearls_pitfalls": "Vạt da bàn chân rất mỏng manh: luôn phẫu tích vạt dày toàn bộ và hạn chế kẹp kéo mép da; Phục hồi vòm chân sinh lý.",
+  "image_url": "web/static/images/techniques/88-9.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/88-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 88-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-9_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 88-9 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/88-9_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 88-9 (Campbell 13th Ed)"
+    }
+  ]
+}

@@ -1,1 +1,60 @@
-{"tech_id": "83-18", "name_en": "Dorsal Closing Wedge Osteotomy of the Metatarsals for Intractable Plantar Keratosis", "name_vi": "Kỹ thuật Phẫu thuật 83-18: Dorsal Closing Wedge Osteotomy of the Metatarsals for Intractable Plantar Keratosis", "chapter": 83, "category": "General", "pdf_page": 4591, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 83 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Dorsal Closing Wedge Osteotomy of the Metatarsals for Intractable Plantar Keratosis bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "83-18",
+  "name_en": "Dorsal Closing Wedge Osteotomy of the Metatarsals for Intractable Plantar Keratosis",
+  "name_vi": "Phẫu thuật Bàn Cổ Chân (83-18): Dorsal Closing Wedge Osteotomy of the Metatarsals for Intractable Plantar Keratosis",
+  "chapter": 83,
+  "category": "Phẫu thuật Biến dạng Ngón Chân Nhỏ (Ngón búa / Ngón vuốt / Bản gan chân)",
+  "pdf_page": 4591,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong phẫu thuật cổ bàn chân (Dorsal Closing Wedge Osteotomy of the Metatarsals for Intractable Plantar Keratosis), chấn thương hoặc biến dạng bàn ngón chân theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng mô mềm bàn chân cấp, suy mạch chi dưới nặng, loét mất cảm giác Charcot tiến triển.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi cổ chân hoặc bắp chân (200-250 mmHg), C-arm mini sẵn sàng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch mu chân; Bó mạch thần kinh gan chân trong và ngoài; Thần kinh bắp chân; Thần kinh mác nông.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Tôn trọng mô mềm bàn chân",
+      "detail": "BUNIONETTE (TAILOR’S BUNION) The bony prominence on the lateral side of the fifth metatarsal head often is called a tailor’s bunion, referring to the position in which tailors would sit on the floor with their legs crossed, forcing the lateral border of the foot against the floor (Fig. A and B, Bunionette with metatarsus quintus valgus and fifth toe varus. A B Bunionette–hallux valgus–splay foot complex. Note lateral angulation of shaft of fifth metatarsal at distal third (arrows). Measurement of metatarsophalangeal-fifth and fourth-fifth intermetatarsal angles for evaluation of bunio­ nette...",
+      "action": "Rạch da theo mốc giải phẫu chuẩn bàn chân, phẫu tích vạt da dày toàn bộ."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ tổn thương & Giải phóng mô co rút",
+      "detail": "It often is seen in splay foot combined with hallux valgus, or the head of the fifth metatarsal may be congenitally or traumatically enlarged. Also, the shaft may be angulated laterally, making the fifth metatarsal head more prominent (Fig. Standard weight-bearing views of the foot, including dorsoplantar, lateral, and oblique, should be obtained for measurement of the 4-5 intermetatarsal angle (4-5 IMA). This angle is formed by two lines that bisect the fourth and fifth metatarsals (Fig. The normal 4-5 IMA is less than 6.5 to 8 degrees; the average 4-5 IMA is 6.5 degrees in normal feet and...",
+      "action": "Bộc lộ ổ tổn thương, bảo vệ các nhánh thần kinh cảm giác mu chân và gan chân."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp chính (Cắt xương / Nắn chỉnh / Khâu nối)",
+      "detail": "83-43): type I, enlargement of the fifth metatarsal head or a lateral exostosis; type II, abnormal lateral bend to the distal fifth metatarsal with a normal 4-5 IMA; and type III, an increased 4-5 IMA (> 8 degrees) that results in a widened forefoot. Type III is the most common deformity. Other angles that may be useful are the lateral deviation angle (Fig. 83-44), which is formed by a line from the center of the metatarsal head and neck to the meta­ tarsal base and a line along the medial cortex of the fifth metatarsal (normal, 2.6 degrees; with bunionette, 8 degrees), and the fifth...",
+      "action": "Thực hiện thao tác kỹ thuật chuẩn xác, kiểm tra trục giải phẫu dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định nẹp vít vi phẫu / Kim Kirschner",
+      "detail": "With continuous pressure over this bony prominence, a bursa develops and enlarges because of chronic irritation (Fig. An intractable keratosis may develop over a prominent bunionette because of shoe pres­ sure. In diabetes, advanced Charcot-Marie-Tooth disease, or certain types of spinal dysraphism with poor sensibility, this complication can result in loss of the entire fifth ray or even the foot. In addition to a symptomatic bursa over the lateral aspect of the prominent fifth metatarsal head, a diffuse callus or localized intractable keratosis can develop beneath the plantar aspect of the...",
+      "action": "Bắt vít nén ép vi phẫu hoặc nẹp khóa định hình ôm sát bề mặt xương."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Tháo garo, Cầm máu & Đóng vết mổ",
+      "detail": "83-47), and (3) resection of the fifth metatarsal head. Classification of bunionette deformity. A, Type I, lateral prominence of metatarsal head. B, Type II, lateral bowing of fifth metatarsal. C, Type III, widening of fourth-fifth intermetatarsal angle. (From Cohen BE, Nicholson CW: Bunionette, J Am Acad Orthop Surg 15:300, 2007.) A B C Measurement of lateral deviation angle in evaluation of bunionette deformity.",
+      "action": "Tháo garo kiểm tra tưới máu hồng ấm đầu ngón, khâu da không căng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cẳng bàn chân tư thế trung tính. Kê cao chân chống phù nề. Đi giày đế cứng hoặc tì đè theo phác đồ từng phẫu thuật.",
+  "pearls_pitfalls": "Vạt da bàn chân rất mỏng manh: luôn phẫu tích vạt dày toàn bộ và hạn chế kẹp kéo mép da; Phục hồi vòm chân sinh lý.",
+  "image_url": "web/static/images/techniques/83-18.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/83-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 83-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/83-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 83-18 (Campbell 13th Ed)"
+    }
+  ]
+}

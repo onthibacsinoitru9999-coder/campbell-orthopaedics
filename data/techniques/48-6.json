@@ -1,1 +1,48 @@
-{"tech_id": "48-6", "name_en": "Double-Incision Fasciotomy for Chronic Posterior Compartment Syndrome (Rorabeck)", "name_vi": "Kỹ thuật Phẫu thuật 48-6: Double-Incision Fasciotomy for Chronic Posterior Compartment Syndrome (Rorabeck)", "chapter": 48, "category": "General", "pdf_page": 2694, "author": "Rorabeck", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 48 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Double-Incision Fasciotomy for Chronic Posterior Compartment Syndrome (Rorabeck) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "48-6",
+  "name_en": "Double-Incision Fasciotomy for Chronic Posterior Compartment Syndrome (Rorabeck)",
+  "name_vi": "Phẫu thuật Cấp cứu Mở Cân Giải áp Khoang (48-6): Double-Incision Fasciotomy for Chronic Posterior Compartment Syndrome (Rorabeck)",
+  "chapter": 48,
+  "category": "Cấp cứu Chấn thương: Rạch mở Cân giải áp Khoang (Fasciotomy)",
+  "pdf_page": 2694,
+  "author": "Rorabeck",
+  "clinical_indications": "Chỉ định cấp cứu khẩn cấp trong Hội chứng Chèn ép Khoang cấp tính (Double-Incision Fasciotomy for Chronic Posterior Compartment Syndrome (Rorabeck)) do chấn thương gãy xương, dập nát cơ hoặc sau tái tưới máu mạch máu, áp lực khoang > 30 mmHg hoặc Delta-P < 30 mmHg.",
+  "contraindications": "TUYỆT ĐỐI KHÔNG CÓ CHỐNG CHỈ ĐỊNH can thiệp khi đã có chèn ép khoang cấp; Chỉ định mở cân muộn (> 24-48 giờ cơ đã hoại tử hoàn toàn) cần cân nhắc nguy cơ nhiễm trùng huyết và sốc độc tố.",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ, KHÔNG ĐƯỢC ĐẶT GARO (chống chỉ định tuyệt đối đặt garo làm nặng thêm tình trạng thiếu máu cơ). Sát khuẩn toàn bộ chi dưới từ bẹn đến bàn chân.",
+  "surgical_approach": "Đường rạch mở cân dài một hoặc hai đường mổ (Single or Double Incision). Cấu trúc nguy cơ: Dây thần kinh mác chung ở cổ xương mác; Dây thần kinh hiển và tĩnh mạch hiển lớn ở cẳng chân trong; Thần kinh mác nông khi xẻ khoang trước ngoài.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da mở rộng & Bộc lộ mạc khoang",
+      "detail": "Identify the neurovascular bundle and posterior tibial tendon and incise proximally and distally the fascia overlying the tendon. The posterior tibial tendon is the key to posterior compartment decompression, and it usually is constricted proximally between the two origins of the flexor hallucis longus; enlarge the opening between these two structures to check for constriction.",
+      "action": "Rạch da đường dài toàn bộ chiều dài khoang, tuyệt đối không đặt garo."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Rạch mở mạc khoang trước & khoang ngoài",
+      "detail": "Release the tourniquet and obtain meticulous hemostasis.",
+      "action": "Rạch mạc cân hình chữ H hoặc dọc, tránh tổn thương thần kinh mác nông."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Rạch mở mạc khoang sau nông & sau sâu",
+      "detail": "Close the wound over a suction drain to minimize the risk of hematoma formation.",
+      "action": "Mở mạc khoang sau sâu sát bờ sau xương chày giải phóng áp lực triệt để."
+    }
+  ],
+  "postop_protocol": "Để hở vết mổ hoàn toàn, băng hút áp lực âm (VAC) hoặc khâu néo da bằng dây chun dạng bậc thang (Shoelace technique). Đánh giá lại cơ sau 48-72 giờ (Second-look debridement). Đóng da thì hai hoặc ghép da mỏng (STSG) sau 5-7 ngày.",
+  "pearls_pitfalls": "NGUYÊN TẮC SỐ 1: TUYỆT ĐỐI KHÔNG ĐƯỢC DÙNG GARO; Đường rạch da và rạch mạc cân phải đủ dài từ đầu trên xuống đầu dưới cẳng chân để giải phóng áp lực triệt để; Bắt buộc mở đủ cả 4 khoang cẳng chân.",
+  "image_url": "web/static/images/techniques/48-6.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/48-6.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-6 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-6_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-6 (Campbell 13th Ed)"
+    }
+  ]
+}

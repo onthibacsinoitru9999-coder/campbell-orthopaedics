@@ -1,1 +1,60 @@
-{"tech_id": "56-7", "name_en": "Pelvic Clamps (Ganz et al.)", "name_vi": "Kỹ thuật Phẫu thuật 56-7: Pelvic Clamps (Ganz et al.)", "chapter": 56, "category": "General", "pdf_page": 3228, "author": "Ganz et al.", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 56 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Pelvic Clamps (Ganz et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "56-7",
+  "name_en": "Pelvic Clamps (Ganz et al.)",
+  "name_vi": "Phẫu thuật Kết hợp Xương (56-7): Pelvic Clamps (Ganz et al.)",
+  "chapter": 56,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3228,
+  "author": "Ganz et al.",
+  "clinical_indications": "Chỉ định trong phẫu thuật kết hợp xương gãy xương chi dưới (Pelvic Clamps (Ganz et al.)), gãy di lệch mất vững theo phân loại AO/OTA và Campbell 13th Ed.",
+  "contraindications": "Tổn thương mô mềm độ nặng Tscherne C3 hoặc Gustilo IIIC chưa kiểm soát mạch máu; Hội chứng chèn ép khoang cấp chưa giải áp; Sốc đa chấn thương chưa ổn định.",
+  "patient_prep": "Bệnh nhân nằm ngửa hoặc nằm nghiêng trên bàn thấu quang/bàn kéo chỉnh hình, C-arm sẵn sàng kiểm tra 2 bình diện.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chính của chi (thần kinh ngồi, mác chung, chày, bó mạch đùi/khoeo/chày trước).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Bảo tồn mô mềm",
+      "detail": "The patient with a pelvic ring injury, persistent hypoten­ sion after circumferential pelvic binding, and no other source Internal iliac plexus of arteries and veins. Common iliac artery External iliac artery Internal iliac artery Obturator artery Superior vesical artery S1 nerve S2 nerve Internal pudendal artery Superior gluteal artery Inferior gluteal artery A, Initial anteroposterior radiograph of open-book pelvic fracture. B, After application of pelvic binder (C). Vertical displacement of the hemipelvis is controlled by all the mentioned ligamentous structures, but if other liga­ ments...",
+      "action": "Rạch da theo mốc chuẩn, hạn chế bóc tách màng xương bảo tồn mạch máu nuôi."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ ổ gãy & Làm sạch diện gãy",
+      "detail": "He separated them into three groups: group I had displaced anterior ring injuries with minimally displaced, stable sacral fractures or incomplete tearing of the anterior sacroiliac liga­ ment; group II had anterior injuries associated with a rota­ tional opening of the sacroiliac joint with disruption of only the anterior sacroiliac ligaments, sparing the posterosuperior sacroiliac ligament complex; and group III had complete disruption of the anterior and posterior hemipelvis. developed a mechanistic classification in which pelvic fractures are described as anteroposterior com­ pression...",
+      "action": "Bộc lộ rõ diện gãy, lấy sạch máu tụ và mô mềm chèn kẹt."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Nắn chỉnh phục hồi giải phẫu (Reduction)",
+      "detail": "Type A3 fractures are transverse lesions of the sacrum and coccyx; these are considered spinal injuries rather than pelvic ring disruptions. Type B fractures are rotationally unstable. Type B1 frac­ tures include “open book” fractures or anterior compression injuries in which the anterior pelvis opens through a diastasis of the symphysis or through a fracture of the anterior pelvic ring (Fig. The posterior sacroiliac and interosseous ligaments remain intact. Tile described stages of this injury. In the first stage, the symphysis separation is less than 2.5 cm and the sacrospinous ligament...",
+      "action": "Dùng kẹp nắn xương nắn chỉnh phục hồi diện khớp và thẳng trục chi dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện kết hợp xương (Nẹp vít / Đinh nội tủy)",
+      "detail": "In the third stage, the lesions are bilateral, creating a B3 injury. Type B2-1 fractures are lateral compression injuries with ipsilateral fractures (Fig. 56-48B); type B2-2 fractures have a lateral compression component but the fractures are contralateral—a “bucket handle” injury. The ligamentous structures generally are not disrupted by the internal rotation of the hemipelvis. 56-48C) are unstable both rota­ tionally and vertically. These include vertical shear injuries and anterior compression injuries with disruption of the posterior ligamentous complex. Type C1 fractures include...",
+      "action": "Bắt vít nén ép liên mảnh hoặc đặt nẹp khóa/đinh nội tủy đạt độ vững sinh cơ học cao."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "Type C2 fractures include bilateral injuries with one hemipelvis verti­ cally stable and the other unstable. Type C3 fractures are of bleeding should be considered for arteriography. Hemor­ rhage frequently results from fracture surfaces and small vessels in the retroperitoneum. Only 5% to 10% of patients with pelvic fractures bleed from arterial sources identified by angiography and are treated with embolization. Higher rates of arterial bleeding in the geriatric population have been noted by Henry et al. An algorithm by O’Brien and Dickson (Fig. 56-45) has been proposed; however, the...",
+      "action": "Kiểm tra kỹ phim C-arm 2 bình diện, đặt dẫn lưu kín và khâu phục hồi theo lớp."
+    }
+  ],
+  "postop_protocol": "Nẹp đỡ chi, tập vận động chủ động có trợ giúp các khớp lân cận sớm từ ngày thứ 3. Tì đè theo độ vững của kết hợp xương.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; Nắn chỉnh giải phẫu hoàn toàn diện khớp trước khi bắt vít nẹp cố định.",
+  "image_url": "web/static/images/techniques/56-7.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/56-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-7 (Campbell 13th Ed)"
+    }
+  ]
+}

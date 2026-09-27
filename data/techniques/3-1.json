@@ -1,1 +1,55 @@
-{"tech_id": "3-1", "name_en": "Preoperative Templating for Total Hip Arthroplasty (Capello)", "name_vi": "Kỹ thuật Phẫu thuật 3-1: Preoperative Templating for Total Hip Arthroplasty (Capello)", "chapter": 3, "category": "General", "pdf_page": 207, "author": "Capello", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 3 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Preoperative Templating for Total Hip Arthroplasty (Capello) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "3-1",
+  "name_en": "Preoperative Templating for Total Hip Arthroplasty (Capello)",
+  "name_vi": "Lập Kế hoạch Đo đạc Phim X-quang Trước Mổ Thay Khớp Háng (Capello Templating)",
+  "chapter": 3,
+  "category": "Tái tạo & Thay Khớp Háng",
+  "pdf_page": 207,
+  "author": "Capello",
+  "clinical_indications": "Lập kế hoạch trước mổ cho mọi ca thay khớp háng toàn phần (THA) thì đầu và mổ lại (Revision THA) nhằm xác định chính xác kích cỡ cup ổ cối, stem chuôi đùi, chiều dài cổ chỏm, tái tạo độ lệch tâm (offset) và cân bằng chiều dài hai chi.",
+  "contraindications": "Phim chụp X-quang khung chậu hoặc khớp háng bị xoay vẹo, sai lệch độ phóng đại, không có quả cầu chuẩn độ chuẩn xác (radiographic marker).",
+  "patient_prep": "Chụp X-quang khung chậu tư thế thẳng (AP pelvis) chuẩn: hai chân xoay trong 15° để bộc lộ hết chiều dài cổ xương đùi, tia trung tâm hướng vào khớp mu. Đặt quả cầu chuẩn độ kim loại 25 mm ở giữa hai đùi ngang mức mấu chuyển lớn để tính hệ số phóng đại (thường là 15-20%).",
+  "surgical_approach": "Quy trình đo đạc chẩn đoán hình ảnh trên phim số hóa hoặc phim nhựa tiêu chuẩn. Cấu trúc mốc giải phẫu then chốt: Giọt lệ (Teardrop), đường Kohler (Ilioischial line), đường Shenton, đỉnh mấu chuyển lớn và mấu chuyển nhỏ.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Hiệu chỉnh hệ số phóng đại X-quang với quả cầu chuẩn độ",
+      "detail": "Tape the marker to the upper medial thigh for the anteroposterior view and move it to the anterior thigh for the lateral view. Measure the distance between the centers of the spheres to estimate the amount of magnification of the radiograph. For a standard pelvic radiograph, magnification is approximately 20%.",
+      "action": "Hiệu chỉnh chính xác tỷ lệ phóng đại (thường 20%) để tránh chọn sai cỡ implant ổ cối và chuôi đùi."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đo đạc kích thước & Định vị Cup Ổ cối (Acetabular Templating)",
+      "detail": "Templates are marked as to their degree of magnification. Take any discrepancy into account when templating. Determine the size of the acetabular cup and position it at a 40- to 45-degree angle of abduction and 15 to 20 degrees of anteversion, aligning with the teardrop.",
+      "action": "Căn chỉnh bờ dưới cup trùng với đáy giọt lệ và góc nghiêng 40-45° để che phủ tối ưu."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Đo đạc kích thước & Trục Stem Chuôi đùi (Femoral Templating)",
+      "detail": "Select the appropriate femoral stem template that fills the medullary canal and restores the anatomical center of rotation. Verify the fit in the metaphyseal and diaphyseal regions on both AP and lateral views.",
+      "action": "Chọn kích cỡ stem ôm sát vỏ xương ống tủy, đảm bảo trục stem thẳng hàng trung tâm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Xác định chiều dài cổ chỏm & Tái tạo Offset mấu chuyển",
+      "detail": "Determine the neck length and offset required to restore leg length equality and abductor muscle tension. Note the level of the femoral neck cut relative to the lesser trochanter.",
+      "action": "Đo khoảng cách từ đường cắt cổ đùi đến mấu chuyển nhỏ để định vị chính xác đường cưa lúc mổ."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Ghi nhận kế hoạch mổ & Đối chiếu trong phòng mổ",
+      "detail": "Record the predicted cup size, screw positions, stem size, and anticipated neck cut height. Display the templated radiograph in the operating room for intraoperative reference.",
+      "action": "Lưu bảng kế hoạch templating trong phòng mổ để đối chiếu trực tiếp với kích cỡ thử nghiệm."
+    }
+  ],
+  "postop_protocol": "Lưu trữ bản mẫu đo đạc (template plan) vào hồ sơ bệnh án phẫu thuật và chuyển vào phòng mổ để đối chiếu trực tiếp với kích thước implant thử nghiệm trong lúc phẫu thuật.",
+  "pearls_pitfalls": "Độ phóng đại X-quang không chuẩn là lỗi phổ biến nhất dẫn đến chọn sai cỡ cup hoặc stem; Luôn lấy đáy hình giọt lệ (teardrop) làm mốc chuẩn giải phẫu xác định bờ dưới cup ổ cối để tránh đặt cup quá cao.",
+  "image_url": "web/static/images/techniques/3-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/3-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-1 (Campbell 13th Ed)"
+    }
+  ]
+}

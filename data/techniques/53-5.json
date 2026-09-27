@@ -1,1 +1,60 @@
-{"tech_id": "53-5", "name_en": "ASIF Cancellous Screw Technique", "name_vi": "Kỹ thuật Phẫu thuật 53-5: ASIF Cancellous Screw Technique", "chapter": 53, "category": "General", "pdf_page": 2991, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 53 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật ASIF Cancellous Screw Technique bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "53-5",
+  "name_en": "ASIF Cancellous Screw Technique",
+  "name_vi": "Nguyên lý & Kỹ thuật Xử trí Gãy xương (53-5): ASIF Cancellous Screw Technique",
+  "chapter": 53,
+  "category": "Nguyên lý & Kỹ thuật Kết hợp Xương Đại cương",
+  "pdf_page": 2991,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Áp dụng trong phẫu thuật chấn thương chỉnh hình (ASIF Cancellous Screw Technique), xử trí vết thương phần mềm, bóc tách Morel-Lavallée, kỹ thuật bắt vít nén ép liên mảnh và xuyên kim cố định theo Campbell 13th Ed.",
+  "contraindications": "Áp dụng sai nguyên lý cơ sinh học; đặt dụng cụ kết hợp xương vào ổ nhiễm trùng chưa kiểm soát.",
+  "patient_prep": "Chuẩn bị bệnh nhân theo từng phân vùng giải phẫu cụ thể, vô trùng tuyệt đối, máy C-arm hỗ trợ định vị.",
+  "surgical_approach": "Tôn trọng các khoang giải phẫu, bảo tồn màng xương và nguồn máu nuôi xương. Cấu trúc nguy cơ: Mạch máu và thần kinh chính tương ứng từng vùng chi.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Chuẩn bị phẫu trường & Đánh giá tổn thương",
+      "detail": "ASIF CANCELLOUS SCREW TECHNIQUE The ASIF cancellous screw technique should be used for screw fixation through a plate using the 4.5-mm ASIF corti­ cal screw. If the screw is to serve a positional function, select a 3.2-mm drill and drill through both cortices. Deter­ mine the screw length with a depth gauge; then with a 4.5-mm tapper cut the threads along the drill hole and insert a 4.5-mm cortical screw that is of the proper length. Cancellous screw insertion is similar to that of cortical screws except that the near cortex is not overdrilled; that portion of the screw nearest the head is...",
+      "action": "Đánh giá toàn diện mức độ đụng dập mô mềm và tổn thương xương."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ giải phẫu & Bảo tồn mô mềm",
+      "detail": "planning of screw orientation, provisional fixation, and the need for all threads to purchase only in the opposite bone fragment and cortex. Figure 53-25 shows one technique and instrumentation. 53-26) are used to fix various types of femoral neck fractures. Early hip screw designs, such as the Jewett nail, consisted of a nail or screw that was fixed in the femoral head and was attached to a side plate that was fixed to the femur. More recent compression hip screw designs allow sliding of the screw or nail within a barrel attached to the side plate to accommodate the inevitable collapse that...",
+      "action": "Bộc lộ theo đúng bình diện giải phẫu, hạn chế tối đa tước màng xương."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thực hiện thao tác kỹ thuật chuyên biệt",
+      "detail": "C, Cannulated drill bit is inserted into drill guide until coupling rests on guide. Drill is inserted into measuring device, knurled nut is loosened, drill guide is rotated until drill bit length corresponds to drilling depth, and nut is tightened. Drilling assembly is placed over guidewire, and drilling continues until coupling end contacts drill guide. D, Small cannulated countersink is placed over guidewire to create recess for screw head (a washer can be used if necessary). E, Near cortex is tapped using tapping assembly. F, Small cannulated bone screw of same length as depth drilled is...",
+      "action": "Thực hiện chuẩn xác thao tác kỹ thuật theo nguyên lý cơ học sinh học AO."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra độ vững & Hiệu quả sinh cơ học",
+      "detail": "This engineering principle applies to the conversion of tensile forces to compression forces on the convex side of an eccentrically loaded bone. This is accom­ plished by placing a tension band (bone plate) across the fracture on the tension (or convex) side of the bone. Tension forces are counteracted by the tension band in this position and converted into compressive forces. If the plate is applied to the compression (or concave) side of the bone, it is likely to bend, fatigue, and fail. Therefore, a basic principle of tension band plating is that it must be applied to the tension side of...",
+      "action": "Kiểm tra độ bám chắc cơ học và sự phục hồi giải phẫu dưới C-arm."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Bơm rửa, Dẫn lưu & Chăm sóc vết mổ",
+      "detail": "Plates offer the benefits of anatomic reduction of the frac­ ture with open techniques and stability for early function of musculotendinous units and joints, but they must be pro­ tected from premature weight bearing. Disadvantages of plate fixation include the risk of bone refracture after their removal, Examples of fixed and sliding hip screws and nails; sliding devices allow fracture site to collapse. (From Bechtold JE: Biomechanics of fracture fixation devices. In Gustilo RB, Kyle RF, Templeman DC, editors: Fractures and dislocations, St. Louis, 1993, Mosby.) A B Influence of nail plate...",
+      "action": "Bơm rửa sạch áp lực thấp với lượng dịch lớn, dẫn lưu kín nếu cần thiết."
+    }
+  ],
+  "postop_protocol": "Chăm sóc vết thương, theo dõi dịch dẫn lưu và dấu hiệu nhiễm trùng. Tập vận động thụ động và chủ động sớm các khớp lân cận.",
+  "pearls_pitfalls": "Tuân thủ nghiêm ngặt nguyên lý AO: nắn chỉnh giải phẫu diện khớp, tôn trọng sinh học mô mềm và cố định vững chắc cơ học.",
+  "image_url": "web/static/images/techniques/53-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/53-5.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-5 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/53-5_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 53-5 (Campbell 13th Ed)"
+    }
+  ]
+}

@@ -1,1 +1,60 @@
-{"tech_id": "52-25", "name_en": "Arthroscopic Resection of the Distal End of the Clavicle (Mumford Procedure) (Tolin and Snyder)", "name_vi": "Kỹ thuật Phẫu thuật 52-25: Arthroscopic Resection of the Distal End of the Clavicle (Mumford Procedure) (Tolin and Snyder)", "chapter": 52, "category": "General", "pdf_page": 2902, "author": "Mumford Procedure", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 52 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Arthroscopic Resection of the Distal End of the Clavicle (Mumford Procedure) (Tolin and Snyder) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "52-25",
+  "name_en": "Arthroscopic Resection of the Distal End of the Clavicle (Mumford Procedure) (Tolin and Snyder)",
+  "name_vi": "Phẫu thuật Khớp Vai - Khuỷu (52-25): Arthroscopic Resection of the Distal End of the Clavicle (Mumford Procedure) (Tolin and Snyder)",
+  "chapter": 52,
+  "category": "Nội soi Khớp Chi Trên (Vai, Khuỷu, Cổ tay)",
+  "pdf_page": 2902,
+  "author": "Mumford Procedure",
+  "clinical_indications": "Chỉ định trong tổn thương chấn thương thể thao hoặc bệnh lý khớp vai - khớp khuỷu (Arthroscopic Resection of the Distal End of the Clavicle (Mumford Procedure) (Tolin and Snyder)), rách chóp xoay, mất vững sụn viền hoặc chèn ép khoang dưới mỏm cùng theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng vùng vai - cánh tay hoặc khớp khuỷu; tổn thương đám rối thần kinh cánh tay chưa hồi phục; thoái hóa khớp nặng không còn chỉ định bảo tồn.",
+  "patient_prep": "Bệnh nhân nằm tư thế ghế bãi biển (Beach-chair) gập háng 45-60° tựa đầu vững chắc hoặc nằm nghiêng 90° (Lateral decubitus). Chi trên để tự do trên bàn mổ có giá đỡ cánh tay. Hệ thống C-arm hoặc tháp nội soi khớp sẵn sàng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Dây thần kinh nách (Axillary nerve - bờ dưới bao khớp vai); Thần kinh cơ bì (Musculocutaneous nerve - xuyên qua cơ quạ cánh tay); Dây thần kinh trụ (ở rãnh ròng rọc khuỷu); Tĩnh mạch đầu (Cephalic vein); Bó mạch cánh tay.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Tư thế Beach-chair & Đường rạch da / Thiết lập cổng",
+      "detail": "View the completed procedure by placing the arthroscope in the anterolateral portal and viewing the cut anteriorly to evaluate the depth of the cut of the acromion and to ensure the undersurface of the acromioclavicular joint is smooth (Fig. 52-35B).",
+      "action": "Phẫu tích bộc lộ cẩn trọng, bảo vệ dây thần kinh nách và tĩnh mạch đầu."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ khoang khớp & Bảo vệ thần kinh nách/trụ",
+      "detail": "If a partial-thickness articular surface tear was previously identified, pass the arthroscope back into the anterior cannula, which has been left in the glenohumeral joint.",
+      "action": "Nhận diện rõ thương tổn rách chóp xoay, sụn viền hoặc dây chằng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật chính (Khâu gân / Cố định / Tạo hình)",
+      "detail": "Pass a No. 2 PDS through an 18-gauge spinal needle 3 cm lateral to the acromion and direct it toward the base of the cuff tear. The tear can be seen clearly and probed through the three portals (anterior glenohumeral portal and posterior and lateral subacromial portals).",
+      "action": "Thực hiện khâu neo hoặc cố định vững chắc gân/xương."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra độ vững & Cố định phương tiện",
+      "detail": "Tears of 50% thickness in active, healthy individuals should be repaired. In an athlete who uses overhead motion, repair should probably be performed only if the tear is very high and larger than 70% and there is little potential for effective use otherwise. A side-to-side repair can be done arthroscopically. Use a spinal needle to pass the PDS on one side of the tear. With a suture retriever passed through the tendon anterior to the posteriorly placed spinal needle, retrieve the end out of the lateral 8-mm cannula.",
+      "action": "Kiểm tra biên độ vận động khớp vai/khuỷu không bị kẹt hay cọ sát."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Bơm rửa, Cầm máu & Bất động đai treo tay",
+      "detail": "Tie an arthroscopic slip knot in the subacromial space by passing both ends of the suture out the lateral cannula and viewing through a posterior portal.",
+      "action": "Khâu phục hồi cân cơ, bất động chi trên bằng đai treo tay chuyên dụng."
+    }
+  ],
+  "postop_protocol": "Bất động bằng đai treo tay (Arm sling) hoặc nẹp cố định khớp vai/khuỷu ở tư thế chức năng. Tập vận động thụ động các ngón tay và cổ tay ngay ngày đầu. Tập con lắc Codman và phục hồi chức năng vai từ tuần 2-4.",
+  "pearls_pitfalls": "Nhận diện và bảo vệ tuyệt đối dây thần kinh nách ở bờ dưới ổ chảo vai; Với phẫu thuật khớp khuỷu, luôn giải phóng và bảo vệ dây thần kinh trụ.",
+  "image_url": "web/static/images/techniques/52-25.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/52-25.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-25 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-25_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-25 (Campbell 13th Ed)"
+    }
+  ]
+}

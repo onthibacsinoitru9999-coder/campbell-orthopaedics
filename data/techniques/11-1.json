@@ -1,1 +1,65 @@
-{"tech_id": "11-1", "name_en": "Opening Wedge Osteotomy of the Tibia for Varus Deformity and Medial Joint Arthrosis", "name_vi": "Kỹ thuật Phẫu thuật 11-1: Opening Wedge Osteotomy of the Tibia for Varus Deformity and Medial Joint Arthrosis", "chapter": 11, "category": "General", "pdf_page": 591, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 11 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Opening Wedge Osteotomy of the Tibia for Varus Deformity and Medial Joint Arthrosis bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "11-1",
+  "name_en": "Opening Wedge Osteotomy of the Tibia for Varus Deformity and Medial Joint Arthrosis",
+  "name_vi": "Phẫu thuật Cắt xương Sửa trục Trên Mắt cá Chân (Supramalleolar Osteotomy - SMO)",
+  "chapter": 11,
+  "category": "Thay & Hàn Khớp Cổ Chân",
+  "pdf_page": 591,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Thoái hóa khớp cổ chân không cân xứng (Asymmetric Ankle OA) thể vẹo trong (Varus) hoặc vẹo ngoài (Valgus) có bảo tồn ít nhất 50% diện sụn khớp chày sên; biến dạng lệch trục mộng chày mác sau can lệch gãy Pilon hoặc gãy mắt cá.",
+  "contraindications": "Thoái hóa khớp cổ chân tiến triển nặng toàn bộ (Kellgren-Lawrence độ 4) mất hoàn toàn khe khớp; cứng khớp cổ chân nghiêm trọng; bệnh lý thần kinh ngoại biên đái tháo đường Charcot; hoại tử vô mạch xương sên.",
+  "patient_prep": "Bệnh nhân nằm ngửa, kê gối nhỏ dưới mông cùng bên, đặt garo hơi đùi hoặc bắp chân. C-arm sẵn sàng kiểm tra góc nghiêng mâm chày dưới (TAS angle) và góc nghiêng xương sên (TT angle).",
+  "surgical_approach": "Đường mổ trước trong hoặc trong trên mắt cá trong dài 6-8 cm kết hợp đường mổ ngoài xương mác (nếu cần cắt xương mác kèm theo). Cấu trúc nguy cơ: Thần kinh hiển và tĩnh mạch hiển lớn ở trước trong; Bó mạch thần kinh chày sau ở sau mắt cá trong; Thần kinh mác nông ở mặt ngoài.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Bộc lộ vùng trên mắt cá chày & Đặt kim K-wire định vị",
+      "detail": "Rạch da dọc bờ trong đầu dưới xương chày trên mắt cá trong 3-5 cm. Tách màng xương bộc lộ vỏ trước trong xương chày. Cắm 2 kim K-wire dẫn đường chéo từ bờ trong lên trên hướng về khớp chày mác dưới.",
+      "action": "Bảo vệ tĩnh mạch hiển và thần kinh hiển; xác định chính xác chiều cao đường cắt xương cách diện khớp 3 cm."
+    },
+    {
+      "step": 2,
+      "title": "Cắt xương chày mở góc trong (Medial Opening Wedge Osteotomy)",
+      "detail": "Dùng cưa dao động cắt xương chày theo kim dẫn đường dưới sự bảo vệ của banh Langenbeck che chở bao khớp sau và bó mạch chày sau. Chừa lại 5 mm vỏ xương ngoài làm bản lề.",
+      "action": "Giữ nguyên vẹn vỏ xương ngoài mâm chày để tạo bản lề sinh học vững chắc."
+    },
+    {
+      "step": 3,
+      "title": "Mở góc sửa trục & Kiểm tra góc TAS dưới C-arm",
+      "detail": "Dùng dụng cụ mở góc từ từ tách khe cắt xương đến khi phục hồi góc trần mâm chày dưới TAS đạt 90-92° (bình thường 89-93°). Kiểm tra xương sên nằm khớp khít chính giữa mộng chày mác.",
+      "action": "Kiểm tra góc nghiêng mộng chày sên TAS và góc sên nằm ngang hoàn toàn dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Cố định nẹp khóa trên mắt cá & Ghép xương",
+      "detail": "Áp nẹp khóa giải phẫu mâm chày trong (nẹp TomoFix mắt cá hoặc nẹp khóa nén ép), bắt các vít khóa cố định vững chắc. Nhồi chặt xương xốp tự thân hoặc chất thay thế xương vào khoang hình chêm.",
+      "action": "Nhồi xương chặt tay để chống sụp lún thứ phát; bắt vít khóa hai đầu đạt độ vững chắc cao."
+    },
+    {
+      "step": 5,
+      "title": "Cắt xương mác (nếu có chỉ định) & Đóng vết mổ",
+      "detail": "Nếu cắt xương chày mở góc lớn > 8-10°, thực hiện cắt ngắn xương mác qua đường mổ ngoài. Bơm rửa sạch vết mổ, khâu phục hồi cân cơ, đặt dẫn lưu kín và khâu da mũi rời.",
+      "action": "Đóng vết mổ không căng; đặt nẹp bột cẳng bàn chân tư thế trung tính."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột cẳng bàn chân không tì đè trong 6 tuần đầu. Bắt đầu tập vận động gập duỗi ngón chân và khớp gối sớm. Chụp X-quang kiểm tra liền xương ở tuần thứ 6. Tì đè một phần từ tuần 6-8 và tì đè hoàn toàn sau tuần 10-12 khi có can xương vững.",
+  "pearls_pitfalls": "Chỉ định phẫu thuật bảo tồn khớp cổ chân sớm khi diện khớp ngoài còn nguyên vẹn giúp trì hoãn thay khớp hoặc hàn khớp 10-15 năm; Luôn kiểm tra kiểm soát góc nghiêng xương sên để tránh mất vững vòm sên tồn dư.",
+  "image_url": "web/static/images/techniques/11-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/11-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 11-1 (Campbell 13th Ed)"
+    }
+  ]
+}

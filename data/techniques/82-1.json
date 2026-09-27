@@ -1,1 +1,65 @@
-{"tech_id": "82-1", "name_en": "Synovectomy with Repair of Incomplete Tears", "name_vi": "Kỹ thuật Phẫu thuật 82-1: Synovectomy with Repair of Incomplete Tears", "chapter": 82, "category": "General", "pdf_page": 4484, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 82 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Synovectomy with Repair of Incomplete Tears bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "82-1",
+  "name_en": "Synovectomy with Repair of Incomplete Tears",
+  "name_vi": "Phẫu thuật Cắt bao hoạt dịch & Phục hồi Gân chày sau (PTTD Synovectomy & Repair)",
+  "chapter": 82,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4484,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Viêm bao gân chày sau giai đoạn 1 (Stage I Posterior Tibial Tendon Dysfunction), rách bán phần gân chày sau, đau mặt trong cổ chân dọc đường đi của gân chày sau không đáp ứng điều trị nội khoa bảo tồn 3-6 tháng, vòm bàn chân chưa sụp lún cố định.",
+  "contraindications": "PTTD giai đoạn 2 biến dạng sụp vòm nặng (cần chuyển gân FDL và cắt xương gót); PTTD giai đoạn 3-4 thoái hóa cứng khớp dưới sên (cần hàn ba khớp Triple Arthrodesis).",
+  "patient_prep": "Bệnh nhân nằm ngửa, đệm mông cùng bên để bàn chân xoay ngoài nhẹ. Garo hơi cổ chân hoặc bắp chân 200-250 mmHg.",
+  "surgical_approach": "Đường mổ cong dọc bờ sau mắt cá trong kéo dài xuống củ xương ghe (navicular tuberosity) dài 6-8 cm. Cấu trúc nguy cơ: Thần kinh hiển và tĩnh mạch hiển ở phía trước; Bó mạch thần kinh chày sau ở ngay sau gân gấp các ngón dài (FDL).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường rạch da bờ sau mắt cá trong & Mở bao gân",
+      "detail": "Rạch da cong theo bờ sau dưới mắt cá trong kéo dài đến củ xương ghe. Mở mạc hãm gân gấp (flexor retinaculum) và mở dọc bao gân chày sau.",
+      "action": "Phẫu tích cẩn thận tránh làm tổn thương nhánh thần kinh gót trong."
+    },
+    {
+      "step": 2,
+      "title": "Cắt lọc bao hoạt dịch phì đại (Synovectomy)",
+      "detail": "Cắt lọc triệt để toàn bộ mô viêm màng hoạt dịch phì đại và xơ hóa quanh gân từ trên mắt cá trong xuống tận bám tận xương ghe.",
+      "action": "Cắt sạch bao hoạt dịch viêm giải phóng hoàn toàn gân chày sau khỏi sự chèn ép."
+    },
+    {
+      "step": 3,
+      "title": "Kiểm tra tổn thương & Khâu phục hồi gân chày sau",
+      "detail": "Khảo sát dọc toàn bộ chiều dài gân. Nếu có rách dọc hoặc rách bán phần, cắt lọc mô thoái hóa vô mạch và khâu bện lại thân gân bằng chỉ tiêu chậm PDS 3-0 hoặc chỉ bện FiberWire.",
+      "action": "Khâu nẹp dọc làm phẳng dải rách gân, bảo tồn tối đa thiết diện chịu lực của gân."
+    },
+    {
+      "step": 4,
+      "title": "Tái tạo dây chằng lò xo (Spring Ligament) nếu có giãn rách",
+      "detail": "Khảo sát phức hợp dây chằng gót ghe gan chân (Spring ligament complex). Nếu phát hiện giãn hoặc rách, khâu xếp nếp gia cố bằng chỉ không tiêu số 2-0.",
+      "action": "Gia cố dây chằng lò xo giúp nâng đỡ chỏm xương sên, ngăn ngừa tiến triển sụp vòm bàn chân."
+    },
+    {
+      "step": 5,
+      "title": "Bơm rửa, đóng bao gân & Bất động nẹp bột",
+      "detail": "Rửa sạch phẫu trường, khâu phục hồi lỏng mạc hãm gân gấp để tránh chèn ép tái phát. Khâu da mũi rời. Băng nẹp bột cẳng bàn chân tư thế hơi lật trong nhẹ.",
+      "action": "Bất động bàn chân ở tư thế hơi lật trong nhẹ để giảm lực căng lên gân chày sau."
+    }
+  ],
+  "postop_protocol": "Bất động bột cẳng bàn chân không tì đè trong 3-4 tuần. Chuyển sang boot chỉnh hình có đệm nâng vòm tì đè tăng dần từ tuần 4-6. Bắt đầu tập vật lý trị liệu phục hồi lực cơ gân chày sau từ tuần thứ 6.",
+  "pearls_pitfalls": "Nếu thân gân bị thoái hóa mủn nát > 50% thiết diện, cắt lọc đơn thuần sẽ thất bại: bắt buộc phải chuyển gân gấp các ngón dài (FDL transfer) để trợ lực.",
+  "image_url": "web/static/images/techniques/82-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/82-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 82-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 82-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/82-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 82-1 (Campbell 13th Ed)"
+    }
+  ]
+}

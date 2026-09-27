@@ -1,1 +1,60 @@
-{"tech_id": "89-2", "name_en": "Repair of Acute Rupture of Lateral Ligaments (Staples, Black; Broström)", "name_vi": "Kỹ thuật Phẫu thuật 89-2: Repair of Acute Rupture of Lateral Ligaments (Staples, Black; Broström)", "chapter": 89, "category": "General", "pdf_page": 4832, "author": "Staples, Black; Broström", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 89 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Repair of Acute Rupture of Lateral Ligaments (Staples, Black; Broström) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "89-2",
+  "name_en": "Repair of Acute Rupture of Lateral Ligaments (Staples, Black; Broström)",
+  "name_vi": "Phẫu thuật Khâu Phục Hồi Dây Chằng Bên Cổ Chân Cấp Tính (Kỹ thuật Broström)",
+  "chapter": 89,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4832,
+  "author": "Staples, Black; Broström",
+  "clinical_indications": "Đứt hoàn toàn dây chằng sên mác trước (ATFL) và dây chằng gót mác (CFL) cấp tính ở vận động viên chuyên nghiệp; mất vững cổ chân cấp tính sau trật khớp kèm tổn thương dây chằng bên diện rộng; thất bại điều trị bảo tồn bất động.",
+  "contraindications": "Nhiễm trùng mô mềm vùng mắt cá ngoài; suy dinh dưỡng dưỡng chấp chi dưới; rách bán phần dây chằng đáp ứng tốt với bất động nẹp cổ chân.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đệm một gối nhỏ dưới mông cùng bên để xoay trong cổ chân. Đặt garo hơi bắp chân (200-250 mmHg). C-arm sẵn sàng.",
+  "surgical_approach": "Đường rạch cong nhẹ dọc theo bờ trước và dưới của mắt cá ngoài dài khoảng 5 cm. Cấu trúc nguy cơ: Dây thần kinh mác nông (nhánh bì mu chân trung gian) ở phía trước; Dây thần kinh bắp chân (Sural nerve) và tĩnh mạch hiển bé ở phía sau dưới.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Bộc lộ bờ trước mắt cá ngoài & Nhận diện dây chằng tổn thương",
+      "detail": "Rạch da cong theo bờ trước dưới mắt cá ngoài. Phẫu tích cẩn trọng qua mô mỡ dưới da, bảo vệ các nhánh bì mu chân của thần kinh mác nông. Bộc lộ bao khớp trước ngoài.",
+      "action": "Rạch da cong trước mắt cá ngoài, phẫu tích cẩn trọng bảo vệ nhánh thần kinh mác nông bì mu chân."
+    },
+    {
+      "step": 2,
+      "title": "Bộc lộ dây chằng sên mác trước (ATFL) và gót mác (CFL)",
+      "detail": "Cắt mở bao khớp dọc theo bờ trước xương mác. Xác định diện rách của dây chằng sên mác trước (ATFL) và dây chằng gót mác (CFL) nằm sâu dưới gân mác. Đánh giá diện sụn xương sên.",
+      "action": "Xác định rõ vị trí đứt của ATFL ở đầu bám mắt cá ngoài hoặc thân dây chằng; tách bao khớp bảo tồn mép dây chằng."
+    },
+    {
+      "step": 3,
+      "title": "Làm mới diện bám xương mác & Đặt chỉ neo (Suture Anchors)",
+      "detail": "Dùng đục nhỏ hoặc mũi mài cạo sạch màng xương tạo diện rỉ máu ở bờ trước mắt cá ngoài. Bắt 1-2 vít neo chỉ tiêu hoặc PEEK 2.8 mm / 3.5 mm có luồn sợi chỉ bện siêu bền (Orthocord/FiberWire).",
+      "action": "Dùng đục nhỏ hoặc mũi mài tạo diện xương rỉ máu ở bờ trước mắt cá ngoài; bắt 1-2 vít neo chỉ tiêu hoặc PEEK."
+    },
+    {
+      "step": 4,
+      "title": "Khâu phục hồi căng đính dây chằng tư thế xoay ngoài cổ chân",
+      "detail": "Khâu đính các đầu sợi chỉ neo xuyên qua mép dây chằng ATFL và CFL theo kiểu mũi khâu đệm nằm ngang (horizontal mattress). Phụ mổ giữ cổ chân ở tư thế gập lưng 90° và hơi xoay ngoài (eversion) trong khi phẫu thuật viên siết chặt các nút chỉ neo.",
+      "action": "Khâu đính các mũi chỉ neo qua hai đầu dây chằng ATFL/CFL, siết chỉ trong khi phụ mổ giữ cổ chân ở tư thế gập lưng 90° và xoay ngoài nhẹ."
+    },
+    {
+      "step": 5,
+      "title": "Khâu tăng cường mạc giữ gân duỗi dưới & Đóng da (Gould Modification)",
+      "detail": "Bóc tách bờ trên vạt mạc giữ gân duỗi dưới (Inferior Extensor Retinaculum - IER), kéo vạt mạc này lên trên khâu phủ đính vào màng xương mắt cá ngoài để gia cố tăng cường vững chắc độ bám. Tháo garo kiểm tra tưới máu và khâu da mũi rời.",
+      "action": "Kéo vạt mạc giữ gân duỗi dưới (IER) lên khâu phủ gia cố mốc mác ngoài (thủ thuật Gould), tháo garo và khâu da mũi rời."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bốt hoặc nẹp cẳng bàn chân tư thế trung tính 90° xoay ngoài nhẹ trong 2 tuần đầu không tì đè. Tuần 3-6: Tập vận động gập duỗi cổ chân có kiểm soát, đi giày nẹp có tì đè tăng dần. Tránh động tác lật trong trong 6 tuần.",
+  "pearls_pitfalls": "Luôn kiểm tra dây chằng gót mác (CFL) nằm sâu dưới gân cơ mác; Phải siết chỉ khâu dây chằng ở tư thế gập lưng và xoay ngoài nhẹ để tránh tình trạng lỏng dây chằng thứ phát; Kỹ thuật tăng cường Gould giúp tăng đáng kể độ vững sinh cơ học.",
+  "image_url": "web/static/images/techniques/89-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/89-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-2 (Campbell 13th Ed)"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"tech_id": "54-9", "name_en": "Spanning External Fixation of Tibial Pilon Fracture (Bonar and Marsh)", "name_vi": "Kỹ thuật Phẫu thuật 54-9: Spanning External Fixation of Tibial Pilon Fracture (Bonar and Marsh)", "chapter": 54, "category": "General", "pdf_page": 3043, "author": "Bonar and Marsh", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 54 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Spanning External Fixation of Tibial Pilon Fracture (Bonar and Marsh) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "54-9",
+  "name_en": "Spanning External Fixation of Tibial Pilon Fracture (Bonar and Marsh)",
+  "name_vi": "Phẫu thuật Kết hợp Xương (54-9): Spanning External Fixation of Tibial Pilon Fracture (Bonar and Marsh)",
+  "chapter": 54,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3043,
+  "author": "Bonar and Marsh",
+  "clinical_indications": "Chỉ định trong phẫu thuật kết hợp xương gãy xương chi dưới (Spanning External Fixation of Tibial Pilon Fracture (Bonar and Marsh)), gãy di lệch mất vững theo phân loại AO/OTA và Campbell 13th Ed.",
+  "contraindications": "Tổn thương mô mềm độ nặng Tscherne C3 hoặc Gustilo IIIC chưa kiểm soát mạch máu; Hội chứng chèn ép khoang cấp chưa giải áp; Sốc đa chấn thương chưa ổn định.",
+  "patient_prep": "Bệnh nhân nằm ngửa hoặc nằm nghiêng trên bàn thấu quang/bàn kéo chỉnh hình, C-arm sẵn sàng kiểm tra 2 bình diện.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chính của chi (thần kinh ngồi, mác chung, chày, bó mạch đùi/khoeo/chày trước).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Bảo tồn mô mềm",
+      "detail": "A and B, Severe fracture-dislocation of distal tibia and fibula. C, CT scan shows fracture pattern. D and E, After fixa­ tion with plate and screws in fibula, lag screws in tibia, and articulated fixator to maintain reduction. D E C B A hinge of the articulated fixator should be near the middle of the talus.",
+      "action": "Rạch da theo mốc chuẩn, hạn chế bóc tách màng xương bảo tồn mạch máu nuôi."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ ổ gãy & Làm sạch diện gãy",
+      "detail": "After the screws have been placed, remove the template, apply the fixator, and lock the proximal ball joint. Use a compression distraction apparatus to distract the ankle joint and evaluate the reduction fluoroscopically.",
+      "action": "Bộc lộ rõ diện gãy, lấy sạch máu tụ và mô mềm chèn kẹt."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Nắn chỉnh phục hồi giải phẫu (Reduction)",
+      "detail": "Based on preoperative planning and the intraoperative appearance after distraction, make limited incisions to aid in exact reduction of the articular surface and obtain fixation with small fragment screws. Choose incision locations that coincide directly with the major fracture lines to provide a view of the articular surface, using the fracture as a window. Large tenaculum reduction forceps may help reduce the major fragments.",
+      "action": "Dùng kẹp nắn xương nắn chỉnh phục hồi diện khớp và thẳng trục chi dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện kết hợp xương (Nẹp vít / Đinh nội tủy)",
+      "detail": "Use screw fixation for the articular fragments only; do not attempt to obtain screw fixation across the metaphyseal fracture. Tibial plates are not used. Use cannulated screws for percutaneous insertion and keep periosteal stripping to a minimum.",
+      "action": "Bắt vít nén ép liên mảnh hoặc đặt nẹp khóa/đinh nội tủy đạt độ vững sinh cơ học cao."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "Apply bone graft to the metaphyseal defect through the same incision or through a separate incision if needed.",
+      "action": "Kiểm tra kỹ phim C-arm 2 bình diện, đặt dẫn lưu kín và khâu phục hồi theo lớp."
+    }
+  ],
+  "postop_protocol": "Nẹp đỡ chi, tập vận động chủ động có trợ giúp các khớp lân cận sớm từ ngày thứ 3. Tì đè theo độ vững của kết hợp xương.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; Nắn chỉnh giải phẫu hoàn toàn diện khớp trước khi bắt vít nẹp cố định.",
+  "image_url": "web/static/images/techniques/54-9.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/54-9.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-9 (Campbell 13th Ed)"
+    }
+  ]
+}

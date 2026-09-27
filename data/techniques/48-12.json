@@ -1,1 +1,60 @@
-{"tech_id": "48-12", "name_en": "Minimally Invasive and Percutaneous Repair of Acute Achilles Tendon Rupture (Ma and Griffith)", "name_vi": "Kỹ thuật Phẫu thuật 48-12: Minimally Invasive and Percutaneous Repair of Acute Achilles Tendon Rupture (Ma and Griffith)", "chapter": 48, "category": "General", "pdf_page": 2701, "author": "Ma and Griffith", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 48 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Minimally Invasive and Percutaneous Repair of Acute Achilles Tendon Rupture (Ma and Griffith) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "48-12",
+  "name_en": "Minimally Invasive and Percutaneous Repair of Acute Achilles Tendon Rupture (Ma and Griffith)",
+  "name_vi": "Phẫu thuật Khâu Nối Gân Gót Achilles (48-12): Minimally Invasive and Percutaneous Repair of Acute Achilles Tendon Rupture (Ma and Griffith)",
+  "chapter": 48,
+  "category": "Phẫu thuật Tái tạo Gân Gót (Achilles Tendon)",
+  "pdf_page": 2701,
+  "author": "Ma and Griffith",
+  "clinical_indications": "Chỉ định trong đứt gân gót Achilles cấp tính hoặc mạn tính (Minimally Invasive and Percutaneous Repair of Acute Achilles Tendon Rupture (Ma and Griffith)), đứt hoàn toàn ở người có nhu cầu hoạt động thể lực cao, đứt gân gót cũ co rút mất đoạn.",
+  "contraindications": "Nhiễm trùng mô mềm gót chân; bệnh nhân tiểu đường có viêm loét tì đè gót; bệnh nhân lớn tuổi ít vận động có thể điều trị bảo tồn bột chức năng.",
+  "patient_prep": "Bệnh nhân nằm sấp (Prone position), kê gối dưới cổ chân để hai bàn chân buông tự do ngoài mép bàn mổ. Đặt garo hơi đùi 250-300 mmHg. Bộc lộ cả hai chân để so sánh góc gập mu - lòng tự nhiên (nghiệm pháp Matles).",
+  "surgical_approach": "Đường mổ sau trong (Posteromedial incision) dọc theo bờ trong gân gót dài 8-10 cm. Cấu trúc nguy cơ: DÂY THẦN KINH BẮP CHÂN (Sural nerve - chạy vắt chéo bờ ngoài gân gót); Tĩnh mạch hiển bé; Thần kinh chày ở sâu.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Tư thế nằm sấp & Đường rạch da sau trong",
+      "detail": "CHRONIC RUPTURE The definition of a “chronic” rupture has ranged from those diagnosed and treated more than 48 hours after injury to those diagnosed and treated up to 2 months after injury. There appears to be some consensus that a rupture diag­ nosed 4 to 6 weeks after injury should be considered a chronic rupture and that these are more difficult to treat than acute injuries. At about 1 week after rupture of the Achil­ les tendon, any space between the tendon ends fills with Ma and Griffith technique for percutaneous repair of acute rupture of Achilles tendon. SEE TECHNIQUE 48-12. Equinus...",
+      "action": "Rạch da sau trong bảo vệ thần kinh bắp chân Sural ở bờ ngoài."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ bao gân & Hai đầu gân đứt",
+      "detail": "In the operating room with the patient under local, regional, or general anesthesia, and with the extremity prepared as for open surgery, palpate the tendon defect and make small stab wounds on each side of the Achilles tendon 2.5 cm proximal to the rupture defect.",
+      "action": "Bộc lộ hai đầu gân đứt, làm sạch máu tụ và chải sợi gân tưa."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Làm sạch & Khâu bện gân (Krackow/Bunnell)",
+      "detail": "Use a small hemostat to free the underlying tendon sheath from the subcutaneous tissue; pass a No. 0 or a No. 1 nonabsorbable suture threaded on a straight needle from the lateral stab wound through the body of the tendon and exit in the medial stab wound (Fig. 48-21, Step 1).",
+      "action": "Khâu bện siêu bền Krackow bằng chỉ FiberWire #2 qua hai đầu gân."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh độ căng gân gót & Nghiệm pháp Matles",
+      "detail": "With a straight needle on each end of the inserted suture, crisscross the needles within the body of the tendon and puncture the skin just distal to the site of tendon rupture; enlarge the sites of needle puncture with a scalpel (Fig. 48-21, Step 2), and pull the suture completely through the stab wounds; snug the suture within the proximal portion of the ruptured tendon.",
+      "action": "Kiểm tra độ gập lòng tự nhiên của bàn chân cân đối với chân lành đối diện."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng bao gân, khâu da & Nẹp bột gập lòng",
+      "detail": "With the lateral suture now threaded on a curved cutting needle, pass the suture back through the last stab wound to exit at about the midportion of the distal stump of the ruptured tendon on the lateral side (Fig. 48-21, Step 3). Enlarge the hole with a scalpel before pulling the suture through.",
+      "action": "Khâu phục hồi màng quanh gân (paratenon), khâu da không căng, nẹp bột ở tư thế gập lòng 15°."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột cẳng bàn chân tư thế gập lòng nhẹ (Equinus 15-20°) trong 2 tuần đầu. Chuyển sang boot tập đi có đệm nâng gót giảm dần độ cao từ tuần thứ 3. Cho phép tì đè chịu lực từng phần với boot. Bỏ boot sau 6-8 tuần.",
+  "pearls_pitfalls": "Tránh rạch da đường giữa gót để không gây dính sẹo vào gân và cọ sát mui giày; Đường khâu bện Krackow hoặc Bunnell phải siết chắc chắn để hai đầu gân áp sát nhau; Cân bằng độ dài gân đối chiếu với chân lành bằng nghiệm pháp Matles.",
+  "image_url": "web/static/images/techniques/48-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/48-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 48-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/48-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 48-12 (Campbell 13th Ed)"
+    }
+  ]
+}

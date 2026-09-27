@@ -1,1 +1,60 @@
-{"tech_id": "52-22", "name_en": "Rotator Cuff Repair", "name_vi": "Kỹ thuật Phẫu thuật 52-22: Rotator Cuff Repair", "chapter": 52, "category": "General", "pdf_page": 2911, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 52 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Rotator Cuff Repair bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "52-22",
+  "name_en": "Rotator Cuff Repair",
+  "name_vi": "Phẫu thuật Khớp Vai - Khuỷu (52-22): Rotator Cuff Repair",
+  "chapter": 52,
+  "category": "Nội soi Khớp Chi Trên (Vai, Khuỷu, Cổ tay)",
+  "pdf_page": 2911,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong tổn thương chấn thương thể thao hoặc bệnh lý khớp vai - khớp khuỷu (Rotator Cuff Repair), rách chóp xoay, mất vững sụn viền hoặc chèn ép khoang dưới mỏm cùng theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng vùng vai - cánh tay hoặc khớp khuỷu; tổn thương đám rối thần kinh cánh tay chưa hồi phục; thoái hóa khớp nặng không còn chỉ định bảo tồn.",
+  "patient_prep": "Bệnh nhân nằm tư thế ghế bãi biển (Beach-chair) gập háng 45-60° tựa đầu vững chắc hoặc nằm nghiêng 90° (Lateral decubitus). Chi trên để tự do trên bàn mổ có giá đỡ cánh tay. Hệ thống C-arm hoặc tháp nội soi khớp sẵn sàng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Dây thần kinh nách (Axillary nerve - bờ dưới bao khớp vai); Thần kinh cơ bì (Musculocutaneous nerve - xuyên qua cơ quạ cánh tay); Dây thần kinh trụ (ở rãnh ròng rọc khuỷu); Tĩnh mạch đầu (Cephalic vein); Bó mạch cánh tay.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Tư thế Beach-chair & Đường rạch da / Thiết lập cổng",
+      "detail": "Massive, contracted crescentic rotator cuff tear. A, Superior view. B, Double-interval slide is performed by first doing anterior interval slide, then posterior interval slide releasing interval between supraspinatus (SS) and infraspinatus (IS). C, After release, improved mobility (arrows) of supraspinatus tendon and infraspinatus and teres minor tendons posteriorly. D, Supraspinatus tendon repaired to lateral bone bed in tension-free manner, and infraspinatus and teres minor tendons advanced laterally. E, Residual defect closed with side-to-side sutures. CHL, coracohumeral ligament; Sub,...",
+      "action": "Phẫu tích bộc lộ cẩn trọng, bảo vệ dây thần kinh nách và tĩnh mạch đầu."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ khoang khớp & Bảo vệ thần kinh nách/trụ",
+      "detail": "Perform a complete bursectomy to ensure good visualization and ease of retrieving sutures, and perform subacromial decompression when indicated. Carefully define the depth of the tear and determine the type of tear (crescent, U-shaped, or L-shaped configuration) (see Figs. 52-38 to 52-42). Determine the amount of retraction and mobility of the tendon and make sure the tendon can be placed back into the footprint, or, if not, how it can be repaired to get the best fixation with minimal tension on the repair.",
+      "action": "Nhận diện rõ thương tổn rách chóp xoay, sụn viền hoặc dây chằng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật chính (Khâu gân / Cố định / Tạo hình)",
+      "detail": "Prepare the footprint by abrading the site without overly resecting bone. Abrasion can increase bleeding, and marrow elements are released when the suture anchors are placed, both of which aid in healing.",
+      "action": "Thực hiện khâu neo hoặc cố định vững chắc gân/xương."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra độ vững & Cố định phương tiện",
+      "detail": "Define the potential location of the anchors, separating the insertion points by 1.2 to 1.5 cm to prevent tuberosity fracture. Determine where double-loaded or triple-loaded anchors should be used to get an appropriate number of sutures through the tendon and prepare either for a single-row repair, a double-row repair, or a transosseous equivalent repair. Double-row repairs with suture anchors can cause crowding of the anchors; a transosseous equivalent repair in which the lateral row is placed below the tuberosity does not produce as much crowding.",
+      "action": "Kiểm tra biên độ vận động khớp vai/khuỷu không bị kẹt hay cọ sát."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Bơm rửa, Cầm máu & Bất động đai treo tay",
+      "detail": "For tears smaller than 1.5 cm, generally one doubleloaded or triple-loaded anchor is used. For tears larger than 1.5 cm, two anchors should be planned, separating the starting points by 1.2 to 1.5 cm. If a tear is 3 cm or larger, generally a transosseous equivalent repair is performed with the medial anchors starting 5 mm off the articular suture and the lateral row about 5 mm lateral to the tuberosity, thus separating the rows by 1.2 to 1.5 cm.",
+      "action": "Khâu phục hồi cân cơ, bất động chi trên bằng đai treo tay chuyên dụng."
+    }
+  ],
+  "postop_protocol": "Bất động bằng đai treo tay (Arm sling) hoặc nẹp cố định khớp vai/khuỷu ở tư thế chức năng. Tập vận động thụ động các ngón tay và cổ tay ngay ngày đầu. Tập con lắc Codman và phục hồi chức năng vai từ tuần 2-4.",
+  "pearls_pitfalls": "Nhận diện và bảo vệ tuyệt đối dây thần kinh nách ở bờ dưới ổ chảo vai; Với phẫu thuật khớp khuỷu, luôn giải phóng và bảo vệ dây thần kinh trụ.",
+  "image_url": "web/static/images/techniques/52-22.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/52-22.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 52-22 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/52-22_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 52-22 (Campbell 13th Ed)"
+    }
+  ]
+}

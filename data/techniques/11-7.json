@@ -1,1 +1,60 @@
-{"tech_id": "11-7", "name_en": "Technique Modifications", "name_vi": "Kỹ thuật Phẫu thuật 11-7: Technique Modifications", "chapter": 11, "category": "General", "pdf_page": 606, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 11 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Technique Modifications bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "11-7",
+  "name_en": "Technique Modifications",
+  "name_vi": "Phẫu thuật Cổ Chân (11-7): Technique Modifications",
+  "chapter": 11,
+  "category": "Thay & Hàn Khớp Cổ Chân",
+  "pdf_page": 606,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Chỉ định trong phẫu thuật cổ chân (Technique Modifications), thoái hóa hoặc biến dạng khớp cổ chân theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng cổ chân hoạt tính, bệnh thần kinh cơ Charcot tiến triển, suy tuần hoàn ngoại biên nặng.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi đùi hoặc cổ chân, đệm mông cùng bên, C-arm mini sẵn sàng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chày trước ở phía trước; Bó mạch thần kinh chày sau ở sau mắt cá trong; Thần kinh mác nông.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ khớp cổ chân",
+      "detail": "ANTERIOR APPROACH WITH PLATE FIXATION This approach is particularly appropriate for conversion of a failed total ankle arthroplasty to arthrodesis. Suggested advantages of plate fixation include less soft-tissue disruption by using a single anterior incision, ease of deformity correc­ tion, early rehabilitation, and a high rate of union. reported fusion in nine of 10 arthrodeses with anterior plate TECHNIQUE MODIFICATIONS With the body of the talus removed, two modifications of the technique may be required. Because the calcaneus rests more laterally in relation to the ankle joint than does...",
+      "action": "Bảo vệ thần kinh mác nông và bó mạch chày trước."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích theo lớp & Bộc lộ diện khớp",
+      "detail": "Placing the pin in the calcaneus anywhere but in the midline is difficult because of the contours of the plantar surface of the cal­ caneus. Consequently, moving the pin medially in the cal­ caneus and leaving it in its anatomic position is more difficult than placing the pin in the plantar midline surface of the calcaneus and translating the whole calcaneus slightly medially. This is done easily with both malleoli removed. In severe subluxations of the subtalar joint, the calcaneus is so far lateral that the nail will purchase only the lateral third of the talus.",
+      "action": "Bộc lộ rõ diện khớp chày sên và hai mắt cá."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật chính",
+      "detail": "In this situation, a compression device probably is a better choice of fixation. Tibiotalocalcaneal arthrodesis with intramedullary nail (see text). A, Placement of guidewire and reamer. C, Insertion of nail into calcaneus.",
+      "action": "Kiểm tra trục cổ chân thẳng hàng dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cố định nẹp vít / Đặt cấu kiện",
+      "detail": "D, Proper orientation obtained with guide pins through provisional fixation holes in drill guide. A B C D Continued fixation, with no postoperative wound problems or infec­ tions. described an anterior double-plating tech­ nique (see Fig. 11-21) for severe osteoarthritis, nonunion of ankle arthrodeses, and failed total ankle replacements; 27 (93%) of 29 patients were satisfied with their outcomes.",
+      "action": "Đảm bảo không có vít xuyên vào diện khớp tự do."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Cầm máu & Đóng vết mổ",
+      "detail": "More recently, Kestner et al., in a cadaver biomechanical study, showed that bending stiffness of a two-plate construct was 1.5 to 5 times greater than that of a single-plate construct and torsional stiffness was nearly double. They suggested that the stiffer two-plate system may improve clinical fusion rates, especially in patients with suboptimal bone quality. LATERAL APPROACH WITH FIBULAR SPARING This modification of the Mann lateral transfibular approach, in which the fibula is removed and used as bone graft, preserves the fibula. According to Smith et al., the intact fibula provides...",
+      "action": "Băng nẹp giữ cổ chân ở tư thế cơ năng 90°."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột cẳng bàn chân tư thế trung tính 90°. Kê cao chân chống phù nề. Tì đè theo phác đồ từng giai đoạn.",
+  "pearls_pitfalls": "Bảo vệ nguyên vẹn bó mạch chày trước và chày sau; Kiểm tra mộng chày mác khít khao trên C-arm.",
+  "image_url": "web/static/images/techniques/11-7.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/11-7.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 11-7 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/11-7_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 11-7 (Campbell 13th Ed)"
+    }
+  ]
+}

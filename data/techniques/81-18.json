@@ -1,1 +1,60 @@
-{"tech_id": "81-18", "name_en": "Arthrodesis of the First Metatarsocuneiform Articulation (Lapidus Procedure) (Myerson et al.; Sangeorzan and Hansen; Mauldin et al.)", "name_vi": "Kỹ thuật Phẫu thuật 81-18: Arthrodesis of the First Metatarsocuneiform Articulation (Lapidus Procedure) (Myerson et al.; Sangeorzan and Hansen; Mauldin et al.)", "chapter": 81, "category": "General", "pdf_page": 4415, "author": "Lapidus Procedure", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 81 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Arthrodesis of the First Metatarsocuneiform Articulation (Lapidus Procedure) (Myerson et al.; Sangeorzan and Hansen; Mauldin et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "81-18",
+  "name_en": "Arthrodesis of the First Metatarsocuneiform Articulation (Lapidus Procedure) (Myerson et al.; Sangeorzan and Hansen; Mauldin et al.)",
+  "name_vi": "Phẫu thuật Hàn Khớp Chêm - Bàn 1 Sửa Trục Ngón Cái Vẹo Ngoài (Lapidus Arthrodesis)",
+  "chapter": 81,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4415,
+  "author": "Lapidus Procedure",
+  "clinical_indications": "Biến dạng ngón cái vẹo ngoài (Hallux Valgus) nặng tái phát hoặc có mất vững khớp chêm bàn 1 (First TMT Hypermobility), góc IMA > 16-20°, bàn chân bẹt kèm theo (Pes Planus).",
+  "contraindications": "Thoái hóa nặng khớp bàn ngón 1 (cần hàn khớp bàn ngón 1); bệnh nhân không tuân thủ bất động không tì đè sau mổ; loãng xương quá nặng.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo hơi bắp chân hoặc đùi. C-arm mini sẵn sàng kiểm tra góc IMA và độ phẳng diện hàn khớp. Bộ nẹp khóa Lapidus giải phẫu và vít xốp rỗng.",
+  "surgical_approach": "Đường mổ lưng trong mu chân dài 5-6 cm trên khớp chêm bàn 1 kết hợp đường mổ kẽ ngón 1-2. Cấu trúc nguy cơ: Bó mạch mu chân (Dorsalis pedis artery - chạy ngay sát nền xương bàn 1-2); Thần kinh mác sâu.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Giải phóng mô mềm ngoài & Bộc lộ khớp chêm bàn 1",
+      "detail": "Giải phóng mô mềm ngoài kẽ ngón 1-2. Rạch da dọc mu trong bộc lộ khớp giữa xương chêm trong và nền xương bàn 1. Kéo gân chày trước ra trong bảo vệ.",
+      "action": "Bảo vệ cẩn trọng động mạch mu chân và thần kinh mác sâu ở bờ ngoài nền xương bàn 1."
+    },
+    {
+      "step": 2,
+      "title": "Cắt lọc sụn khớp chêm bàn 1 (Joint Preparation)",
+      "detail": "Dùng đục xương phẳng và curette cạo sạch toàn bộ sụn khớp của xương chêm trong và nền xương bàn 1 cho đến khi lộ xương dưới sụn chảy máu điểm. Cắt lát mỏng hình chêm để sửa góc IMA và hạ thấp chỏm xương bàn 1.",
+      "action": "Cắt xương chêm định hướng vừa sửa góc khép IMA vừa hạ thấp xương bàn 1 chống metatarsalgia."
+    },
+    {
+      "step": 3,
+      "title": "Nắn chỉnh ép sát khớp & Bắt kim dẫn đường",
+      "detail": "Ép xương bàn 1 sát vào xương bàn 2 để phục hồi góc IMA < 8°. Cắm 2 kim K-wire cố định tạm thời dưới kiểm tra C-arm.",
+      "action": "Ép khít diện hàn khớp, kiểm tra trục thẳng hàng của xương bàn 1 trên phim C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Bắt vít nén ép & Đặt nẹp khóa Lapidus",
+      "detail": "Bắt 1 vít nén ép liên mảnh qua diện khớp chêm bàn 1. Đặt nẹp khóa giải phẫu Lapidus mặt lưng trong hoặc mặt trong, bắt các vít khóa cố định vững chắc.",
+      "action": "Tạo lực nén ép tối đa qua diện hàn khớp bằng vít lag screw trước khi bắt nẹp khóa."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra C-arm, ghép xương & Đóng vết mổ",
+      "detail": "Soi C-arm xác nhận diện hàn khớp phẳng khít 100%. Nhồi xương xốp vào khe hở nếu cần. Bơm rửa sạch và đóng vết mổ theo lớp.",
+      "action": "Khâu vết mổ cẩn thận, đặt nẹp bột cẳng bàn chân tư thế trung tính."
+    }
+  ],
+  "postop_protocol": "Bất động bột cẳng bàn chân KHÔNG tì đè trong 6 tuần đầu. Chụp X-quang kiểm tra liền xương ở tuần thứ 6. Tì đè một phần với boot chỉnh hình từ tuần 6-8. Tì đè hoàn toàn sau tuần 10-12 khi có can xương bắc cầu đặc.",
+  "pearls_pitfalls": "Khớp giả (nonunion) là biến chứng đáng sợ nhất: phải cạo sạch sụn khớp đến lớp xương chảy máu điểm và cố định nẹp vít tuyệt đối vững chắc; Phải hạ thấp đầu xương bàn 1 để tránh đau tì đè chỏm xương bàn 2 thứ phát.",
+  "image_url": "web/static/images/techniques/81-18.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/81-18.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-18 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-18_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-18 (Campbell 13th Ed)"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"tech_id": "53-1", "name_en": "Percutaneous Drainage of a Morel-Lavallée Lesion (Tseng and Tornetta)", "name_vi": "Kỹ thuật Phẫu thuật 53-1: Percutaneous Drainage of a Morel-Lavallée Lesion (Tseng and Tornetta)", "chapter": 53, "category": "General", "pdf_page": 2970, "author": "Tseng and Tornetta", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 53 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Percutaneous Drainage of a Morel-Lavallée Lesion (Tseng and Tornetta) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "53-1",
+  "name_en": "Percutaneous Drainage of a Morel-Lavallée Lesion (Tseng and Tornetta)",
+  "name_vi": "Phẫu thuật Dẫn lưu & Hút Rửa Tổn thương Bóc tách Morel-Lavallée qua da (Tseng and Tornetta)",
+  "chapter": 53,
+  "category": "Chi Dưới & Chấn Thương",
+  "pdf_page": 2970,
+  "author": "Tseng and Tornetta",
+  "clinical_indications": "Tổn thương rách lóc ngầm dưới da kín (Closed Degloving / Morel-Lavallée lesion) vùng mấu chuyển lớn, đùi, mông hoặc thắt lưng chậu sau chấn thương năng lượng cao; tụ dịch thanh dịch mỡ và máu hoại tử không tự tiêu; vạt da bồng bềnh tách rời khỏi lớp mạc sâu (fascia lata).",
+  "contraindications": "Hoại tử da toàn bộ lớp biểu bì thủng rách ra ngoài (cần cắt lọc mở rộng rãi); nhiễm trùng mủ hoại tử mô mềm nặng chưa khu trú; đụng dập hoại tử cơ bên dưới mạc sâu.",
+  "patient_prep": "Bệnh nhân nằm nghiêng hoặc nằm ngửa, gây mê toàn thân hoặc tê tủy sống. Chuẩn bị máy hút áp lực âm, canun hút mỡ đầu tù (liposuction cannula) lỗ to 4-5 mm, hệ thống bơm rửa NaCl 0.9% thể tích lớn (3-6 lít), băng chun ép đàn hồi nhiều lớp hoặc băng dán áp lực.",
+  "surgical_approach": "2-3 vết mổ nhỏ 1.5 - 2 cm: Một vết ở vị trí thấp nhất (phụ thuộc trọng lực) và các vết rạch đối diện ở cực cao của ổ bóc tách. Cấu trúc nguy cơ: Nhánh thần kinh bì đùi ngoài (Lateral femoral cutaneous nerve); Mạng mạch máu nuôi dưới da của vạt lóc (tránh làm tổn thương thêm nguồn cấp máu mỏng manh còn lại).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Rạch da tối thiểu tại cực thấp và cực cao của ổ tổn thương",
+      "detail": "Xác định ranh giới khoang bóc tách bằng sờ nắn và siêu âm. Rạch một vết mổ 1.5-2 cm ở cực thấp nhất của khoang (để dẫn lưu trọng lực) và một vết mổ 1.5 cm ở cực cao đối diện.",
+      "action": "Rạch các vết mổ nhỏ 1.5-2 cm định vị chính xác ở cực thấp và cực cao của ổ tổn thương lóc ngầm."
+    },
+    {
+      "step": 2,
+      "title": "Luồn canun đầu tù hút sạch máu tụ, dịch mỡ và mô hoại tử",
+      "detail": "Đưa canun hút đầu tù (blunt liposuction cannula) qua vết mổ vào khoang Morel-Lavallée. Nối máy hút áp lực âm hút triệt để toàn bộ khối máu tụ lỏng, dịch huyết thanh và các cục mỡ hoại tử tự do.",
+      "action": "Dùng canun đầu tù hút sạch toàn bộ máu tụ, mỡ thoái hóa và dịch thanh dịch trong khoang rỗng."
+    },
+    {
+      "step": 3,
+      "title": "Dùng chổi nạo nhẹ nhàng làm sạch bề mặt mạc sâu (Fascia Lata)",
+      "detail": "Đưa chổi chà biểu mô hoặc muỗng nạo đầu tù nhẹ nhàng cạo sạch lớp màng giả xơ hóa (fibrous pseudocapsule) phủ trên bề mặt cân mạc sâu (fascia lata) và mặt dưới vạt da nhằm kích thích mô hạt mới phát triển bám dính.",
+      "action": "Nạo sạch lớp màng giả xơ hóa phủ trên mạc đùi để tạo bề mặt mô hạt rỉ máu bám dính lành thương."
+    },
+    {
+      "step": 4,
+      "title": "Bơm rửa lượng lớn dịch và đặt ống dẫn lưu áp lực âm",
+      "detail": "Bơm rửa khoang bóc tách bằng 3-6 lít dung dịch muối sinh lý NaCl 0.9% áp lực thấp cho đến khi nước chảy ra hoàn toàn trong. Luồn 1-2 ống dẫn lưu kín nhiều lỗ (16-19 Fr) qua khoang bóc tách, đưa ra ngoài qua vết chọc da riêng biệt và nối vào bình hút áp lực âm liên tục.",
+      "action": "Bơm rửa sạch với lượng lớn dịch muối sinh lý, đặt ống dẫn lưu kín nhiều lỗ hút áp lực âm liên tục."
+    },
+    {
+      "step": 5,
+      "title": "Băng chun ép định hình loại bỏ hoàn toàn khoang chết",
+      "detail": "Khâu đóng các vết rạch da nhỏ bằng chỉ nylon 3-0. Đặt gạc vô khuẩn và quấn băng chun ép đàn hồi nhiều lớp (hoặc mặc quần nén áp lực chuyên dụng) ép chặt toàn bộ vạt da dính sát vào mặt mạc sâu để triệt tiêu khoang chết.",
+      "action": "Băng chun ép đàn hồi nhiều lớp ép chặt vạt da dính chặt vào mạc cơ đùi triệt tiêu khoang rỗng."
+    }
+  ],
+  "postop_protocol": "Duy trì hút dẫn lưu áp lực âm liên tục cho đến khi lượng dịch ra < 30 ml/24 giờ trong 2 ngày liên tiếp (thường từ 5-7 ngày). Băng ép định hình hoặc mặc quần áp lực liên tục 24/24 giờ trong 4-6 tuần để chống tái tích tụ dịch. Bệnh nhân có thể vận động đi lại nhẹ nhàng sau khi rút dẫn lưu.",
+  "pearls_pitfalls": "Tổn thương Morel-Lavallée thường bị chẩn đoán sót thì đầu; Phải nạo sạch lớp màng giả xơ hóa (pseudocapsule) thì vạt da mới có thể dính lại vào mạc sâu; Băng ép đàn hồi chặt chẽ bên ngoài là yếu tố quyết định thành bại để triệt tiêu khoang chết.",
+  "image_url": "web/static/images/techniques/53-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/53-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-1 (Campbell 13th Ed)"
+    }
+  ]
+}

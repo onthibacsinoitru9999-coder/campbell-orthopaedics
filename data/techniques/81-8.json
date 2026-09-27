@@ -1,1 +1,60 @@
-{"tech_id": "81-8", "name_en": "Percutaneous Distal Metatarsal Osteotomy (Magnan et al.)", "name_vi": "Kỹ thuật Phẫu thuật 81-8: Percutaneous Distal Metatarsal Osteotomy (Magnan et al.)", "chapter": 81, "category": "General", "pdf_page": 4391, "author": "Magnan et al.", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 81 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Percutaneous Distal Metatarsal Osteotomy (Magnan et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "81-8",
+  "name_en": "Percutaneous Distal Metatarsal Osteotomy (Magnan et al.)",
+  "name_vi": "Phẫu thuật Cắt xương Hình chữ Z Thân Xương bàn 1 (Scarf Osteotomy)",
+  "chapter": 81,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4391,
+  "author": "Magnan et al.",
+  "clinical_indications": "Biến dạng ngón cái vẹo ngoài (Hallux Valgus) mức độ trung bình đến nặng, góc IMA 12-18°, góc HVA 30-45°, có thể kèm tăng góc mặt khớp đầu xa DMAA.",
+  "contraindications": "Loãng xương quá nặng làm thân xương giòn gãy; thoái hóa khớp bàn ngón 1 nặng; khớp chêm bàn 1 mất vững nặng (cần Lapidus).",
+  "patient_prep": "Bệnh nhân nằm ngửa, đặt garo cổ chân 200-250 mmHg, C-arm mini sẵn sàng. Bộ vít vi phẫu Herbert/Barouk 2.5 mm / 3.0 mm.",
+  "surgical_approach": "Đường mổ dọc bờ trong từ khớp chêm bàn 1 đến đốt gần ngón cái dài 8-10 cm kết hợp đường mổ nhỏ kẽ ngón 1-2 để giải phóng mô mềm ngoài. Cấu trúc nguy cơ: Nhánh thần kinh bì mu trong; Thần kinh gan ngón trong; Bó mạch nuôi chỏm bàn 1.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Giải phóng mô mềm ngoài & Bộc lộ thân xương bàn 1",
+      "detail": "Giải phóng gân cơ khép ngón cái và bao khớp ngoài qua đường kẽ ngón 1-2. Rạch da bờ trong bộc lộ toàn bộ chiều dài thân xương bàn 1 từ chỏm đến đáy xương.",
+      "action": "Giải phóng mô mềm ngoài giúp ngón cái trở về trục thẳng tự nhiên mà không bị kéo căng."
+    },
+    {
+      "step": 2,
+      "title": "Thiết kế & Cắt xương đường nằm ngang trục Z (Longitudinal Cut)",
+      "detail": "Đánh dấu đường cắt xương hình chữ Z dọc thân xương. Cắt đường cắt ngang dọc thân xương hơi chếch từ mu trong sang gan ngoài dài 3-4 cm.",
+      "action": "Đường cắt dọc thân xương hơi chếch xuống lòng bàn chân để tránh làm nâng chỏm xương bàn 1."
+    },
+    {
+      "step": 3,
+      "title": "Cắt hai nhánh ngang đầu gần và đầu xa (Transverse Cuts)",
+      "detail": "Cắt nhánh ngang đầu xa hướng lên mu bàn chân ở góc 45° ngay sau diện khớp. Cắt nhánh ngang đầu gần hướng xuống gan bàn chân ở góc 45° sát nền xương bàn.",
+      "action": "Hai đường cắt ngang 45° song song nhau tạo hình chữ Z kinh điển vững chắc tuyệt đối."
+    },
+    {
+      "step": 4,
+      "title": "Trượt mảnh gan bàn chân ra ngoài & Bắt 2 vít vi phẫu",
+      "detail": "Dùng kẹp trượt mảnh dưới (mang chỏm xương bàn) sang ngoài 4-7 mm tùy độ nặng của IMA. Có thể xoay nhẹ chỏm để sửa góc DMAA. Bắt 2 vít vi phẫu Barouk/Herbert từ trên xuống dưới cố định vững chắc.",
+      "action": "Trượt mảnh mang chỏm ra ngoài phục hồi góc IMA < 8°; bắt 2 vít vi phẫu ép chặt 2 mảnh xương."
+    },
+    {
+      "step": 5,
+      "title": "Gọt phẳng xương thừa & Đóng vết mổ",
+      "detail": "Gọt bỏ phần xương thừa nhô ra ở bờ trong thân xương. Khâu thu hẹp bao khớp trong. Khâu da mũi rời.",
+      "action": "Bề mặt tiếp xúc xương rộng của đường cắt Scarf cho phép xương liền cực nhanh và chịu lực sớm."
+    }
+  ],
+  "postop_protocol": "Đi giày Darco đế cứng tì đè gót chân ngay từ ngày thứ nhất. Băng nẹp giữ thẳng ngón cái trong 6 tuần. Chuyển sang giày bình thường sau 6 tuần khi X-quang xác nhận liền xương tốt.",
+  "pearls_pitfalls": "Đường cắt Scarf có độ vững cơ sinh học rất cao; Cần tránh biến chứng sập xương hình máng (troughing) bằng cách không cắt quá mỏng vỏ xương mu hoặc gan chân.",
+  "image_url": "web/static/images/techniques/81-8.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/81-8.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 81-8 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/81-8_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 81-8 (Campbell 13th Ed)"
+    }
+  ]
+}

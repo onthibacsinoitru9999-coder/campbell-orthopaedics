@@ -1,1 +1,60 @@
-{"tech_id": "54-14", "name_en": "Open Reduction and Fixation of a Lateral Tibial Plateau Fracture", "name_vi": "Phẫu thuật Kết hợp xương Gãy Mâm chày Ngoài (Nắn chỉnh mở & Nẹp nâng đỡ)", "chapter": 54, "category": "Knee & Lower Leg", "pdf_page": 3078, "author": "Campbell Clinic Trauma Service", "clinical_indications": "Gãy mâm chày ngoài di lệch (Schatzker I, II, III) có bậc thang diện khớp > 2mm, mất vững khớp gối > 5° khi duỗi hoàn toàn, gãy hở hoặc gãy kèm chèn ép khoang cấp.", "contraindications": "Phần mềm quanh gối đụng dập bầm dập nặng, nổi nốt phỏng nước (blisters) chưa lành; nhiễm trùng da vùng mổ; bệnh nhân sốc đa chấn thương chưa ổn định (chỉ đặt khung cố định ngoài tạm thời).", "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ thấu xạ. Đặt gối độn dưới mông cùng bên và một gối nhỏ dưới khoeo để gối gập nhẹ 20-30°. Đặt garo hơi gốc đùi (áp lực 250-300 mmHg). Máy tăng sáng C-arm đặt ở phía đối diện, vào vuông góc với khớp gối.", "surgical_approach": "Đường mổ trước ngoài (Anterolateral Approach). Rạch da hình chữ S hoặc hơi cong bắt đầu từ 3-5 cm trên diện khớp, đi qua bờ ngoài gân bánh chè, qua củ Gerdy và kéo dài xuống dưới cách ổ gãy 4-5 cm. Cắt mạc sâu, tách cơ chày trước ra khỏi vỏ ngoài xương chày. Bảo vệ dây thần kinh mác chung ở cổ xương mác.", "surgical_steps": [{"step": 1, "title": "Bộc lộ diện khớp & Đánh giá sụn chêm ngoài", "detail": "Rạch ngang bao khớp ngay dưới sụn chêm ngoài (submeniscal arthrotomy). Dùng chỉ nâng đỡ sụn chêm lên trên để quan sát trực tiếp toàn bộ diện khớp mâm chày ngoài. Bơm rửa sạch máu đọng và các mảnh xương vụn nhỏ."}, {"step": 2, "title": "Nắn chỉnh phục hồi diện khớp (Reduction)", "detail": "Với gãy lún (Schatzker II, III), tạo một cửa sổ xương dưới sụn ở vỏ xương chày trước ngoài. Dùng cây đục đầu tù hoặc cây nâng chuyên dụng nhẹ nhàng đội khối sụn lún lên ngang bằng diện khớp lành. Kiểm tra liên tục bằng mắt thường qua diện khớp và dưới màn tăng sáng C-arm."}, {"step": 3, "title": "Ghép xương khoang khuyết hổng (Bone Grafting)", "detail": "Sau khi đội diện khớp lên, nhồi chặt chất thay thế xương (calcium phosphate cement) hoặc xương xốp tự thân (lấy từ mào chậu) vào khoang rỗng dưới diện sụn để làm giá đỡ chống sập lún thứ phát."}, {"step": 4, "title": "Cố định nẹp nâng đỡ ngoài (Lateral Buttress Plating)", "detail": "Bắt 2-3 vít xốp rỗng 6.5mm/7.0mm có đệm (washers) dưới diện khớp để kéo ép mảnh tách rời. Đặt nẹp nâng đỡ mặt ngoài (nẹp L hoặc nẹp khóa mâm chày ngoài LCP), bắt các vít khóa cố định vững chắc vào hành xương và thân xương chày."}, {"step": 5, "title": "Kiểm tra độ vững & Khâu phục hồi sụn chêm/bao khớp", "detail": "Kiểm tra vận động gập duỗi gối dưới C-arm (0-120°). Khâu đính lại sụn chêm vào bao khớp bằng chỉ tiêu chậm PDS 2-0. Đặt dẫn lưu kín và đóng vết mổ theo từng lớp giải phẫu."}], "postop_protocol": "Nẹp gối có khóa trong 7 ngày đầu. Bắt đầu tập vận động gập duỗi thụ động có trợ giúp (CPM) từ ngày thứ 3. KHÔNG tì đè (Non-weight bearing) trong 6-8 tuần đầu. Tì đè một phần từ tuần 8-12. Tì đè hoàn toàn khi có bằng chứng liền xương trên X-quang.", "pearls_pitfalls": "Cạm bẫy sập lún thứ phát do ghép xương xốp không đủ chặt; Tránh bóc tách mô mềm quá mức ra phía sau ngoài để bảo vệ dây thần kinh mác chung; Đảm bảo vít nâng đỡ nằm ngay sát dưới mặt sụn (< 5mm) để tạo bệ đỡ dạng giàn giáo (rafting construct).", "image_url": "web/static/images/techniques/54-14.webp"}
+{
+  "tech_id": "54-14",
+  "name_en": "Open Reduction and Fixation of a Lateral Tibial Plateau Fracture",
+  "name_vi": "Phẫu thuật Kết hợp xương Gãy Mâm chày Ngoài (Nắn chỉnh mở & Nẹp nâng đỡ)",
+  "chapter": 54,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3078,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Gãy mâm chày ngoài di lệch (Schatzker I, II, III) có bậc thang diện khớp > 2mm, mất vững khớp gối > 5° khi duỗi hoàn toàn, gãy hở hoặc gãy kèm chèn ép khoang cấp.",
+  "contraindications": "Phần mềm quanh gối đụng dập bầm dập nặng, nổi nốt phỏng nước (blisters) chưa lành; nhiễm trùng da vùng mổ; bệnh nhân sốc đa chấn thương chưa ổn định (chỉ đặt khung cố định ngoài tạm thời).",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ thấu xạ. Đặt gối độn dưới mông cùng bên và một gối nhỏ dưới khoeo để gối gập nhẹ 20-30°. Đặt garo hơi gốc đùi (áp lực 250-300 mmHg). Máy tăng sáng C-arm đặt ở phía đối diện, vào vuông góc với khớp gối.",
+  "surgical_approach": "Đường mổ trước ngoài (Anterolateral Approach). Rạch da hình chữ S hoặc hơi cong bắt đầu từ 3-5 cm trên diện khớp, đi qua bờ ngoài gân bánh chè, qua củ Gerdy và kéo dài xuống dưới cách ổ gãy 4-5 cm. Cắt mạc sâu, tách cơ chày trước ra khỏi vỏ ngoài xương chày. Bảo vệ dây thần kinh mác chung ở cổ xương mác.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Bộc lộ diện khớp & Đánh giá sụn chêm ngoài",
+      "detail": "Rạch ngang bao khớp ngay dưới sụn chêm ngoài (submeniscal arthrotomy). Dùng chỉ nâng đỡ sụn chêm lên trên để quan sát trực tiếp toàn bộ diện khớp mâm chày ngoài. Bơm rửa sạch máu đọng và các mảnh xương vụn nhỏ.",
+      "action": "Tôn trọng mép sụn chêm; rạch dưới sụn chêm giúp bộc lộ trọn vẹn diện lún mâm chày ngoài."
+    },
+    {
+      "step": 2,
+      "title": "Nắn chỉnh phục hồi diện khớp (Reduction)",
+      "detail": "Với gãy lún (Schatzker II, III), tạo một cửa sổ xương dưới sụn ở vỏ xương chày trước ngoài. Dùng cây đục đầu tù hoặc cây nâng chuyên dụng nhẹ nhàng đội khối sụn lún lên ngang bằng diện khớp lành. Kiểm tra liên tục bằng mắt thường qua diện khớp và dưới màn tăng sáng C-arm.",
+      "action": "Đội phẳng diện khớp giải phẫu (bậc thang < 1 mm); dùng K-wire tạm thời giữ khối sụn đã nâng."
+    },
+    {
+      "step": 3,
+      "title": "Ghép xương khoang khuyết hổng (Bone Grafting)",
+      "detail": "Sau khi đội diện khớp lên, nhồi chặt chất thay thế xương (calcium phosphate cement) hoặc xương xốp tự thân (lấy từ mào chậu) vào khoang rỗng dưới diện sụn để làm giá đỡ chống sập lún thứ phát.",
+      "action": "Nhồi xương chặt tay để làm bệ nâng đỡ vững chắc chống lún sụn khớp thứ phát khi chịu lực."
+    },
+    {
+      "step": 4,
+      "title": "Cố định nẹp nâng đỡ ngoài (Lateral Buttress Plating)",
+      "detail": "Bắt 2-3 vít xốp rỗng 6.5mm/7.0mm có đệm (washers) dưới diện khớp để kéo ép mảnh tách rời. Đặt nẹp nâng đỡ mặt ngoài (nẹp L hoặc nẹp khóa mâm chày ngoài LCP), bắt các vít khóa cố định vững chắc vào hành xương và thân xương chày.",
+      "action": "Bắt hàng vít bè subchondral (rafting screws) sát dưới mặt sụn (< 5mm) để chống sập lún."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra độ vững & Khâu phục hồi sụn chêm/bao khớp",
+      "detail": "Kiểm tra vận động gập duỗi gối dưới C-arm (0-120°). Khâu đính lại sụn chêm vào bao khớp bằng chỉ tiêu chậm PDS 2-0. Đặt dẫn lưu kín và đóng vết mổ theo từng lớp giải phẫu.",
+      "action": "Khâu bao khớp kín khao, khâu da không căng để tránh nguy cơ lộ nẹp và hoại tử mép da."
+    }
+  ],
+  "postop_protocol": "Nẹp gối có khóa trong 7 ngày đầu. Bắt đầu tập vận động gập duỗi thụ động có trợ giúp (CPM) từ ngày thứ 3. KHÔNG tì đè (Non-weight bearing) trong 6-8 tuần đầu. Tì đè một phần từ tuần 8-12. Tì đè hoàn toàn khi có bằng chứng liền xương trên X-quang.",
+  "pearls_pitfalls": "Cạm bẫy sập lún thứ phát do ghép xương xốp không đủ chặt; Tránh bóc tách mô mềm quá mức ra phía sau ngoài để bảo vệ dây thần kinh mác chung; Đảm bảo vít nâng đỡ nằm ngay sát dưới mặt sụn (< 5mm) để tạo bệ đỡ dạng giàn giáo (rafting construct).",
+  "image_url": "web/static/images/techniques/54-14.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/54-14.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 54-14 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/54-14_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 54-14 (Campbell 13th Ed)"
+    }
+  ]
+}

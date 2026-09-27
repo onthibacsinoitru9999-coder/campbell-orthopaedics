@@ -1,1 +1,60 @@
-{"tech_id": "56-3", "name_en": "Anterior Approach for Total Hip Arthroplasty for Fractures Involving Primarily the Anterior Wall and Column (Beaulé et al.)", "name_vi": "Kỹ thuật Phẫu thuật 56-3: Anterior Approach for Total Hip Arthroplasty for Fractures Involving Primarily the Anterior Wall and Column (Beaulé et al.)", "chapter": 56, "category": "General", "pdf_page": 3224, "author": "Beaulé et al.", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 56 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Anterior Approach for Total Hip Arthroplasty for Fractures Involving Primarily the Anterior Wall and Column (Beaulé et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "56-3",
+  "name_en": "Anterior Approach for Total Hip Arthroplasty for Fractures Involving Primarily the Anterior Wall and Column (Beaulé et al.)",
+  "name_vi": "Phẫu thuật Kết hợp Xương (56-3): Anterior Approach for Total Hip Arthroplasty for Fractures Involving Primarily the Anterior Wall and Column (Beaulé et al.)",
+  "chapter": 56,
+  "category": "Chấn thương Gãy Xương Chi Dưới & Khung Chậu",
+  "pdf_page": 3224,
+  "author": "Beaulé et al.",
+  "clinical_indications": "Chỉ định trong phẫu thuật kết hợp xương gãy xương chi dưới (Anterior Approach for Total Hip Arthroplasty for Fractures Involving Primarily the Anterior Wall and Column (Beaulé et al.)), gãy di lệch mất vững theo phân loại AO/OTA và Campbell 13th Ed.",
+  "contraindications": "Tổn thương mô mềm độ nặng Tscherne C3 hoặc Gustilo IIIC chưa kiểm soát mạch máu; Hội chứng chèn ép khoang cấp chưa giải áp; Sốc đa chấn thương chưa ổn định.",
+  "patient_prep": "Bệnh nhân nằm ngửa hoặc nằm nghiêng trên bàn thấu quang/bàn kéo chỉnh hình, C-arm sẵn sàng kiểm tra 2 bình diện.",
+  "surgical_approach": "Cấu trúc nguy cơ: Bó mạch thần kinh chính của chi (thần kinh ngồi, mác chung, chày, bó mạch đùi/khoeo/chày trước).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ phẫu trường & Bảo tồn mô mềm",
+      "detail": "Carefully release the abdominal muscles from the iliac crest with electrocautery and strip them from the inner pelvic wall with a periosteal elevator.",
+      "action": "Rạch da theo mốc chuẩn, hạn chế bóc tách màng xương bảo tồn mạch máu nuôi."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ ổ gãy & Làm sạch diện gãy",
+      "detail": "Release the sartorius and direct head of the rectus with electrocautery.",
+      "action": "Bộc lộ rõ diện gãy, lấy sạch máu tụ và mô mềm chèn kẹt."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Nắn chỉnh phục hồi giải phẫu (Reduction)",
+      "detail": "Place a laparotomy sponge in the inner pelvis and complete the exposure distally by incising the anterior margin of the tensor muscle fascia. This fascia consists of two layers, one of which contains the lateral femoral cutaneous nerve surrounded by a thin layer of fat. The posterior branch of this nerve is always sacrificed, which leaves an area of hypothesia.",
+      "action": "Dùng kẹp nắn xương nắn chỉnh phục hồi diện khớp và thẳng trục chi dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện kết hợp xương (Nẹp vít / Đinh nội tủy)",
+      "detail": "Separate the tensor muscle from the rectus femoris. It is important to incise the tensor muscle fascia where it is almost translucent, because going too far medially may lead to loss of the dissection plane.",
+      "action": "Bắt vít nén ép liên mảnh hoặc đặt nẹp khóa/đinh nội tủy đạt độ vững sinh cơ học cao."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra C-arm, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "Retract the tensor muscle laterally and identify the rectus femoris within the sagittal plane when cutting through its overlying fascial layer.",
+      "action": "Kiểm tra kỹ phim C-arm 2 bình diện, đặt dẫn lưu kín và khâu phục hồi theo lớp."
+    }
+  ],
+  "postop_protocol": "Nẹp đỡ chi, tập vận động chủ động có trợ giúp các khớp lân cận sớm từ ngày thứ 3. Tì đè theo độ vững của kết hợp xương.",
+  "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; Nắn chỉnh giải phẫu hoàn toàn diện khớp trước khi bắt vít nẹp cố định.",
+  "image_url": "web/static/images/techniques/56-3.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/56-3.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 56-3 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/56-3_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 56-3 (Campbell 13th Ed)"
+    }
+  ]
+}

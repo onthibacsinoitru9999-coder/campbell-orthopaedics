@@ -1,1 +1,60 @@
-{"tech_id": "86-2", "name_en": "Anterior Tarsal Tunnel Release (Mann)", "name_vi": "Kỹ thuật Phẫu thuật 86-2: Anterior Tarsal Tunnel Release (Mann)", "chapter": 86, "category": "General", "pdf_page": 4680, "author": "Mann", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 86 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Anterior Tarsal Tunnel Release (Mann) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "86-2",
+  "name_en": "Anterior Tarsal Tunnel Release (Mann)",
+  "name_vi": "Phẫu thuật Giải ép Ống Cổ Chân Trước (Anterior Tarsal Tunnel Decompression)",
+  "chapter": 86,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4680,
+  "author": "Mann",
+  "clinical_indications": "Hội chứng ống cổ chân trước (Anterior Tarsal Tunnel Syndrome) do chèn ép dây thần kinh mác sâu (Deep Peroneal Nerve) dưới mạc giữ gân duỗi dưới hoặc do gai xương thoái hóa khớp cổ chân / khớp sên thuyền; đau nhức mu chân, tê bì kẽ ngón 1-2, yếu cơ duỗi các ngón chân ngắn (EDB); dấu hiệu Tinel mu chân dương tính.",
+  "contraindications": "Viêm gân duỗi vô khuẩn đáp ứng với tiêm corticoid tại chỗ; nhiễm trùng da mu chân; đau mu chân do gãy mệt xương bàn chân.",
+  "patient_prep": "Bệnh nhân nằm ngửa, garo cổ chân hoặc bắp chân (200-250 mmHg), kính lúp vi phẫu phóng đại.",
+  "surgical_approach": "Đường rạch dọc mu chân dài 4-5 cm ngay trên khe khớp cổ chân và khớp sên thuyền, đi giữa gân cơ chày trước và gân duỗi ngón cái dài (EHL). Cấu trúc nguy cơ: Dây thần kinh mác sâu (Deep peroneal nerve); Động mạch mu chân (Dorsalis pedis artery); Gân cơ duỗi ngón cái dài.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Rạch da dọc mu chân & Bảo vệ các nhánh bì mác nông",
+      "detail": "Rạch da dọc 4-5 cm ở mặt trước cổ chân giữa gân chày trước và EHL. Phẫu tích cẩn thận lớp mỡ dưới da, bảo vệ các nhánh bì mu chân của thần kinh mác nông vắt qua vết mổ.",
+      "action": "Rạch da mu chân theo mốc giải phẫu, nhận diện bảo vệ các nhánh thần kinh bì mu chân nông."
+    },
+    {
+      "step": 2,
+      "title": "Cắt mở mạc giữ gân duỗi dưới (Inferior Extensor Retinaculum)",
+      "detail": "Bộc lộ dải chữ Y của mạc giữ gân duỗi dưới. Cắt mở hoàn toàn dải mạc này dọc theo đường đi của gân EHL và bó mạch thần kinh mu chân.",
+      "action": "Rạch mở rộng rãi mạc giữ gân duỗi dưới giải phóng mái của ống cổ chân trước."
+    },
+    {
+      "step": 3,
+      "title": "Phẫu tích bộc lộ dây thần kinh mác sâu & Động mạch mu chân",
+      "detail": "Nhận diện dây thần kinh mác sâu nằm ngay sát phía ngoài hoặc bắt chéo qua động mạch mu chân. Phẫu tích tách nhẹ nhàng dây thần kinh khỏi mô xơ viêm dính xung quanh.",
+      "action": "Dùng dụng cụ vi phẫu giải phóng chu vi thần kinh mác sâu khỏi động mạch mu chân và mô bao xơ."
+    },
+    {
+      "step": 4,
+      "title": "Gọt bỏ gai xương thoái hóa đè ép (Osteophytectomy)",
+      "detail": "Thăm khám mặt lưng các xương cổ chân bên dưới dây thần kinh (đặc biệt là chóp gai xương thoái hóa diện khớp chày sên hoặc khớp sên thuyền). Dùng đục nhỏ hoặc kìm gặm xương gọt nhẵn phẳng các gai xương đè ép đáy ống cổ chân.",
+      "action": "Gọt nhẵn toàn bộ gai xương thoái hóa ở diện khớp chày sên và sên thuyền bên dưới thần kinh."
+    },
+    {
+      "step": 5,
+      "title": "Cầm máu & Khâu phục hồi da",
+      "detail": "Kiểm tra dây thần kinh trượt hoàn toàn tự do không còn điểm tì cấn khi gập duỗi cổ chân. Tháo garo kiểm tra mạch đập động mạch mu chân, cầm máu tỉ mỉ và khâu da mũi rời.",
+      "action": "Kiểm tra tưới máu mu chân qua động mạch mu chân, khâu đóng da mũi rời không căng."
+    }
+  ],
+  "postop_protocol": "Băng gạc êm vô khuẩn. Đi giày đế cứng hoặc dép hở mũi. Bắt đầu vận động gập duỗi cổ ngón chân ngay sau mổ. Tì đè theo dung nạp.",
+  "pearls_pitfalls": "Thần kinh mác sâu nằm rất sát động mạch mu chân: luôn tìm động mạch trước để định vị thần kinh; Phải kiểm tra và loại bỏ triệt để gai xương thoái hóa ở khớp sên thuyền bên dưới để tránh tái phát chèn ép.",
+  "image_url": "web/static/images/techniques/86-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/86-2.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 86-2 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/86-2_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 86-2 (Campbell 13th Ed)"
+    }
+  ]
+}

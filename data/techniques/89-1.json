@@ -1,1 +1,65 @@
-{"tech_id": "89-1", "name_en": "Repair of Acute Rupture of Ligaments of Distal Tibiofibular Joint", "name_vi": "Kỹ thuật Phẫu thuật 89-1: Repair of Acute Rupture of Ligaments of Distal Tibiofibular Joint", "chapter": 89, "category": "General", "pdf_page": 4831, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 89 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Repair of Acute Rupture of Ligaments of Distal Tibiofibular Joint bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "89-1",
+  "name_en": "Repair of Acute Rupture of Ligaments of Distal Tibiofibular Joint",
+  "name_vi": "Phẫu thuật Nắn chỉnh & Cố định Tổn thương Dây chằng Mộng Chày Mác Cấp tính (Syndesmosis)",
+  "chapter": 89,
+  "category": "Phẫu thuật Cổ Chân & Bàn Ngón Chân",
+  "pdf_page": 4831,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Đứt cấp tính dây chằng chày mác (Distal Tibiofibular Syndesmosis) kèm giãn rộng mộng chày mác > 2 mm trên phim X-quang hoặc nghiệm pháp Cotton/ngoại xoay dương tính; tổn thương kèm theo trong gãy mắt cá chân Weber C, Weber B mất vững hoặc tổn thương Maisonneuve.",
+  "contraindications": "Tổn thương chày mác mạn tính > 6 tháng (cần kỹ thuật tái tạo dây chằng hoặc hàn khớp chày mác dưới); nhiễm trùng mô mềm quanh mắt cá chân.",
+  "patient_prep": "Bệnh nhân nằm ngửa, đệm kê mông cùng bên để xoay trong cẳng chân. Đặt garo hơi đùi hoặc bắp chân. Máy tăng sáng C-arm đặt vuông góc để chụp tư thế mộng chày mác chuẩn (Mortise view - xoay trong 15°). Chuẩn bị kẹp nắn xương lớn (Weber clamp), vít chày mác 3.5/4.5 mm hoặc hệ thống chỉ néo nút treo (Suture button / TightRope).",
+  "surgical_approach": "Đường rạch da bờ trước ngoài mắt cá ngoài dài 5 cm song song bờ trước xương mác dưới. Cấu trúc nguy cơ: Dây thần kinh mác nông (nhánh bì mu chân); Thần kinh bắp chân (sural) ở phía sau; Nhánh động mạch mác xuyên.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường rạch da trước ngoài & Bộc lộ khớp chày mác dưới",
+      "detail": "Rạch da 5 cm dọc bờ trước xương mác dưới. Rạch mạc sâu, bộc lộ mặt trước khớp chày mác dưới. Lấy sạch mô xơ và mảnh sụn vụn kẹt trong rãnh mác của xương chày (incisura fibularis).",
+      "action": "Bộc lộ rõ khe chày mác dưới, bảo vệ nhánh bì mu chân của thần kinh mác nông."
+    },
+    {
+      "step": 2,
+      "title": "Nắn chỉnh mộng chày mác vào hốc xương chày (Incisura Fibularis)",
+      "detail": "Dùng kẹp nắn xương lớn (Weber reduction clamp) một đầu đặt ở bờ sau mắt cá ngoài, một đầu đặt ở vỏ trong xương chày. Bóp kẹp nhẹ nhàng nén ép xương mác lọt khít hoàn toàn vào rãnh khuyết mác (incisura) của xương chày, đồng thời nắn phục hồi độ dài và góc xoay của xương mác.",
+      "action": "Nắn chỉnh xương mác lọt khít vào rãnh incisura; tránh nén ép quá mức (overcompression) gây kẹt khớp sên chày."
+    },
+    {
+      "step": 3,
+      "title": "Kiểm tra màn tăng sáng C-arm tư thế Mortise",
+      "detail": "Kiểm tra kỹ phim C-arm ở tư thế xoay trong 15° (Mortise view): khe khớp sên chày trong (Medial clear space) < 4 mm, diện phủ chày mác (Tibiofibular overlap) > 1 mm (hoặc > 6 mm trên phim thẳng). Thực hiện nghiệm pháp Cotton kéo xương mác ra ngoài kiểm tra độ vững.",
+      "action": "Kiểm tra khe khớp mộng chày mác đối xứng tuyệt đối trên phim C-arm tư thế Mortise 15°."
+    },
+    {
+      "step": 4,
+      "title": "Khoan đường hầm & Đặt vít chày mác / Nút treo TightRope",
+      "detail": "Dưới màn tăng sáng C-arm, khoan đường hầm hướng chếch ra trước trong 25-30° (song song diện khớp chày sên, cách trần khớp chày plafond 2-3 cm). Bắt 1-2 vít chày mác 3.5 mm hoặc 4.5 mm qua 3 hoặc 4 lớp vỏ xương mà KHÔNG nén ép (position screw); hoặc luồn hệ thống dây chỉ néo linh hoạt (Suture-button TightRope).",
+      "action": "Khoan chếch 25-30° ra trước trong từ sau mác sang trước chày, bắt vít định vị không nén ép hoặc bấm nút TightRope."
+    },
+    {
+      "step": 5,
+      "title": "Kiểm tra biên độ gập duỗi cổ chân & Đóng phẫu trường",
+      "detail": "Thử vận động gập lưng cổ chân hoàn toàn để đảm bảo thân xương sên không bị kẹt trong mộng chày mác. Tháo garo kiểm tra tưới máu, bơm rửa sạch và khâu da mũi rời.",
+      "action": "Gập lưng cổ chân tối đa kiểm tra khớp trượt êm ái trước khi khâu đóng vết mổ."
+    }
+  ],
+  "postop_protocol": "Nẹp bột hoặc boot cẳng bàn chân tư thế trung tính trong 6 tuần đầu KHÔNG tì đè (Non-weight bearing). Sau 6 tuần bắt đầu tì đè một phần. Nếu dùng vít chày mác cứng 3-4 vỏ xương, xem xét tháo vít sau 10-12 tuần trước khi cho tì đè hoàn toàn và chạy nhảy (với TightRope không cần phẫu thuật tháo).",
+  "pearls_pitfalls": "Khoan vít chày mác phải luôn hướng chếch 25-30° từ sau ra trước theo góc giải phẫu của mộng chày mác; Tuyệt đối không bắt vít theo kiểu nén ép (lag screw) vì sẽ làm hẹp khớp chày mác và hạn chế gập lưng cổ chân; Bắt vít cao hơn diện khớp trần chày 2-3 cm.",
+  "image_url": "web/static/images/techniques/89-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/89-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 89-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 89-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/89-1_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 89-1 (Campbell 13th Ed)"
+    }
+  ]
+}

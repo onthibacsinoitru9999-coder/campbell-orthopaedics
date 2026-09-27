@@ -1,1 +1,60 @@
-{"tech_id": "6-4", "name_en": "Bernese Periacetabular Osteotomy (Matheney et al.)", "name_vi": "Kỹ thuật Phẫu thuật 6-4: Bernese Periacetabular Osteotomy (Matheney et al.)", "chapter": 6, "category": "General", "pdf_page": 396, "author": "Matheney et al.", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 6 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Bernese Periacetabular Osteotomy (Matheney et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "6-4",
+  "name_en": "Bernese Periacetabular Osteotomy (Matheney et al.)",
+  "name_vi": "Phẫu thuật Khớp Háng (6-4): Bernese Periacetabular Osteotomy (Matheney et al.)",
+  "chapter": 6,
+  "category": "Tái tạo & Thay Khớp Háng",
+  "pdf_page": 396,
+  "author": "Matheney et al.",
+  "clinical_indications": "Chỉ định trong bệnh lý thoái hóa hoặc tổn thương khớp háng (Bernese Periacetabular Osteotomy (Matheney et al.)), hoại tử vô mạch chỏm đùi, tổn thương ổ cối hoặc cần tái tạo bảo tồn khớp háng theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng khớp háng hoạt tính, suy kiệt toàn thân nặng, tổn thương thần kinh mạch máu không thể phục hồi.",
+  "patient_prep": "Bệnh nhân nằm nghiêng 90° hoặc nằm ngửa, đệm lót bảo vệ các điểm tì đè, sát khuẩn rộng từ bờ sườn đến bàn chân, chuẩn bị bộ dụng cụ phẫu thuật khớp háng chuyên dụng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Thần kinh ngồi (Sciatic nerve); Thần kinh đùi và bó mạch đùi; Nhánh xuyên động mạch mũ đùi ngoài; Vùng an toàn bắt vít ổ cối: góc sau trên.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ bao khớp háng",
+      "detail": "tabular segment is individualized for each patient. Care must be taken not to overantevert the acetabular segment because posterior impingement can be created. In combined type deformity, an osteochondroplasty of the femoral head-neck junction can be done through the Smith-Petersen approach used for the PAO. reported the use of PAO for impingement caused by acetabular retroversion in 29 hips, 24 of which had concurrent reshaping of the femoral head-neck junction. They strove for 30 degrees of internal rotation in 90 degrees of hip flexion. Seventy-one percent had good to excellent results...",
+      "action": "Bảo vệ thần kinh ngồi và nhánh mạch mũ đùi ngoài."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích theo lớp & Bộc lộ phẫu trường",
+      "detail": "Which patients are better treated with arthroscopic and open techniques will be better defined as longer follow-up studies with better levels of evidence become available. More rapid recovery following arthroscopy has been reported by multiple authors, while radiographic and clinical para­ meters of impingement are treated effectively. Although advanced techniques of arthroscopy are being developed, there do appear to be some general limitations to the arthroscopic technique and situations in which open tech­ niques may be preferable. A cam deformity extending into the posterior-superior...",
+      "action": "Phẫu tích cẩn trọng, cầm máu kỹ lưỡng các nhánh mạch nuôi."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật chính",
+      "detail": "Factors that increased clini­ cal suspicion of extraarticular FAI included a history of lateral or posterior pain, decreased external rotation, decreased internal rotation with no evidence of a cam lesion, absence of major pelvic or acetabular deformity, a positive posterior impingement sign, incomplete response to intraarticular injection of a local anesthetic or corticosteroid, and contin­ ued impingement-type symptoms after arthroscopic treat­ ment without a residual cam lesion. The types of extraarticular impingement were character­ ized as anterior, posterior, and complex (Fig. In the...",
+      "action": "Đảm bảo diện cắt và nắn chỉnh chuẩn xác theo trục cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện cố định / Phục hồi giải phẫu",
+      "detail": "The treatment of these disorders in skeletally immature patients is discussed in Chapter 30. Radiographically, dysplasia of the hip is characterized by an LCE angle of less than 20 degrees, with hips in the 20- to 25-degree range having borderline dysplasia. Typically, the Tönnis angle is increased above 10 degrees. Dysplastic hips also display a lateralized hip center with a broadened radio­ graphic teardrop. The femoral neck-shaft angle usually is increased, and the proximal femur is excessively anteverted. The femoral head may be small and have a flattened lateral contour. Many patients...",
+      "action": "Đặt implant hoặc phương tiện kết hợp xương vững chắc sinh học."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra vận động, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "found that for each degree of reduction in the lateral center edge angle below 28 degrees there was a 14% increase in the risk of developing secondary osteoarthritis, implying that our definition of dysplasia based on a lateral center edge angle of 20 degrees may be too restrictive. Typically, patients with hip dysplasia become symptom­ atic between their second and fifth decades of life. Initially, pain may occur only with high-stress activities or prolonged standing. Impingement or FADIR testing may become posi­ tive with injury to the labrum. Apprehension testing can be positive with...",
+      "action": "Khâu phục hồi bao khớp và cân cơ tỉ mỉ chống trật khớp."
+    }
+  ],
+  "postop_protocol": "Nằm ngửa kê gối dạng háng giữa 2 chân. Bắt đầu tập co cơ tĩnh cơ tứ đầu và tập vận động thụ động sớm từ ngày 1-2. Tì đè theo hướng dẫn của phẫu thuật viên.",
+  "pearls_pitfalls": "Bảo vệ nguyên vẹn thần kinh ngồi ở bờ sau bao khớp; Xác định chính xác góc nghiêng (40-45°) và góc ngửa trước (15-20°) của cup ổ cối để tránh trật khớp.",
+  "image_url": "web/static/images/techniques/6-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/6-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 6-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/6-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 6-4 (Campbell 13th Ed)"
+    }
+  ]
+}

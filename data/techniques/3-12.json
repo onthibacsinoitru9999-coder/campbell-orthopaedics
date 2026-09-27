@@ -1,1 +1,65 @@
-{"tech_id": "3-12", "name_en": "Extended Trochanteric Osteotomy (Younger et al.)", "name_vi": "Kỹ thuật Phẫu thuật 3-12: Extended Trochanteric Osteotomy (Younger et al.)", "chapter": 3, "category": "General", "pdf_page": 296, "author": "Younger et al.", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 3 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Extended Trochanteric Osteotomy (Younger et al.) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "3-12",
+  "name_en": "Extended Trochanteric Osteotomy (Younger et al.)",
+  "name_vi": "Phẫu thuật Khớp Háng (3-12): Extended Trochanteric Osteotomy (Younger et al.)",
+  "chapter": 3,
+  "category": "Tái tạo & Thay Khớp Háng",
+  "pdf_page": 296,
+  "author": "Younger et al.",
+  "clinical_indications": "Chỉ định trong bệnh lý thoái hóa hoặc tổn thương khớp háng (Extended Trochanteric Osteotomy (Younger et al.)), hoại tử vô mạch chỏm đùi, tổn thương ổ cối hoặc cần tái tạo bảo tồn khớp háng theo Campbell 13th Ed.",
+  "contraindications": "Nhiễm trùng khớp háng hoạt tính, suy kiệt toàn thân nặng, tổn thương thần kinh mạch máu không thể phục hồi.",
+  "patient_prep": "Bệnh nhân nằm nghiêng 90° hoặc nằm ngửa, đệm lót bảo vệ các điểm tì đè, sát khuẩn rộng từ bờ sườn đến bàn chân, chuẩn bị bộ dụng cụ phẫu thuật khớp háng chuyên dụng.",
+  "surgical_approach": "Cấu trúc nguy cơ: Thần kinh ngồi (Sciatic nerve); Thần kinh đùi và bó mạch đùi; Nhánh xuyên động mạch mũ đùi ngoài; Vùng an toàn bắt vít ổ cối: góc sau trên.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ bao khớp háng",
+      "detail": "larger portion of the cement-prosthesis interface or make a small window in the femoral cortex. Place the window just distal to the level exposed by proximal cement removal and not at the tip of the stem. Remove additional cement through the window until the stem can be extracted. stem fills the medullary canal. A loose-fitting, nonporous, cementless stem can be extracted without intervention at the bone-implant interface. A well-ingrown, fully porouscoated stem that fills the canal presents a significant problem for removal. Such a situation may arise when the stem is being removed because...",
+      "action": "Bảo vệ thần kinh ngồi và nhánh mạch mũ đùi ngoài."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích theo lớp & Bộc lộ phẫu trường",
+      "detail": "If the porous coating is limited to the proximal aspect of the stem, disrupt the areas of bone ingrowth using specialized thin, flexible osteotomes (Fig. 3-146). Standard osteotomes usually are too thick for this purpose and may split the femur if they are inserted adjacent to a stem that fills the canal. Insert the thin osteotomes immediately adjacent to the porous surface to avoid penetration of the femoral cortex. Direct them at various angles to gain access to all aspects of the porous surface.",
+      "action": "Phẫu tích cẩn trọng, cầm máu kỹ lưỡng các nhánh mạch nuôi."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật chính",
+      "detail": "Alternatively, disrupt the areas of ingrowth with a long, thin, high-speed burr inserted immediately adjacent to the stem. Carefully monitor the line and depth of insertion to avoid cortical penetration.",
+      "action": "Đảm bảo diện cắt và nắn chỉnh chuẩn xác theo trục cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đặt phương tiện cố định / Phục hồi giải phẫu",
+      "detail": "Extract the stem after disruption of the bone ingrowth. Areas of purely fibrous ingrowth sometimes can be CEMENTLESS FEMORAL COMPONENT REMOVAL",
+      "action": "Đặt implant hoặc phương tiện kết hợp xương vững chắc sinh học."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra vận động, Dẫn lưu kín & Đóng vết mổ",
+      "detail": "The extraction of cementless stems varies in complexity, depending on the extent of the porous coating, the amount of bone ingrowth, and the degree to which the",
+      "action": "Khâu phục hồi bao khớp và cân cơ tỉ mỉ chống trật khớp."
+    }
+  ],
+  "postop_protocol": "Nằm ngửa kê gối dạng háng giữa 2 chân. Bắt đầu tập co cơ tĩnh cơ tứ đầu và tập vận động thụ động sớm từ ngày 1-2. Tì đè theo hướng dẫn của phẫu thuật viên.",
+  "pearls_pitfalls": "Bảo vệ nguyên vẹn thần kinh ngồi ở bờ sau bao khớp; Xác định chính xác góc nghiêng (40-45°) và góc ngửa trước (15-20°) của cup ổ cối để tránh trật khớp.",
+  "image_url": "web/static/images/techniques/3-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/3-12.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 3-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-12_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 3-12 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/3-12_fig2.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chi tiết giải phẫu bổ sung 3-12 (Campbell 13th Ed)"
+    }
+  ]
+}

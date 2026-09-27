@@ -1,1 +1,60 @@
-{"tech_id": "53-4", "name_en": "Screw Fixation", "name_vi": "Kỹ thuật Phẫu thuật 53-4: Screw Fixation", "chapter": 53, "category": "General", "pdf_page": 2989, "author": "", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 53 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Screw Fixation bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "53-4",
+  "name_en": "Screw Fixation",
+  "name_vi": "Nguyên lý & Kỹ thuật Xử trí Gãy xương (53-4): Screw Fixation",
+  "chapter": 53,
+  "category": "Nguyên lý & Kỹ thuật Kết hợp Xương Đại cương",
+  "pdf_page": 2989,
+  "author": "Campbell Clinic Service",
+  "clinical_indications": "Áp dụng trong phẫu thuật chấn thương chỉnh hình (Screw Fixation), xử trí vết thương phần mềm, bóc tách Morel-Lavallée, kỹ thuật bắt vít nén ép liên mảnh và xuyên kim cố định theo Campbell 13th Ed.",
+  "contraindications": "Áp dụng sai nguyên lý cơ sinh học; đặt dụng cụ kết hợp xương vào ổ nhiễm trùng chưa kiểm soát.",
+  "patient_prep": "Chuẩn bị bệnh nhân theo từng phân vùng giải phẫu cụ thể, vô trùng tuyệt đối, máy C-arm hỗ trợ định vị.",
+  "surgical_approach": "Tôn trọng các khoang giải phẫu, bảo tồn màng xương và nguồn máu nuôi xương. Cấu trúc nguy cơ: Mạch máu và thần kinh chính tương ứng từng vùng chi.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Chuẩn bị phẫu trường & Đánh giá tổn thương",
+      "detail": "A B C Examples of cancellous and cortical screws for fracture fixation. (From Bechtold JE: Biomechanics of fracture fixation devices. In Gustilo RB, Kyle RF, Templeman DC, editors: Fractures and dislocations, St. Louis, 1993, Mosby.) fatigue is more of a concern, a screw with a wider root diam­ eter has a higher resistance to fatigue failure. Screws also usually are grouped into machine-type screws and ASIF screw designs. Other manufacturers now make screws and plates similar in design to those introduced by the ASIF group. The use of a screw to convert torque forces to compres­ sion forces...",
+      "action": "Đánh giá toàn diện mức độ đụng dập mô mềm và tổn thương xương."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Bộc lộ giải phẫu & Bảo tồn mô mềm",
+      "detail": "Plan the position of the screw so that it is inserted in the middle of the fragment, equidistant from the fracture edges and directed at a right angle to the fracture plane. If the screw is not inserted perpendicular to the fracture plane, shearing forces will be introduced as the torque forces of the screw create compression at the fracture line, resulting in displacement of the fracture reduction (Fig. 53-20).",
+      "action": "Bộc lộ theo đúng bình diện giải phẫu, hạn chế tối đa tước màng xương."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thực hiện thao tác kỹ thuật chuyên biệt",
+      "detail": "Drill the near cortex with a 4.5-mm drill.",
+      "action": "Thực hiện chuẩn xác thao tác kỹ thuật theo nguyên lý cơ học sinh học AO."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra độ vững & Hiệu quả sinh cơ học",
+      "detail": "Insert the drill reduction sleeve for the 3.2-mm drill and drill the far cortex with a 3.2-mm drill.",
+      "action": "Kiểm tra độ bám chắc cơ học và sự phục hồi giải phẫu dưới C-arm."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Bơm rửa, Dẫn lưu & Chăm sóc vết mổ",
+      "detail": "Countersink the 4.5-mm drill hole to allow maximal contact with the head of the screw to increase load dispersion on the cortex.",
+      "action": "Bơm rửa sạch áp lực thấp với lượng dịch lớn, dẫn lưu kín nếu cần thiết."
+    }
+  ],
+  "postop_protocol": "Chăm sóc vết thương, theo dõi dịch dẫn lưu và dấu hiệu nhiễm trùng. Tập vận động thụ động và chủ động sớm các khớp lân cận.",
+  "pearls_pitfalls": "Tuân thủ nghiêm ngặt nguyên lý AO: nắn chỉnh giải phẫu diện khớp, tôn trọng sinh học mô mềm và cố định vững chắc cơ học.",
+  "image_url": "web/static/images/techniques/53-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/53-4.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 53-4 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/53-4_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 53-4 (Campbell 13th Ed)"
+    }
+  ]
+}

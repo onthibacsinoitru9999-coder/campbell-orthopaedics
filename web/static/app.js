@@ -1665,6 +1665,10 @@ async function openTechniqueModal(techId) {
     modalTechMeta.textContent = '';
     
     if (tabContentExtractedText) tabContentExtractedText.style.display = 'block';
+    if (modalLinkedClassifBox) {
+      modalLinkedClassifBox.style.display = 'none';
+      modalLinkedClassifBox.innerHTML = '';
+    }
 
     modalExtractedText.innerHTML = '<div style="padding: 1.5rem; color: var(--text-muted);">Đang nạp toàn văn quy trình phẫu thuật từ Campbell 13th Ed...</div>';
 

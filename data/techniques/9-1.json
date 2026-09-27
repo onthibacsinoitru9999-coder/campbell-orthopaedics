@@ -1,1 +1,60 @@
-{"tech_id": "9-1", "name_en": "Proximal Release of Quadriceps (Sengupta)", "name_vi": "Kỹ thuật Phẫu thuật 9-1: Proximal Release of Quadriceps (Sengupta)", "chapter": 9, "category": "General", "pdf_page": 529, "author": "Sengupta", "clinical_indications": "Chỉ định trong phẫu thuật chấn thương và tái tạo thuộc Chương 9 (General) của sách Campbell's Operative Orthopaedics. Áp dụng cho các tổn thương mất vững, thất bại sau điều trị bảo tồn hoặc dị tật cần can thiệp ngoại khoa.", "contraindications": "Nhiễm trùng mô mềm tại chỗ vùng mổ, bệnh nhân có bệnh lý nội khoa nặng chưa kiểm soát, thể trạng chưa sẵn sàng cho cuộc mổ lớn.", "patient_prep": "Bệnh nhân được đặt tư thế phù hợp theo vùng giải phẫu General trên bàn mổ chỉnh hình/thấu xạ. Chuẩn bị máy tăng sáng C-arm, dụng cụ chuyên dụng và phương tiện cố định.", "surgical_approach": "Đường mổ chuẩn Campbell tiếp cận trực tiếp vùng giải phẫu General, tuân thủ các mốc giải phẫu an toàn, bóc tách theo từng lớp và bảo tồn tối đa mạng lưới mạch máu nuôi màng xương.", "surgical_steps": [{"step": 1, "title": "Bộc lộ phẫu trường theo lớp giải phẫu", "detail": "Rạch da và tổ chức dưới da, cắt mạc sâu dọc theo thớ cơ. Bóc tách nhẹ nhàng để bảo vệ các nhánh mạch máu và thần kinh đi kèm trong vùng General."}, {"step": 2, "title": "Nắn chỉnh phục hồi trục và diện giải phẫu", "detail": "Giải phóng ổ can hoặc ổ tổn thương, dùng dụng cụ chỉnh hình nắn chỉnh đưa các thành phần xương khớp về đúng vị trí tương quan giải phẫu ban đầu."}, {"step": 3, "title": "Cố định tạm thời & Kiểm tra chẩn đoán hình ảnh", "detail": "Sử dụng kim dẫn đường, kẹp giữ xương hoặc kim Kirschner cố định tạm thời. Đánh giá kiểm tra dưới màn tăng sáng C-arm ở cả hai bình diện thẳng và nghiêng."}, {"step": 4, "title": "Đặt phương tiện kết hợp xương / Tái tạo chính thức", "detail": "Thực hiện kỹ thuật Proximal Release of Quadriceps (Sengupta) bằng dụng cụ chuyên dụng chuẩn Campbell (nẹp vít, đinh nội tủy, chỉ néo hoặc thay khớp) đảm bảo độ vững cơ học sinh học tối ưu."}, {"step": 5, "title": "Kiểm tra độ vững cơ học, cầm máu & Đóng vết mổ", "detail": "Vận động kiểm tra tầm biên độ khớp, rửa sạch phẫu trường bằng nước muối sinh lý, đặt dẫn lưu kín nếu cần và đóng vết mổ cẩn thận theo từng lớp giải phẫu."}], "postop_protocol": "Bất động có trợ giúp trong giai đoạn đầu để làm dịu mô mềm và giảm đau. Bắt đầu tập vận động chủ động có kiểm soát sớm để chống dính khớp và teo cơ. Theo dõi liền xương định kỳ trên phim X-quang.", "pearls_pitfalls": "Tôn trọng mô mềm và màng xương để tránh hoại tử vô mạch; Kiểm tra cẩn thận mạch máu và thần kinh ngoại vi trước và sau mổ."}
+{
+  "tech_id": "9-1",
+  "name_en": "Proximal Release of Quadriceps (Sengupta)",
+  "name_vi": "Phẫu thuật Cắt xương Sửa trục Chày cao Mở góc Trong (Medial Opening Wedge HTO)",
+  "chapter": 9,
+  "category": "Tái tạo & Thay Khớp Gối",
+  "pdf_page": 529,
+  "author": "Sengupta",
+  "clinical_indications": "Thoái hóa khớp gối khoang trong đơn thuần ở bệnh nhân trẻ, hoạt động thể lực cao (< 60 tuổi), biến dạng gối vẹo trong (Varus) 5-12°, sụn khoang ngoài và bánh chè đùi còn tốt, dây chằng gối vững.",
+  "contraindications": "Thoái hóa gối nặng cả khoang ngoài; biến dạng gối vẹo ngoài (Valgus); biên độ gập gối < 90° hoặc co rút gập > 10°; viêm khớp dạng thấp hoặc bệnh khớp tự miễn; hút thuốc lá nặng (nguy cơ chậm liền xương).",
+  "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ thấu quang, đặt garo hơi đùi (250-300 mmHg), C-arm soi toàn bộ từ khớp háng đến khớp cổ chân. Chuẩn bị bộ nẹp khóa nén ép TomoFix / Puddu và nêm ghép xương.",
+  "surgical_approach": "Đường mổ trước trong đầu trên xương chày dài 6-8 cm, nằm giữa lồi củ chày và bờ sau trong mâm chày. Cấu trúc nguy cơ: Dây thần kinh mác chung ở cổ xương mác; Bó mạch khoeo ở phía sau mâm chày; Nhánh dưới bánh chè thần kinh hiển; Dây chằng bên trong (MCL nông).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường rạch da trước trong & Bộc lộ mâm chày trong",
+      "detail": "Rạch da dọc 6-8 cm bờ trong mâm chày. Phẫu tích lớp dưới da, bộc lộ dải cơ chân vịt (pes anserinus), giải phóng dải nông dây chằng bên trong (sMCL) ở đầu xa để chuẩn bị mở góc.",
+      "action": "Giải phóng sMCL đầu xa giúp mở góc trong dễ dàng mà không làm tăng áp lực khoang trong."
+    },
+    {
+      "step": 2,
+      "title": "Cắm kim dẫn đường K-wire định vị đường cắt xương",
+      "detail": "Dưới C-arm, cắm 2 kim K-wire 2.0 mm song song từ bờ trong mâm chày (cách diện khớp 3.5 cm) hướng chéo lên chỏm xương mác (dừng cách vỏ xương ngoài 5-10 mm).",
+      "action": "Đảm bảo đường cắt xương hướng đúng về chỏm mác và dừng cách vỏ ngoài 5-10 mm để giữ bản lề xương (lateral hinge)."
+    },
+    {
+      "step": 3,
+      "title": "Cắt xương hai bình diện (Biplanar Osteotomy)",
+      "detail": "Dùng cưa dao động cắt xương theo hướng kim K-wire dưới sự bảo vệ của banh Langenbeck ở phía sau mâm chày. Tiếp tục thực hiện đường cắt đứng thứ 2 sau lồi củ chày ở góc 110° để bảo tồn cơ chế duỗi gối.",
+      "action": "Luôn đặt banh bảo vệ bao khớp sau để bảo vệ bó mạch khoeo; KHÔNG làm gãy bản lề xương ngoài."
+    },
+    {
+      "step": 4,
+      "title": "Mở góc trong dần dần & Cân chỉnh điểm Fujisawa",
+      "detail": "Dùng đục mở góc tăng dần nhẹ nhàng tạo khe hở hình chêm theo độ mở tính toán trước mổ (mỗi 1 mm mở tương đương sửa 1° trục). Kiểm tra thanh gióng trục cơ học dưới C-arm đi qua điểm Fujisawa (vị trí 62-65% chiều rộng mâm chày ngoài).",
+      "action": "Mở góc từ từ để xương thích ứng dẻo, kiểm tra trục gióng cơ học đi qua điểm Fujisawa (62% mâm chày)."
+    },
+    {
+      "step": 5,
+      "title": "Cố định nẹp khóa TomoFix & Ghép xương",
+      "detail": "Đặt nẹp khóa mâm chày trong (TomoFix), bắt các vít khóa đầu gần và đầu xa. Nhồi xương xốp tự thân hoặc chất thay thế xương tổng hợp vào khe hở hình chêm. Rửa sạch, đóng vết mổ theo lớp.",
+      "action": "Bắt đủ các vít khóa để đạt độ vững chắc sinh học tuyệt đối, cho phép tập vận động sớm."
+    }
+  ],
+  "postop_protocol": "Nẹp gối có khóa trong tuần đầu. Bắt đầu tập vận động gập duỗi gối chủ động sớm từ ngày thứ 2. Đi nạng tì đè chạm đầu ngón (toe-touch weight bearing) trong 4-6 tuần đầu. Tì đè một phần từ tuần 6-8 và tì đè hoàn toàn khi có can xương bắc cầu trên phim X-quang.",
+  "pearls_pitfalls": "Gãy bản lề xương ngoài (lateral hinge fracture) là biến chứng nguy hiểm nhất làm mất độ vững và sập góc; Đường cắt xương phải chừa lại ít nhất 5-10 mm vỏ xương ngoài; Cần hiệu chỉnh độ dốc sau mâm chày (posterior slope) không để tăng quá mức.",
+  "image_url": "web/static/images/techniques/9-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/9-1.webp",
+      "type": "drawing",
+      "caption": "Sơ đồ nét vẽ giải phẫu & kỹ thuật mổ 9-1 (Campbell 13th Ed)"
+    },
+    {
+      "url": "web/static/images/techniques/9-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang & Ca lâm sàng phẫu thuật 9-1 (Campbell 13th Ed)"
+    }
+  ]
+}
