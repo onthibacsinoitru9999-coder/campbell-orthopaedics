@@ -1272,13 +1272,41 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
           <h3 style="font-size: 1.25rem; font-weight: 800; color: #0f172a;">${escapeHtml(item.name)}</h3>
           <span style="font-size: 0.85rem; color: #0284c7; font-weight: 600;">${escapeHtml(item.en_name)} • Vị trí: ${escapeHtml(item.bone_vi)} • Chuyên khoa: ${escapeHtml(item.category)}</span>
         </div>
-        <button class="view-btn" onclick="openPageImageDirect(${item.pdf_page}, '${escapeHtml(item.name)}')">
-          📖 Sách PDF p.${item.pdf_page} &rarr;
+        <button class="view-btn classif-protocol-btn" onclick="openClassificationProtocol('${item.id}')">
+          📋 Phác đồ & Quy trình mổ &rarr;
         </button>
       </div>
-      <p class="classification-desc" style="font-size: 0.925rem; line-height: 1.5; color: #475569; margin: 0.75rem 0 1rem;">
-        ${escapeHtml(item.description)}
+      <p class="classification-desc" style="font-size: 0.925rem; line-height: 1.5; color: #475569; margin: 0.75rem 0 0.85rem;">
+        ${escapeHtml(item.overview || item.description)}
       </p>
+
+      <div class="classif-clinical-grid">
+        ${item.mechanism ? `
+          <div class="classif-clinical-box mechanism-box">
+            <div class="classif-box-title">💥 Cơ chế chấn thương</div>
+            <div class="classif-box-content">${escapeHtml(item.mechanism)}</div>
+          </div>
+        ` : ''}
+        ${item.imaging ? `
+          <div class="classif-clinical-box imaging-box">
+            <div class="classif-box-title">📷 Đánh giá X-quang & CT</div>
+            <div class="classif-box-content">${escapeHtml(item.imaging)}</div>
+          </div>
+        ` : ''}
+        ${item.treatment_principles ? `
+          <div class="classif-clinical-box treatment-box">
+            <div class="classif-box-title">🎯 Nguyên tắc xử trí</div>
+            <div class="classif-box-content">${escapeHtml(item.treatment_principles)}</div>
+          </div>
+        ` : ''}
+        ${item.complications ? `
+          <div class="classif-clinical-box complications-box">
+            <div class="classif-box-title">⚠️ Biến chứng cần lưu ý</div>
+            <div class="classif-box-content">${escapeHtml(item.complications)}</div>
+          </div>
+        ` : ''}
+      </div>
+
       <div class="classification-types">
         ${typesHtml}
       </div>
@@ -1292,6 +1320,129 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
 
     allClassificationsGrid.appendChild(card);
   });
+}
+
+// Open Dedicated Classification Clinical Protocol Modal
+async function openClassificationProtocol(classifId) {
+  if (allClassesData.length === 0) {
+    allClassesData = await loadStaticOrApi('/api/classifications', 'data/fracture_classifications.json');
+  }
+  const item = allClassesData.find(c => c.id === classifId);
+  if (!item) return;
+
+  techModal.classList.add('active');
+  modalTechId.textContent = `PHÁC ĐỒ ĐIỀU TRỊ • ${item.name.toUpperCase()}`;
+  modalTechTitle.textContent = item.name + ' (' + item.en_name + ')';
+  modalTechMeta.textContent = `Chuyên khoa: ${item.category} • Vị trí: ${item.bone_vi} • Chương ${item.chapter}: ${item.chapter_title}`;
+
+  modalTabs.forEach(b => {
+    b.classList.toggle('active', b.dataset.modaltab === 'extractedText');
+  });
+  if (tabContentExtractedText) tabContentExtractedText.style.display = 'block';
+  if (tabContentPagePreview) tabContentPagePreview.style.display = 'none';
+
+  if (modalTechDetailHeader) {
+    modalTechDetailHeader.innerHTML = `
+      <div class="tech-detail-top-row">
+        <span class="tech-code" style="font-size: 0.85rem; font-weight: 800;">PHÁC ĐỒ ĐIỀU TRỊ CHUẨN CAMPBELL</span>
+        <span class="badge" style="font-size: 0.8rem; background: #0284c7; color: #fff;">Chương ${item.chapter}</span>
+      </div>
+      <h3 class="tech-detail-title">${escapeHtml(item.name)} (${escapeHtml(item.en_name)})</h3>
+      <div class="tech-detail-meta-pills">
+        <span>Vị trí: <strong>${escapeHtml(item.bone_vi)}</strong></span>
+        <span>•</span>
+        <span>Chuyên khoa: <strong>${escapeHtml(item.category)}</strong></span>
+        <span>•</span>
+        <span>Tham chiếu: <strong>Trang sách p.${item.book_page || 'N/A'} (PDF ${item.pdf_page})</strong></span>
+      </div>
+    `;
+  }
+
+  if (modalLinkedClassifBox) {
+    modalLinkedClassifBox.style.display = 'none';
+  }
+
+  let protocolHtml = `
+    <div class="clinical-card-wrapper">
+      <div class="clinical-section-card">
+        <div class="clinical-section-title">📌 Tổng quan & Định nghĩa phân loại</div>
+        <div class="clinical-section-body">${escapeHtml(item.overview || item.description)}</div>
+      </div>
+
+      <div class="classif-clinical-grid">
+        ${item.mechanism ? `
+          <div class="classif-clinical-box mechanism-box">
+            <div class="classif-box-title">💥 Cơ chế chấn thương</div>
+            <div class="classif-box-content">${escapeHtml(item.mechanism)}</div>
+          </div>
+        ` : ''}
+        ${item.imaging ? `
+          <div class="classif-clinical-box imaging-box">
+            <div class="classif-box-title">📷 Đánh giá X-quang & CT</div>
+            <div class="classif-box-content">${escapeHtml(item.imaging)}</div>
+          </div>
+        ` : ''}
+        ${item.treatment_principles ? `
+          <div class="classif-clinical-box treatment-box">
+            <div class="classif-box-title">🎯 Nguyên tắc xử trí & Chỉ định</div>
+            <div class="classif-box-content">${escapeHtml(item.treatment_principles)}</div>
+          </div>
+        ` : ''}
+        ${item.complications ? `
+          <div class="classif-clinical-box complications-box">
+            <div class="classif-box-title">⚠️ Biến chứng cần cảnh giác</div>
+            <div class="classif-box-content">${escapeHtml(item.complications)}</div>
+          </div>
+        ` : ''}
+      </div>
+
+      <div class="clinical-section-card">
+        <div class="clinical-section-title">⚡ Chiến lược điều trị chi tiết theo từng phân độ</div>
+        <div class="clinical-steps-list">
+          ${(item.types || []).map(t => `
+            <div class="clinical-step-item">
+              <div class="clinical-step-header">
+                <span class="clinical-step-pill">${escapeHtml(t.code || t.type)}</span>
+                <span class="clinical-step-title">${escapeHtml(t.name || '')}</span>
+              </div>
+              <div class="clinical-step-desc">${escapeHtml(t.desc || t.description || '')}</div>
+              ${t.management || t.principles ? `
+                <div class="clinical-step-action">
+                  <strong>Xử trí khuyến cáo:</strong> ${escapeHtml(t.management || t.principles)}
+                </div>
+              ` : ''}
+              ${t.technique_id ? `
+                <div style="margin-top: 0.6rem;">
+                  <button class="type-tech-btn" onclick="openTechniqueModal('${t.technique_id}')">
+                    🔪 Xem Kỹ thuật mổ ${t.technique_id} (${escapeHtml(t.technique_title || '')}) &rarr;
+                  </button>
+                </div>
+              ` : ''}
+            </div>
+          `).join('')}
+        </div>
+      </div>
+
+      ${item.techniques && item.techniques.length > 0 ? `
+        <div class="clinical-section-card">
+          <div class="clinical-section-title">🔪 Các quy trình kỹ thuật mổ chỉ định liên quan</div>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
+            ${item.techniques.map(t_id => `
+              <button class="tech-tag-btn" onclick="openTechniqueModal('${t_id}')" style="padding: 0.4rem 0.8rem; font-size: 0.85rem;">
+                🔪 Kỹ thuật ${t_id} &rarr;
+              </button>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
+    </div>
+  `;
+
+  modalExtractedText.innerHTML = protocolHtml;
+
+  if (item.pdf_page) {
+    setModalPdfPage(item.pdf_page);
+  }
 }
 
 // Full-text loading & formatting helpers
@@ -1349,6 +1500,121 @@ function formatTechniqueText(rawText) {
 
   html += '</div>';
   return html;
+}
+
+// Structured Clinical Knowledge Base helpers
+let clinicalTechniquesCache = null;
+
+async function getClinicalTechniques() {
+  if (clinicalTechniquesCache) return clinicalTechniquesCache;
+  try {
+    const res = await fetch('data/clinical_techniques.json');
+    if (res.ok) {
+      clinicalTechniquesCache = await res.json();
+      return clinicalTechniquesCache;
+    }
+  } catch (e) {
+    console.warn('Failed to load clinical_techniques.json:', e);
+  }
+  return {};
+}
+
+function toggleRawBookText(btn) {
+  const body = btn.nextElementSibling;
+  if (!body) return;
+  const isHidden = body.style.display === 'none' || !body.style.display;
+  body.style.display = isHidden ? 'block' : 'none';
+  btn.textContent = isHidden 
+    ? '📖 Ẩn trích dẫn nguyên bản tiếng Anh ▴' 
+    : '📖 Xem trích dẫn nguyên bản văn bản sách tiếng Anh (Campbell 13th Ed) ▾';
+}
+
+function renderClinicalTechniqueCard(guide, rawFallback) {
+  const stepsHtml = (guide.surgical_steps || []).map(s => `
+    <div class="clinical-step-item">
+      <div class="clinical-step-header">
+        <span class="clinical-step-pill">Thì ${s.step || 1}</span>
+        <span class="clinical-step-title">${escapeHtml(s.title || '')}</span>
+      </div>
+      <div class="clinical-step-desc">${escapeHtml(s.detail || s.description || '')}</div>
+      ${s.action || s.key_action ? `
+        <div class="clinical-step-action">
+          ⚡ <strong>Thao tác then chốt:</strong> ${escapeHtml(s.action || s.key_action)}
+        </div>
+      ` : ''}
+    </div>
+  `).join('');
+
+  return `
+    <div class="clinical-card-wrapper">
+      <!-- Badges -->
+      <div class="clinical-badges-row">
+        <span class="clinical-badge-tag primary">Chuyên khoa: ${escapeHtml(guide.category || 'General')}</span>
+        <span class="clinical-badge-tag">Chương ${guide.chapter || ''}</span>
+        ${guide.author ? `<span class="clinical-badge-tag highlight">👨‍⚕️ ${escapeHtml(guide.author)}</span>` : ''}
+      </div>
+
+      <!-- Indications & Objectives -->
+      ${guide.clinical_indications ? `
+        <div class="clinical-section-card">
+          <div class="clinical-section-title">📌 Chỉ định lâm sàng & Mục tiêu phẫu thuật</div>
+          <div class="clinical-section-body">${escapeHtml(guide.clinical_indications)}</div>
+        </div>
+      ` : ''}
+
+      <!-- Patient Prep & Positioning -->
+      ${guide.patient_prep ? `
+        <div class="clinical-section-card">
+          <div class="clinical-section-title">📐 Tư thế bệnh nhân & Chuẩn bị (Setup)</div>
+          <div class="clinical-section-body">${escapeHtml(guide.patient_prep)}</div>
+        </div>
+      ` : ''}
+
+      <!-- Surgical Approach & Danger Zones -->
+      ${guide.surgical_approach ? `
+        <div class="clinical-box-danger">
+          <div class="clinical-box-danger-title">🔪 Đường mổ & Cấu trúc giải phẫu nguy cơ</div>
+          <div class="clinical-section-body">${escapeHtml(guide.surgical_approach)}</div>
+        </div>
+      ` : ''}
+
+      <!-- Step-by-Step Operative Technique -->
+      <div class="clinical-section-card">
+        <div class="clinical-section-title">⚡ Các thì phẫu thuật từng bước (Operative Steps)</div>
+        <div class="clinical-steps-list">
+          ${stepsHtml}
+        </div>
+      </div>
+
+      <!-- Postoperative Care & Rehab -->
+      ${guide.postop_protocol ? `
+        <div class="clinical-box-rehab">
+          <div class="clinical-box-rehab-title">🩺 Chăm sóc sau mổ & Phục hồi chức năng (Rehabilitation)</div>
+          <div class="clinical-section-body">${escapeHtml(guide.postop_protocol)}</div>
+        </div>
+      ` : ''}
+
+      <!-- Campbell's Pearls & Traps -->
+      ${guide.pearls_pitfalls ? `
+        <div class="clinical-box-pearls">
+          <div class="clinical-box-pearls-title">⚠️ Lưu ý chuyên môn & Cạm bẫy của Campbell (Pearls & Pitfalls)</div>
+          <div class="clinical-section-body">${escapeHtml(guide.pearls_pitfalls)}</div>
+        </div>
+      ` : ''}
+
+      <!-- Optional Raw English Excerpt Accordion -->
+      ${rawFallback ? `
+        <div style="margin-top: 0.5rem;">
+          <button class="clinical-raw-toggle-btn" onclick="toggleRawBookText(this)">
+            📖 Xem trích dẫn nguyên bản văn bản sách tiếng Anh (Campbell 13th Ed) ▾
+          </button>
+          <div class="clinical-raw-body">
+            ${formatTechniqueText(rawFallback)}
+          </div>
+        </div>
+      ` : ''}
+    </div>
+  `;
 }
 
 // Open Technique Modal
@@ -1446,7 +1712,7 @@ async function openTechniqueModal(techId) {
       }
     }
 
-    // Load full extracted surgical text
+    // Load full extracted surgical text fallback
     let fullText = tech.extracted_text || '';
     if (!fullText) {
       const allTexts = await getAllTechniqueTexts();
@@ -1459,7 +1725,15 @@ async function openTechniqueModal(techId) {
       }
     }
 
-    modalExtractedText.innerHTML = formatTechniqueText(fullText);
+    // Render structured clinical knowledge
+    const allGuides = await getClinicalTechniques();
+    const guide = allGuides[techId] || allGuides[String(techId)];
+
+    if (guide) {
+      modalExtractedText.innerHTML = renderClinicalTechniqueCard(guide, fullText);
+    } else {
+      modalExtractedText.innerHTML = formatTechniqueText(fullText);
+    }
 
     // Setup action buttons
     const driveUrl = `https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view`;
@@ -1555,22 +1829,52 @@ async function openPageImageDirect(pageNum, title) {
   const tabBtnText = document.querySelector('.modal-tab-btn[data-modaltab="extractedText"]');
   if (tabBtnText) tabBtnText.click();
 
-  modalExtractedText.innerHTML = '<div style="padding: 2rem; color: var(--text-muted); text-align: center;">Đang nạp toàn văn trang sách từ Campbell...</div>';
+  modalExtractedText.innerHTML = '<div style="padding: 2rem; color: var(--text-muted); text-align: center;">Đang nạp phác đồ chuyên môn...</div>';
+
+  // Check if this page matches any known technique
+  const allGuides = await getClinicalTechniques();
+  const matchedTechId = Object.keys(allGuides).find(id => Number(allGuides[id].pdf_page) === Number(pageNum));
+  if (matchedTechId) {
+    const all = await getAllTechniques();
+    const tech = all.find(t => String(t.tech_id) === String(matchedTechId));
+    if (tech) {
+      openTechniqueModal(matchedTechId);
+      return;
+    }
+  }
+
+  // Check if this page matches any classification
+  if (allClassesData.length === 0) {
+    allClassesData = await loadStaticOrApi('/api/classifications', 'data/fracture_classifications.json');
+  }
+  const matchedClassif = allClassesData.find(c => Number(c.pdf_page) === Number(pageNum));
+  if (matchedClassif) {
+    openClassificationProtocol(matchedClassif.id);
+    return;
+  }
+
   const allPages = await getAllPagesText();
   const pageText = allPages[String(pageNum)] || allPages[pageNum] || '';
 
   if (pageText) {
     modalExtractedText.innerHTML = `
-      <div style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 0.85rem 1.25rem; margin-bottom: 1.25rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;">
-        <div>
-          <strong style="color: #166534; font-size: 0.95rem;">📖 Toàn văn trích xuất từ Bản gốc Campbell's 13th Ed (Trang ${pageNum})</strong>
-          <p style="color: #15803d; font-size: 0.825rem; margin-top: 0.2rem;">Đề mục: ${escapeHtml(title || 'Trang tài liệu')}</p>
+      <div class="clinical-card-wrapper">
+        <div class="clinical-section-card" style="border-left: 4px solid #0284c7;">
+          <div class="clinical-section-title">📖 Đề mục: ${escapeHtml(title || 'Trang ' + pageNum)}</div>
+          <div class="clinical-section-body">
+            <p style="margin-bottom: 0.5rem; color: #64748b;">Trang PDF <strong>${pageNum}</strong> / 4.887 trong bộ sách Campbell's Operative Orthopaedics.</p>
+            <a href="${GDRIVE_PDF_URL}" target="_blank" class="search-submit-btn" style="text-decoration: none; padding: 0.35rem 0.85rem; font-size: 0.8rem; display: inline-block;">
+              Mở PDF gốc trên Google Drive &rarr;
+            </a>
+          </div>
         </div>
-        <a href="${GDRIVE_PDF_URL}" target="_blank" class="search-submit-btn" style="text-decoration: none; padding: 0.4rem 0.85rem; font-size: 0.8rem; background: #16a34a;">
-          Mở PDF gốc &rarr;
-        </a>
+        <div class="clinical-section-card">
+          <div class="clinical-section-title">📄 Nội dung trích xuất & Tổng hợp</div>
+          <div class="clinical-section-body">
+            ${formatTechniqueText(pageText)}
+          </div>
+        </div>
       </div>
-      ${formatTechniqueText(pageText)}
     `;
   } else {
     modalExtractedText.innerHTML = `

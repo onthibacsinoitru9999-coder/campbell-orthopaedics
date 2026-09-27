@@ -1114,12 +1114,12 @@ body {
 
 .extracted-text-box {
   background: #fff;
-  padding: 1.5rem;
+  padding: 1.25rem;
   border-radius: 8px;
   border: 1px solid var(--border);
   font-family: inherit;
-  white-space: pre-wrap;
-  line-height: 1.7;
+  white-space: normal;
+  line-height: 1.6;
 }
 
 /* Pagination */
@@ -1695,8 +1695,14 @@ body {
   }
 
   .modal-body {
-    padding: 1rem 0.85rem;
+    padding: 0.85rem 0.65rem;
     -webkit-overflow-scrolling: touch;
+  }
+
+  .extracted-text-box {
+    padding: 0.5rem 0;
+    border: none;
+    background: transparent;
   }
 
   .tech-detail-header-card {
@@ -1752,6 +1758,301 @@ body {
     height: 60vh;
     min-height: 320px;
   }
+}
+
+/* =========================================================================
+   CLINICAL OPERATIVE HANDBOOK & CLASSIFICATION CARDS
+   ========================================================================= */
+
+.classif-clinical-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+  margin: 0.85rem 0 1rem;
+}
+
+@media (max-width: 768px) {
+  .classif-clinical-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.classif-clinical-box {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 0.75rem 0.9rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.classif-clinical-box.mechanism-box {
+  background: #fefce8;
+  border-color: #fef08a;
+  border-left: 3px solid #eab308;
+}
+
+.classif-clinical-box.imaging-box {
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+  border-left: 3px solid #22c55e;
+}
+
+.classif-clinical-box.treatment-box {
+  background: #eff6ff;
+  border-color: #bfdbfe;
+  border-left: 3px solid #3b82f6;
+}
+
+.classif-clinical-box.complications-box {
+  background: #fff1f2;
+  border-color: #fecdd3;
+  border-left: 3px solid #f43f5e;
+}
+
+.classif-box-title {
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.35rem;
+  color: #1e293b;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.classif-box-content {
+  color: #334155;
+  font-size: 0.85rem;
+}
+
+.classif-protocol-btn {
+  background: #0284c7;
+  color: #fff;
+  border: none;
+  font-weight: 700;
+  border-radius: 6px;
+  padding: 0.45rem 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.classif-protocol-btn:hover {
+  background: #0369a1;
+  box-shadow: 0 2px 6px rgba(2, 132, 199, 0.4);
+}
+
+/* Structured Clinical Operative Cards */
+.clinical-card-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+  color: #1e293b;
+}
+
+.clinical-badges-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.clinical-badge-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  background: #f1f5f9;
+  color: #475569;
+  border: 1px solid #e2e8f0;
+}
+
+.clinical-badge-tag.primary {
+  background: #e0f2fe;
+  color: #0369a1;
+  border-color: #bae6fd;
+}
+
+.clinical-badge-tag.highlight {
+  background: #fef3c7;
+  color: #b45309;
+  border-color: #fde68a;
+}
+
+.clinical-section-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.clinical-section-title {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 0.6rem;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  border-bottom: 1px solid #f1f5f9;
+  padding-bottom: 0.4rem;
+}
+
+.clinical-section-body {
+  font-size: 0.9rem;
+  line-height: 1.65;
+  color: #334155;
+}
+
+/* Operative Steps */
+.clinical-steps-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.clinical-step-item {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  transition: all 0.15s ease;
+}
+
+.clinical-step-item:hover {
+  border-color: #cbd5e1;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+}
+
+.clinical-step-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.45rem;
+}
+
+.clinical-step-pill {
+  background: #0284c7;
+  color: #fff;
+  font-size: 0.725rem;
+  font-weight: 800;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.clinical-step-title {
+  font-weight: 700;
+  font-size: 0.925rem;
+  color: #0f172a;
+}
+
+.clinical-step-desc {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  color: #334155;
+}
+
+.clinical-step-action {
+  margin-top: 0.5rem;
+  background: #eff6ff;
+  border-left: 3px solid #3b82f6;
+  padding: 0.4rem 0.75rem;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.825rem;
+  color: #1e40af;
+  font-weight: 500;
+}
+
+/* Warning & Danger boxes */
+.clinical-box-danger {
+  background: #fff7ed;
+  border: 1px solid #ffedd5;
+  border-left: 4px solid #f97316;
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+}
+
+.clinical-box-danger-title {
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: #9a3412;
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.clinical-box-pearls {
+  background: #fefce8;
+  border: 1px solid #fef08a;
+  border-left: 4px solid #eab308;
+  border-radius: 8px;
+  padding: 0.85rem 1.15rem;
+}
+
+.clinical-box-pearls-title {
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: #854d0e;
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.clinical-box-rehab {
+  background: #f0fdf4;
+  border: 1px solid #dcfce7;
+  border-left: 4px solid #16a34a;
+  border-radius: 8px;
+  padding: 0.85rem 1.15rem;
+}
+
+.clinical-box-rehab-title {
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: #166534;
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* Accordion for raw English text fallback */
+.clinical-raw-toggle-btn {
+  background: #f1f5f9;
+  border: 1px dashed #cbd5e1;
+  color: #64748b;
+  width: 100%;
+  padding: 0.65rem 1rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.2s;
+  margin-top: 0.5rem;
+}
+
+.clinical-raw-toggle-btn:hover {
+  background: #e2e8f0;
+  color: #334155;
+}
+
+.clinical-raw-body {
+  display: none;
+  margin-top: 0.75rem;
+  padding: 1rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: #475569;
+  line-height: 1.6;
 }
 
 

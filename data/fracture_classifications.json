@@ -101,7 +101,12 @@
       "54-17",
       "1-30",
       "1-31"
-    ]
+    ],
+    "overview": "Phân loại Schatzker (1979) chia gãy mâm chày thành 6 type phản ánh mức độ năng lượng chấn thương tăng dần. Type I-III là tổn thương năng lượng thấp (thường ở mâm chày ngoài), Type IV-VI là chấn thương năng lượng cao gây mất vững nghiêm trọng diện khớp và trục chi.",
+    "mechanism": "Lực vẹo ngoài (valgus) hoặc vẹo trong (varus) kết hợp lực nén ép dọc trục (axial load). Ở người trẻ xương chắc thường gây tách rời (split), ở người lớn tuổi thường gây lún ép (depression).",
+    "imaging": "X-quang khớp gối 4 tư thế (Thẳng, Nghiêng, Chếch 40°). BẮT BUỘC chụp CT-Scan dựng hình 3D để đo bậc thang diện khớp và góc lún thành sau ngoài.",
+    "treatment_principles": "Phục hồi diện khớp tuyệt đối (bậc thang < 2mm), phục hồi trục cơ học chi, tái tạo độ vững dây chằng và cho phép tập vận động gối sớm tránh cứng khớp.",
+    "complications": "Hội chứng chèn ép khoang cấp; Nhiễm trùng hoại tử vạt da; Liệt thần kinh mác chung; Sập lún diện khớp thứ phát do ghép xương không đủ; Thoái hóa khớp sau chấn thương."
   },
   {
     "id": "garden",
@@ -181,7 +186,12 @@
       "54-22",
       "3-1",
       "6-1"
-    ]
+    ],
+    "overview": "Phân loại Garden (1961) dựa trên sự di lệch của hệ thống bè xương chịu lực trên phim X-quang khớp háng thẳng, chia thành 4 độ. Có ý nghĩa quyết định bảo tồn chỏm (kết hợp xương) hay thay khớp háng.",
+    "mechanism": "Người cao tuổi ngã đập mông hoặc háng ở tư thế xoay ngoài nhẹ trên nền xương loãng. Người trẻ do chấn thương năng lượng cao.",
+    "imaging": "X-quang khớp háng thẳng (AP) xoay trong 15° và nghiêng chậu gối (cross-table lateral). Chụp CT-Scan khi nghi ngờ gãy cài không hoàn toàn.",
+    "treatment_principles": "Người trẻ (< 65 tuổi): Luôn ưu tiên nắn chỉnh cấp cứu (< 6-12h) và kết hợp xương giữ chỏm. Người già (> 65-70 tuổi) gãy di lệch: Chỉ định thay khớp háng (Bipolar hoặc toàn phần) để ngồi dậy và đi lại sớm.",
+    "complications": "Hoại tử vô mạch chỏm xương đùi (AVN, chiếm 20-40%); Khớp giả không liền (Nonunion, chiếm 10-25%); Biến chứng nằm lâu ở người già (viêm phổi, loét tì đè, huyết khối tĩnh mạch DVT)."
   },
   {
     "id": "pauwels",
@@ -246,7 +256,12 @@
       "55-2",
       "55-4",
       "6-1"
-    ]
+    ],
+    "overview": "Phân loại Pauwels (1935) phân loại dựa trên góc tạo bởi đường gãy và mặt phẳng nằm ngang. Góc này quyết định lực tác động lên ổ gãy là lực nén ép (compression) hay lực cắt trượt (shearing force).",
+    "mechanism": "Đo góc giữa đường gãy và đường nằm ngang nối 2 gai chậu trước trên.",
+    "imaging": "X-quang khớp háng tư thế thẳng chuẩn.",
+    "treatment_principles": "Góc càng đứng (Pauwels III > 50°), lực trượt càng lớn, bắt vít thông thường rất dễ thất bại. Cần dùng vít góc cố định, nẹp DHS có vít chống xoay hoặc đục xương sửa trục đổi góc.",
+    "complications": "Lực cắt trượt làm bung vít; Gập góc vẹo trong (varus collapse); Khớp giả không liền xương."
   },
   {
     "id": "neer",
@@ -335,7 +350,12 @@
       "57-3",
       "12-1",
       "12-3"
-    ]
+    ],
+    "overview": "Phân loại Neer (1970) chia đầu trên xương cánh tay thành 4 phần giải phẫu: Chỏm, Củ lớn, Củ bé, Thân xương. Một phần được coi là di lệch khi khoảng cách > 1cm hoặc gập góc > 45°.",
+    "mechanism": "Ngã chống tay ở tư thế duỗi hoặc ngã đập trực tiếp vùng vai.",
+    "imaging": "Bộ phim chấn thương vai chuẩn (Neer series): X-quang vai thẳng thực sự, xuyên ngực chữ Y (Scapular Y), và tư thế nách (Axillary view). Chụp CT-Scan 3D khi gãy 3-4 mảnh.",
+    "treatment_principles": "Gãy 1 phần (80%): Điều trị bảo tồn treo tay túi và tập phục hồi chức năng sớm. Gãy 2-3 phần: Mổ nẹp khóa (PHILOS). Gãy 4 phần ở người già: Thay khớp vai đảo ngược (RSA).",
+    "complications": "Tổn thương thần kinh nách; Hoại tử vô mạch chỏm xương cánh tay (AVN); Cứng khớp vai do bất động kéo dài."
   },
   {
     "id": "gustilo",
@@ -428,7 +448,12 @@
       "54-11",
       "54-12",
       "63-1"
-    ]
+    ],
+    "overview": "Phân loại Gustilo-Anderson (1976/1984) là hệ thống phân loại gãy xương hở quan trọng nhất thế giới, dựa trên độ dập nát mô mềm, mức năng lượng và tổn thương mạch máu để tiên lượng nhiễm trùng và bảo tồn chi.",
+    "mechanism": "Lực chấn thương năng lượng cao trực tiếp hoặc đầu xương nhọn đâm thủng da từ trong ra ngoài.",
+    "imaging": "X-quang chuẩn. Với Độ IIIC: Siêu âm Doppler hoặc chụp CT Angiography mạch máu khẩn cấp.",
+    "treatment_principles": "CẤP CỨU NGOẠI KHOA: Kháng sinh tĩnh mạch trong 1 giờ đầu; Bơm rửa cắt lọc triệt để trong phòng mổ; Bất động vững chắc; Che phủ phần mềm sớm trong 7 ngày.",
+    "complications": "Nhiễm trùng nông và sâu; Viêm xương tủy xương mạn tính; Khớp giả nhiễm trùng; Cắt cụt chi."
   },
   {
     "id": "young_burgess",
@@ -493,7 +518,12 @@
       "56-9",
       "56-10",
       "56-4"
-    ]
+    ],
+    "overview": "Phân loại Young-Burgess (1986) phân loại gãy khung chậu dựa trên hướng của lực chấn thương: LC (Ép bên), APC (Ép trước sau / Gãy cuốn sách mở), VS (Cắt dọc trục). Phản ánh nguy cơ mất máu đe dọa tính mạng.",
+    "mechanism": "Tai nạn giao thông tốc độ cao hoặc rơi từ trên cao xuống.",
+    "imaging": "X-quang khung chậu thẳng (AP), chếch trên (Inlet view - 45° đuôi) và chếch dưới (Outlet view - 45° đầu). CT-Scan chậu mạch máu khẩn cấp.",
+    "treatment_principles": "CẤP CỨU HỒI SỨC: Băng thắt khung chậu (Pelvic Binder) ngang mức mấu chuyển lớn; Chụp mạch can thiệp nút mạch (Angioembolization) hoặc phẫu thuật nhồi gạc chậu (Pelvic Packing) cầm máu; Cố định khung chậu bằng khung cố định ngoài hoặc nẹp vít khớp mu / vít cùng chậu.",
+    "complications": "Sốc mất máu xuất huyết nội sau phúc mạc; Tổn thương niệu đạo - bàng quang; Tổn thương đám rối thần kinh cùng cụt."
   },
   {
     "id": "letournel_judet",
@@ -559,7 +589,12 @@
       "56-1",
       "56-2",
       "56-3"
-    ]
+    ],
+    "overview": "Phân loại Judet-Letournel (1964) là đỉnh cao kinh điển trong phân loại gãy ổ cối xương chậu, chia thành 5 kiểu gãy đơn giản (thành sau, trụ sau, thành trước, trụ trước, ngang) và 5 kiểu gãy phối hợp phức tạp.",
+    "mechanism": "Chỏm xương đùi bị dồn nén va đập vào đáy ổ cối qua các tư thế háng khác nhau.",
+    "imaging": "Bộ phim Judet 3 tư thế: X-quang chậu thẳng (AP), Tư thế cánh chậu (Iliac oblique - 45°), và Tư thế lỗ bịt (Obturator oblique - 45°). Chụp CT-Scan 3D ổ cối.",
+    "treatment_principles": "Chỉ định phẫu thuật khi di lệch diện khớp ổ cối > 2mm ở vùng chịu lực (vòm ổ cối). Phẫu thuật phục hồi giải phẫu qua đường mổ Kocher-Langenbeck (lối sau) hoặc đường mổ Stoppa / chậu bẹn Ilioinguinal (lối trước).",
+    "complications": "Liệt thần kinh tọa (thần kinh ngồi); Cốt hóa lạc chỗ quanh khớp háng (Heterotopic Ossification); Thoái hóa khớp háng sau chấn thương."
   },
   {
     "id": "denis_spine",
@@ -638,7 +673,12 @@
       "37-1",
       "41-15",
       "41-16"
-    ]
+    ],
+    "overview": "Phân loại Denis (1983) chia cột sống ngực - thắt lưng thành 3 cột trụ: Cột trước (2/3 trước thân đốt sống + ALL), Cột giữa (1/3 sau thân đốt sống + PLL), Cột sau (cung cuống, diện khớp + PLC). Cột giữa quyết định mất vững và chèn ép tủy.",
+    "mechanism": "Lực nén gập (wedge compression), lực ép nổ (axial burst), lực gập căng dãn (Chance), hoặc lực xoay cắt (shear).",
+    "imaging": "X-quang cột sống thẳng nghiêng. Chụp CT-Scan đo phần trăm hẹp ống sống do mảnh xương đẩy lùi. Chụp MRI đánh giá tủy sống và phức hợp dây chằng sau (PLC).",
+    "treatment_principles": "Tổn thương từ 2 cột trụ trở lên hoặc có khiếm khuyết thần kinh: Phẫu thuật cố định nẹp vít chân cung (Pedicle Screws) kết hợp mở cung sau giải ép tủy.",
+    "complications": "Liệt tủy sống; Rò dịch não tủy do rách màng cứng; Gù gập cột sống tiến triển sau chấn thương."
   },
   {
     "id": "danis_weber",
@@ -704,7 +744,12 @@
       "54-3",
       "54-4",
       "54-6"
-    ]
+    ],
+    "overview": "Phân loại Danis-Weber dựa trên mức độ cao của đường gãy xương mác so với khớp chày mác dưới (khớp mộng chày mác - Syndesmosis), chia thành Type A, B, C.",
+    "mechanism": "Lật cổ chân vào trong hoặc ra ngoài kết hợp xoay ngoài hoặc xoay trong.",
+    "imaging": "X-quang cổ chân 3 tư thế (Thẳng, Nghiêng, Mộng chày mác - Mortise). Đánh giá khe sáng mộng chày mác < 4mm.",
+    "treatment_principles": "Phục hồi chiều dài giải phẫu xương mác và độ khít của mộng chày mác. Type C hoặc Type B mất vững bắt buộc mổ nẹp xương mác và bắt vít định vị chày mác dưới.",
+    "complications": "Can lệch xoay xương mác gây thoái hóa khớp cổ chân nhanh chóng; Gãy vít chày mác do tì đè quá sớm."
   },
   {
     "id": "hawkins",
@@ -779,7 +824,12 @@
       "88-11",
       "88-12",
       "88-13"
-    ]
+    ],
+    "overview": "Phân loại Hawkins (1970/1978) tiên lượng nguy cơ hoại tử vô mạch (AVN) của thân xương sên. Xương sên có 60% sụn bao phủ và không có cơ bám, mạng lưới mạch máu nuôi rất dễ bị cắt đứt khi di lệch.",
+    "mechanism": "Lực gập lưng bàn chân quá mức dữ dội (chấn thương bàn đạp máy bay - Aviator's astragalus).",
+    "imaging": "X-quang cổ chân thẳng, nghiêng và tư thế Canale view. Chụp CT-Scan đánh giá trật khớp sên gót và sên chày.",
+    "treatment_principles": "CẤP CỨU CHỈNH HÌNH: Nắn chỉnh mở giải phẫu tuyệt đối và bắt 2 vít nén ép titan từ sau ra trước hoặc từ trước ra sau.",
+    "complications": "Hoại tử vô mạch thân xương sên (AVN: Type I < 10%, Type II 30-50%, Type III 80-90%, Type IV ~100%); Dấu hiệu Hawkins sign ở tuần 6-8 chứng tỏ xương còn máu nuôi."
   },
   {
     "id": "frykman",
@@ -856,7 +906,12 @@
       "57-14",
       "57-15",
       "57-16"
-    ]
+    ],
+    "overview": "Phân loại Frykman (1967) phân loại gãy đầu dưới xương quay dựa trên việc đường gãy có đi vào khớp quay cổ tay (Radiocarpal) và khớp quay trụ dưới (DRUJ) hay không, kèm theo có hay không gãy mỏm trâm trụ.",
+    "mechanism": "Ngã chống tay duỗi cổ tay.",
+    "imaging": "X-quang cổ tay thẳng và nghiêng chuẩn.",
+    "treatment_principles": "Độ chẵn (II, IV, VI, VIII) có kèm gãy mỏm trâm trụ, nguy cơ mất vững khớp quay trụ dưới rất cao. Độ V-VIII liên quan khớp DRUJ cần kiểm tra độ vững cẳng tay xoay sấp ngửa.",
+    "complications": "Mất vững khớp quay trụ dưới (DRUJ); Cứng cổ tay; Thoái hóa khớp quay cổ tay."
   },
   {
     "id": "mason",
@@ -932,7 +987,12 @@
       "57-9",
       "57-10",
       "12-6"
-    ]
+    ],
+    "overview": "Phân loại Mason (1954/Johnston) phân loại gãy chỏm xương quay - cấu trúc chống lại lực vẹo ngoài và lực trượt ra sau của khớp khuỷu.",
+    "mechanism": "Ngã chống tay với cẳng tay xoay sấp nhẹ và khớp khuỷu duỗi một phần.",
+    "imaging": "X-quang khớp khuỷu thẳng, nghiêng và tư thế Greenspan view.",
+    "treatment_principles": "Mason I không kẹt khớp: Bó nẹp treo tay tập sớm. Mason II có kẹt khớp: Mổ nẹp vít chìm ở vùng an toàn (Safe Zone). Mason III/IV vỡ vụn kèm mất vững khuỷu: Thay chỏm xương quay kim loại.",
+    "complications": "Cứng khớp khuỷu; Mất vững vẹo ngoài; Tổn thương thần kinh gian cốt sau (PIN); Ngắn xương quay (Essex-Lopresti)."
   },
   {
     "id": "ao_ota",
@@ -1138,7 +1198,12 @@
       "54-11",
       "54-7",
       "54-1"
-    ]
+    ],
+    "overview": "Hệ thống phân loại AO/OTA là ngôn ngữ chung quốc tế chuẩn hóa toàn bộ các loại gãy xương theo mã số: [Số xương][Đoạn xương] - [Loại A/B/C][Mức độ 1/2/3].",
+    "mechanism": "Áp dụng toàn diện cho tất cả các cơ chế chấn thương chỉnh hình trên cơ thể người.",
+    "imaging": "X-quang quy ước chuẩn 2 bình diện vuông góc kết hợp CT-Scan khi tổn thương nội khớp (đoạn 1 và đoạn 3).",
+    "treatment_principles": "Loại A (Đơn giản): Cố định vững chắc tương đối hoặc tuyệt đối. Loại B (Có mảnh nêm): Bảo tồn mạch máu mảnh nêm. Loại C (Phức tạp / Nội khớp hoàn toàn): Tái tạo giải phẫu diện khớp và cố định sinh học trục chi.",
+    "complications": "Tùy thuộc từng vùng giải phẫu cụ thể theo phân loại chi tiết AO/OTA."
   },
   {
     "id": "salter_harris",
@@ -1234,7 +1299,12 @@
       "36-9",
       "36-16",
       "36-34"
-    ]
+    ],
+    "overview": "Phân loại Salter-Harris (1963) là hệ thống phân loại kinh điển cho tổn thương sụn tiếp hợp (physis / growth plate) ở trẻ em, chia thành 5 Type (Rank 1968 bổ sung Type VI). Có giá trị tiên lượng rối loạn phát triển chiều dài chi.",
+    "mechanism": "Lực chấn thương uốn bẻ, xoắn vặn hoặc dồn nén lên sụn tiếp hợp đang trong thời kỳ phát triển ở trẻ em.",
+    "imaging": "X-quang so sánh 2 bên (bên tổn thương và bên lành đối diện). Chụp MRI khi nghi ngờ bắc cầu xương sụn (physeal bridge).",
+    "treatment_principles": "Nắn chỉnh nhẹ nhàng tránh cọ xát làm dập nát lớp tế bào mầm sinh sụn. Type I-II: Nắn kín bó bột. Type III-IV: Mổ mở nắn giải phẫu và bắt vít/xuyên kim song song với sụn tiếp hợp (tuyệt đối KHÔNG xuyên vít qua đĩa sụn tiếp hợp).",
+    "complications": "Bắc cầu xương sớm gây ngắn chi hoặc vẹo trục chi (vẹo trong/vẹo ngoài); Chậm liền xương."
   },
   {
     "id": "pipkin",
@@ -1311,7 +1381,12 @@
       "55-2",
       "6-1",
       "56-2"
-    ]
+    ],
+    "overview": "Phân loại Pipkin (1957) phân loại tổn thương gãy chỏm xương đùi kèm theo trật khớp háng ra sau. Đây là chấn thương táp-lô xe hơi (dashboard injury) nghiêm trọng.",
+    "mechanism": "Khớp háng gấp và khép, đầu gối va đập mạnh vào táp-lô xe hơi dồn lực dọc thân đùi đẩy chỏm xương đùi trật ra sau và bị cọ vỡ vào bờ ổ cối.",
+    "imaging": "X-quang khớp háng cấp cứu. Chụp CT-Scan dựng hình chỏm đùi sau khi nắn trật.",
+    "treatment_principles": "NẮN TRẬT KHỚP HÁNG CẤP CỨU trong vòng 6 giờ dưới gây mê giãn cơ để cứu mạch máu chỏm. Mổ nắn mảnh gãy chỏm và bắt vít chìm không đầu (Herbert/headless screws) nếu mảnh gãy nằm ở vùng chịu lực hoặc kẹt khớp.",
+    "complications": "Hoại tử vô mạch chỏm xương đùi (AVN); Thoái hóa khớp háng sớm; Liệt thần kinh tọa."
   },
   {
     "id": "sanders",
@@ -1386,7 +1461,12 @@
       "88-3",
       "88-4",
       "88-5"
-    ]
+    ],
+    "overview": "Phân loại Sanders (1993) dựa trên hình ảnh cắt lớp vi tính (CT-Scan) mặt phẳng đứng ngang (Coronal) tại vị trí rộng nhất của mặt khớp sau xương gót, chia thành Type I đến IV dựa trên số lượng đường gãy và độ dập nát diện khớp.",
+    "mechanism": "Ngã từ trên cao xuống chân tiếp đất, xương sên dồn nén ép vỡ nát mặt khớp sau xương gót.",
+    "imaging": "BẮT BUỘC chụp CT-Scan cắt mỏng 1-2mm mặt phẳng Coronal và Axial xương gót. Đo góc Böhler (bình thường 20-40°) và góc Gissane (120-145°).",
+    "treatment_principles": "Mục tiêu phục hồi góc Böhler, chiều cao và chiều rộng xương gót, diện khớp sau phẳng. Sanders II-III mổ mở nắn chỉnh qua đường chữ L mở rộng ngoài (extensile lateral approach) hoặc nẹp ít xâm lấn. Sanders IV vỡ nát: Hàn khớp dưới sên thì đầu (Primary Subtalar Arthrodesis).",
+    "complications": "Hoại tử vạt da góc chữ L; Nhiễm trùng xương gót; Hội chứng chèn ép khoang bàn chân; Cứng khớp và thoái hóa khớp dưới sên."
   },
   {
     "id": "anderson_dalonzo",
@@ -1450,7 +1530,12 @@
       "41-7",
       "41-10",
       "41-3"
-    ]
+    ],
+    "overview": "Phân loại Anderson-D'Alonzo (1974) phân loại gãy mỏm nha (odontoid/dens) đốt đội C2 thành 3 Type dựa theo vị trí giải phẫu của đường gãy. Type II là thể phổ biến nhất nhưng có tỉ lệ không liền xương cao nhất.",
+    "mechanism": "Chấn thương uốn gập hoặc quá duỗi đốt sống cổ đột ngột (tai nạn giao thông, người già ngã đập trán).",
+    "imaging": "X-quang cột sống cổ tư thế há miệng (Open-mouth odontoid view), thẳng và nghiêng. BẮT BUỘC chụp CT-Scan cột sống cổ cắt mỏng dựng hình sagittal và coronal.",
+    "treatment_principles": "Type I và Type III: Điều trị bảo tồn nẹp cổ cứng hoặc áo Halo-vest, tỉ lệ liền xương > 90%. Type II ở người trẻ di lệch > 5mm: Mổ bắt 1-2 vít mỏm nha từ trước (Anterior Odontoid Screw) để bảo tồn vận động quay C1-C2. Người già hoặc đường gãy chéo ngược: Hàn C1-C2 lối sau (Harms construct).",
+    "complications": "Không liền xương dẫn đến mất vững khớp đội trục đe dọa chèn ép hành tủy tử vong; Di lệch thứ phát làm hẹp ống sống cổ cao."
   },
   {
     "id": "bado_monteggia",
@@ -1526,7 +1611,12 @@
       "57-10",
       "57-1",
       "57-2"
-    ]
+    ],
+    "overview": "Phân loại Bado (1967) phân loại tổn thương gãy xương trụ kèm trật chỏm xương quay thành 4 Type dựa theo hướng di lệch của chỏm quay. Mọi gãy xương trụ đơn độc bắt buộc phải chụp khớp khuỷu để tránh bỏ sót.",
+    "mechanism": "Ngã chống tay kèm cẳng tay xoay sấp quá mức hoặc đòn đánh trực tiếp vào bờ sau xương trụ.",
+    "imaging": "X-quang cẳng tay lấy đủ 2 khớp (khuỷu và cổ tay). Trục chỏm quay (radiocapitellar line) phải luôn đi qua tâm chỏm con xương cánh tay.",
+    "treatment_principles": "Nắn chỉnh giải phẫu tuyệt đối chiều dài và trục xoay xương trụ bằng nẹp nén ép (DCP 3.5mm). Khi xương trụ về đúng giải phẫu, chỏm quay thường tự động về khớp.",
+    "complications": "Bỏ sót trật chỏm quay gây cứng khớp khuỷu mạn tính; Tổn thương thần kinh gian cốt sau (PIN); Can lệch xương trụ."
   },
   {
     "id": "galeazzi",
@@ -1578,7 +1668,12 @@
       "57-10",
       "57-3",
       "73-1"
-    ]
+    ],
+    "overview": "Tổn thương Galeazzi gồm gãy thân xương quay kèm trật hoặc mất vững khớp quay trụ dưới (DRUJ). Được mệnh danh là 'Gãy xương cần sự tôn trọng tuyệt đối' vì điều trị bảo tồn hầu như luôn thất bại ở người lớn.",
+    "mechanism": "Ngã chống tay với cẳng tay xoay sấp tối đa hoặc chấn thương vặn xoắn cổ tay năng lượng cao.",
+    "imaging": "X-quang cẳng tay thẳng và nghiêng chuẩn lấy đủ khớp khuỷu và cổ tay. Đánh giá độ giãn rộng khoang DRUJ > 2mm.",
+    "treatment_principles": "Mổ nẹp nén ép giải phẫu tuyệt đối xương quay qua đường mổ Henry. Kiểm tra độ vững khớp DRUJ: nếu mất vững, xuyên kim Kirschner cố định khớp quay trụ dưới 4-6 tuần.",
+    "complications": "Mất vững mạn tính khớp quay trụ dưới; Giảm tầm sấp ngửa cẳng tay; Đau mạn tính bờ trụ cổ tay do rách sụn tam giác TFCC."
   },
   {
     "id": "winquist_hansen",
@@ -1663,7 +1758,12 @@
       "54-1",
       "54-2",
       "54-3"
-    ]
+    ],
+    "overview": "Phân loại Winquist-Hansen (1984) phân loại gãy thân xương đùi dựa trên mức độ dập nát (comminution) của vỏ xương, quyết định mức độ vững cơ học sau khi đóng đinh nội tủy.",
+    "mechanism": "Lực chấn thương năng lượng cao uốn cong, dồn nén hoặc xoắn vặn thân xương đùi.",
+    "imaging": "X-quang xương đùi lấy đủ 2 khớp (khớp háng và khớp gối).",
+    "treatment_principles": "TIÊU CHUẨN VÀNG: Đinh nội tủy có chốt xuôi dòng (Antegrade Interlocking Intramedullary Nailing). Type I-II có thể chốt tĩnh hoặc chốt động. Type III-IV bắt buộc chốt tĩnh cả đầu gần và đầu xa để kiểm soát chiều dài và chống xoay.",
+    "complications": "Tắc mạch mỡ (Fat Embolism Syndrome - FES); Can lệch xoay xương đùi; Chậm liền xương hoặc gãy đinh nội tủy."
   },
   {
     "id": "ruedi_allgower",
@@ -1727,7 +1827,12 @@
       "54-20",
       "54-21",
       "54-22"
-    ]
+    ],
+    "overview": "Phân loại Rüedi-Allgöwer (1979) phân loại gãy vỡ trần diện khớp đầu dưới xương chày (Pilon chày) do xương sên bị dồn ép như búa tạ đóng thẳng vào trần mâm chày.",
+    "mechanism": "Ngã từ trên cao xuống hoặc tai nạn xe máy với bàn chân đạp thẳng xuống sàn, lực nén dọc trục dồn ép lên diện khớp chày.",
+    "imaging": "X-quang cổ chân 3 tư thế chuẩn. BẮT BUỘC chụp CT-Scan 3D xác định mảnh trước ngoài (Chaput), mảnh sau ngoài (Volkmann) và mắt cá trong.",
+    "treatment_principles": "Chiến lược 2 thì bảo vệ phần mềm: Thì 1 đặt khung cố định ngoài bắc cầu qua cổ chân + nẹp xương mác. Đợi 10-14 ngày da hết phù nề mới làm Thì 2: Mổ ít xâm lấn (MIPO) nắn diện khớp và nẹp khóa.",
+    "complications": "Hoại tử da lộ xương và dụng cụ; Nhiễm trùng sâu viêm xương tủy cổ chân; Thoái hóa khớp cổ chân dẫn đến hàn khớp (Arthrodesis)."
   },
   {
     "id": "colles_smith_barton",
@@ -1791,7 +1896,12 @@
       "73-1",
       "73-2",
       "73-3"
-    ]
+    ],
+    "overview": "Gãy đầu dưới xương quay là tổn thương xương phổ biến nhất chi trên, gồm: Gãy Colles (di lệch lưng bàn tay), Gãy Smith (di lệch lòng bàn tay), Gãy Barton (gãy trật nội khớp cổ tay).",
+    "mechanism": "Gãy Colles do ngã chống tay duỗi cổ tay. Gãy Smith do ngã chống mu tay gập cổ tay. Gãy Barton do lực nén ép kèm trật khớp.",
+    "imaging": "X-quang cổ tay 2 tư thế thẳng (PA) và nghiêng chuẩn. Đánh giá độ nghiêng xương quay (~22°), chiều cao xương quay (~11-12mm), độ nghiêng mặt lòng (~11°).",
+    "treatment_principles": "Phục hồi độ nghiêng mặt lòng, chiều cao xương quay và diện khớp phẳng (< 2mm). Gãy mất vững hoặc gãy nội khớp chỉ định mổ nẹp khóa mặt lòng (Volar Locking Plate - VLP).",
+    "complications": "Hội chứng ống cổ tay cấp; Đứt gân duỗi dài ngón cái (EPL); Hội chứng đau loạn dưỡng vùng phức tạp (CRPS); Cứng cổ tay."
   },
   {
     "id": "russell_taylor",
@@ -1864,6 +1974,11 @@
       "55-6",
       "55-7",
       "55-8"
-    ]
+    ],
+    "overview": "Phân loại Russell-Taylor (1992) phân loại gãy dưới mấu chuyển xương đùi (Subtrochanteric Fractures) dựa trên việc đường gãy có lan vào hố mấu chuyển (trochanteric fossa) và mấu chuyển bé hay không, quyết định loại đinh nội tủy sử dụng.",
+    "mechanism": "Vùng dưới mấu chuyển chịu lực nén ép cực lớn (lên tới 1.200 lbs/sq inch ở vỏ trong), lực cơ kéo làm đoạn gần gập, dạng và xoay ngoài.",
+    "imaging": "X-quang khớp háng và thân đùi thẳng và nghiêng chuẩn.",
+    "treatment_principles": "Type I (Hố mấu chuyển còn nguyên): Đinh nội tủy tái tạo (Reconstruction Nail / Cephalomedullary Nail) qua đỉnh mấu chuyển lớn. Type II (Hố mấu chuyển bị vỡ): Nẹp khóa đầu trên xương đùi (Proximal Femoral Locking Plate) hoặc đinh nội tủy có điểm vào cải tiến.",
+    "complications": "Gập góc vẹo trong (Varus malunion); Gãy nẹp hoặc đứt vít mấu chuyển; Không liền xương do vùng xương vỏ đặc ít mạch máu nuôi."
   }
 ]
