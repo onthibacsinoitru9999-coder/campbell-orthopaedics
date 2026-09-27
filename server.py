@@ -696,6 +696,16 @@ def serve_index():
         return FileResponse(index_file)
     return HTMLResponse("<h1>Campbell Web Navigator</h1><p>Static files loading...</p>")
 
+@app.get("/{page_name}.html")
+def serve_html_page(page_name: str):
+    target = os.path.join(BASE_DIR, f"{page_name}.html")
+    if os.path.exists(target):
+        return FileResponse(target)
+    target_static = os.path.join(BASE_DIR, "web", "static", f"{page_name}.html")
+    if os.path.exists(target_static):
+        return FileResponse(target_static)
+    raise HTTPException(status_code=404, detail="Page not found")
+
 if __name__ == "__main__":
     if "--prewarm" in sys.argv:
         print("Pre-warming technique pages...")

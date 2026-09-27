@@ -251,29 +251,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     console.error('Failed to load classifications:', e);
   }
 
-  try {
-    await loadCategories();
-  } catch (e) {
-    console.error('Failed to load categories:', e);
-  }
-
-  try {
-    await loadChapters();
-  } catch (e) {
-    console.error('Failed to load chapters:', e);
-  }
-
-  try {
-    await loadAuthors();
-  } catch (e) {
-    console.error('Failed to load authors:', e);
-  }
-
-  try {
-    await loadTechniques();
-  } catch (e) {
-    console.error('Failed to load techniques:', e);
-  }
+  // Pre-load supporting metadata in background without blocking initial render
+  setTimeout(async () => {
+    try { await loadCategories(); } catch (e) {}
+    try { await loadAuthors(); } catch (e) {}
+  }, 350);
 });
 
 // Setup Events
@@ -287,9 +269,13 @@ function setupEventListeners() {
   });
 
   // All Classifications Directory Search Input
+  let classifDebounce = null;
   if (classifSearchInput) {
     classifSearchInput.addEventListener('input', () => {
-      renderAllClassificationsDirectory(classifSearchInput.value, currentClassifRegion);
+      clearTimeout(classifDebounce);
+      classifDebounce = setTimeout(() => {
+        renderAllClassificationsDirectory(classifSearchInput.value, currentClassifRegion);
+      }, 120);
     });
   }
 
@@ -468,6 +454,9 @@ function setupEventListeners() {
   }
 }
 
+let techniquesLoaded = false;
+let chaptersLoaded = false;
+
 function switchTab(tabName) {
   currentTab = tabName;
   navTabs.forEach(btn => {
@@ -477,8 +466,20 @@ function switchTab(tabName) {
     section.classList.toggle('active', section.id === `view-${tabName}`);
   });
 
-  if (tabName === 'outline' && outlineContainer.children.length === 0) {
-    loadOutline();
+  if (tabName === 'techniques') {
+    if (!techniquesLoaded) {
+      techniquesLoaded = true;
+      loadTechniques();
+    }
+  } else if (tabName === 'chapters') {
+    if (!chaptersLoaded || (chaptersGrid && chaptersGrid.children.length === 0)) {
+      chaptersLoaded = true;
+      loadChapters();
+    }
+  } else if (tabName === 'outline') {
+    if (outlineContainer && outlineContainer.children.length === 0) {
+      loadOutline();
+    }
   }
 }
 
@@ -489,6 +490,7 @@ async function performSearch(customQuery) {
   if (!rawQ) {
     searchQuery = '';
     currentPage = 1;
+    techniquesLoaded = true;
     switchTab('techniques');
     loadTechniques();
     return;
@@ -515,6 +517,7 @@ async function performSearch(customQuery) {
   // Otherwise, standard techniques search
   searchQuery = rawQ;
   currentPage = 1;
+  techniquesLoaded = true;
   switchTab('techniques');
   loadTechniques();
 }
@@ -796,7 +799,7 @@ async function loadBoneClassifications(id, boneInfo) {
         </div>
         ${item.image_url ? `
           <div class="classif-image-wrap">
-            <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" onclick="openImageLightbox('${item.image_url}', '${escapeHtml(item.name)} - Sơ đồ giải phẫu & hướng phẫu thuật Campbell')">
+            <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" data-img-url="${item.image_url}" data-caption="${escapeHtml(item.name + ' - Sơ đồ giải phẫu & hướng phẫu thuật Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
             <div class="image-caption">🔍 Sơ đồ phân loại chuẩn Campbell • Nhấn để phóng to</div>
           </div>
         ` : ''}
@@ -1234,7 +1237,7 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
 
       ${item.image_url ? `
         <div class="classif-image-wrap">
-          <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" onclick="openImageLightbox('${item.image_url}', '${escapeHtml(item.name)} - Sơ đồ phân loại & hướng phẫu thuật Campbell')">
+          <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" data-img-url="${item.image_url}" data-caption="${escapeHtml(item.name + ' - Sơ đồ phân loại & hướng phẫu thuật Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
           <div class="image-caption">🔍 Sơ đồ phân loại & hướng điều trị chuẩn Campbell • Nhấn để phóng to</div>
         </div>
       ` : ''}
@@ -1323,7 +1326,7 @@ async function openClassificationProtocol(classifId) {
     <div class="clinical-card-wrapper">
       ${item.image_url ? `
         <div class="classif-image-wrap">
-          <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" onclick="openImageLightbox('${item.image_url}', '${escapeHtml(item.name)} - Sơ đồ phân loại & hướng phẫu thuật Campbell')">
+          <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" data-img-url="${item.image_url}" data-caption="${escapeHtml(item.name + ' - Sơ đồ phân loại & hướng phẫu thuật Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
           <div class="image-caption">🔍 Sơ đồ phân loại & hướng điều trị chuẩn Campbell • Nhấn để phóng to</div>
         </div>
       ` : ''}
@@ -1465,6 +1468,28 @@ function formatTechniqueText(rawText) {
 // Structured Clinical Knowledge Base helpers
 let clinicalTechniquesCache = null;
 
+async function getClinicalTechnique(techId) {
+  const safeId = String(techId).replace('/', '_');
+  try {
+    const res = await fetch(`data/techniques/${safeId}.json`);
+    if (res.ok) {
+      return await res.json();
+    }
+  } catch (e) {}
+
+  if (clinicalTechniquesCache && (clinicalTechniquesCache[techId] || clinicalTechniquesCache[safeId])) {
+    return clinicalTechniquesCache[techId] || clinicalTechniquesCache[safeId];
+  }
+
+  if (!isStaticMode) {
+    try {
+      const res = await fetch(`/api/techniques/${techId}`);
+      if (res.ok) return await res.json();
+    } catch (e) {}
+  }
+  return null;
+}
+
 async function getClinicalTechniques() {
   if (clinicalTechniquesCache) return clinicalTechniquesCache;
   try {
@@ -1522,6 +1547,14 @@ function renderClinicalTechniqueCard(guide, rawFallback) {
         </div>
       ` : ''}
 
+      <!-- Contraindications -->
+      ${guide.contraindications ? `
+        <div class="clinical-box-contra">
+          <div class="clinical-box-contra-title">🚫 Chống chỉ định can thiệp</div>
+          <div class="clinical-section-body">${escapeHtml(guide.contraindications)}</div>
+        </div>
+      ` : ''}
+
       <!-- Patient Prep & Positioning -->
       ${guide.patient_prep ? `
         <div class="clinical-section-card">
@@ -1538,13 +1571,22 @@ function renderClinicalTechniqueCard(guide, rawFallback) {
         </div>
       ` : ''}
 
-      <!-- Operative Diagram / X-ray Figure -->
-      ${guide.image_url ? `
+      <!-- Operative Diagram / X-ray Figure / Gallery -->
+      ${(guide.images && guide.images.length > 0) ? `
+        <div class="tech-images-gallery">
+          ${guide.images.map(img => `
+            <div class="tech-image-card">
+              <img src="${img.url}" alt="${escapeHtml(img.caption || guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${img.url}" data-caption="${escapeHtml(img.caption || guide.name_vi)}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
+              <div class="image-caption">${img.type === 'xray' ? '🩻 Phim X-quang / Ca lâm sàng' : '🔍 Sơ đồ phẫu thuật Campbell'} • ${escapeHtml(img.caption || '')}</div>
+            </div>
+          `).join('')}
+        </div>
+      ` : (guide.image_url ? `
         <div class="tech-image-wrap">
-          <img src="${guide.image_url}" alt="${escapeHtml(guide.name_vi)}" class="tech-main-img" onclick="openImageLightbox('${guide.image_url}', '${escapeHtml(guide.name_vi)} - Sơ đồ kỹ thuật mổ chuẩn Campbell')">
+          <img src="${guide.image_url}" alt="${escapeHtml(guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${guide.image_url}" data-caption="${escapeHtml(guide.name_vi + ' - Sơ đồ kỹ thuật mổ chuẩn Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
           <div class="image-caption">🔍 Sơ đồ giải phẫu & kỹ thuật phẫu thuật thực hành chuẩn Campbell • Nhấn để phóng to</div>
         </div>
-      ` : ''}
+      ` : '')}
 
       <!-- Step-by-Step Operative Technique -->
       <div class="clinical-section-card">
@@ -1593,13 +1635,25 @@ function openImageLightbox(imgUrl, caption) {
   if (lightbox && img) {
     img.src = imgUrl;
     if (cap) cap.textContent = caption || '';
+    lightbox.classList.remove('zoomed');
     lightbox.classList.add('active');
+  }
+}
+
+function toggleLightboxZoom(e) {
+  if (e) e.stopPropagation();
+  const lightbox = document.getElementById('imageLightbox');
+  if (lightbox) {
+    lightbox.classList.toggle('zoomed');
   }
 }
 
 function closeImageLightbox() {
   const lightbox = document.getElementById('imageLightbox');
-  if (lightbox) lightbox.classList.remove('active');
+  if (lightbox) {
+    lightbox.classList.remove('active');
+    lightbox.classList.remove('zoomed');
+  }
 }
 
 // Open Technique Modal
@@ -1690,26 +1744,23 @@ async function openTechniqueModal(techId) {
       }
     }
 
-    // Load full extracted surgical text fallback
-    let fullText = tech.extracted_text || '';
-    if (!fullText) {
-      const allTexts = await getAllTechniqueTexts();
-      fullText = allTexts[techId] || '';
-    }
-    if (!fullText || fullText.length < 80) {
-      if (tech.pdf_page) {
-        const allPages = await getAllPagesText();
-        fullText = allPages[String(tech.pdf_page)] || '';
-      }
-    }
+    // Fast path: load lightweight 3-4KB micro-technique directly
+    const guide = await getClinicalTechnique(techId);
 
-    // Render structured clinical knowledge
-    const allGuides = await getClinicalTechniques();
-    const guide = allGuides[techId] || allGuides[String(techId)];
-
-    if (guide) {
-      modalExtractedText.innerHTML = renderClinicalTechniqueCard(guide, fullText);
+    if (guide && (guide.surgical_steps || guide.indications || guide.description_vi)) {
+      modalExtractedText.innerHTML = renderClinicalTechniqueCard(guide, tech.extracted_text || '');
     } else {
+      let fullText = tech.extracted_text || '';
+      if (!fullText) {
+        const allTexts = await getAllTechniqueTexts();
+        fullText = allTexts[techId] || '';
+      }
+      if (!fullText || fullText.length < 80) {
+        if (tech.pdf_page) {
+          const allPages = await getAllPagesText();
+          fullText = allPages[String(tech.pdf_page)] || '';
+        }
+      }
       modalExtractedText.innerHTML = formatTechniqueText(fullText);
     }
 
@@ -1875,7 +1926,12 @@ function normalizeStr(str) {
 
 function escapeHtml(str) {
   if (!str) return '';
-  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
 }
 
 async function loadAllClassificationsCache() {

@@ -203,8 +203,8 @@
   <!-- Image Lightbox Modal -->
   <div class="lightbox-overlay" id="imageLightbox" onclick="closeImageLightbox()">
     <button class="lightbox-close" onclick="closeImageLightbox()">&times;</button>
-    <img id="lightboxImg" src="" alt="Hình ảnh giải phẫu phóng to" onclick="event.stopPropagation()">
-    <div id="lightboxCaption" class="lightbox-caption"></div>
+    <img id="lightboxImg" src="" alt="Hình ảnh giải phẫu phóng to" onclick="toggleLightboxZoom(event)">
+    <div id="lightboxCaption" class="lightbox-caption" onclick="event.stopPropagation()"></div>
   </div>
 
   <!-- Compatibility stubs (hidden) for test assertions -->
