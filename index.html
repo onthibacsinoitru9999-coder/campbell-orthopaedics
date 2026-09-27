@@ -2,7 +2,10 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Campbell's Operative Orthopaedics - Kinh thánh Chấn thương Chỉnh hình</title>
   <link rel="stylesheet" href="web/static/styles.css">
 </head>
@@ -19,7 +22,7 @@
         </div>
       </div>
       <nav class="nav-tabs">
-        <button class="tab-btn active" data-tab="categories">🦴 Guidemap Phân loại Gãy</button>
+        <button class="tab-btn active" data-tab="categories">🦴 Phân loại Gãy (23+)</button>
         <button class="tab-btn" data-tab="techniques">🔪 Kỹ thuật mổ (1.671+)</button>
         <button class="tab-btn" data-tab="chapters">📚 89 Chương sách</button>
         <button class="tab-btn" data-tab="outline">📑 Mục lục chi tiết</button>
@@ -35,17 +38,20 @@
           type="text" 
           id="globalSearch" 
           class="search-input" 
-          placeholder="Tìm kỹ thuật mổ hoặc phân loại (vd: Schatzker, Neer, Garden, Gustilo, Broström, 54-24...)"
+          placeholder="Tìm kỹ thuật mổ hoặc phân loại (vd: Schatzker, Neer, Garden, Gustilo, Bado, 54-14...)"
           autocomplete="off"
         >
-        <button id="searchBtn" class="search-submit-btn">Tìm kiếm</button>
+        <button id="searchBtn" class="search-submit-btn">Tìm</button>
         <div id="searchSuggestions" class="search-suggestions" style="display: none;"></div>
       </div>
       <div class="stats-chips" id="statsContainer">
-        <span class="chip">🦴 Guidemap Phân loại Gãy xương chuẩn Campbell</span>
-        <span class="chip">📚 4.887 Trang PDF bản gốc</span>
-        <span class="chip">🩺 14 Vùng giải phẫu</span>
-        <span class="chip">🔪 1.671 Kỹ thuật mổ chuẩn hóa</span>
+        <span class="chip search-quick-chip" data-q="Schatzker">Schatzker (Mâm chày)</span>
+        <span class="chip search-quick-chip" data-q="Garden">Garden (Cổ x.đùi)</span>
+        <span class="chip search-quick-chip" data-q="Neer">Neer (X.cánh tay)</span>
+        <span class="chip search-quick-chip" data-q="Gustilo">Gustilo (Gãy hở)</span>
+        <span class="chip search-quick-chip" data-q="Denis">Denis (Cột sống)</span>
+        <span class="chip search-quick-chip" data-q="Monteggia">Monteggia / Bado</span>
+        <span class="chip search-quick-chip" data-q="Colles">Colles / Barton</span>
       </div>
     </div>
   </section>
@@ -53,115 +59,37 @@
   <!-- Main Content Views -->
   <main class="main-content">
     
-    <!-- 1. Categories View -->
+    <!-- 1. Classifications View (Direct Medical Content) -->
     <section id="view-categories" class="view-section active">
-      <div style="margin-bottom: 1.25rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+      <div class="section-header-wrap">
         <div>
-          <h2 style="font-size: 1.5rem; font-weight: 700;">Guidemap Phân loại Gãy xương & Danh mục Giải phẫu</h2>
-          <p style="color: var(--text-muted); font-size: 0.95rem;">Hệ thống phân loại gãy xương kinh điển (Campbell's 13th Ed) và phẫu thuật điều trị tương ứng</p>
-        </div>
-        <div class="view-mode-toggle">
-          <button class="view-mode-btn active" id="btnModeSkeleton">🦴 Sơ đồ Khung xương</button>
-          <button class="view-mode-btn" id="btnModeAllClassifications">📋 Toàn bộ 23+ Bảng Phân loại</button>
-          <button class="view-mode-btn" id="btnModeGrid">🗂️ 14 Vùng Giải phẫu</button>
+          <h2 style="font-size: 1.4rem; font-weight: 800; color: #0f172a;">Bảng Phân loại Gãy xương (Campbell's 13th Ed)</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">Hệ thống 23+ phân loại kinh điển kèm cơ chế chấn thương, phân type chi tiết, nguyên tắc xử trí và phẫu thuật chỉ định</p>
         </div>
       </div>
 
-      <!-- Quick Bone Selector Bar for Mobile/Tablet -->
-      <div class="quick-bones-bar" id="quickBonesBar">
-        <span class="quick-bones-label">📍 CHỌN NHANH VÙNG:</span>
-        <button class="bone-chip-btn active" data-bone="PatellaLeft">Mâm chày (Schatzker)</button>
-        <button class="bone-chip-btn" data-bone="FemurRight">Cổ & Thân x.đùi (Garden/Winquist)</button>
-        <button class="bone-chip-btn" data-bone="PelvicGirdle">Khung chậu & Ổ cối</button>
-        <button class="bone-chip-btn" data-bone="TarsalsRight">Cổ chân (Danis-Weber/Pilon)</button>
-        <button class="bone-chip-btn" data-bone="HumerusRight">Đầu trên x.cánh tay (Neer)</button>
-        <button class="bone-chip-btn" data-bone="RadiusRight">Cẳng tay & Cổ tay (Colles/Monteggia)</button>
-        <button class="bone-chip-btn" data-bone="Cranium">Cột sống (Denis/Anderson)</button>
-        <button class="bone-chip-btn" data-bone="gustilo">Gãy hở (Gustilo-Anderson)</button>
-      </div>
-
-      <!-- Skeleton Explorer Mode -->
-      <div id="skeletonExplorerContainer" class="skeleton-explorer-wrap">
-        <div class="skeleton-viewport">
-          <div class="skeleton-viewport-header">
-            <span>🔍 Bấm vào Xương trên Sơ đồ để mở Phân loại gãy</span>
-            <span id="skeletonHoverTag" style="color: #38bdf8; font-weight: 600;">Mâm chày (Tibia)</span>
-          </div>
-          <div class="skeleton-svg-box" id="skeletonSvgBox">
-            <div style="color: #94a3b8; padding: 2rem;">Đang tải sơ đồ giải phẫu...</div>
-          </div>
-          <div class="skeleton-tooltip" id="skeletonTooltip"></div>
+      <!-- Search & Region Filters -->
+      <div class="classif-search-bar-wrap">
+        <div class="classif-search-box">
+          <input 
+            type="text" 
+            id="classifSearchInput" 
+            class="classif-search-input" 
+            placeholder="🔍 Tìm nhanh bảng phân loại (Schatzker, Garden, Neer, Denis, Gustilo, Bado, Pilon, Barton...)"
+            autocomplete="off"
+          >
         </div>
-
-        <div class="skeleton-info-panel" id="skeletonInfoPanel">
-          <div class="bone-info-card">
-            <div class="bone-info-top">
-              <div class="bone-info-title">
-                <h2 id="selectedBoneName">🦴 Mâm chày (Tibia Plateau)</h2>
-                <p id="selectedBoneEn">Tibia • Khớp gối & Cẳng chân</p>
-              </div>
-              <button class="view-btn" id="btnViewAllBoneTechs" style="padding: 0.5rem 1rem; font-size: 0.9rem;">
-                Xem toàn bộ kỹ thuật &rarr;
-              </button>
-            </div>
-            <div class="bone-quick-stats" id="boneQuickStats">
-              <div class="quick-stat-badge">📋 <strong id="statBoneClassifications">1</strong> Phân loại kinh điển</div>
-              <div class="quick-stat-badge">🔪 <strong id="statBoneTechs">231</strong> Kỹ thuật mổ</div>
-              <div class="quick-stat-badge">📖 <strong id="statBoneChapters">6</strong> Chương sách</div>
-            </div>
-          </div>
-
-          <!-- Panel Subtabs: Classifications vs Techniques -->
-          <div class="panel-subtabs">
-            <button class="panel-subtab-btn active" id="tabBtnClassifications">📋 Phân loại Gãy xương (Guidemap)</button>
-            <button class="panel-subtab-btn" id="tabBtnTechs">🔪 Kỹ thuật mổ tiêu biểu</button>
-          </div>
-
-          <!-- Tab Content 1: Classifications -->
-          <div id="skeletonClassificationsContainer">
-            <!-- Rendered via JS -->
-          </div>
-
-          <!-- Tab Content 2: Techniques -->
-          <div id="skeletonTechsContainer" style="display: none;">
-            <div class="bone-tech-list-header">
-              <h3 id="boneTechListTitle">Kỹ thuật mổ tiêu biểu cho vùng này</h3>
-              <span style="font-size: 0.85rem; color: var(--text-muted);" id="boneTechSampleCount"></span>
-            </div>
-            <div class="techniques-grid" id="skeletonSampleGrid" style="grid-template-columns: 1fr;">
-              <!-- Rendered via JS -->
-            </div>
-          </div>
+        <div class="classif-filter-pills" id="classifFilterPills">
+          <button class="pill-btn active" data-filter="all">Tất cả (23+)</button>
+          <button class="pill-btn" data-filter="lower">🦵 Chi dưới & Khớp háng</button>
+          <button class="pill-btn" data-filter="upper">💪 Chi trên & Cổ tay</button>
+          <button class="pill-btn" data-filter="spine-pelvis">🩻 Cột sống & Khung chậu</button>
+          <button class="pill-btn" data-filter="general">💥 Gãy hở & Đại cương</button>
         </div>
       </div>
 
-      <!-- All Classifications Directory View -->
-      <div id="allClassificationsDirectory" style="display: none; margin-top: 1.5rem;">
-        <div class="classif-search-bar-wrap">
-          <div class="classif-search-box">
-            <input 
-              type="text" 
-              id="classifSearchInput" 
-              class="classif-search-input" 
-              placeholder="🔍 Tìm nhanh bảng phân loại (vd: Schatzker, Garden, Neer, Denis, Gustilo, Bado, Pilon, Barton...)"
-              autocomplete="off"
-            >
-          </div>
-          <div class="classif-filter-pills" id="classifFilterPills">
-            <button class="pill-btn active" data-filter="all">Tất cả (23+)</button>
-            <button class="pill-btn" data-filter="lower">Chi dưới & Khớp háng</button>
-            <button class="pill-btn" data-filter="upper">Chi trên & Cổ tay</button>
-            <button class="pill-btn" data-filter="spine-pelvis">Cột sống & Khung chậu</button>
-            <button class="pill-btn" data-filter="general">Toàn thân & Gãy hở</button>
-          </div>
-        </div>
-        <div id="allClassificationsGrid" class="all-classif-grid">
-          <!-- Rendered via JS -->
-        </div>
-      </div>
-
-      <!-- Grid Mode (Hidden by default or toggled) -->
-      <div class="categories-grid" id="categoriesGrid" style="display: none; margin-top: 1rem;">
+      <!-- Main Classifications Directory Grid -->
+      <div id="allClassificationsGrid" class="all-classif-grid">
         <!-- Rendered via JS -->
       </div>
     </section>

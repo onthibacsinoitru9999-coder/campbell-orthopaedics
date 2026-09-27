@@ -214,13 +214,12 @@ const BONE_MAPPINGS = {
 // Initialization
 document.addEventListener('DOMContentLoaded', async () => {
   setupEventListeners();
-  initQuickBonesBar();
+  await loadAllClassificationsCache();
+  renderAllClassificationsDirectory();
   await loadCategories();
   await loadChapters();
   await loadAuthors();
   await loadTechniques();
-  await initSkeletonExplorer();
-  await loadAllClassificationsCache();
 });
 
 // Setup Events
@@ -232,44 +231,6 @@ function setupEventListeners() {
       switchTab(tab);
     });
   });
-
-  // View Mode Switcher in Categories (3 Modes)
-  if (btnModeSkeleton) {
-    btnModeSkeleton.addEventListener('click', () => {
-      btnModeSkeleton.classList.add('active');
-      if (btnModeAllClassifications) btnModeAllClassifications.classList.remove('active');
-      if (btnModeGrid) btnModeGrid.classList.remove('active');
-      if (skeletonExplorerContainer) skeletonExplorerContainer.style.display = 'grid';
-      if (quickBonesBar) quickBonesBar.style.display = 'flex';
-      if (allClassificationsDirectory) allClassificationsDirectory.style.display = 'none';
-      if (categoriesGrid) categoriesGrid.style.display = 'none';
-    });
-  }
-
-  if (btnModeAllClassifications) {
-    btnModeAllClassifications.addEventListener('click', () => {
-      btnModeAllClassifications.classList.add('active');
-      if (btnModeSkeleton) btnModeSkeleton.classList.remove('active');
-      if (btnModeGrid) btnModeGrid.classList.remove('active');
-      if (skeletonExplorerContainer) skeletonExplorerContainer.style.display = 'none';
-      if (quickBonesBar) quickBonesBar.style.display = 'none';
-      if (allClassificationsDirectory) allClassificationsDirectory.style.display = 'block';
-      if (categoriesGrid) categoriesGrid.style.display = 'none';
-      renderAllClassificationsDirectory();
-    });
-  }
-
-  if (btnModeGrid) {
-    btnModeGrid.addEventListener('click', () => {
-      btnModeGrid.classList.add('active');
-      if (btnModeSkeleton) btnModeSkeleton.classList.remove('active');
-      if (btnModeAllClassifications) btnModeAllClassifications.classList.remove('active');
-      if (skeletonExplorerContainer) skeletonExplorerContainer.style.display = 'none';
-      if (quickBonesBar) quickBonesBar.style.display = 'none';
-      if (allClassificationsDirectory) allClassificationsDirectory.style.display = 'none';
-      if (categoriesGrid) categoriesGrid.style.display = 'grid';
-    });
-  }
 
   // All Classifications Directory Search Input
   if (classifSearchInput) {
@@ -290,6 +251,16 @@ function setupEventListeners() {
       });
     });
   }
+
+  // Quick Search Chips in Hero
+  const quickChips = document.querySelectorAll('.search-quick-chip');
+  quickChips.forEach(chip => {
+    chip.addEventListener('click', () => {
+      const q = chip.dataset.q;
+      if (globalSearch) globalSearch.value = q;
+      performSearch(q);
+    });
+  });
 
   // Global Search
   searchBtn.addEventListener('click', () => performSearch());
@@ -489,31 +460,37 @@ function setupEventListeners() {
     }
   });
 
-  // Skeleton Panel Subtabs
-  tabBtnClassifications.addEventListener('click', () => {
-    tabBtnClassifications.classList.add('active');
-    tabBtnTechs.classList.remove('active');
-    skeletonClassificationsContainer.style.display = 'block';
-    skeletonTechsContainer.style.display = 'none';
-  });
+  // Skeleton Panel Subtabs (if present)
+  if (tabBtnClassifications) {
+    tabBtnClassifications.addEventListener('click', () => {
+      tabBtnClassifications.classList.add('active');
+      if (tabBtnTechs) tabBtnTechs.classList.remove('active');
+      if (skeletonClassificationsContainer) skeletonClassificationsContainer.style.display = 'block';
+      if (skeletonTechsContainer) skeletonTechsContainer.style.display = 'none';
+    });
+  }
 
-  tabBtnTechs.addEventListener('click', () => {
-    tabBtnTechs.classList.add('active');
-    tabBtnClassifications.classList.remove('active');
-    skeletonClassificationsContainer.style.display = 'none';
-    skeletonTechsContainer.style.display = 'block';
-  });
+  if (tabBtnTechs) {
+    tabBtnTechs.addEventListener('click', () => {
+      tabBtnTechs.classList.add('active');
+      if (tabBtnClassifications) tabBtnClassifications.classList.remove('active');
+      if (skeletonClassificationsContainer) skeletonClassificationsContainer.style.display = 'none';
+      if (skeletonTechsContainer) skeletonTechsContainer.style.display = 'block';
+    });
+  }
 
-  // Skeleton View All Button
-  btnViewAllBoneTechs.addEventListener('click', () => {
-    if (currentBoneSelection && currentBoneSelection.category) {
-      categoryFilter.value = currentBoneSelection.category;
-      currentCategory = currentBoneSelection.category;
-      currentPage = 1;
-      switchTab('techniques');
-      loadTechniques();
-    }
-  });
+  // Skeleton View All Button (if present)
+  if (btnViewAllBoneTechs) {
+    btnViewAllBoneTechs.addEventListener('click', () => {
+      if (currentBoneSelection && currentBoneSelection.category) {
+        categoryFilter.value = currentBoneSelection.category;
+        currentCategory = currentBoneSelection.category;
+        currentPage = 1;
+        switchTab('techniques');
+        loadTechniques();
+      }
+    });
+  }
 }
 
 function switchTab(tabName) {
@@ -556,46 +533,7 @@ async function performSearch(customQuery) {
   });
 
   if (matchedClass) {
-    // Navigate directly to Guidemap view and highlight classification
-    switchTab('categories');
-    if (btnModeSkeleton && !btnModeSkeleton.classList.contains('active')) {
-      btnModeSkeleton.click();
-    }
-
-    let targetBoneId = null;
-    if (matchedClass.svg_ids && matchedClass.svg_ids.length > 0) {
-      targetBoneId = matchedClass.svg_ids.find(id => BONE_MAPPINGS[id]) || matchedClass.svg_ids[0];
-    } else if (matchedClass.bone_id && BONE_MAPPINGS[matchedClass.bone_id]) {
-      targetBoneId = matchedClass.bone_id;
-    } else if (matchedClass.category) {
-      targetBoneId = Object.keys(BONE_MAPPINGS).find(k => BONE_MAPPINGS[k].category === matchedClass.category);
-    }
-
-    if (targetBoneId && BONE_MAPPINGS[targetBoneId]) {
-      await selectBone(targetBoneId, BONE_MAPPINGS[targetBoneId]);
-    }
-
-    if (tabBtnClassifications) {
-      tabBtnClassifications.click();
-    }
-
-    setTimeout(() => {
-      const cards = skeletonClassificationsContainer.querySelectorAll('.classification-card');
-      cards.forEach(card => {
-        const text = normalizeStr(card.textContent);
-        if (text.includes(normQuery) || text.includes(normalizeStr(matchedClass.name))) {
-          card.style.transition = 'all 0.3s ease';
-          card.style.borderColor = '#0284c7';
-          card.style.boxShadow = '0 0 0 3px rgba(2, 132, 199, 0.4)';
-          card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          setTimeout(() => {
-            card.style.borderColor = '';
-            card.style.boxShadow = '';
-          }, 3500);
-        }
-      });
-    }, 150);
-
+    scrollToClassification(matchedClass.id);
     return;
   }
 
@@ -604,6 +542,27 @@ async function performSearch(customQuery) {
   currentPage = 1;
   switchTab('techniques');
   loadTechniques();
+}
+
+function scrollToClassification(classifId) {
+  switchTab('categories');
+  const matchedClass = allClassesData.find(c => c.id === classifId);
+  const searchTerm = matchedClass ? matchedClass.name : '';
+  if (classifSearchInput) classifSearchInput.value = searchTerm;
+  renderAllClassificationsDirectory(searchTerm, 'all');
+  setTimeout(() => {
+    const card = document.getElementById(`all-classif-${classifId}`);
+    if (card) {
+      card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      card.style.transition = 'all 0.3s ease';
+      card.style.borderColor = '#0284c7';
+      card.style.boxShadow = '0 0 0 3px rgba(2, 132, 199, 0.4)';
+      setTimeout(() => {
+        card.style.borderColor = '';
+        card.style.boxShadow = '';
+      }, 3500);
+    }
+  }, 120);
 }
 
 // ----------------- SKELETON EXPLORER -----------------
@@ -1420,11 +1379,7 @@ async function openTechniqueModal(techId) {
         if (btnGo) {
           btnGo.onclick = () => {
             techModal.classList.remove('active');
-            switchTab('categories');
-            if (btnModeSkeleton && !btnModeSkeleton.classList.contains('active')) btnModeSkeleton.click();
-            const boneKey = (linkedClass.svg_ids && linkedClass.svg_ids.find(k => BONE_MAPPINGS[k])) || linkedClass.bone_id || Object.keys(BONE_MAPPINGS).find(k => BONE_MAPPINGS[k].category === linkedClass.category);
-            if (boneKey && BONE_MAPPINGS[boneKey]) selectBone(boneKey, BONE_MAPPINGS[boneKey]);
-            if (tabBtnClassifications) tabBtnClassifications.click();
+            scrollToClassification(linkedClass.id);
           };
         }
       } else {
@@ -1723,15 +1678,7 @@ async function handleSearchAutocomplete() {
     div.addEventListener('click', () => {
       closeSuggestions();
       globalSearch.value = item.name;
-      switchTab('categories');
-      btnModeSkeleton.click();
-      if (item.bone_id && BONE_MAPPINGS[item.bone_id]) {
-        selectBone(item.bone_id, BONE_MAPPINGS[item.bone_id]);
-      } else {
-        const boneKey = Object.keys(BONE_MAPPINGS).find(k => BONE_MAPPINGS[k].category === item.category);
-        if (boneKey) selectBone(boneKey, BONE_MAPPINGS[boneKey]);
-      }
-      tabBtnClassifications.click();
+      scrollToClassification(item.id);
     });
     searchSuggestions.appendChild(div);
   });
@@ -1866,11 +1813,7 @@ async function handleTechniqueSearchAutocomplete() {
     `;
     div.addEventListener('click', () => {
       closeTechniqueSuggestions();
-      switchTab('categories');
-      if (btnModeSkeleton && !btnModeSkeleton.classList.contains('active')) btnModeSkeleton.click();
-      const boneKey = (item.svg_ids && item.svg_ids.find(k => BONE_MAPPINGS[k])) || item.bone_id || Object.keys(BONE_MAPPINGS).find(k => BONE_MAPPINGS[k].category === item.category);
-      if (boneKey && BONE_MAPPINGS[boneKey]) selectBone(boneKey, BONE_MAPPINGS[boneKey]);
-      tabBtnClassifications.click();
+      scrollToClassification(item.id);
     });
     techniqueSuggestions.appendChild(div);
   });
