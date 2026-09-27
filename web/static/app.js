@@ -96,8 +96,10 @@ let allClassesData = [];
 let allTechniquesData = [];
 let debounceTimer = null;
 let activeSuggestionIndex = -1;
-let isStaticMode = window.location.hostname.includes('github.io') || window.location.protocol === 'file:';
 const GDRIVE_PDF_URL = 'https://drive.google.com/file/d/1O1yB4AHK5heNfXyokgoCF9a8rJmWh-hy/view';
+let isStaticMode = window.location.hostname.includes('github.io') || 
+                   window.location.protocol === 'file:' || 
+                   (window.location.port !== '8000' && window.location.port !== '');
 
 // Universal Data Loader (Supports both FastAPI backend & GitHub Pages static mode)
 async function loadStaticOrApi(apiUrl, staticPath) {
@@ -211,15 +213,39 @@ const BONE_MAPPINGS = {
   l_Ribs: { nameVi: 'Khung xương sườn & Lồng ngực', nameEn: 'Ribs & Thoracic Cage', category: 'Spine', chapters: [37, 44], approaches: 5 }
 };
 
-// Initialization
 document.addEventListener('DOMContentLoaded', async () => {
   setupEventListeners();
-  await loadAllClassificationsCache();
-  renderAllClassificationsDirectory();
-  await loadCategories();
-  await loadChapters();
-  await loadAuthors();
-  await loadTechniques();
+
+  try {
+    await loadAllClassificationsCache();
+    renderAllClassificationsDirectory();
+  } catch (e) {
+    console.error('Failed to load classifications:', e);
+  }
+
+  try {
+    await loadCategories();
+  } catch (e) {
+    console.error('Failed to load categories:', e);
+  }
+
+  try {
+    await loadChapters();
+  } catch (e) {
+    console.error('Failed to load chapters:', e);
+  }
+
+  try {
+    await loadAuthors();
+  } catch (e) {
+    console.error('Failed to load authors:', e);
+  }
+
+  try {
+    await loadTechniques();
+  } catch (e) {
+    console.error('Failed to load techniques:', e);
+  }
 });
 
 // Setup Events
@@ -847,47 +873,65 @@ async function loadCategories() {
   try {
     categoriesData = await loadStaticOrApi('/api/categories', 'data/anatomical_categories.json');
 
-    // Populate category dropdown
-    categoryFilter.innerHTML = '<option value="">Tất cả vùng giải phẫu</option>';
-    categoriesData.forEach(cat => {
-      const opt = document.createElement('option');
-      opt.value = cat.id;
-      opt.textContent = `${cat.icon} ${cat.vi} (${cat.technique_count} kỹ thuật)`;
-      categoryFilter.appendChild(opt);
-    });
+    // Convert object map to array if in static mode
+    if (categoriesData && !Array.isArray(categoriesData) && typeof categoriesData === 'object') {
+      categoriesData = Object.entries(categoriesData).map(([id, cat]) => ({
+        id: id,
+        vi: cat.vi || id,
+        icon: cat.icon || '🦴',
+        chapters: cat.chapters || [],
+        chapter_count: (cat.chapters || []).length,
+        technique_count: 0
+      }));
+    }
 
-    // Render Categories Grid
-    categoriesGrid.innerHTML = '';
-    categoriesData.forEach(cat => {
-      const card = document.createElement('div');
-      card.className = 'category-card';
-      card.innerHTML = `
-        <div>
-          <div class="cat-top">
-            <div class="cat-icon">${cat.icon}</div>
-            <div class="cat-title">
-              <h3>${cat.vi}</h3>
-              <span>${cat.id}</span>
-            </div>
-          </div>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem;">
-            Bao gồm các chương: ${cat.chapters.map(c => `Ch.${c}`).join(', ')}
-          </p>
-        </div>
-        <div class="cat-meta">
-          <span class="badge badge-chapter">📚 ${cat.chapter_count} Chương</span>
-          <span class="badge">🔪 ${cat.technique_count} Kỹ thuật mổ</span>
-        </div>
-      `;
-      card.addEventListener('click', () => {
-        categoryFilter.value = cat.id;
-        currentCategory = cat.id;
-        currentPage = 1;
-        switchTab('techniques');
-        loadTechniques();
+    if (!Array.isArray(categoriesData)) categoriesData = [];
+
+    // Populate category dropdown
+    if (categoryFilter) {
+      categoryFilter.innerHTML = '<option value="">Tất cả vùng giải phẫu</option>';
+      categoriesData.forEach(cat => {
+        const opt = document.createElement('option');
+        opt.value = cat.id;
+        opt.textContent = `${cat.icon} ${cat.vi}` + (cat.technique_count ? ` (${cat.technique_count} kỹ thuật)` : '');
+        categoryFilter.appendChild(opt);
       });
-      categoriesGrid.appendChild(card);
-    });
+    }
+
+    // Render Categories Grid if element exists
+    if (categoriesGrid) {
+      categoriesGrid.innerHTML = '';
+      categoriesData.forEach(cat => {
+        const card = document.createElement('div');
+        card.className = 'category-card';
+        card.innerHTML = `
+          <div>
+            <div class="cat-top">
+              <div class="cat-icon">${cat.icon}</div>
+              <div class="cat-title">
+                <h3>${cat.vi}</h3>
+                <span>${cat.id}</span>
+              </div>
+            </div>
+            <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem;">
+              Bao gồm các chương: ${(cat.chapters || []).map(c => `Ch.${c}`).join(', ')}
+            </p>
+          </div>
+          <div class="cat-meta">
+            <span class="badge badge-chapter">📚 ${cat.chapter_count} Chương</span>
+            ${cat.technique_count ? `<span class="badge">🔪 ${cat.technique_count} Kỹ thuật mổ</span>` : ''}
+          </div>
+        `;
+        card.addEventListener('click', () => {
+          if (categoryFilter) categoryFilter.value = cat.id;
+          currentCategory = cat.id;
+          currentPage = 1;
+          switchTab('techniques');
+          loadTechniques();
+        });
+        categoriesGrid.appendChild(card);
+      });
+    }
   } catch (err) {
     console.error('Failed to load categories:', err);
   }
@@ -1252,6 +1296,7 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
 
 // Full-text loading & formatting helpers
 let allTechniqueTextsCache = null;
+let allPagesTextCache = null;
 
 async function getAllTechniqueTexts() {
   if (allTechniqueTextsCache) return allTechniqueTextsCache;
@@ -1263,6 +1308,20 @@ async function getAllTechniqueTexts() {
     }
   } catch (e) {
     console.warn('Failed to load techniques_text.json:', e);
+  }
+  return {};
+}
+
+async function getAllPagesText() {
+  if (allPagesTextCache) return allPagesTextCache;
+  try {
+    const res = await fetch('data/pages_text.json');
+    if (res.ok) {
+      allPagesTextCache = await res.json();
+      return allPagesTextCache;
+    }
+  } catch (e) {
+    console.warn('Failed to load pages_text.json:', e);
   }
   return {};
 }
@@ -1393,6 +1452,12 @@ async function openTechniqueModal(techId) {
       const allTexts = await getAllTechniqueTexts();
       fullText = allTexts[techId] || '';
     }
+    if (!fullText || fullText.length < 80) {
+      if (tech.pdf_page) {
+        const allPages = await getAllPagesText();
+        fullText = allPages[String(tech.pdf_page)] || '';
+      }
+    }
 
     modalExtractedText.innerHTML = formatTechniqueText(fullText);
 
@@ -1478,14 +1543,48 @@ function renderTreeNode(node) {
   return div;
 }
 
-function openPageImageDirect(pageNum, title) {
+async function openPageImageDirect(pageNum, title) {
   techModal.classList.add('active');
-  modalTechId.textContent = `MỤC LỤC TRANG ${pageNum}`;
-  modalTechTitle.textContent = title;
-  modalTechMeta.textContent = `Trang PDF: ${pageNum} / 4.887`;
+  modalTechId.textContent = `CAMPBELL 13TH ED • TRANG ${pageNum}`;
+  modalTechTitle.textContent = title || `Trang Sách Campbell ${pageNum}`;
+  modalTechMeta.textContent = `Vị trí: Trang PDF ${pageNum} / 4.887 • 4-Volume Set`;
   applyZoom(1.0);
   setModalPdfPage(pageNum);
-  modalExtractedText.textContent = `Đang mở đề mục: ${title}`;
+
+  // Switch to extracted text tab so reader sees content immediately
+  const tabBtnText = document.querySelector('.modal-tab-btn[data-modaltab="extractedText"]');
+  if (tabBtnText) tabBtnText.click();
+
+  modalExtractedText.innerHTML = '<div style="padding: 2rem; color: var(--text-muted); text-align: center;">Đang nạp toàn văn trang sách từ Campbell...</div>';
+  const allPages = await getAllPagesText();
+  const pageText = allPages[String(pageNum)] || allPages[pageNum] || '';
+
+  if (pageText) {
+    modalExtractedText.innerHTML = `
+      <div style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 0.85rem 1.25rem; margin-bottom: 1.25rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;">
+        <div>
+          <strong style="color: #166534; font-size: 0.95rem;">📖 Toàn văn trích xuất từ Bản gốc Campbell's 13th Ed (Trang ${pageNum})</strong>
+          <p style="color: #15803d; font-size: 0.825rem; margin-top: 0.2rem;">Đề mục: ${escapeHtml(title || 'Trang tài liệu')}</p>
+        </div>
+        <a href="${GDRIVE_PDF_URL}" target="_blank" class="search-submit-btn" style="text-decoration: none; padding: 0.4rem 0.85rem; font-size: 0.8rem; background: #16a34a;">
+          Mở PDF gốc &rarr;
+        </a>
+      </div>
+      ${formatTechniqueText(pageText)}
+    `;
+  } else {
+    modalExtractedText.innerHTML = `
+      <div style="padding: 2rem; background: #fff; border-radius: 8px; border: 1px solid var(--border); text-align: center;">
+        <h4 style="color: #0f172a; margin-bottom: 0.5rem;">📖 Đề mục: ${escapeHtml(title || '')}</h4>
+        <p style="color: #475569; line-height: 1.6; margin-bottom: 1.25rem;">
+          Đề mục này nằm tại <strong>Trang PDF ${pageNum} / 4.887</strong> trong bộ sách Campbell's Operative Orthopaedics.
+        </p>
+        <a href="${GDRIVE_PDF_URL}" target="_blank" class="search-submit-btn" style="display: inline-block; text-decoration: none; padding: 0.75rem 1.5rem; font-size: 0.95rem;">
+          🚀 Mở toàn văn sách trên Google Drive &rarr;
+        </a>
+      </div>
+    `;
+  }
 }
 
 // PDF Viewer Page Navigation & Zoom Helpers
@@ -1514,10 +1613,34 @@ function setModalPdfPage(pageNum) {
 
   if (isStaticMode) {
     if (modalPageImage) modalPageImage.style.display = 'none';
-    if (staticFallback) staticFallback.style.display = 'block';
-    if (staticPageNum) staticPageNum.textContent = `Trang PDF: ${pageNum} / 4887`;
-    if (btnOpenDrivePdf) btnOpenDrivePdf.href = drivePdfUrl;
-    if (downloadPageBtn) downloadPageBtn.href = drivePdfUrl;
+    if (staticFallback) {
+      staticFallback.style.display = 'block';
+      if (staticPageNum) staticPageNum.textContent = `Trang PDF: ${pageNum} / 4887`;
+      if (btnOpenDrivePdf) btnOpenDrivePdf.href = drivePdfUrl;
+      if (downloadPageBtn) downloadPageBtn.href = drivePdfUrl;
+
+      // Populate text preview in static tab
+      getAllPagesText().then(allPages => {
+        const txt = allPages[String(pageNum)] || allPages[pageNum] || '';
+        let previewBox = staticFallback.querySelector('.static-page-text-preview');
+        if (!previewBox) {
+          previewBox = document.createElement('div');
+          previewBox.className = 'static-page-text-preview';
+          previewBox.style.cssText = 'margin-top: 1.25rem; max-height: 48vh; overflow-y: auto; text-align: left; background: #1e293b; color: #f1f5f9; padding: 1.25rem; border-radius: 8px; font-size: 0.9rem; line-height: 1.6; border: 1px solid rgba(255,255,255,0.15);';
+          staticFallback.appendChild(previewBox);
+        }
+        if (txt) {
+          previewBox.innerHTML = `
+            <div style="color: #38bdf8; font-weight: 700; margin-bottom: 0.5rem; border-bottom: 1px solid rgba(56,189,248,0.3); padding-bottom: 0.35rem;">
+              📄 Toàn văn Campbell's Operative Orthopaedics (Trang PDF ${pageNum}):
+            </div>
+            ${formatTechniqueText(txt)}
+          `;
+        } else {
+          previewBox.innerHTML = '<div style="color: #94a3b8; font-style: italic;">Không có trích xuất văn bản trực tiếp cho trang này. Sử dụng nút Google Drive phía trên để đọc tài liệu.</div>';
+        }
+      });
+    }
   } else {
     if (modalPageImage) {
       modalPageImage.style.display = 'block';
