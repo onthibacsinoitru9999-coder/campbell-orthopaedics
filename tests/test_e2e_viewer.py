@@ -222,6 +222,7 @@ class TestE2EViewer(unittest.TestCase):
             "loadAllClassificationsCache",
             "closeSuggestions",
             "renderAllClassificationsDirectory",
+            "toggleClassificationCard",
             "openTechniqueModal"
         ]
         for func_name in required_functions:
@@ -237,7 +238,9 @@ class TestE2EViewer(unittest.TestCase):
             ".search-suggestions",
             ".suggestion-item",
             ".clinical-card-wrapper",
-            ".clinical-section-card"
+            ".clinical-section-card",
+            ".compact-teaser",
+            ".classif-mini-thumb"
         ]
         for class_name in required_classes:
             self.assertIn(class_name, css, f"styles.css must include CSS rule for '{class_name}'")

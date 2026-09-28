@@ -457,6 +457,52 @@ def run_mobile_tests():
                 print(f"  Micro-JSON {tid}.json fetch latency: {latency_ms:.2f} ms")
                 assert latency_ms < 50.0, f"Micro-JSON {tid} fetch too slow: {latency_ms:.2f} ms >= 50ms"
 
+            # Test 17: Compact Teaser Classification Cards and In-Place Expansion
+            print("\n[TEST 17] Testing Compact Teaser Classification Cards & In-Place Expansion...")
+            page.evaluate("switchTab('categories')")
+            page.wait_for_selector(".classification-card.compact-teaser", timeout=5000)
+            
+            # Check cards are rendered as compact teasers
+            teaser_cards = page.locator(".classification-card.compact-teaser")
+            card_count = teaser_cards.count()
+            print(f"  Found {card_count} compact teaser classification cards on mobile view")
+            assert card_count >= 12, f"Expected at least 12 classification cards, got {card_count}"
+
+            # Verify first card elements
+            first_card = teaser_cards.first
+            assert first_card.locator(".classif-teaser-header").is_visible(), "Teaser header missing"
+            assert first_card.locator(".classif-teaser-desc").is_visible(), "Teaser desc missing"
+            assert first_card.locator(".type-mini-pill").first.is_visible(), "Preview type pills missing"
+            
+            # Verify body is initially hidden (compact mode)
+            first_body = first_card.locator(".classif-expanded-body")
+            assert not first_body.is_visible(), "Expanded body should be hidden by default"
+
+            # Click toggle button to expand in-place
+            toggle_btn = first_card.locator(".btn-teaser-toggle")
+            toggle_btn.click()
+            time.sleep(0.3)
+            assert first_body.is_visible(), "Expanded body should be visible after clicking toggle"
+            assert "thu gọn" in toggle_btn.inner_text().lower(), "Toggle button text should show 'Thu gọn'"
+
+            # Click toggle button again to collapse
+            toggle_btn.click()
+            time.sleep(0.3)
+            assert not first_body.is_visible(), "Expanded body should be hidden after collapsing"
+            assert "mở xem nhanh" in toggle_btn.inner_text().lower(), "Toggle button text should show 'Mở xem nhanh'"
+
+            # Test opening Protocol Modal from teaser card
+            protocol_btn = first_card.locator(".btn-teaser-protocol")
+            protocol_btn.click()
+            page.wait_for_selector("#techModal.active", timeout=5000)
+            modal_text = page.locator("#techModal").inner_text()
+            assert "phác đồ" in modal_text.lower(), "Protocol modal content missing"
+            close_modal_btn = page.locator("#modalCloseBtn, .modal-close").first
+            if close_modal_btn.is_visible():
+                close_modal_btn.click()
+                page.wait_for_selector("#techModal:not(.active)", timeout=5000)
+                time.sleep(0.3)
+
             browser.close()
 
             print("\n==========================================")

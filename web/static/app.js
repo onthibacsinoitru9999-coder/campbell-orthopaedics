@@ -525,6 +525,9 @@ function scrollToClassification(classifId) {
   setTimeout(() => {
     const card = document.getElementById(`all-classif-${classifId}`);
     if (card) {
+      if (typeof toggleClassificationCard === 'function') {
+        toggleClassificationCard(classifId, true);
+      }
       card.scrollIntoView({ behavior: 'smooth', block: 'center' });
       card.style.transition = 'all 0.3s ease';
       card.style.borderColor = '#0284c7';
@@ -1137,6 +1140,36 @@ function initQuickBonesBar() {
   });
 }
 
+// Toggle Compact Teaser Classification Card
+function toggleClassificationCard(classifId, forceOpen) {
+  const body = document.getElementById(`expanded-classif-${classifId}`);
+  const btn = document.getElementById(`btn-toggle-${classifId}`);
+  const card = document.getElementById(`all-classif-${classifId}`);
+  if (!body) return;
+
+  const isHidden = (body.style.display === 'none' || body.style.display === '');
+  const shouldOpen = (forceOpen !== undefined) ? !!forceOpen : isHidden;
+
+  if (shouldOpen) {
+    body.style.display = 'block';
+    if (btn) {
+      btn.innerHTML = '▴ Thu gọn';
+      btn.classList.add('active');
+      btn.setAttribute('aria-expanded', 'true');
+    }
+    if (card) card.classList.add('is-expanded');
+  } else {
+    body.style.display = 'none';
+    if (btn) {
+      btn.innerHTML = '📖 Mở xem nhanh ▾';
+      btn.classList.remove('active');
+      btn.setAttribute('aria-expanded', 'false');
+    }
+    if (card) card.classList.remove('is-expanded');
+  }
+}
+window.toggleClassificationCard = toggleClassificationCard;
+
 // All Classifications Directory Renderer
 let currentClassifRegion = 'all';
 let currentClassifSearch = '';
@@ -1195,8 +1228,20 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
 
   filtered.forEach(item => {
     const card = document.createElement('div');
-    card.className = 'classification-card';
+    card.className = 'classification-card compact-teaser';
     card.id = `all-classif-${item.id}`;
+
+    const maxPills = 4;
+    const types = item.types || [];
+    const previewTypes = types.slice(0, maxPills);
+    const remainingCount = types.length - maxPills;
+    const subtypePillsHtml = previewTypes.map(t => {
+      const code = t.code || t.type || '';
+      const name = t.name ? `: ${t.name}` : (t.desc ? `: ${t.desc}` : '');
+      const fullText = `${code}${name}`;
+      const shortText = fullText.length > 28 ? fullText.slice(0, 26) + '...' : fullText;
+      return `<span class="type-mini-pill" title="${escapeHtml(fullText)}">${escapeHtml(shortText)}</span>`;
+    }).join('') + (remainingCount > 0 ? `<span class="type-mini-pill more-pill">+${remainingCount} nhóm nữa</span>` : '');
 
     const typesHtml = (item.types || []).map(t => {
       const typeCode = t.code || t.type || '';
@@ -1230,63 +1275,94 @@ function renderAllClassificationsDirectory(filterText, regionFilter) {
     `).join('');
 
     card.innerHTML = `
-      <div class="classification-header">
-        <div class="classification-title">
-          <h3 style="font-size: 1.25rem; font-weight: 800; color: #0f172a;">${escapeHtml(item.name)}</h3>
-          <span style="font-size: 0.85rem; color: #0284c7; font-weight: 600;">${escapeHtml(item.en_name)} • Vị trí: ${escapeHtml(item.bone_vi)} • Chuyên khoa: ${escapeHtml(item.category)}</span>
+      <div class="classif-teaser-header">
+        <div class="classif-teaser-info">
+          <div class="classif-badges-row">
+            ${item.chapter ? `<span class="classif-badge-chapter">Chương ${item.chapter}</span>` : ''}
+            ${item.bone_vi ? `<span class="classif-badge-bone">🦴 ${escapeHtml(item.bone_vi)}</span>` : ''}
+            ${item.category ? `<span class="classif-badge-cat">${escapeHtml(item.category)}</span>` : ''}
+          </div>
+          <h3 class="classif-title">${escapeHtml(item.name)}</h3>
+          <div class="classif-subtitle">${escapeHtml(item.en_name || '')}</div>
         </div>
-        <button class="view-btn classif-protocol-btn" onclick="openClassificationProtocol('${item.id}')">
+        ${item.image_url ? `
+          <div class="classif-mini-thumb" onclick="event.stopPropagation(); openImageLightbox('${item.image_url}', '${escapeHtml(item.name + ' - Sơ đồ phân loại & hướng điều trị Campbell')}')" title="Nhấn để xem sơ đồ phóng to">
+            <img src="${item.image_url}" alt="${escapeHtml(item.name)}" loading="lazy">
+            <span class="classif-thumb-zoom-badge">🔍 Xem ảnh</span>
+          </div>
+        ` : ''}
+      </div>
+
+      <p class="classif-teaser-desc">
+        ${escapeHtml(item.overview || item.description || '')}
+      </p>
+
+      ${subtypePillsHtml ? `<div class="classif-type-pills-row">${subtypePillsHtml}</div>` : ''}
+
+      <div class="classif-teaser-actions">
+        <button class="btn-teaser-toggle" id="btn-toggle-${item.id}" onclick="toggleClassificationCard('${item.id}')" aria-expanded="false">
+          📖 Mở xem nhanh ▾
+        </button>
+        <button class="view-btn classif-protocol-btn btn-teaser-protocol" onclick="openClassificationProtocol('${item.id}')">
           📋 Phác đồ & Quy trình mổ &rarr;
         </button>
       </div>
 
-      ${item.image_url ? `
-        <div class="classif-image-wrap">
-          <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" data-img-url="${item.image_url}" data-caption="${escapeHtml(item.name + ' - Sơ đồ phân loại & hướng phẫu thuật Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
-          <div class="image-caption">🔍 Sơ đồ phân loại & hướng điều trị chuẩn Campbell • Nhấn để phóng to</div>
+      <div class="classif-expanded-body" id="expanded-classif-${item.id}" style="display: none;">
+        ${item.image_url ? `
+          <div class="classif-image-wrap">
+            <img src="${item.image_url}" alt="${escapeHtml(item.name)}" class="classif-main-img" loading="lazy" data-img-url="${item.image_url}" data-caption="${escapeHtml(item.name + ' - Sơ đồ phân loại & hướng phẫu thuật Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
+            <div class="image-caption">🔍 Sơ đồ phân loại & hướng điều trị chuẩn Campbell • Nhấn để phóng to</div>
+          </div>
+        ` : ''}
+
+        <p class="classification-desc" style="font-size: 0.925rem; line-height: 1.5; color: #475569; margin: 0.75rem 0 0.85rem;">
+          ${escapeHtml(item.overview || item.description || '')}
+        </p>
+
+        <div class="classif-clinical-grid">
+          ${item.mechanism ? `
+            <div class="classif-clinical-box mechanism-box">
+              <div class="classif-box-title">💥 Cơ chế chấn thương</div>
+              <div class="classif-box-content">${escapeHtml(item.mechanism)}</div>
+            </div>
+          ` : ''}
+          ${item.imaging ? `
+            <div class="classif-clinical-box imaging-box">
+              <div class="classif-box-title">📷 Đánh giá X-quang & CT</div>
+              <div class="classif-box-content">${escapeHtml(item.imaging)}</div>
+            </div>
+          ` : ''}
+          ${item.treatment_principles ? `
+            <div class="classif-clinical-box treatment-box">
+              <div class="classif-box-title">🎯 Nguyên tắc xử trí</div>
+              <div class="classif-box-content">${escapeHtml(item.treatment_principles)}</div>
+            </div>
+          ` : ''}
+          ${item.complications ? `
+            <div class="classif-clinical-box complications-box">
+              <div class="classif-box-title">⚠️ Biến chứng cần lưu ý</div>
+              <div class="classif-box-content">${escapeHtml(item.complications)}</div>
+            </div>
+          ` : ''}
         </div>
-      ` : ''}
 
-      <p class="classification-desc" style="font-size: 0.925rem; line-height: 1.5; color: #475569; margin: 0.75rem 0 0.85rem;">
-        ${escapeHtml(item.overview || item.description)}
-      </p>
-
-      <div class="classif-clinical-grid">
-        ${item.mechanism ? `
-          <div class="classif-clinical-box mechanism-box">
-            <div class="classif-box-title">💥 Cơ chế chấn thương</div>
-            <div class="classif-box-content">${escapeHtml(item.mechanism)}</div>
-          </div>
-        ` : ''}
-        ${item.imaging ? `
-          <div class="classif-clinical-box imaging-box">
-            <div class="classif-box-title">📷 Đánh giá X-quang & CT</div>
-            <div class="classif-box-content">${escapeHtml(item.imaging)}</div>
-          </div>
-        ` : ''}
-        ${item.treatment_principles ? `
-          <div class="classif-clinical-box treatment-box">
-            <div class="classif-box-title">🎯 Nguyên tắc xử trí</div>
-            <div class="classif-box-content">${escapeHtml(item.treatment_principles)}</div>
-          </div>
-        ` : ''}
-        ${item.complications ? `
-          <div class="classif-clinical-box complications-box">
-            <div class="classif-box-title">⚠️ Biến chứng cần lưu ý</div>
-            <div class="classif-box-content">${escapeHtml(item.complications)}</div>
-          </div>
-        ` : ''}
-      </div>
-
-      <div class="classification-types">
-        ${typesHtml}
-      </div>
-      ${techsHtml ? `
-        <div class="classification-techniques" style="margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border);">
-          <span style="font-size: 0.8rem; font-weight: 800; color: #64748b; display: block; margin-bottom: 0.5rem;">CÁC KỸ THUẬT MỔ CHỈ ĐỊNH (CAMPBELL 13TH ED):</span>
-          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">${techsHtml}</div>
+        <div class="classification-types">
+          ${typesHtml}
         </div>
-      ` : ''}
+        ${techsHtml ? `
+          <div class="classification-techniques" style="margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border);">
+            <span style="font-size: 0.8rem; font-weight: 800; color: #64748b; display: block; margin-bottom: 0.5rem;">CÁC KỸ THUẬT MỔ CHỈ ĐỊNH (CAMPBELL 13TH ED):</span>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">${techsHtml}</div>
+          </div>
+        ` : ''}
+
+        <div class="classif-expanded-footer">
+          <button class="btn-teaser-toggle-bottom" onclick="toggleClassificationCard('${item.id}')">
+            ▴ Thu gọn nội dung
+          </button>
+        </div>
+      </div>
     `;
 
     allClassificationsGrid.appendChild(card);
