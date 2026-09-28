@@ -96,29 +96,17 @@ let allClassesData = [];
 let allTechniquesData = [];
 let debounceTimer = null;
 let activeSuggestionIndex = -1;
-let isStaticMode = window.location.hostname.includes('github.io') || 
-                   window.location.protocol === 'file:' || 
-                   (window.location.port !== '8000' && window.location.port !== '');
+let isStaticMode = true;
 
-// Universal Data Loader (Supports both FastAPI backend & GitHub Pages static mode)
+// Universal Static Data Loader for GitHub Pages & Git Hosting
 async function loadStaticOrApi(apiUrl, staticPath) {
-  if (isStaticMode) {
-    try {
-      const res = await fetch(staticPath);
-      if (res.ok) return await res.json();
-    } catch (e) {
-      console.warn(`Static load failed for ${staticPath}`, e);
-    }
-  } else {
-    try {
-      const res = await fetch(apiUrl);
-      if (res.ok) return await res.json();
-    } catch (e) {
-      isStaticMode = true;
-    }
+  try {
+    const res = await fetch(staticPath);
+    if (res.ok) return await res.json();
+  } catch (e) {
+    console.warn(`Static load failed for ${staticPath}`, e);
   }
-  const res2 = await fetch(staticPath);
-  return await res2.json();
+  return null;
 }
 
 async function getAllTechniques() {

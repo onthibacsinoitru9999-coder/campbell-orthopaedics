@@ -1,8 +1,8 @@
 # 🦴 Campbell's Operative Orthopaedics (13th Edition) - Interactive Clinical Navigator & Guidemap
 *Kinh thánh Chấn thương Chỉnh hình - Hệ thống Tra cứu Phẫu thuật & Phân loại Gãy xương Lâm sàng*
 
-[![Tests](https://img.shields.io/badge/E2E%20Tests-85%2F85%20PASSED%20(100%25)-success)](file:///tests/run_e2e_tests.py)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-blue.svg)](https://fastapi.tiangolo.com)
+[![Tests](https://img.shields.io/badge/Playwright%20Mobile-17%2F17%20PASSED%20(100%25)-success)](file:///tests/test_playwright_mobile.py)
+[![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages%20(Pure%20Static)-blue.svg)](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/)
 [![License](https://img.shields.io/badge/License-Academic%20%2F%20Clinical-green.svg)](#)
 
 ---
@@ -10,7 +10,22 @@
 ## 📖 Giới thiệu
 Ứng dụng tra cứu lâm sàng và giảng dạy phẫu thuật Chấn thương Chỉnh hình toàn diện, được số hóa và chuẩn hóa từ bộ giáo trình kinh điển **Campbell's Operative Orthopaedics (13th Edition, 4 Volumes, 4.887 trang, 89 chương)**.
 
-Hệ thống kết hợp **Sơ đồ Khung xương Giải phẫu Tương tác (Interactive Skeleton Guidemap)**, **1.671 Kỹ thuật mổ chuẩn hóa**, **Hệ thống Bảng phân loại gãy kinh điển**, cùng **Trình xem trước Trang sách gốc Độ nét cao (High-DPI In-situ Viewer)** và **Gợi ý Tìm kiếm Siêu tốc (Live Autocomplete)**.
+Hệ thống được xây dựng theo kiến trúc **100% Serverless Static Web**, chạy trực tiếp và lưu trữ toàn diện trên Git / GitHub Pages, không cần cài đặt hay duy trì máy chủ backend local.
+
+Hệ thống kết hợp **Sơ đồ Khung xương Giải phẫu Tương tác (Interactive Skeleton Guidemap)**, **1.671 Kỹ thuật mổ chuẩn hóa**, **Hệ thống Thẻ gợi mở Bảng phân loại gãy tinh gọn**, cùng **Hộp thoại Phẫu thuật 5 Tab Chuyên sâu** và **Gợi ý Tìm kiếm Siêu tốc (Live Autocomplete)**.
+
+---
+
+## 🌐 Truy cập Trực tuyến trên Git (GitHub Pages)
+
+Hệ thống được phân bổ thành 6 chuyên đề độc lập với thanh điều hướng đa tầng:
+
+- 🏛️ **Cổng tổng hợp toàn diện**: [campbell-orthopaedics](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/)
+- 🖐️ **Chuyên đề Chi Trên & Bàn Tay**: [chi-tren.html](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/chi-tren.html)
+- 🦵 **Chuyên đề Chi Dưới & Bàn Chân**: [chi-duoi.html](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/chi-duoi.html)
+- 🦴 **Chuyên đề Cột Sống & Vùng Chậu**: [cot-song.html](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/cot-song.html)
+- 👶 **Chuyên đề Chấn Thương Chỉnh Hình Nhi**: [nhi-khoa.html](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/nhi-khoa.html)
+- 📖 **Chuyên đề Đại Cương & Đường Mổ**: [dai-cuong.html](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/dai-cuong.html)
 
 ---
 
@@ -30,95 +45,41 @@ Hệ thống kết hợp **Sơ đồ Khung xương Giải phẫu Tương tác (I
   - *Frykman & Fernandez* (Đầu dưới xương quay - Distal Radius)
   - *Mason* (Chỏm quay - Radial Head)
   - *Gustilo-Anderson* (Gãy hở - Open Fractures)
-- **Nút liên kết trực tiếp**: Nhấp vào từng thể phân loại (Type) để mở ngay kỹ thuật phẫu thuật chỉ định trong Campbell (ví dụ: *Schatzker II* -> *Technique 54-24*).
 
-### 2. 🔍 Tìm kiếm Toàn diện & Gợi ý Thông minh (Live Autocomplete)
-- Công cụ tìm kiếm song ngữ Anh - Việt, tự động chuẩn hóa dấu (diacritic folding, xử lý triệt để ký tự `đ`/`Đ`).
+### 2. 🗂️ Thẻ Gợi Mở Tra Cứu Tinh Gọn (Compact Teaser Cards)
+- Thẻ phân loại gãy xương trên trang đầu hiển thị ở định dạng **gợi mở tinh gọn** (~140px), giúp tra cứu nhanh trên thiết bị di động mà không phải cuộn trang dài.
+- Tích hợp thumbnail thu nhỏ (72×72px) kèm nút phóng to tức thì qua Lightbox.
+- Nút `📖 Mở xem nhanh ▾`: Mở rộng toàn bộ ảnh lớn, 4 ô lâm sàng (*Cơ chế, CĐHA, Nguyên tắc xử trí, Biến chứng*) và tất cả các phân nhóm chi tiết ngay tại chỗ.
+- Nút `📋 Phác đồ & Quy trình mổ ➔`: Mở hộp thoại trạm phẫu thuật lâm sàng 5 tab.
+
+### 3. 🔪 Trạm Phẫu Thuật Lâm Sàng 5 Tab (5-Tab Surgical Workstation)
+- **Tab 1: 🔪 Quy trình mổ**: Phân đoạn 5 pha phẫu thuật chuẩn, động tác then chốt và các mốc giải phẫu.
+- **Tab 2: 🖼️ Hình ảnh & Sơ đồ**: Thư viện ảnh giải phẫu, sơ đồ đường mổ, X-quang/CT độ nét cao WebP kèm kính lúp Lightbox.
+- **Tab 3: ⚠️ Cảnh báo & Mẹo mổ**: Danger Zones (vùng thần kinh mạch máu nguy hiểm), Pearls & Pitfalls, và Chống chỉ định tuyệt đối.
+- **Tab 4: 📋 Chỉ định & Chuẩn bị**: Bảng phân loại gãy xương liên kết, tư thế người bệnh, chuẩn bị bàn mổ và dụng cụ.
+- **Tab 5: 🩺 Hậu phẫu & Trích dẫn**: Phác đồ phục hồi chức năng sau mổ và trích xuất nguyên văn Campbell 13th Ed.
+
+### 4. 🔍 Tìm kiếm Toàn diện & Gợi ý Thông minh (Live Autocomplete)
 - Tìm kiếm tức thì theo tên danh nhân/eponyms kinh điển (*Broström, Bankart, Smith-Petersen, Latarjet, Chevron, Papineau, Ilizarov, Salter, Pemberton...*).
-- **Hộp gợi ý tự động (Live Dropdown)**: Phân tách rõ ràng giữa thẻ **🦴 PHÂN LOẠI** (mở khung xương) và thẻ **🔪 KỸ THUẬT MỔ** (mở trang tài liệu).
-- Hỗ trợ phím tắt điều hướng `↑`, `↓`, `Enter` và `Esc`.
-
-### 3. 🖼️ Trình Xem Trang Sách Gốc Độ Phân Giải Cao (High-DPI In-situ Viewer)
-- Render trang PDF gốc độ nét cao (150 - 200 DPI) trực tiếp trong cửa sổ Modal (<500ms khi đã lưu đệm cache).
-- Đọc rõ ràng từng sơ đồ giải phẫu, hình vẽ đường mổ A-B-C, hướng đặt nẹp vít và dụng cụ phẫu thuật.
-- **Thanh công cụ Viewer chuyên nghiệp**:
-  - `◀ Trang trước` / `Trang sau ▶`
-  - `🔍 Phóng to (+)` / `🔍 Thu nhỏ (-)` / `Kích thước gốc (100%)`
-  - Mở ảnh gốc 200 DPI chất lượng cao.
-- **Phím tắt phẫu thuật viên**:
-  - Phím mũi tên `←` / `→`: Chuyển trang tài liệu kế tiếp / trước đó.
-  - Phím `+` / `-`: Phóng to / thu nhỏ bản vẽ giải phẫu.
-  - Phím `0`: Đưa tỷ lệ xem về chuẩn 100%.
-  - Phím `Escape`: Đóng nhanh cửa sổ kỹ thuật.
-
-### 4. 📚 Dữ liệu Đã Chuẩn hóa & Đối soát 100% Không Bỏ Sót
-- **1.671 Kỹ thuật mổ** (Techniques 1-1 đến 89-14) xuyên suốt 80/80 chương có kỹ thuật, chuỗi số thứ tự liên tục 1..N (0 kỹ thuật bị nhảy số, 0 thiếu sót).
-- **89 Chương sách** được phân loại khoa học vào 14 chuyên khoa sâu.
-- **6.885 Đề mục outline** ánh xạ chuẩn xác số trang PDF và trang sách gốc.
+- Bộ lọc theo 14 Chuyên khoa, 89 Chương sách và danh mục Phẫu thuật viên tác giả.
 
 ---
 
-## ⚡ Hướng dẫn Cài đặt & Khởi chạy
+## ⚡ Xem Trực Tiếp & Kiểm Thử Ngoại Tuyến
 
-### 1. Yêu cầu Hệ thống
-- Python 3.9+
-- Bộ nhớ trống tối thiểu 2 GB
+Do ứng dụng được thiết kế dạng **100% Static Serverless**, bạn có thể:
+1. **Xem trực tiếp trên GitHub Pages**: [campbell-orthopaedics](https://onthibacsinoitru9999-coder.github.io/campbell-orthopaedics/)
+2. **Hoặc xem trực tiếp trên máy không cần cài đặt backend**:
+   Chỉ cần mở file `index.html` hoặc chạy máy chủ tĩnh tiêu chuẩn của Python:
+   ```bash
+   python -m http.server 8000
+   ```
+   Sau đó mở [http://localhost:8000](http://localhost:8000).
 
-### 2. Cài đặt Thư viện Phụ thuộc
-```bash
-git clone <repository_url>
-cd cambell
-pip install -r requirements.txt
-```
-
-### 3. Tải File Sách Giáo trình PDF (437 MB)
-*Do GitHub giới hạn kích thước file tải lên tối đa 100 MB, file PDF gốc không lưu trực tiếp trên Git repo.*
-
-Chạy lệnh tự động sau để tải file PDF gốc trực tiếp từ Google Drive vào thư mục dự án:
-```bash
-python download.py
-```
-*(Nếu đã có sẵn file `campbell_13th_ed.pdf`, tập lệnh sẽ tự động nhận diện và bỏ qua bước tải).*
-
-### 4. Khởi chạy Ứng dụng Web
-- **Cách 1**: Nhấp đúp vào file [`run_web.bat`](run_web.bat)
-- **Cách 2**: Chạy từ dòng lệnh:
-  ```bash
-  python -m uvicorn server:app --host 0.0.0.0 --port 8000
-  ```
-
-Truy cập hệ thống trên trình duyệt:
-- **Giao diện Web Workstation**: [http://localhost:8000](http://localhost:8000)
-- **Swagger API Docs**: [http://localhost:8000/docs](http://localhost:8000/docs)
-
----
-
-## 🧪 Kiểm thử Tự động E2E (Master Test Suite)
-
-Dự án được bảo chứng bởi bộ kiểm thử tự động 4 tầng (Tiers 1 - 4) với 85 ca kiểm thử bao quát toàn diện:
-```bash
-python tests/run_e2e_tests.py
-```
-Hoặc kiểm thử trực tiếp trên máy chủ đang chạy:
-```bash
-python tests/run_e2e_tests.py --live-url http://localhost:8000
-```
-
-**Kết quả kiểm định:**
-```text
-===========================================================================
-           CAMPBELL 13TH ED - E2E TEST EXECUTION REPORT
-===========================================================================
---- Tier 1: Feature Coverage (31 tests) [PASS] ---
---- Tier 2: Boundary & Corner Cases (25 tests) [PASS] ---
---- Tier 3: Cross-Feature Combinations (7 tests) [PASS] ---
---- Tier 4: Clinical Workload Scenarios (22 tests) [PASS] ---
-===========================================================================
-GRAND TOTAL: 85 tests run in 3.15s
-PASSED: 85 | FAILED: 0 | SKIPPED: 0
-SUCCESS RATE: 100.0%
-===========================================================================
-```
+3. **Chạy bộ kiểm thử tự động trên mobile (Playwright)**:
+   ```bash
+   python tests/test_playwright_mobile.py
+   ```
 
 ---
 
@@ -126,36 +87,34 @@ SUCCESS RATE: 100.0%
 
 ```
 cambell/
-├── .gitignore                      # Cấu hình loại trừ file PDF lớn & cache
-├── requirements.txt                # Danh sách thư viện Python
-├── download.py                     # Kịch bản tải PDF tự động từ Google Drive
-├── server.py                       # FastAPI REST API Backend
-├── run_web.bat                     # File kích hoạt 1-click cho Windows
-├── README.md                       # Tài liệu hướng dẫn sử dụng
-│
-├── data/                           # Cơ sở dữ liệu JSON đã chuẩn hóa
-│   ├── anatomical_categories.json  # 14 Nhóm chuyên khoa giải phẫu
-│   ├── chapters_catalog.json       # Danh mục 89 chương sách
-│   ├── fracture_classifications.json # 12+ Bảng phân loại gãy xương & liên kết kỹ thuật
-│   ├── outline_tree.json           # Cây mục lục 6.885 đề mục phẫu thuật
-│   └── techniques_catalog.json     # 1.671 Kỹ thuật mổ chuẩn Campbell
+├── index.html                      # Cổng thông tin lâm sàng tổng hợp (Hub)
+├── chi-tren.html                   # Chuyên đề Chi Trên & Bàn Tay (24 chương)
+├── chi-duoi.html                   # Chuyên đề Chi Dưới & Bàn Chân (25 chương)
+├── cot-song.html                   # Chuyên đề Cột Sống & Vùng Chậu (8 chương)
+├── nhi-khoa.html                   # Chuyên đề Chấn Thương Chỉnh Hình Nhi (9 chương)
+├── dai-cuong.html                  # Chuyên đề Đại Cương & Đường Mổ (14 chương)
+├── README.md                       # Tài liệu hướng dẫn hệ thống
 │
 ├── web/
 │   └── static/
-│       ├── human_skeleton.svg      # Sơ đồ khung xương tương tác Vector
-│       ├── index.html              # Giao diện lâm sàng Workstation
-│       ├── styles.css              # Giao diện responsive y khoa
-│       └── app.js                  # Xử lý Guidemap, Autocomplete & High-DPI Modal
+│       ├── app.js                  # Frontend Controller thuần tĩnh (Pure Static)
+│       ├── styles.css              # Giao diện responsive di động & 5-tab workstation
+│       ├── authors.json            # Danh bạ 120+ phẫu thuật viên tác giả kinh điển
+│       └── human_skeleton.svg      # Mô hình giải phẫu vector tương tác
 │
-└── tests/                          # Bộ kiểm thử E2E 4 Tiers
-    ├── e2e_client.py               # Test client ASGI / Live HTTP
-    ├── run_e2e_tests.py            # Master Test Runner
-    ├── test_e2e_guidemap.py        # Kiểm thử Khung xương SVG
-    ├── test_e2e_search.py          # Kiểm thử Tìm kiếm & Lọc
-    ├── test_e2e_viewer.py          # Kiểm thử High-DPI Page Viewer & Toolbar
-    ├── test_e2e_classifications.py # Kiểm thử Phân loại gãy
-    ├── test_e2e_audit.py           # Kiểm định đối soát 1.671 kỹ thuật
-    └── test_e2e_clinical_scenarios.py # Kịch bản phẫu thuật lâm sàng thực tế
+├── data/                           # Cơ sở dữ liệu JSON tĩnh đã chuẩn hóa
+│   ├── anatomical_categories.json  # 14 Nhóm chuyên khoa giải phẫu
+│   ├── chapters_catalog.json       # Danh mục 89 chương sách
+│   ├── fracture_classifications.json # 35+ Bảng phân loại gãy xương & liên kết kỹ thuật
+│   ├── outline_tree.json           # Cây mục lục 6.885 đề mục phẫu thuật
+│   ├── techniques_catalog.json     # Danh mục 1.671 kỹ thuật mổ
+│   └── techniques/                 # 1.671 Micro-JSON chi tiết từng kỹ thuật mổ
+│       ├── 1-1.json
+│       ├── 54-14.json
+│       └── ...
+│
+└── tests/
+    └── test_playwright_mobile.py   # Bộ kiểm thử 17 kịch bản di động (Mobile viewport)
 ```
 
 ---

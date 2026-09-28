@@ -22,9 +22,9 @@ def wait_for_server(url, timeout=15):
     return False
 
 def run_mobile_tests():
-    print(f"Starting server on port {PORT}...")
+    print(f"Starting static HTTP server on port {PORT}...")
     server_process = subprocess.Popen(
-        [sys.executable, "-m", "uvicorn", "server:app", "--host", "127.0.0.1", "--port", str(PORT)],
+        [sys.executable, "-m", "http.server", str(PORT), "--bind", "127.0.0.1"],
         cwd=os.path.abspath(os.path.join(os.path.dirname(__file__), "..")),
         stdout=subprocess.DEVNULL,
         stderr=subprocess.DEVNULL
