@@ -55,14 +55,12 @@
     {
       "url": "web/static/images/techniques/73-14.webp",
       "type": "diagram",
-      "caption": "Phẫu thuật Darrach cắt bỏ đầu dưới xương trụ giải phóng đau và dính khớp quay trụ dưới"
+      "caption": "FIGURE 73-30 Tension band arthrodesis. A, Phalangeal osteotomy. Cuts are made parallel at desired angle with oscillating saw. B, Hole for 25-gauge or 26-gauge stainless steel wire made through middle phalangeal base dorsal to midaxial line. C, Retrograde insertion of 0.028-inch or 0.035-inch Kirschner wire into proximal phalanx. D, Kirschner wire driven into anterior cortex of middle phalanx. E, F"
     },
     {
       "url": "web/static/images/techniques/73-14_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 73-30 Tension band arthrodesis. A, Phalangeal osteotomy. Cuts are made parallel at desired angle with oscillating saw. B, Hole for 25-gauge or 26-gauge stainless steel wire made through middle phalangeal base dorsal to midaxial line. C, Retrog",
-      "width": 1215,
-      "height": 678
+      "type": "diagram",
+      "caption": "FIGURE 73-31 A, Anteroposterior and lateral views of crossed Kirschner wires. B, Anteroposterior and lateral views of interfrag­ mentary wire and longitudinal Kirschner wire. C, Anteroposterior and lateral views of an intramedullary screw."
     }
   ],
   "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

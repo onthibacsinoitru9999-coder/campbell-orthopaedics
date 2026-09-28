@@ -49,16 +49,7 @@
     {
       "url": "web/static/images/techniques/19-6.webp",
       "type": "diagram",
-      "caption": "FIGURE 19-15 Thenar flap for amputation of fingertip. A, Tip of ring finger has been amputated. B, Finger has been flexed so that its tip touches middle of thenar eminence, and thenar flap",
-      "width": 648,
-      "height": 934
-    },
-    {
-      "url": "web/static/images/techniques/19-6_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 19-16 A-C, Local neurovascular island graft (see text). SEE TECHNIQUE 19-6. A B",
-      "width": 1046,
-      "height": 1008
+      "caption": "FIGURE 19-16 A-C, Local neurovascular island graft (see text). SEE TECHNIQUE 19-6."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

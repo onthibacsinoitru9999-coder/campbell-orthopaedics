@@ -43,14 +43,12 @@
     {
       "url": "web/static/images/techniques/79-1.webp",
       "type": "diagram",
-      "caption": "Phân loại dị tật bàn tay vẹo quay bẩm sinh theo Bayne và Klug (Type I đến Type IV)"
+      "caption": "FIGURE 79-4 Three types of phocomelia described by Frantz and O’Rahilly. A, Hand attached to shoulder with no intermediate humeral or forearm segment. B, Hand attached to shoulder with abnormal humeral, radial, and ulnar segment intervening. C, Hand attached to shoulder with intervening humeral segment without forearm segment."
     },
     {
       "url": "web/static/images/techniques/79-1_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 79-4 Three types of phocomelia described by Frantz and O’Rahilly. A, Hand attached to shoulder with no intermediate humeral or forearm segment. B, Hand attached to shoulder with abnormal humeral, radial, and ulnar segment intervening. C, Hand ",
-      "width": 953,
-      "height": 438
+      "type": "diagram",
+      "caption": "FIGURE 79-5 Heikel’s classification of radial dysplasia. A, Type I: short distal radius. B, Type II: hypoplastic radius. C, Type III: partial absence of radius. D, Type IV: total absence of radius."
     }
   ],
   "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",

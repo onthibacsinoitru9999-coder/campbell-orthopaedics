@@ -49,14 +49,12 @@
     {
       "url": "web/static/images/techniques/65-1.webp",
       "type": "diagram",
-      "caption": "Kỹ thuật lấy và ghép da mỏng/dày trung bình (Split-thickness skin graft) bằng dao dermatome"
+      "caption": "FIGURE 65-5 Technique of applying split-thickness graft. A, Graft has been sutured over defect, and redundant edges of graft are being trimmed. B, Sheet of finely meshed gauze and pack of moist cotton or gauze have been placed over graft. C, Sutures have been tied over pack. D, Necrotic edges of graft are being trimmed away after graft has healed. SEE TECHNIQUE 65-1."
     },
     {
       "url": "web/static/images/techniques/65-1_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 65-2 Flap attached distally on dorsum of hand (A) is less likely to survive than is similar one on palm (B). A",
-      "width": 1165,
-      "height": 710
+      "type": "diagram",
+      "caption": "FIGURE 65-2 Flap attached distally on dorsum of hand (A) is less likely to survive than is similar one on palm (B)."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

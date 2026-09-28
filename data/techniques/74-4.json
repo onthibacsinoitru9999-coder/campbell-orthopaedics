@@ -49,14 +49,12 @@
     {
       "url": "web/static/images/techniques/74-4.webp",
       "type": "diagram",
-      "caption": "Đường mổ mở cân ít xâm lấn khoang duỗi cẳng tay theo Harrison"
+      "caption": "FIGURE 74-7 A, Longitudinal incisions over second and third metacarpals. B, Midaxial incision of finger. SEE TECHNIQUE 74-3."
     },
     {
       "url": "web/static/images/techniques/74-4_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 74-6 Vessel loop shoelace technique for fasciotomy closure. SEE TECHNIQUE 74-2. retract the flexor digitorum superficialis and median nerve",
-      "width": 562,
-      "height": 203
+      "type": "diagram",
+      "caption": "FIGURE 74-8 Incision for mini-open release of the extensor compartment (A) and the flexor compartment (B). (Redrawn from Harrison JWK, Thomas P, Aster A, et al: Chronic exertional compartment syndrome of the forearm in elite rowers: a technique for mini-open fasciotomy and a report of six cases, Hand 8:450, 2013.) SEE TECH­ NIQUE 74-4."
     }
   ],
   "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

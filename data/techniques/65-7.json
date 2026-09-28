@@ -44,19 +44,12 @@
   ],
   "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.",
   "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.",
-  "image_url": "web/static/images/techniques/65-34.webp",
+  "image_url": "web/static/images/techniques/65-7.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/65-34.webp",
+      "url": "web/static/images/techniques/65-7.webp",
       "type": "diagram",
-      "caption": "Sơ đồ giải phẫu động mạch mũ chậu nông và kỹ thuật nâng vạt bẹn có cuống (Groin flap) che phủ bàn tay"
-    },
-    {
-      "url": "web/static/images/techniques/65-7_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 65-34 Groin pedicle flap. SEE TECHNIQUE 65-7. Superficial circumflex",
-      "width": 825,
-      "height": 547
+      "caption": "FIGURE 65-34 Groin pedicle flap. SEE TECHNIQUE 65-7."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

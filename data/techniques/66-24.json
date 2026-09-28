@@ -44,19 +44,17 @@
   ],
   "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
   "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
-  "image_url": "web/static/images/techniques/66-65.webp",
+  "image_url": "web/static/images/techniques/66-24.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/66-65.webp",
+      "url": "web/static/images/techniques/66-24.webp",
       "type": "diagram",
-      "caption": "Kỹ thuật tái tạo dải trung tâm gân duỗi bằng vạt gân lật ngược điều trị biến dạng Boutonnière"
+      "caption": "FIGURE 66-65 Tenotomy of central slip (Fowler procedure) to correct mallet finger; this results in proximal retraction of exten­ sor apparatus. SEE TECHNIQUE 66-24."
     },
     {
       "url": "web/static/images/techniques/66-24_xray.webp",
       "type": "xray",
-      "caption": "FIGURE 66-64 A, Displacement of epiphysis of distal phalanx can cause digit to assume mallet finger posture. B, Hyperexten­ sion of phalanx usually affords satisfactory reduction of displaced",
-      "width": 456,
-      "height": 425
+      "caption": "FIGURE 66-66 Technique of correcting recurrent hyperexten­ sion and locking of proximal interphalangeal joint. A, Lateral view of extensor hood and flexor tendon sheath. B, One lateral band of hood has been detached proximally. C, Detached band has been threaded through small pulley made in flexor tendon sheath opposite proximal interphalangeal joint and has been sutured to hood under enough tensi"
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

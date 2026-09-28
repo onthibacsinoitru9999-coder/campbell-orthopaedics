@@ -44,19 +44,17 @@
   ],
   "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
   "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
-  "image_url": "web/static/images/techniques/66-20.webp",
+  "image_url": "web/static/images/techniques/66-8.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/66-20.webp",
+      "url": "web/static/images/techniques/66-8.webp",
       "type": "diagram",
-      "caption": "Kỹ thuật khâu phục hồi đứt gân gấp sâu vùng I (FDP Avulsion / Jersey finger) theo Leddy-Packer"
+      "caption": "FIGURE 66-22 Tendon-to-tendon suture."
     },
     {
       "url": "web/static/images/techniques/66-8_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 66-19 Pulvertaft technique of suturing tendon of small diameter to one of larger diameter. A, Smaller tendon is brought through larger tendon and anchored with one or two sutures after tension is adjusted. B, Tendon is brought through more pro",
-      "width": 863,
-      "height": 445
+      "type": "diagram",
+      "caption": "FIGURE 66-21 Roll stitch using 4-0 wire or 4-0 monofilament nylon is especially useful in suturing lacerated extensor tendon over or near head of metacarpal. SEE TECHNIQUE 66-8."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

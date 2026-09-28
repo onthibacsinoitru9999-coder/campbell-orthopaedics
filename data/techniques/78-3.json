@@ -37,14 +37,12 @@
     {
       "url": "web/static/images/techniques/78-3.webp",
       "type": "diagram",
-      "caption": "Đường rạch dọc giữa gan búp ngón dẫn lưu chín mé (Felon), bảo tồn cảm giác"
+      "caption": "FIGURE 78-5 Midline vertical incision for drainage of abscess pointing volarly in distal pulp of finger. SEE TECHNIQUE 78-3."
     },
     {
       "url": "web/static/images/techniques/78-3_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 78-3 Eponychial marsupialization for treatment of paronychia. Symmetric, crescent-shaped segment of skin is excised from dorsum of distal phalanx, leaving adequate bridge of skin",
-      "width": 1040,
-      "height": 555
+      "type": "diagram",
+      "caption": "FIGURE 78-6 Incision and drainage of felon. SEE TECHNIQUE 78-3."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

@@ -50,19 +50,17 @@
   ],
   "postop_protocol": "Chăm sóc vết thương bỏng vô trùng, nẹp giữ ở tư thế chống co rút (Safe position) liên tục, tập vận động phục hồi chức năng sớm nhất có thể.",
   "pearls_pitfalls": "Đường rạch mở vảy bỏng escharotomy phải đi qua bờ bên để tránh bó mạch thần kinh ngón tay; Ghép da dày toàn bộ vào các nếp gấp chống co rút sẹo thứ phát.",
-  "image_url": "web/static/images/techniques/70-2_clinical.webp",
+  "image_url": "web/static/images/techniques/70-2.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/70-2_clinical.webp",
-      "type": "clinical",
-      "caption": "Phân loại độ sâu tổn thương bỏng và hình ảnh lâm sàng cắt lọc tiếp tuyến ghép da"
+      "url": "web/static/images/techniques/70-2.webp",
+      "type": "diagram",
+      "caption": "FIGURE 70-8 Electrical contact. Various damaging forces involved in high-energy electrical shock. With voltages greater than 1000 volts, electrical contact (arc mediated) precedes mechanical contact. High surface temperatures at contact points produce deep burns. Current passage through extremity leads to electrical breakdown of muscle and nerve membranes. Prolonged contacts of several seconds res"
     },
     {
       "url": "web/static/images/techniques/70-2_xray.webp",
       "type": "xray",
-      "caption": "FIGURE 70-8 Electrical contact. Various damaging forces involved in high-energy electrical shock. With voltages greater than 1000 volts, electrical contact (arc mediated) precedes",
-      "width": 562,
-      "height": 561
+      "caption": "FIGURE 70-9 A, Electrical burn contracture of first webspace. B, After release and resurfacing with a free lateral arm flap. (From Fufa DT, Chuang SS, Yang JY: Postburn contractures of the hand, J Hand Surg Am 39:1869, 2014.)"
     }
   ],
   "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",

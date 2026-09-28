@@ -44,19 +44,17 @@
   ],
   "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
   "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
-  "image_url": "web/static/images/techniques/66-56.webp",
+  "image_url": "web/static/images/techniques/66-20.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/66-56.webp",
+      "url": "web/static/images/techniques/66-20.webp",
       "type": "diagram",
-      "caption": "Kỹ thuật nắn kín ghim kim Kirschner cố định gãy bong điểm bám gân duỗi ngón tay búa (Mallet fracture)"
+      "caption": "FIGURE 66-56 Howard technique to free adherent extensor tendon. SEE TECHNIQUE 66-21."
     },
     {
       "url": "web/static/images/techniques/66-20_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 66-56 Howard technique to free adherent extensor tendon. SEE TECHNIQUE 66-21. Adhesions",
-      "width": 510,
-      "height": 331
+      "type": "diagram",
+      "caption": "FIGURE 66-57 Tenodesis for irreparable damage to profundus tendon. A, Before tenodesis, distal interphalangeal joint is unstable and hyperextends during pinch. B, After tenodesis, joint is stable and remains partially flexed during pinch."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân."

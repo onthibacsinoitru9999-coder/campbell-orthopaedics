@@ -48,15 +48,13 @@
   "images": [
     {
       "url": "web/static/images/techniques/68-1.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 68-1 (Two-Point and Moving Two-Point Discrimination Testing) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 68-4 Two-point discrimination testing. SEE TECH­ NIQUE 68-1."
     },
     {
       "url": "web/static/images/techniques/68-1_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 68-3 Testing of function of abductor digiti minimi. Patient abducts little finger against resistance while muscle belly is palpated.",
-      "width": 1101,
-      "height": 723
+      "type": "diagram",
+      "caption": "FIGURE 68-5 Typical intraneural fascicular patterns in periph­ eral nerves."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

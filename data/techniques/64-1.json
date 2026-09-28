@@ -49,12 +49,12 @@
     {
       "url": "web/static/images/techniques/64-1.webp",
       "type": "diagram",
-      "caption": "Sơ đồ các đường rạch da giải phẫu chuẩn ở bàn tay và ngón tay (Midlateral, Bruner, nếp gấp gan tay)"
+      "caption": "FIGURE 64-17 Midlateral skin incision in finger extending from metacarpophalangeal joint to lateral edge of nail. To avoid flexor skin creases, it is placed slightly posterolateral. SEE TECHNIQUE 64-1."
     },
     {
-      "url": "web/static/images/techniques/64-1_anat.webp",
-      "type": "diagram",
-      "caption": "Mốc giải phẫu bó mạch thần kinh ngón tay riêng và dây chằng Cleland/Grayson"
+      "url": "web/static/images/techniques/64-1_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 64-19 Cross section of finger to show midlateral approach when used to expose flexor tendons. SEE TECHNIQUE 64-1."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

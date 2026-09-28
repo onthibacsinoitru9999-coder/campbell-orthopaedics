@@ -44,19 +44,12 @@
   ],
   "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.",
   "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.",
-  "image_url": "web/static/images/techniques/72-7_xray.webp",
+  "image_url": "web/static/images/techniques/72-7.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/72-7_xray.webp",
-      "type": "xray",
-      "caption": "Phim X-quang hàn khớp cổ tay bằng kim Steinmann sửa biến dạng gập cổ tay ở bệnh nhân bại não"
-    },
-    {
-      "url": "web/static/images/techniques/72-7_fig2.webp",
+      "url": "web/static/images/techniques/72-7.webp",
       "type": "diagram",
-      "caption": "FIGURE 72-10 Wrist arthrodesis using two Steinmann pins. SEE TECHNIQUE 72-7. ■ Apply a long arm cast with the elbow at 90 degrees",
-      "width": 368,
-      "height": 587
+      "caption": "FIGURE 72-10 Wrist arthrodesis using two Steinmann pins. SEE TECHNIQUE 72-7."
     }
   ],
   "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao.",

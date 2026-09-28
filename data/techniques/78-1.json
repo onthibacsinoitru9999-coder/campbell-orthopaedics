@@ -49,7 +49,12 @@
     {
       "url": "web/static/images/techniques/78-1.webp",
       "type": "diagram",
-      "caption": "Giải phẫu các khoang mỡ sâu và bao hoạt dịch vùng bàn tay: Ô mô cái, ô mô út, khoang Parona"
+      "caption": "FIGURE 78-1 Diagram of nail and nail bed. A, Nail. B, Eponych­ ium. C, Dorsal roof of nail fold. D, Ventral floor of nail fold (ger­ minal matrix). E, Nail bed (sterile matrix). (From Bednar MS, Lane LB: Eponychial marsupialization and nail removal for surgical treatment of paronychia, J Hand Surg 16A:314, 1991.)"
+    },
+    {
+      "url": "web/static/images/techniques/78-1_xray.webp",
+      "type": "diagram",
+      "caption": "FIGURE 78-2 Incision and drainage of paronychia (see text)."
     }
   ],
   "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",

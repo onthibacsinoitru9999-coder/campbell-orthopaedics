@@ -44,19 +44,17 @@
   ],
   "postop_protocol": "Băng ép nhẹ vùng mổ trong 48 giờ. Tập vận động nhẹ nhàng khớp cổ bàn tay ngay sau khi bớt đau.",
   "pearls_pitfalls": "Bóc trọn vẹn cuống nang bám vào bao khớp trong u bao hoạt dịch ganglion để chống tái phát; Gửi toàn bộ bệnh phẩm làm giải phẫu bệnh vi thể loại trừ tổn thương ác tính.",
-  "image_url": "web/static/images/techniques/77-2_clinical.webp",
+  "image_url": "web/static/images/techniques/77-2.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/77-2_clinical.webp",
-      "type": "clinical",
-      "caption": "Hình ảnh u xơ mỡ thần kinh giữa (Lipofibroma) gây hội chứng ống cổ tay"
+      "url": "web/static/images/techniques/77-2.webp",
+      "type": "diagram",
+      "caption": "FIGURE 77-29 Relationship between mucous cyst and mar­ ginal osteophyte of distal interphalangeal joint. Cyst communi­ cates with joint. This thin communication may become pinched off, but at some stage in development it is in direct communica­ tion with joint space. Marginal osteophyte produces attrition of extensor tendon expansion with motion."
     },
     {
       "url": "web/static/images/techniques/77-2_xray.webp",
       "type": "xray",
-      "caption": "FIGURE 77-27 A to E, Dorsal ganglion excision. SEE TECHNIQUE 77-1. A B",
-      "width": 992,
-      "height": 700
+      "caption": "FIGURE 77-28 A, Epidermoid inclusion cyst after puncture wound to index finger. B, Radiograph shows soft-tissue mass and bony erosion. C, Excision of cyst."
     }
   ],
   "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",

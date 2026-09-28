@@ -49,16 +49,12 @@
     {
       "url": "web/static/images/techniques/73-15.webp",
       "type": "diagram",
-      "caption": "FIGURE 73-31 A, Anteroposterior and lateral views of crossed Kirschner wires. B, Anteroposterior and lateral views of interfrag­ mentary wire and longitudinal Kirschner wire. C, Anteroposterior",
-      "width": 583,
-      "height": 878
+      "caption": "FIGURE 73-32 Incision for distal interphalangeal joint arthrod­ esis. SEE TECHNIQUE 73-16."
     },
     {
       "url": "web/static/images/techniques/73-15_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 73-32 Incision for distal interphalangeal joint arthrod­ esis. SEE TECHNIQUE 73-16.",
-      "width": 561,
-      "height": 688
+      "type": "diagram",
+      "caption": "FIGURE 73-31 A, Anteroposterior and lateral views of crossed Kirschner wires. B, Anteroposterior and lateral views of interfrag­ mentary wire and longitudinal Kirschner wire. C, Anteroposterior and lateral views of an intramedullary screw."
     }
   ],
   "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

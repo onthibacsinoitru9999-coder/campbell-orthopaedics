@@ -44,17 +44,6 @@
   ],
   "postop_protocol": "Để hở vết mổ một phần hoặc đặt hệ thống hút áp lực âm VAC / tưới rửa liên tục kín (continuous irrigation-suction). Điều trị kháng sinh tĩnh mạch liều cao theo kháng sinh đồ ít nhất 4-6 tuần. Bất động nẹp bột giảm đau và phòng ngừa gãy xương bệnh lý.",
   "pearls_pitfalls": "Cắt lọc triệt để toàn bộ mô hoại tử đến tận vùng mô hạt chảy máu tươi (dấu hiệu Paprika); Lấy tối thiểu 3-5 mẫu bệnh phẩm vô trùng tại các vị trí sâu khác nhau để cấy vi khuẩn hiếu khí, kỵ khí và nấm; Đặt hạt xi măng kháng sinh PMMA nồng độ cao tại chỗ.",
-  "image_url": "web/static/images/techniques/24-24.webp",
-  "images": [
-    {
-      "url": "web/static/images/techniques/24-24.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 24-24 (Rotationplasty for a Lesion of the Proximal Femur Without Involvement of the Hip Joint (Winkelmann)) - Campbell 13th Ed"
-    },
-    {
-      "url": "web/static/images/techniques/24-24_xray.webp",
-      "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 24-24 (Rotationplasty for a Lesion of the Proximal Femur Without Involvement of the Hip Joint (Winkelmann)) - Campbell 13th Ed"
-    }
-  ]
+  "image_url": "",
+  "images": []
 }

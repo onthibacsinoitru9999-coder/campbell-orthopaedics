@@ -49,16 +49,12 @@
     {
       "url": "web/static/images/techniques/79-25.webp",
       "type": "diagram",
-      "caption": "FIGURE 79-49 Clinical appearance of triphalangeal thumb associated with duplication (Wassel type VII). FIGURE 79-50",
-      "width": 561,
-      "height": 463
+      "caption": "FIGURE 79-51 Peimer reduction osteotomy. A, Dorsal incision. B, Narrowing of distal phalanx. C, Excision of distal epiphysis. D, Needle placed across interphalangeal joint to orient transverse osteotomy. E, Completion of osteotomy. F, Combined osteotomies form closing wedge to shorten and realign thumb. G, Bone ends are fixed with smooth wires. SEE TECHNIQUE 79-25."
     },
     {
       "url": "web/static/images/techniques/79-25_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 79-49 Clinical appearance of triphalangeal thumb associated with duplication (Wassel type VII). FIGURE 79-50",
-      "width": 365,
-      "height": 562
+      "type": "diagram",
+      "caption": "FIGURE 79-49 Clinical appearance of triphalangeal thumb associated with duplication (Wassel type VII)."
     }
   ],
   "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",

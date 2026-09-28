@@ -1690,14 +1690,14 @@ function renderClinicalTechniqueCard(guide, rawFallback) {
             <div class="tech-images-gallery">
               ${guide.images.map(img => `
                 <div class="tech-image-card">
-                  <img src="${img.url}" alt="${escapeHtml(img.caption || guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${img.url}" data-caption="${escapeHtml(img.caption || guide.name_vi)}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
+                  <img src="${img.url}" alt="${escapeHtml(img.caption || guide.name_vi)}" class="tech-main-img" loading="lazy" onerror="this.closest('.tech-image-card')?.remove();" data-img-url="${img.url}" data-caption="${escapeHtml(img.caption || guide.name_vi)}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
                   <div class="image-caption">${img.type === 'xray' ? '🩻 Phim X-quang / Ca lâm sàng' : '🔍 Sơ đồ phẫu thuật Campbell'} • ${escapeHtml(img.caption || '')}</div>
                 </div>
               `).join('')}
             </div>
           ` : (guide.image_url ? `
             <div class="tech-image-wrap">
-              <img src="${guide.image_url}" alt="${escapeHtml(guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${guide.image_url}" data-caption="${escapeHtml(guide.name_vi + ' - Sơ đồ kỹ thuật mổ chuẩn Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
+              <img src="${guide.image_url}" alt="${escapeHtml(guide.name_vi)}" class="tech-main-img" loading="lazy" onerror="this.closest('.tech-image-wrap')?.remove();" data-img-url="${guide.image_url}" data-caption="${escapeHtml(guide.name_vi + ' - Sơ đồ kỹ thuật mổ chuẩn Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
               <div class="image-caption">🔍 Sơ đồ giải phẫu & kỹ thuật phẫu thuật thực hành chuẩn Campbell • Nhấn để phóng to</div>
             </div>
           ` : `

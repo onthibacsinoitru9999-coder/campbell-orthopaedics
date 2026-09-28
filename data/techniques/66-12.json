@@ -43,16 +43,12 @@
     {
       "url": "web/static/images/techniques/66-12.webp",
       "type": "diagram",
-      "caption": "FIGURE 66-42 Long-standing flexor tendon interruptions in palm may require short segmental graft or “minigraft” to avoid excessive tension.",
-      "width": 1128,
-      "height": 547
+      "caption": "FIGURE 66-43 Wagner technique of profundus advancement. SEE TECHNIQUE 66-12."
     },
     {
       "url": "web/static/images/techniques/66-12_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 66-44 Repair of finger flexor tendons by tendon graft. Graft has been sutured in place. Proximal and distal pulleys have been narrowed. SEE TECHNIQUE 66-13.",
-      "width": 659,
-      "height": 616
+      "type": "diagram",
+      "caption": "FIGURE 66-42 Long-standing flexor tendon interruptions in palm may require short segmental graft or “minigraft” to avoid excessive tension."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

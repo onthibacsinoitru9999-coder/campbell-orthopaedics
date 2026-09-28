@@ -55,14 +55,12 @@
     {
       "url": "web/static/images/techniques/66-2.webp",
       "type": "diagram",
-      "caption": "Kỹ thuật khâu gân gấp 6 sợi Adelaide và mũi khâu đôi Lim-Tsai chịu lực cao"
+      "caption": "FIGURE 66-16 Modified Tsuge suture technique. SEE TECH­ NIQUE 66-3"
     },
     {
       "url": "web/static/images/techniques/66-2_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 66-16 Modified Tsuge suture technique. SEE TECH­ NIQUE 66-3 to avoid placing knots at the same level on the tendon",
-      "width": 796,
-      "height": 416
+      "type": "diagram",
+      "caption": "FIGURE 66-13 A, Epitenon-first technique. After placement of running epitendinous suture, core suture is placed within tendon. B, Completion of epitenon-first suture. Final knot is buried within tendon."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

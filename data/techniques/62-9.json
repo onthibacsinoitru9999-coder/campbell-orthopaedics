@@ -44,17 +44,6 @@
   ],
   "postop_protocol": "Chăm sóc theo dõi vết mổ, nẹp bột hoặc đai đỡ bất động theo đúng chỉ định. Bắt đầu tập phục hồi chức năng sớm chống cứng khớp và teo cơ.",
   "pearls_pitfalls": "Tôn trọng mô mềm và màng xương; tuân thủ các mốc giải phẫu an toàn của Campbell.",
-  "image_url": "web/static/images/techniques/62-9.webp",
-  "images": [
-    {
-      "url": "web/static/images/techniques/62-9.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 62-9 (Posterior Approach for Division of the Transverse Scapular Ligament (Swafford and Lichtman)) - Campbell 13th Ed"
-    },
-    {
-      "url": "web/static/images/techniques/62-9_xray.webp",
-      "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 62-9 (Posterior Approach for Division of the Transverse Scapular Ligament (Swafford and Lichtman)) - Campbell 13th Ed"
-    }
-  ]
+  "image_url": "",
+  "images": []
 }

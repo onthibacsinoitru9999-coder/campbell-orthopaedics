@@ -44,19 +44,17 @@
   ],
   "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
   "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
-  "image_url": "web/static/images/techniques/66-24.webp",
+  "image_url": "web/static/images/techniques/66-9.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/66-24.webp",
+      "url": "web/static/images/techniques/66-9.webp",
       "type": "diagram",
-      "caption": "Kỹ thuật khâu kéo rút Bunnell (Pull-out wire) xuyên qua đốt ngón xa và buộc nút trên cúc bấm"
+      "caption": "FIGURE 66-27 Zone I injury. Profundus tendon is advanced and reinserted into distal phalanx using pull-out wire suture and tie-over button. SEE TECHNIQUE 66-9."
     },
     {
       "url": "web/static/images/techniques/66-9_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 66-22 Tendon-to-tendon suture. FIGURE 66-21 Roll stitch using 4-0 wire or 4-0 monofilament",
-      "width": 933,
-      "height": 665
+      "type": "diagram",
+      "caption": "FIGURE 66-24 Tendon attachment through finger flap."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

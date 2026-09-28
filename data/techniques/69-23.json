@@ -49,16 +49,12 @@
     {
       "url": "web/static/images/techniques/69-23.webp",
       "type": "diagram",
-      "caption": "FIGURE 69-56 Core decompression for treatment of Kienböck disease. A, Cortical window. B, Cancellous bone impaction into metaphysis. (Redrawn from Illarramendi AA, De Carli P: Radius decom­",
-      "width": 477,
-      "height": 644
+      "caption": "FIGURE 69-56 Core decompression for treatment of Kienböck disease. A, Cortical window. B, Cancellous bone impaction into metaphysis. (Redrawn from Illarramendi AA, De Carli P: Radius decom­ pression for treatment of Kienböck disease, Tech Hand Up Extrem Surg 7:110, 2003.) SEE TECHNIQUE 69-23."
     },
     {
       "url": "web/static/images/techniques/69-23_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 69-57 Pedicled vascularized bone graft of Kienböck disease. A, Anterior interosseous artery is ligated proximal to fourth and fifth extensor compartment arteries, and graft is elevated. After verifying blood flow, graft is shaped to fit dorsal",
-      "width": 763,
-      "height": 453
+      "type": "diagram",
+      "caption": "FIGURE 69-58 Three kinematic indices: center of rotation, carpal height (L2), and carpal-ulnar distance (L3). L1, length of third metacarpal. Carpal height ratio is L2/L1, and carpal-to-ulnar distance ratio is L3/L1."
     }
   ],
   "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

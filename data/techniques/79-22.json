@@ -49,16 +49,12 @@
     {
       "url": "web/static/images/techniques/79-22.webp",
       "type": "diagram",
-      "caption": "FIGURE 79-43 Apert syndrome. A, Characteristic facial features of high forehead and wide-set eyes. B, Complex syndactyly involving all fingers of both hands; left hand has had syndactyly release. A",
-      "width": 1079,
-      "height": 732
+      "caption": "FIGURE 79-45 Wassel classification of thumb polydactyly."
     },
     {
       "url": "web/static/images/techniques/79-22_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 79-44 Bifid thumb. A and B, Type II. C and D, Type IV (most common). A B",
-      "width": 791,
-      "height": 1180
+      "type": "diagram",
+      "caption": "FIGURE 79-44 Bifid thumb. A and B, Type II. C and D, Type IV (most common)."
     }
   ],
   "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

@@ -85,14 +85,12 @@
     {
       "url": "web/static/images/techniques/66-1.webp",
       "type": "diagram",
-      "caption": "Sơ đồ các mũi khâu gân gấp lõi kinh điển: Kessler cải tiến, Tajima và Strickland 4 sợi"
+      "caption": "FIGURE 66-15 Simplified four-strand repair in which basic two-strand core suture is supplemented by horizontal mattress suture and running-lock stitch. A, Tajima core sutures in place. Back wall (dorsal) running-lock peripheral epitendinous stitch in progress. B, Back wall suturing completed. C, Mattress core suture added in palmar tendon gap. D, All core sutures tied. E, Comple­ tion of running-l"
     },
     {
       "url": "web/static/images/techniques/66-1_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 66-13 A, Epitenon-first technique. After placement of running epitendinous suture, core suture is placed within tendon. B, Completion of epitenon-first suture. Final knot is buried within",
-      "width": 1047,
-      "height": 807
+      "type": "diagram",
+      "caption": "FIGURE 66-14 Interlocking horizontal mattress suture."
     }
   ],
   "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",

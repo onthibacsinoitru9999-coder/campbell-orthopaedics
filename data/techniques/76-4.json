@@ -50,19 +50,17 @@
   ],
   "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.",
   "pearls_pitfalls": "Luôn nhận diện và bảo vệ tuyệt đối nhánh vận động quặp ngược của thần kinh giữa trong ống cổ tay và nhánh cảm giác nông thần kinh quay trong phẫu thuật De Quervain; Cắt trọn vẹn bề dày dây chằng mà không bỏ sót mép đầu gần.",
-  "image_url": "web/static/images/techniques/76-4_clinical.webp",
+  "image_url": "web/static/images/techniques/76-4.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/76-4_clinical.webp",
-      "type": "clinical",
-      "caption": "Hình ảnh phẫu tích tiêu bản: Kỹ thuật nội soi 2 cổng vào Chow và bảo vệ dây chằng"
+      "url": "web/static/images/techniques/76-4.webp",
+      "type": "diagram",
+      "caption": "FIGURE 76-9 Intraoperative photo: Chow technique. SEE TECHNIQUE 76-4."
     },
     {
       "url": "web/static/images/techniques/76-4_xray.webp",
       "type": "xray",
-      "caption": "FIGURE 76-8, cont’d ■ Incise and elevate a U-shaped, distally based flap of forearm fascia (Fig. 76-7B), and retract it palmarward to facilitate dissection of the synovium from the deep surface",
-      "width": 1162,
-      "height": 593
+      "caption": "FIGURE 76-8 Chow technique. A, Incision for entry portal. B, Incision for exit portal. C, Following the proximal portal dissection and placement of the slotted cannula, the transverse fibers of the transverse carpal ligament are identified in its entirety, by camera placement in the slotted cannula. D, First cut is made with probe knife, cutting distal to proximal, to release distal edge of carpal"
     }
   ],
   "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

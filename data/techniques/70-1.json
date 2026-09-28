@@ -55,14 +55,12 @@
     {
       "url": "web/static/images/techniques/70-1.webp",
       "type": "diagram",
-      "caption": "Sơ đồ các đường rạch giải phóng vảy bỏng hoại tử (Escharotomy) ở bàn ngón tay"
+      "caption": "FIGURE 70-8 Electrical contact. Various damaging forces involved in high-energy electrical shock. With voltages greater than 1000 volts, electrical contact (arc mediated) precedes mechanical contact. High surface temperatures at contact points produce deep burns. Current passage through extremity leads to electrical breakdown of muscle and nerve membranes. Prolonged contacts of several seconds res"
     },
     {
       "url": "web/static/images/techniques/70-1_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 70-7 A, Tangential excision of deep partial-thickness burn on dorsum of hand. B, Sheet graft transplantation to excised areas. C, Short-term postoperative result. (From Germann G, Weigel",
-      "width": 561,
-      "height": 1107
+      "type": "diagram",
+      "caption": "FIGURE 70-7 A, Tangential excision of deep partial-thickness burn on dorsum of hand. B, Sheet graft transplantation to excised areas. C, Short-term postoperative result. (From Germann G, Weigel G: The burned hand. In Wolfe SW, editor: Green’s operative hand surgery, ed 6, Philadelphia, Elsevier, 2011.)"
     }
   ],
   "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",

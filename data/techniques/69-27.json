@@ -55,9 +55,12 @@
     {
       "url": "web/static/images/techniques/69-27.webp",
       "type": "diagram",
-      "caption": "FIGURE 69-60 Arthroscopic repair of foveal detachment of triangular fibrocartilage complex (TFCC). (From Nakamura T, Sato K, Okazaki M, et al: Repair of foveal detachment of the triangular",
-      "width": 504,
-      "height": 703
+      "caption": "FIGURE 69-60 Arthroscopic repair of foveal detachment of triangular fibrocartilage complex (TFCC). (From Nakamura T, Sato K, Okazaki M, et al: Repair of foveal detachment of the triangular fibrocartilage complex: open and arthroscopic transosseous techniques, Hand Clin 27:281, 2011.) SEE TECHNIQUE 69-27."
+    },
+    {
+      "url": "web/static/images/techniques/69-27_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-59 Resilience of triangular fibrocartilage complex (TFCC) is tested by applying compressive load (trampoline test) (A) and by attempting to pull TFCC in multiple directions (hook test) (B). (A from Carlsen BT, Rizzo M, Moran SL: Soft-tissue injuries associated with distal radius fractures, Oper Tech Orthop 19:107, 2009; B from Atzei A: New trends in arthroscopic management of type 1-B TF"
     }
   ],
   "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",

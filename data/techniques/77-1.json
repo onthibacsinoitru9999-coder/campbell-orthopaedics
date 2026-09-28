@@ -32,19 +32,12 @@
   ],
   "postop_protocol": "Băng ép nhẹ vùng mổ trong 48 giờ. Tập vận động nhẹ nhàng khớp cổ bàn tay ngay sau khi bớt đau.",
   "pearls_pitfalls": "Bóc trọn vẹn cuống nang bám vào bao khớp trong u bao hoạt dịch ganglion để chống tái phát; Gửi toàn bộ bệnh phẩm làm giải phẫu bệnh vi thể loại trừ tổn thương ác tính.",
-  "image_url": "web/static/images/techniques/77-1_clinical.webp",
+  "image_url": "web/static/images/techniques/77-1.webp",
   "images": [
     {
-      "url": "web/static/images/techniques/77-1_clinical.webp",
-      "type": "clinical",
-      "caption": "Hình ảnh lâm sàng và bộc lộ phẫu thuật u mỡ (Lipoma) sâu vùng gan bàn tay"
-    },
-    {
-      "url": "web/static/images/techniques/77-1_xray.webp",
-      "type": "xray",
-      "caption": "FIGURE 77-27 A to E, Dorsal ganglion excision. SEE TECHNIQUE 77-1. A B",
-      "width": 992,
-      "height": 700
+      "url": "web/static/images/techniques/77-1.webp",
+      "type": "diagram",
+      "caption": "FIGURE 77-27 A to E, Dorsal ganglion excision. SEE TECHNIQUE 77-1."
     }
   ],
   "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay."
