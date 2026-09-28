@@ -1519,7 +1519,35 @@ function toggleRawBookText(btn) {
     : '📖 Xem trích dẫn nguyên bản văn bản sách tiếng Anh (Campbell 13th Ed) ▾';
 }
 
+function switchTechModalTab(tabKey) {
+  const modal = document.getElementById('techModal');
+  if (!modal) return;
+  const tabBtns = modal.querySelectorAll('.tech-modal-tab-btn');
+  const tabPanes = modal.querySelectorAll('.tech-tab-pane');
+  tabBtns.forEach(btn => {
+    if (btn.dataset.techTab === tabKey) {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+  tabPanes.forEach(pane => {
+    if (pane.id === `techPane-${tabKey}`) {
+      pane.classList.add('active');
+    } else {
+      pane.classList.remove('active');
+    }
+  });
+  const body = modal.querySelector('.modal-body');
+  if (body) {
+    body.scrollTop = 0;
+  }
+}
+
 function renderClinicalTechniqueCard(guide, rawFallback) {
+  const stepsCount = (guide.surgical_steps || []).length;
+  const imgCount = (guide.images && guide.images.length) || (guide.image_url ? 1 : 0);
+
   const stepsHtml = (guide.surgical_steps || []).map(s => `
     <div class="clinical-step-item">
       <div class="clinical-step-header">
@@ -1537,97 +1565,190 @@ function renderClinicalTechniqueCard(guide, rawFallback) {
 
   return `
     <div class="clinical-card-wrapper">
-      <!-- Badges -->
-      <div class="clinical-badges-row">
+      <!-- Badges row -->
+      <div class="clinical-badges-row" style="margin-bottom: 0.75rem;">
         <span class="clinical-badge-tag primary">Chuyên khoa: ${escapeHtml(guide.category || 'General')}</span>
         <span class="clinical-badge-tag">Chương ${guide.chapter || ''}</span>
         ${guide.author ? `<span class="clinical-badge-tag highlight">👨‍⚕️ ${escapeHtml(guide.author)}</span>` : ''}
       </div>
 
-      <!-- Indications & Objectives -->
-      ${guide.clinical_indications ? `
-        <div class="clinical-section-card">
-          <div class="clinical-section-title">📌 Chỉ định lâm sàng & Mục tiêu phẫu thuật</div>
-          <div class="clinical-section-body">${escapeHtml(guide.clinical_indications)}</div>
-        </div>
-      ` : ''}
-
-      <!-- Contraindications -->
-      ${guide.contraindications ? `
-        <div class="clinical-box-contra">
-          <div class="clinical-box-contra-title">🚫 Chống chỉ định can thiệp</div>
-          <div class="clinical-section-body">${escapeHtml(guide.contraindications)}</div>
-        </div>
-      ` : ''}
-
-      <!-- Patient Prep & Positioning -->
-      ${guide.patient_prep ? `
-        <div class="clinical-section-card">
-          <div class="clinical-section-title">📐 Tư thế bệnh nhân & Chuẩn bị (Setup)</div>
-          <div class="clinical-section-body">${escapeHtml(guide.patient_prep)}</div>
-        </div>
-      ` : ''}
-
-      <!-- Surgical Approach & Danger Zones -->
-      ${guide.surgical_approach ? `
-        <div class="clinical-box-danger">
-          <div class="clinical-box-danger-title">🔪 Đường mổ & Cấu trúc giải phẫu nguy cơ</div>
-          <div class="clinical-section-body">${escapeHtml(guide.surgical_approach)}</div>
-        </div>
-      ` : ''}
-
-      <!-- Operative Diagram / X-ray Figure / Gallery -->
-      ${(guide.images && guide.images.length > 0) ? `
-        <div class="tech-images-gallery">
-          ${guide.images.map(img => `
-            <div class="tech-image-card">
-              <img src="${img.url}" alt="${escapeHtml(img.caption || guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${img.url}" data-caption="${escapeHtml(img.caption || guide.name_vi)}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
-              <div class="image-caption">${img.type === 'xray' ? '🩻 Phim X-quang / Ca lâm sàng' : '🔍 Sơ đồ phẫu thuật Campbell'} • ${escapeHtml(img.caption || '')}</div>
-            </div>
-          `).join('')}
-        </div>
-      ` : (guide.image_url ? `
-        <div class="tech-image-wrap">
-          <img src="${guide.image_url}" alt="${escapeHtml(guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${guide.image_url}" data-caption="${escapeHtml(guide.name_vi + ' - Sơ đồ kỹ thuật mổ chuẩn Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
-          <div class="image-caption">🔍 Sơ đồ giải phẫu & kỹ thuật phẫu thuật thực hành chuẩn Campbell • Nhấn để phóng to</div>
-        </div>
-      ` : '')}
-
-      <!-- Step-by-Step Operative Technique -->
-      <div class="clinical-section-card">
-        <div class="clinical-section-title">⚡ Các thì phẫu thuật từng bước (Operative Steps)</div>
-        <div class="clinical-steps-list">
-          ${stepsHtml}
+      <!-- Technique Workstation Tabs Navigation Bar -->
+      <div class="tech-modal-tabs-wrap">
+        <div class="tech-modal-tabs">
+          <button class="tech-modal-tab-btn active" data-tech-tab="steps" onclick="switchTechModalTab('steps')">
+            🔪 Quy trình mổ ${stepsCount > 0 ? `<span class="tech-tab-badge">${stepsCount} thì</span>` : ''}
+          </button>
+          <button class="tech-modal-tab-btn" data-tech-tab="images" onclick="switchTechModalTab('images')">
+            🖼️ Hình ảnh & Sơ đồ ${imgCount > 0 ? `<span class="tech-tab-badge">${imgCount}</span>` : ''}
+          </button>
+          <button class="tech-modal-tab-btn" data-tech-tab="warnings" onclick="switchTechModalTab('warnings')">
+            ⚠️ Cảnh báo & Mẹo mổ
+          </button>
+          <button class="tech-modal-tab-btn" data-tech-tab="setup" onclick="switchTechModalTab('setup')">
+            📋 Chỉ định & Chuẩn bị
+          </button>
+          <button class="tech-modal-tab-btn" data-tech-tab="rehab" onclick="switchTechModalTab('rehab')">
+            🩺 Hậu phẫu & Trích dẫn
+          </button>
         </div>
       </div>
 
-      <!-- Postoperative Care & Rehab -->
-      ${guide.postop_protocol ? `
-        <div class="clinical-box-rehab">
-          <div class="clinical-box-rehab-title">🩺 Chăm sóc sau mổ & Phục hồi chức năng (Rehabilitation)</div>
-          <div class="clinical-section-body">${escapeHtml(guide.postop_protocol)}</div>
-        </div>
-      ` : ''}
+      <!-- Tab Panes Container -->
+      <div class="tech-tab-panes">
 
-      <!-- Campbell's Pearls & Traps -->
-      ${guide.pearls_pitfalls ? `
-        <div class="clinical-box-pearls">
-          <div class="clinical-box-pearls-title">⚠️ Lưu ý chuyên môn & Cạm bẫy của Campbell (Pearls & Pitfalls)</div>
-          <div class="clinical-section-body">${escapeHtml(guide.pearls_pitfalls)}</div>
-        </div>
-      ` : ''}
+        <!-- PANE 1: SURGICAL STEPS -->
+        <div class="tech-tab-pane active" id="techPane-steps">
+          <div class="clinical-section-card">
+            <div class="clinical-section-title">⚡ Các thì phẫu thuật từng bước (Operative Steps)</div>
+            <div class="clinical-steps-list">
+              ${stepsHtml || '<p style="color: var(--text-muted); padding: 1rem;">Đang cập nhật các bước phẫu thuật chi tiết.</p>'}
+            </div>
+          </div>
 
-      <!-- Optional In-Depth Text Accordion -->
-      ${rawFallback ? `
-        <div style="margin-top: 0.5rem;">
-          <button class="clinical-raw-toggle-btn" onclick="toggleRawBookText(this)">
-            📖 Xem trích dẫn chi tiết từ Campbell's Operative Orthopaedics ▾
-          </button>
-          <div class="clinical-raw-body">
-            ${formatTechniqueText(rawFallback)}
+          <div class="tech-tab-footer-nav">
+            ${imgCount > 0 ? `
+              <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('images')">
+                🖼️ Xem sơ đồ giải phẫu & hình ảnh (${imgCount}) ➔
+              </button>
+            ` : ''}
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('warnings')">
+              ⚠️ Xem lưu ý giải phẫu & cạm bẫy Campbell ➔
+            </button>
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('rehab')">
+              🩺 Xem phác đồ phục hồi chức năng ➔
+            </button>
           </div>
         </div>
-      ` : ''}
+
+        <!-- PANE 2: IMAGES & ATLAS -->
+        <div class="tech-tab-pane" id="techPane-images">
+          ${(guide.images && guide.images.length > 0) ? `
+            <div class="tech-images-gallery">
+              ${guide.images.map(img => `
+                <div class="tech-image-card">
+                  <img src="${img.url}" alt="${escapeHtml(img.caption || guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${img.url}" data-caption="${escapeHtml(img.caption || guide.name_vi)}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
+                  <div class="image-caption">${img.type === 'xray' ? '🩻 Phim X-quang / Ca lâm sàng' : '🔍 Sơ đồ phẫu thuật Campbell'} • ${escapeHtml(img.caption || '')}</div>
+                </div>
+              `).join('')}
+            </div>
+          ` : (guide.image_url ? `
+            <div class="tech-image-wrap">
+              <img src="${guide.image_url}" alt="${escapeHtml(guide.name_vi)}" class="tech-main-img" loading="lazy" data-img-url="${guide.image_url}" data-caption="${escapeHtml(guide.name_vi + ' - Sơ đồ kỹ thuật mổ chuẩn Campbell')}" onclick="openImageLightbox(this.dataset.imgUrl || this.src, this.dataset.caption)">
+              <div class="image-caption">🔍 Sơ đồ giải phẫu & kỹ thuật phẫu thuật thực hành chuẩn Campbell • Nhấn để phóng to</div>
+            </div>
+          ` : `
+            <div style="background: #fff; padding: 2rem; border-radius: 10px; border: 1px dashed var(--border); text-align: center; color: var(--text-muted); margin: 1rem 0;">
+              <div style="font-size: 2.2rem; margin-bottom: 0.5rem;">📐</div>
+              <h4 style="color: #0f172a; margin-bottom: 0.35rem;">Sơ đồ phẫu thuật Campbell</h4>
+              <p style="font-size: 0.9rem; line-height: 1.6; max-width: 500px; margin: 0 auto 1rem;">
+                Kỹ thuật này áp dụng các mốc bộc lộ giải phẫu chuẩn mực của Chương ${guide.chapter || ''}. Vui lòng tham khảo chi tiết các thì phẫu thuật và đường mổ ở các tab tương ứng.
+              </p>
+              <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('steps')">
+                🔪 Chuyển sang Tab Quy trình mổ ➔
+              </button>
+            </div>
+          `)}
+
+          <div class="tech-tab-footer-nav">
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('steps')">
+              ⬅ Quay lại Quy trình mổ
+            </button>
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('warnings')">
+              ⚠️ Xem lưu ý giải phẫu & cạm bẫy ➔
+            </button>
+          </div>
+        </div>
+
+        <!-- PANE 3: DANGER ZONES & PEARLS -->
+        <div class="tech-tab-pane" id="techPane-warnings">
+          ${guide.surgical_approach ? `
+            <div class="clinical-box-danger" style="margin-bottom: 1.15rem;">
+              <div class="clinical-box-danger-title">🔪 Đường mổ & Cấu trúc giải phẫu nguy cơ (Danger Zones)</div>
+              <div class="clinical-section-body">${escapeHtml(guide.surgical_approach)}</div>
+            </div>
+          ` : ''}
+
+          ${guide.pearls_pitfalls ? `
+            <div class="clinical-box-pearls" style="margin-bottom: 1.15rem;">
+              <div class="clinical-box-pearls-title">⚠️ Lưu ý chuyên môn & Cạm bẫy của Campbell (Pearls & Pitfalls)</div>
+              <div class="clinical-section-body">${escapeHtml(guide.pearls_pitfalls)}</div>
+            </div>
+          ` : ''}
+
+          ${guide.contraindications ? `
+            <div class="clinical-box-contra" style="margin-bottom: 1.15rem;">
+              <div class="clinical-box-contra-title">🚫 Chống chỉ định can thiệp</div>
+              <div class="clinical-section-body">${escapeHtml(guide.contraindications)}</div>
+            </div>
+          ` : ''}
+
+          <div class="tech-tab-footer-nav">
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('steps')">
+              ⬅ Quay lại Quy trình mổ
+            </button>
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('rehab')">
+              🩺 Xem phác đồ phục hồi chức năng ➔
+            </button>
+          </div>
+        </div>
+
+        <!-- PANE 4: INDICATIONS & SETUP -->
+        <div class="tech-tab-pane" id="techPane-setup">
+          ${guide.clinical_indications ? `
+            <div class="clinical-section-card" style="margin-bottom: 1.15rem;">
+              <div class="clinical-section-title">📌 Chỉ định lâm sàng & Mục tiêu phẫu thuật</div>
+              <div class="clinical-section-body">${escapeHtml(guide.clinical_indications)}</div>
+            </div>
+          ` : ''}
+
+          ${guide.patient_prep ? `
+            <div class="clinical-section-card" style="margin-bottom: 1.15rem;">
+              <div class="clinical-section-title">📐 Tư thế bệnh nhân & Chuẩn bị (Setup)</div>
+              <div class="clinical-section-body">${escapeHtml(guide.patient_prep)}</div>
+            </div>
+          ` : ''}
+
+          ${guide.classification_link ? `
+            <div class="linked-classif-banner" style="margin-bottom: 1.15rem;">
+              🏷️ Kỹ thuật liên kết phân loại gãy xương: <strong>${escapeHtml(guide.classification_link)}</strong>
+            </div>
+          ` : ''}
+
+          <div class="tech-tab-footer-nav">
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('steps')">
+              🔪 Tiến hành xem Quy trình phẫu thuật ➔
+            </button>
+          </div>
+        </div>
+
+        <!-- PANE 5: REHABILITATION & REFERENCE -->
+        <div class="tech-tab-pane" id="techPane-rehab">
+          ${guide.postop_protocol ? `
+            <div class="clinical-box-rehab" style="margin-bottom: 1.25rem;">
+              <div class="clinical-box-rehab-title">🩺 Chăm sóc sau mổ & Phục hồi chức năng (Rehabilitation)</div>
+              <div class="clinical-section-body">${escapeHtml(guide.postop_protocol)}</div>
+            </div>
+          ` : ''}
+
+          ${rawFallback ? `
+            <div style="margin-top: 1rem;">
+              <button class="clinical-raw-toggle-btn" onclick="toggleRawBookText(this)">
+                📖 Xem trích dẫn toàn văn từ Campbell's Operative Orthopaedics ▾
+              </button>
+              <div class="clinical-raw-body">
+                ${formatTechniqueText(rawFallback)}
+              </div>
+            </div>
+          ` : ''}
+
+          <div class="tech-tab-footer-nav">
+            <button class="tech-tab-nav-jump-btn" onclick="switchTechModalTab('steps')">
+              ⬅ Quay lại Quy trình mổ
+            </button>
+          </div>
+        </div>
+
+      </div>
     </div>
   `;
 }
