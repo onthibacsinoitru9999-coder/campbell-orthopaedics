@@ -1,1 +1,66 @@
-{"tech_id": "73-33", "name_en": "Trapeziometacarpal Arthrodesis (Stark et al.)", "name_vi": "Thay Khớp Liên Đốt Gần Bằng Khớp Pyrocarbon Trục Đôi", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4121, "author": "Stark et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Thay Khớp Liên Đốt Gần Bằng Khớp Pyrocarbon Trục Đôi (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Trapeziometacarpal Arthrodesis (Stark et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "With the patient supine and the hand supinated on the hand table, use a pneumatic tourniquet.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a palmar curved incision exposing the proximal two thirds of the thumb metacarpal and the dorsal and palmar sides of the trapeziometacarpal joint (Fig. 73-45A).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Identify and protect the branches of the superficial radial nerve and the extensor pollicis brevis tendon.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Detach the abductor pollicis longus tendons with a portion of the joint capsule for later reattachment.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Reflect the thenar muscles distally; incise the dorsal and palmar capsule and expose the joint. TRAPEZIOMETACARPAL ARTHRODESIS", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-33",
+  "name_en": "Trapeziometacarpal Arthrodesis (Stark et al.)",
+  "name_vi": "Thay Khớp Liên Đốt Gần Bằng Khớp Pyrocarbon Trục Đôi",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4121,
+  "author": "Stark et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Thay Khớp Liên Đốt Gần Bằng Khớp Pyrocarbon Trục Đôi (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Trapeziometacarpal Arthrodesis (Stark et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "With the patient supine and the hand supinated on the hand table, use a pneumatic tourniquet.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Make a palmar curved incision exposing the proximal two thirds of the thumb metacarpal and the dorsal and palmar sides of the trapeziometacarpal joint (Fig. 73-45A).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Identify and protect the branches of the superficial radial nerve and the extensor pollicis brevis tendon.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Detach the abductor pollicis longus tendons with a portion of the joint capsule for later reattachment.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Reflect the thenar muscles distally; incise the dorsal and palmar capsule and expose the joint. TRAPEZIOMETACARPAL ARTHRODESIS",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-33.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-33.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-45 A, Incision. B, Air-driven burr used to remove articular surfaces town to cancellous bone. C, Osteotome used to make multiple small cuts into opposing articular surfaces. D, Fixation with plate and screws. (Redrawn from Doyle JR: Sliding",
+      "width": 867,
+      "height": 538
+    },
+    {
+      "url": "web/static/images/techniques/73-33_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-46 Thumb carpometacarpal joint arthrodesis with plate fixation. A, Prepared surfaces of metacarpal and trapezium in cup-and-cone configuration. B, Radiographic confirmation of positioning with temporary Kirschner wire; note bony apposition.",
+      "width": 818,
+      "height": 771
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "(DOYLE)\n■ With the patient supine and the hand supinated on the \nhand table, use a pneumatic tourniquet.\n■ Make a palmar curved incision exposing the proximal two \nthirds of the thumb metacarpal and the dorsal and palmar \nsides of the trapeziometacarpal joint (Fig. 73-45A).\n■ Identify and protect the branches of the superficial \nradial \nnerve \nand \nthe \nextensor \npollicis \nbrevis \ntendon.\n■ Detach the abductor pollicis longus tendons with a \nportion of the joint capsule for later reattachment.\n■ Reflect the thenar muscles distally; incise the dorsal and \npalmar capsule and expose the joint.\nTRAPEZIOMETACARPAL \nARTHRODESIS"
+}

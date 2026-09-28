@@ -1,1 +1,66 @@
-{"tech_id": "73-35", "name_en": "Thumb Carpometacarpal Arthrodesis with Kirschner Wire or Blade-Plate Fixation (Goldfarb and Stern)", "name_vi": "Tái Cân Bằng Hệ Thống Gân Duỗi Ngón Khuy Áo Bằng Phẫu thuật Nalebuff", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4122, "author": "Goldfarb and Stern", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Cân Bằng Hệ Thống Gân Duỗi Ngón Khuy Áo Bằng Phẫu thuật Nalebuff (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Thumb Carpometacarpal Arthrodesis with Kirschner Wire or Blade-Plate Fixation (Goldfarb and Stern): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "B, Radiographic confirmation of positioning with temporary Kirschner wire; note bony apposition.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "E, Placement of Kirschner wires for arthrodesis.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Any tendons ruptured at the wrist level can be repaired or reconstructed at the time of synovectomy.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Options include distal side-to-side suture of the ruptured to intact tendon, free tendon graft, and tendon transfers to bridge a defect in a tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Compression of the nerve in rheumatoid arthritis should be relieved surgically if conservative treatment with splinting and corticosteroid injections has been unsuccessful.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-35",
+  "name_en": "Thumb Carpometacarpal Arthrodesis with Kirschner Wire or Blade-Plate Fixation (Goldfarb and Stern)",
+  "name_vi": "Tái Cân Bằng Hệ Thống Gân Duỗi Ngón Khuy Áo Bằng Phẫu thuật Nalebuff",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4122,
+  "author": "Goldfarb and Stern",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Cân Bằng Hệ Thống Gân Duỗi Ngón Khuy Áo Bằng Phẫu thuật Nalebuff (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Options include distal side-to-side suture of the ruptured to intact tendon, free tendon graft, and tendon transfers to bridge a defect in a tendon.",
+      "action": "Thực hiện thao tác bộc lộ & tiếp cận phẫu trường theo đúng quy chuẩn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Capsuloliga­ mentous repairs may be required to stabilize joints.",
+      "action": "Thực hiện thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng quy chuẩn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật cốt lõi",
+      "detail": "Repair of the extensor tendons is best done, if possible, by repair to an adjoining tendon rather than by segmental grafting.",
+      "action": "Thực hiện thao tác thao tác kỹ thuật cốt lõi theo đúng quy chuẩn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh & Cố định bổ trợ",
+      "detail": "Wrist level flexor tendon rupture is best repaired by suture to adjoining tendons or by segmental grafts; however, in the thumb an arthrodesis of the distal joint may be a more pre­ ferred procedure if the interphalangeal joint is unstable or degenerative.",
+      "action": "Thực hiện thao tác cân chỉnh & cố định bổ trợ theo đúng quy chuẩn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "However, if the thumb interphalangeal joint is not arthritic and is stable, a ring flexor digitorum superficialis transfer can be considered..",
+      "action": "Thực hiện thao tác kiểm tra chức năng & cầm máu theo đúng quy chuẩn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-35.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-35.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-46 Thumb carpometacarpal joint arthrodesis with plate fixation. A, Prepared surfaces of metacarpal and trapezium in cup-and-cone configuration. B, Radiographic confirmation of positioning with temporary Kirschner wire; note bony apposition.",
+      "width": 818,
+      "height": 771
+    },
+    {
+      "url": "web/static/images/techniques/73-35_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-47 A, Dorsum of left wrist with bulging of extensor tenosynovium and joint synovium. Thumb is to top right of picture. B, Medially based extensor retinacular flap has been raised to allow access to extensor tendons and dorsum of joint. Late",
+      "width": 793,
+      "height": 815
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "CHAPTER 73  ARTHRITIC HAND\n3711\nFIGURE 73-46\t\nThumb carpometacarpal joint arthrodesis with plate fixation. A, Prepared surfaces of metacarpal and trapezium \nin cup-and-cone configuration. B, Radiographic confirmation of positioning with temporary Kirschner wire; note bony apposition. \nC, Application of 2-mm T-plate. D, Radiographic appearance after arthrodesis. E, Placement of Kirschner wires for arthrodesis. (A-D from \nDoyle JR: Sliding bone graft technique for arthrodesis of the trapeziometacarpal joint of the thumb, J Hand Surg 16A:383, 1991); E redrawn from \nGoldfarb CA, Stren PJ: Indications and techniques for thumb carpometacarpal arthrodesis, Tech Hand Upper Extremity Surg 6:178, 2001.)\nA\nB\nD\nC\nE\nIf the synovitis is only moderate, and if changes in the \nbones are absent, but pain is significant, dorsal synovectomy \nof the wrist may be of lasting benefit. Persistent swelling at \nthe dorsum of the wrist that continues for 6 weeks or longer \ndespite adequate medical treatment may be an indication for \na dorsal synovectomy. This may be considered a prophylactic \nmeasure to avoid extensor tendon rupture. Rupture of these \ntendons is quite disabling, and function can never be restored \ncompletely. Any tendons ruptured at the wrist level can be \nrepaired or reconstructed at the time of synovectomy. Options \ninclude distal side-to-side suture of the ruptured to intact \ntendon, free tendon graft, and tendon transfers to bridge a \ndefect in a tendon. If synovitis involves the wrist and the \nmetacarpophalangeal joints, synovectomy often can be done \nat both levels during the same operation, usually only on one \nlimb at a time.\nHypertrophy of the volar wrist synovium even though \nundetectable clinically can cause median nerve compression \nand symptoms of carpal tunnel syndrome. Synovitis is con­\nsidered one of the most frequent causes of the syndrome. \nCompression of the nerve in rheumatoid arthritis should be \nrelieved surgically if conservative treatment with splinting \nand corticosteroid injections has been unsuccessful. If hyper­\ntrophy of the tenosynovium on the volar aspect of the wrist \nis obvious clinically (Fig. 73-47), with or without symptoms \nof compression of the median nerve, a palmar (flexor) teno­\nsynovectomy may be useful in relieving pain and in prevent­\ning rupture of tendons. The carpal tunnel is a frequent site of \nrupture of flexor tendons. Distal radius or scaphoid bony \nprominences in the floor of the carpal tunnel can cause \nfraying and eventual rupture of the thumb (Mannerfelt syn­\ndrome) and other finger flexor tendons. More commonly, the \nflexor pollicis longus or index profundus is involved. Synovi­\ntis within the carpal articulations themselves and in the sur­\nrounding tendon sheaths is also common in rheumatoid \narthritis.\nThe various options for surgical treatment depend on the \npathologic process involved and the severity of the disease. \nAs already mentioned, synovectomy of the dorsal compart­\nment is a worthwhile procedure when indicated. Capsuloliga­\nmentous repairs may be required to stabilize joints. Repair of \nthe extensor tendons is best done, if possible, by repair to an \nadjoining tendon rather than by segmental grafting. Wrist \nlevel flexor tendon rupture is best repaired by suture to \nadjoining tendons or by segmental grafts; however, in the \nthumb an arthrodesis of the distal joint may be a more pre­\nferred procedure if the interphalangeal joint is unstable or \ndegenerative. However, if the thumb interphalangeal joint is \nnot arthritic and is stable, a ring flexor digitorum superficialis \ntransfer can be considered."
+}

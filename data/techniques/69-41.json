@@ -1,1 +1,72 @@
-{"tech_id": "69-41", "name_en": "Combination Tenodesis of the Flexor Carpi Ulnaris and the Extensor Carpi Ulnaris (Jupiter and Breen, Modified)", "name_vi": "Hàn 4 Góc Khớp Cổ Tay (Four-Corner Arthrodesis) Bằng Nẹp Tròn Nén Ép Khóa", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3942, "author": "Jupiter and Breen, Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn 4 Góc Khớp Cổ Tay (Four-Corner Arthrodesis) Bằng Nẹp Tròn Nén Ép Khóa (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Combination Tenodesis of the Flexor Carpi Ulnaris and the Extensor Carpi Ulnaris (Jupiter and Breen, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Expose the extensor retinaculum and make a Z-shaped incision in the retinaculum, preserving a retinacula flap to create a stabilizing sling for the extensor carpi ulnaris tendon (Fig. 69-78C).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "If the ulnar head is present and a distal ulnar excision is planned, expose the distal ulna subperiosteally or extraperiosteally.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Protect the flexor carpi ulnaris and the extensor carpi ulnaris with retractors.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Hàn 4 Góc Khớp Cổ Tay)", "detail": "Perform a transverse osteotomy of the ulna at the neck or just proximal to the level of the sigmoid notch. Depending on the size of the patient, the length of the ulna to be excised is 1.5 to 2.0 cm.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Mark the ulna with an osteotome and proceed with the osteotomy in either of two ways. In the first, use an oscillating saw with a small blade to cut the ulna at about the neck. In the second, drill a transverse line of holes through the ulnar neck and complete the osteotomy with a bone-cutting force", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-41",
+  "name_en": "Combination Tenodesis of the Flexor Carpi Ulnaris and the Extensor Carpi Ulnaris (Jupiter and Breen, Modified)",
+  "name_vi": "Hàn 4 Góc Khớp Cổ Tay (Four-Corner Arthrodesis) Bằng Nẹp Tròn Nén Ép Khóa",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3942,
+  "author": "Jupiter and Breen, Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn 4 Góc Khớp Cổ Tay (Four-Corner Arthrodesis) Bằng Nẹp Tròn Nén Ép Khóa (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Expose the extensor retinaculum and make a Z-shaped incision in the retinaculum, preserving a retinacula flap to create a stabilizing sling for the extensor carpi ulnaris tendon (Fig. 69-78C).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "If the ulnar head is present and a distal ulnar excision is planned, expose the distal ulna subperiosteally or extraperiosteally.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Protect the flexor carpi ulnaris and the extensor carpi ulnaris with retractors.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Perform a transverse osteotomy of the ulna at the neck or just proximal to the level of the sigmoid notch. Depending on the size of the patient, the length of the ulna to be excised is 1.5 to 2.0 cm.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Mark the ulna with an osteotome and proceed with the osteotomy in either of two ways. In the first, use an oscillating saw with a small blade to cut the ulna at about the neck. In the second, drill a transverse line of holes through the ulnar neck and complete the osteotomy with a bone-cutting forceps.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Expose the extensor carpi ulnaris and create a proximally based slip of the tendon 9 to 10 cm long (Fig. 69-79).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-41.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-41.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-78 A, Dorsal skin incision. B, Palmar skin incision. C, Extensor carpi ulnaris (ECU) stabilized by sling created from retinaculum. SEE TECHNIQUE 69-41.",
+      "width": 600,
+      "height": 376
+    },
+    {
+      "url": "web/static/images/techniques/69-41_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-79 Combination tenodesis of flexor carpi ulnaris (FCU) and extensor carpi ulnaris (ECU). Passage of ECU through holes drilled in medullary canal of ulna. (Redrawn from Breen TF, Jupiter JB: Extensor carpi ulnaris and flexor carpi ulnaris te",
+      "width": 587,
+      "height": 437
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nC\nA\nB\nECU\ncrease, and extending proximally over the ulna. Carefully \navoid the dorsal sensory branches of the ulnar nerve.\n■ Expose the extensor retinaculum and make a Z-shaped \nincision in the retinaculum, preserving a retinacula flap to \ncreate a stabilizing sling for the extensor carpi ulnaris \ntendon (Fig. 69-78C).\n■ If the ulnar head is present and a distal ulnar excision is \nplanned, expose the distal ulna subperiosteally or \nextraperiosteally.\n■ Protect the flexor carpi ulnaris and the extensor carpi \nulnaris with retractors.\n■ Perform a transverse osteotomy of the ulna at the neck \nor just proximal to the level of the sigmoid notch. \nDepending on the size of the patient, the length of the \nulna to be excised is 1.5 to 2.0 cm.\n■ Mark the ulna with an osteotome and proceed with the \nosteotomy in either of two ways. In the first, use an \noscillating saw with a small blade to cut the ulna at about \nthe neck. In the second, drill a transverse line of holes \nthrough the ulnar neck and complete the osteotomy with \na bone-cutting forceps.\n■ Expose the extensor carpi ulnaris and create a proximally \nbased slip of the tendon 9 to 10 cm long (Fig. 69-79).\n■ Supinate the hand, and, beginning at the pisiform, make \na 10-cm curved incision, extending proximally along the \npalmar and ulnar side of the forearm (Fig. 69-78B).\n■ Protect the ulnar neurovascular bundle and expose the \nflexor carpi ulnaris. Leaving it distally based and attached \nto the pisiform, create a tendon slip of the flexor carpi \nulnaris 8 to 10 cm long.\n■ Starting 1.5 to 2.0 cm proximal to the cut end of the ulna, \nuse a 1/4-inch (6 to 7 mm) drill point to make a transverse \ntunnel from the dorsal cortex of the ulna, passing through \nthe medullary canal and out the volar cortex, slanting \nslightly from proximal-dorsal to distal-palmar.\n■ Starting at the distal, cut end of the ulna, make another \ntunnel, drilling proximally, up the medullary canal of the \nulna to connect with the first, transverse tunnel (Fig. \n69-79).\n■ Use a suture passer or 20-gauge wire loop to pass the \nflexor carpi ulnaris slip into the medullary canal tunnel, \n(JUPITER AND BREEN, MODIFIED)\n■ With the patient supine, after anesthetic induction, with \nthe upper extremity on a hand table, apply a well-padded \ntourniquet, prepare the skin, and arrange drapes to \nexpose the limb distal to the tourniquet. Exsanguinate the \nlimb and inflate the tourniquet.\n■ Use two incisions, one dorsal and the other palmar (Fig. \n69-78A and B). Make a 10-cm, dorsal, S-shaped incision, \nbeginning over the carpus, distal to the wrist extension"
+}

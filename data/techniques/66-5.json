@@ -1,1 +1,64 @@
-{"tech_id": "66-5", "name_en": "Six-Strand Double-Loop Suture Repair (Lim and Tsai)", "name_vi": "Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép (Lim & Tsai)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3738, "author": "Lim and Tsai", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép (Lim & Tsai) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Six-Strand Double-Loop Suture Repair (Lim and Tsai): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn", "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép (Chương 66). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.", "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."}, {"step": 2, "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương", "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.", "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."}, {"step": 3, "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)", "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.", "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."}, {"step": 4, "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động", "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.", "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."}, {"step": 5, "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng", "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.", "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-17.webp", "images": [{"url": "web/static/images/techniques/66-17.webp", "type": "diagram", "caption": "Kỹ thuật khâu gân gấp 6 sợi vòng kép Lim-Tsai và thứ tự luồn chỉ chịu lực cao"}]}
+{
+  "tech_id": "66-5",
+  "name_en": "Six-Strand Double-Loop Suture Repair (Lim and Tsai)",
+  "name_vi": "Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép (Lim & Tsai)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3738,
+  "author": "Lim and Tsai",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép (Lim & Tsai) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Six-Strand Double-Loop Suture Repair (Lim and Tsai) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn",
+      "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép (Chương 66). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.",
+      "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."
+    },
+    {
+      "step": 2,
+      "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương",
+      "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Vòng Kép. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.",
+      "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."
+    },
+    {
+      "step": 3,
+      "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)",
+      "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.",
+      "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+    },
+    {
+      "step": 4,
+      "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động",
+      "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.",
+      "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."
+    },
+    {
+      "step": 5,
+      "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng",
+      "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.",
+      "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-17.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-17.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật khâu gân gấp 6 sợi vòng kép Lim-Tsai và thứ tự luồn chỉ chịu lực cao"
+    },
+    {
+      "url": "web/static/images/techniques/66-5_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-16 Modified Tsuge suture technique. SEE TECH­ NIQUE 66-3 to avoid placing knots at the same level on the tendon",
+      "width": 796,
+      "height": 416
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "PART XVIII  THE HAND\n3356\nFIGURE 66-17\t\nCross section of a flexor tendon of right digit \nwith placement of core sutures (double-loop 6-strand repair): (1) \nplacement of first loop suture from proximal to distal in medial \nvolar quadrant; (2) second loop suture from distal to proximal in \nlateral volar quadrant; (3) rerouting of both loop sutures to meet \nat repair site in midportion of tendon. (Redrawn from Gill RS, Lim \nBH, Shatford RA, et al: A comparative analysis of the six-strand double-\nloop flexor tendon repair and three other techniques: a human cadaveric \nstudy, J Hand Surg 24A:1315, 1999). SEE"
+}

@@ -1,1 +1,54 @@
-{"tech_id": "79-16", "name_en": "Rotational Osteotomy of the First Metacarpal (Broudy and Smith)", "name_vi": "Chuyển Vị Ngón Trỏ Khép Kín Khe Bàn Tay (Index Transposition)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4286, "author": "Broudy and Smith", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Vị Ngón Trỏ Khép Kín Khe Bàn Tay (Index Transposition) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Rotational Osteotomy of the First Metacarpal (Broudy and Smith): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Under tourniquet control, make a transverse, racquet- shaped skin incision on the volar aspect and extend it to a V-shaped tongue at the middorsum of the first meta- carpal. The apex of the “V” lies at the level of the first metacarpal base (Fig. 79-31A) to allow adequate expo- sure for osteotomy.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a proximal longitudinal incision on the radiovolar side of the first metacarpal, 120 degrees from the apex of the “V” (Fig. 79-31B).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Chuyển Vị Ngón Trỏ Khép Kín Khe Bàn Tay)", "detail": "Perform an osteotomy of the base of the first metacarpal and position the metacarpal in the desired amount of pronation.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-16",
+  "name_en": "Rotational Osteotomy of the First Metacarpal (Broudy and Smith)",
+  "name_vi": "Chuyển Vị Ngón Trỏ Khép Kín Khe Bàn Tay (Index Transposition)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4286,
+  "author": "Broudy and Smith",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Vị Ngón Trỏ Khép Kín Khe Bàn Tay (Index Transposition) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường mổ Wagner bộc lộ khớp bàn - thang (1st CMC Joint): Đường rạch cong chữ L hoặc J theo bờ ngoài xương bàn ngón I và nếp gấp mô cái, bộc lộ bao khớp thang - bàn và bảo vệ nhánh cảm giác nông thần kinh quay (SBRN).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Under tourniquet control, make a transverse, racquet- shaped skin incision on the volar aspect and extend it to a V-shaped tongue at the middorsum of the first meta- carpal. The apex of the “V” lies at the level of the first metacarpal base (Fig. 79-31A) to allow adequate expo- sure for osteotomy.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Make a proximal longitudinal incision on the radiovolar side of the first metacarpal, 120 degrees from the apex of the “V” (Fig. 79-31B).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Perform an osteotomy of the base of the first metacarpal and position the metacarpal in the desired amount of pronation.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-16.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-16.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-31 Broudy and Smith rotational osteotomy of first metacarpal. A, Incision. B, After osteotomy, dorsal V-flap is rotated volarly. SEE TECHNIQUE 79-16.",
+      "width": 430,
+      "height": 584
+    },
+    {
+      "url": "web/static/images/techniques/79-16_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-32 Creation of one-bone forearm. A, Resection of distal ulnar anlage and proximal radius (shaded areas). B, Align­ ment of distal radius and proximal ulna. C, Kirschner wire extending into carpals used to stabilize radial and ulnar segments",
+      "width": 744,
+      "height": 682
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \nA\nB\nA B C\nD\nD\nC\nE\nF\nA D\nE\nB\nE\nF\nC\nB\nnot improve function. If marked shortening and bowing of \nthe radius with considerable forearm instability and restric­\ntion of elbow motion are present, creation of a one-bone \nforearm probably would improve function. For this procedure \nto be successful, some proximal ulna must be present. The \nproximal radius usually is excised several months before the \ncreation of the one-bone forearm because simultaneous \nperformance of the two procedures might be too extensive. \nInternal rotation deformity of the humerus may be present \nwith humeroradial synostosis and requires correction if it \nimpairs function.\nROTATIONAL OSTEOTOMY OF THE \nFIRST METACARPAL\n(BROUDY AND SMITH)\n■ Under tourniquet control, make a transverse, racquet-\nshaped skin incision on the volar aspect and extend it to \na V-shaped tongue at the middorsum of the first meta-\ncarpal. The apex of the “V” lies at the level of the first \nmetacarpal base (Fig. 79-31A) to allow adequate expo-\nsure for osteotomy.\n■ Make a proximal longitudinal incision on the radiovolar \nside of the first metacarpal, 120 degrees from the apex \nof the “V” (Fig. 79-31B).\n■ Perform an osteotomy of the base of the first metacarpal \nand position the metacarpal in the desired amount of \npronation."
+}

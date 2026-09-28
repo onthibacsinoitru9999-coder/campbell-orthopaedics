@@ -9,41 +9,64 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Dây Thần Kinh Cảm Giác Cổ Tay Giảm Đau Khớp (Wrist Denervation) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
   "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Dorsal Capsulodesis (Blatt with Berger Modification): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Đánh giá X-quang, đường rạch da mặt mu cổ tay (Incision & Exposure)",
-      "detail": "Before the operative procedure, thoroughly evaluate the radiographs to determine the nature and extent of the scapholunate dissociation and rotary subluxation of the scaphoid. Make a longitudinal dorsoradial incision centered over the radiocarpal joint.",
-      "action": "Bảo vệ các nhánh cảm giác nông của thần kinh quay và thần kinh bì cẳng tay sau."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make a notch in the dorsum of the distal pole of the scaphoid proximal to the distal articular surface and distal to the midaxis of rotation of the scaphoid with a narrow osteotome or small rongeur.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Tạo vạt bao khớp mặt mu cổ tay (Dorsal Capsuloligamentous Flap Creation)",
-      "detail": "Phẫu tích bộc lộ bao khớp mặt mu. Rạch tạo một vạt bao khớp - dây chằng đáy ở bờ xa (distally based capsuloligamentous flap) từ dây chằng gian cổ tay mu (DIC) hoặc dây chằng quay - cổ tay mu (DRT) có chiều rộng khoảng 1 cm.",
-      "action": "Tạo vạt bao khớp dày dặn, có độ bền cơ học cao để chống gập xương thuyền."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Trim the dorsal capsuloligamentous flap to attach into the distal pole of the scaphoid with a 4-0 stainless steel pull-out wire suture. Pass this wire suture through fine drill holes to the volar tubercle of the scaphoid and tie it at the level of the skin over felt and a button (Fig. 69-95B).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Tạo rãnh xương ở cực xa xương thuyền (Scaphoid Notch Preparation)",
-      "detail": "Make a notch in the dorsum of the distal pole of the scaphoid proximal to the distal articular surface and distal to the midaxis of rotation of the scaphoid with a narrow osteotome or small rongeur.",
-      "action": "Tạo rãnh xương xốp tươi máu để vạt bao khớp liền chắc vào xương thuyền."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Deflate the tourniquet, obtain hemostasis, and close the skin. (BLATT WITH BERGER MODIFICATION)",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Nắn chỉnh xương thuyền & Đính vạt bao khớp (Scaphoid Reduction & Flap Anchorage)",
-      "detail": "Nắn chỉnh xương thuyền xoay ngửa trở lại tư thế giải phẫu, ghim 1 kim K-wire tạm thời giữ xương thuyền vào xương cả. Trim the dorsal capsuloligamentous flap to attach into the distal pole of the scaphoid with a 4-0 stainless steel pull-out wire suture or suture anchor tied securely.",
-      "action": "Căng vạt bao khớp tạo lực kéo giữ cực xa xương thuyền không bị gập ra trước (flexion deformity)."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Before the operative procedure, thoroughly evaluate the radiographs to determine the nature and extent of the scapholunate dissociation and rotary subluxation of the scaphoid. Blatt stated, “a single criterion for this procedure is the ability to anatomically reduce the scaph- oid at the time of surgery.”",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động nẹp bột (Closure & Postoperative Splinting)",
-      "detail": "Deflate the tourniquet, obtain hemostasis, and close the skin. Băng vô trùng và đặt nẹp bột cẳng bàn tay giữ cổ tay duỗi nhẹ 20-30° trong 6-8 tuần.",
-      "action": "Giữ cổ tay duỗi nhẹ giúp giảm sức căng lên vạt bao khớp mu vừa đính."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "After achieving satisfactory anesthesia and appropriate skin preparation and draping of the extremity and with the well-padded tourniquet inflated, make a longitudinal dorsoradial incision.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Retract the wrist and finger extensors laterally (wrist) and medially (finger).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
   "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/69-49.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-49.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-94 Tenodesis and capsulodesis techniques for volar intercalated segmental instability (VISI) (A) and dorsal intercalated segmental instability (DISI) (B) (see text). B",
+      "width": 934,
+      "height": 423
+    },
+    {
+      "url": "web/static/images/techniques/69-49_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-94 Tenodesis and capsulodesis techniques for volar intercalated segmental instability (VISI) (A) and dorsal intercalated segmental instability (DISI) (B) (see text). B",
+      "width": 482,
+      "height": 460
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nNotch for\nligament\ninsertion\nA\nB\nDorsal flap\nfrom ligament\nScaphoid rotated\nLigament inserted\nto derotate scaphoid\nPull-out\nwire\n■ Make a notch in the dorsum of the distal pole of the \nscaphoid proximal to the distal articular surface and distal \nto the midaxis of rotation of the scaphoid with a narrow \nosteotome or small rongeur.\n■ Trim the dorsal capsuloligamentous flap to attach into the \ndistal pole of the scaphoid with a 4-0 stainless steel \npull-out wire suture. Pass this wire suture through fine \ndrill holes to the volar tubercle of the scaphoid and tie it \nat the level of the skin over felt and a button (Fig. 69-95B).\n■ Deflate the tourniquet, obtain hemostasis, and close the \nskin.\n(BLATT WITH BERGER MODIFICATION)\n■ Before the operative procedure, thoroughly evaluate \nthe radiographs to determine the nature and extent of \nthe scapholunate dissociation and rotary subluxation of \nthe scaphoid. Blatt stated, “a single criterion for this \nprocedure is the ability to anatomically reduce the scaph-\noid at the time of surgery.”\n■ After achieving satisfactory anesthesia and appropriate \nskin preparation and draping of the extremity and with \nthe well-padded tourniquet inflated, make a longitudinal \ndorsoradial incision.\n■ Retract the wrist and finger extensors laterally (wrist) and \nmedially (finger).\n■ Make a longitudinal incision through the capsule near the \naxis of the scaphoid. Expose the full length of the \nscaphoid.\n■ Preserve a 1-cm wide flap of dorsal wrist capsule and \ndevelop it from the ulnar side of the capsular incision \n(Fig. 69-95A). This flap is released distally, and the proxi-\nmal origin on the dorsum of the distal radius is left \nattached.\n■ Inspect the interosseous and dorsal scapholunate liga-\nments to ascertain their rupture and irreparability.\n■ Reduce the scaphoid with thumb pressure on the scaph-\noid tubercle on the palm side, bring the wrist into slight \nulnar deviation, and transfix the scaphoid with 0.045-inch \n(1.16-mm) Kirschner wires placed from the distal pole of \nthe scaphoid into the capitate and base of the third \nmetacarpal."
 }

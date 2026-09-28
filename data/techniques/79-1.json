@@ -1,1 +1,58 @@
-{"tech_id": "79-1", "name_en": "Metacarpal Lengthening (Kessler et al.)", "name_vi": "Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh (Bayne & Klug)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4261, "author": "Kessler et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh (Bayne & Klug) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Metacarpal Lengthening (Kessler et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)", "detail": "The pronator teres often is absent or rudimentary, inserting into the inter­ muscular septum, and the palmaris longus often is defective.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)", "detail": "The radii are typically absent bilaterally but the thumbs are always present, although lacking in extension.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)", "detail": "reported the consistent presence of a brachiocarpalis muscle in TAR infants that arises from the humerus and inserts onto the radial carpus, contributing significantly to the deformity of both the wrist and elbow.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)", "detail": "The scapula, clavicle, and humerus often are reduced in size, and the ulna is char­ acteristically short, thick, and curved, with an occasional synostosis with any radial remnant.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": "web/static/images/techniques/79-1.webp", "images": [{"url": "web/static/images/techniques/79-1.webp", "type": "diagram", "caption": "Phân loại dị tật bàn tay vẹo quay bẩm sinh theo Bayne và Klug (Type I đến Type IV)"}]}
+{
+  "tech_id": "79-1",
+  "name_en": "Metacarpal Lengthening (Kessler et al.)",
+  "name_vi": "Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh (Bayne & Klug)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4261,
+  "author": "Kessler et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh (Bayne & Klug) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Metacarpal Lengthening (Kessler et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)",
+      "detail": "The pronator teres often is absent or rudimentary, inserting into the inter­ muscular septum, and the palmaris longus often is defective.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)",
+      "detail": "The radii are typically absent bilaterally but the thumbs are always present, although lacking in extension.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)",
+      "detail": "reported the consistent presence of a brachiocarpalis muscle in TAR infants that arises from the humerus and inserts onto the radial carpus, contributing significantly to the deformity of both the wrist and elbow.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Thao tác can thiệp kỹ thuật (Đánh Giá & Phân Loại Bàn Tay Vẹo Quay Bẩm Sinh)",
+      "detail": "The scapula, clavicle, and humerus often are reduced in size, and the ulna is char­ acteristically short, thick, and curved, with an occasional synostosis with any radial remnant.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-1.webp",
+      "type": "diagram",
+      "caption": "Phân loại dị tật bàn tay vẹo quay bẩm sinh theo Bayne và Klug (Type I đến Type IV)"
+    },
+    {
+      "url": "web/static/images/techniques/79-1_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-4 Three types of phocomelia described by Frantz and O’Rahilly. A, Hand attached to shoulder with no intermediate humeral or forearm segment. B, Hand attached to shoulder with abnormal humeral, radial, and ulnar segment intervening. C, Hand ",
+      "width": 953,
+      "height": 438
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "PART XVIII  THE HAND\n3832\nthickening and bowing of the ulna. Type III deformity (partial \nabsence of the radius) may be proximal, middle, or distal, \nwith absence of the distal third being most common; the \ncarpus usually is radially deviated and unsupported, and the \nulna is thickened and bowed. The type IV pattern (total \nabsence of the radius) is the most common, with radial devia­\ntion of the carpus, palmar and proximal subluxation, frequent \npseudoarticulation with the radial border of the distal ulna, \nand a shortened and bowed ulna.\nVariable degrees of thumb deficiencies are frequent with \nall patterns. Manske and Halikis devised a classification \nsystem that incorporates thumb and carpal deficiencies (Table \n79-5). Associated cardiac, hematopoietic, gastrointestinal, \nand renal abnormalities occur in approximately 25% to 44% \nTREATMENT\nTreatment of these patients generally is conservative. Various \ningenious devices have been developed to assist in hygiene, \nfeeding, and dressing, and these play a major role in the \nchild’s achieving independence. Conventional prostheses \ndesigned to increase length usually are rejected. Surgery plays \na minor role in treatment of phocomelia and generally is \nindicated only for shoulder instability, limb shortening, or \ninadequate thumb opposition. Rotational osteotomy of one \nof the digits with web space deepening may improve thumb \nopposition, but the specific technique for phocomelia has not \nbeen well described or tested.\nRADIAL CLUBHAND—RADIAL DEFICIENCIES\nRadial ray deficiencies include all malformations with longi­\ntudinal failure of formation of parts along the preaxial or \nradial border of the upper extremity: deficient or absent \nthenar muscles; a shortened, unstable, or absent thumb; and \na shortened or absent radius, commonly referred to as radial \nclubhand. These conditions may occur as isolated deficien­\ncies, but more commonly they occur to some degree in \nassociation with each other. Radial clubhand occurs in an \nestimated one per 50,000 live births. Bilateral deformities \noccur in approximately 50% of patients; when the deformity \nis unilateral, the right side is more commonly affected. Both \nsexes are equally affected. Complete radial absence is more \ncommon than partial absence.\nIn most cases of radial clubhand the cause is unknown \nand the deformities are believed to occur sporadically outside \nof the cases caused by thalidomide use, although genetic and \nenvironmental factors have been suggested. Radial deficien­\ncies in association with Fanconi anemia and thrombocytope­\nnia are inherited as an autosomal recessive trait; in association \nwith Holt-Oram syndrome, they are inherited in an autoso­\nmal dominant pattern (Table 79-4).\nThe currently accepted and most useful classification of \nthe congenital radial dysplasias is a modification of that \nproposed by Heikel, in which four types are described (Fig. \n79-5). In type I (short distal radius), the distal radial physis \nis present but is delayed in appearance, the proximal radial \nphysis is normal, the radius is only slightly shortened, and the \nulna is not bowed. In type II (hypoplastic radius), distal and \nproximal radial physes are present but are delayed in appear­\nance, which results in moderate shortening of the radius and \nCommon Syndromes Associated with Radial \nLongitudinal Deficiency\nASSOCIATED SYNDROMES\nINHERITANCE PATTERN\nHolt-Oram\nAD\nThrombocytopenia absent radius\nAR\nFanconi anemia\nAR\nVACTERL association\nSporadic\nAD, Autosomal dominant; AR, autosomal recessive; VACTERL, vertebral defects, \nanal atresia, cardiac defects, tracheoesophageal fistula, renal anomalies, and \nlimb abnormalities.\nFrom Wall LB, Ezaki M, Oishi SN: Management of congenital radial longitudinal \ndeficiency: controversies and current concepts, Plast Reconstr Surg 132:122, \n2013.\nTABLE 79-4\nFIGURE 79-5\t\nHeikel’s classification of radial dysplasia. A, Type \nI: short distal radius. B, Type II: hypoplastic radius. C, Type III: partial \nabs"
+}

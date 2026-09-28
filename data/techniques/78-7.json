@@ -9,37 +9,43 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Rạch Mở Nhỏ & Bơm Rửa Áp Lực Liên Tục Bao Gân Gấp Neviaser Trị Viêm Mủ Bao Gân (Chương 78, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Chống chỉ định gây tê ngấm tại chỗ trong mô viêm mủ; chống chỉ định khâu kín da thì đầu ổ nhiễm trùng mủ sâu bàn tay.",
   "patient_prep": "Gây mê hoặc tê vùng (tránh gây tê tại chỗ vào ổ nhiễm trùng). Bơm rửa số lượng lớn nước muối sinh lý vô trùng.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Incision and Drainage of Radial and Ulnar Bursae: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Incision and Drainage of Radial and Ulnar Bursae (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Vô cảm, chuẩn bị bệnh nhân & Đặt garo hơi (Anesthesia & Tourniquet)",
-      "detail": "With the patient under appropriate anesthesia, apply and inflate a tourniquet but do not wrap the arm. Tránh băng ép cuốn chi bằng chun Esmarch để không đẩy dịch mủ lan rộng lên cẳng tay.",
-      "action": "Không dồn máu bằng băng chun Esmarch ở chi đang nhiễm trùng cấp tính."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "With the patient under appropriate anesthesia, apply and inflate a tourniquet but do not wrap the arm.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Đường rạch da bộc lộ khớp bàn ngón và túi hoạt dịch quay (Incision over Radial Bursa & MP Joint)",
-      "detail": "To drain the metacarpophalangeal joint, make an incision on either side of the metacarpal head, retract the extensor expansion distally, and open the joint capsule dorsal to the collateral ligament sufficiently to allow free drainage and irrigation of the joint.",
-      "action": "Mở rộng phẫu trường dẫn lưu triệt để mủ khoang túi hoạt dịch quay mô cái."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "To drain the metacarpophalangeal joint, make an incision on either side of the metacarpal head, retract the exten- sor expansion distally, and open the joint capsule dorsal to the collateral ligament sufficiently to allow free drain- age and irrigation of the joint.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Đường rạch dẫn lưu khớp liên đốt & Túi hoạt dịch trụ (Incision over Ulnar Bursa & IP Joints)",
-      "detail": "To drain the thumb and finger interphalangeal joints and the thumb metacarpophalangeal joint, use a midaxial incision on either side of the joint. Avoid injury to the neurovascular bundles.",
-      "action": "Rạch đường giữa bên ngón tay, bảo vệ tuyệt đối các bó mạch thần kinh ngón."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Leave the capsule and skin incisions open.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Phẫu tích giải phóng mạc hãm gân & Bộc lộ phẫu trường sâu (Retinacular Section & Decompression)",
-      "detail": "In the fingers, section the transverse retinacular ligament, retract the extensor lateral band dorsally, and retract the neurovascular bundle toward the palm.",
-      "action": "Cắt mạc hãm ngang giải áp khoang gân gấp và dẫn lưu toàn bộ dịch mủ túi hoạt dịch trụ."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "To drain the thumb and finger interphalangeal joints and the thumb metacarpophalangeal joint, use a midaxial incision on either side of the joint. Avoid injury to the neurovascular bundles.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Mở để ngỏ dẫn lưu, bơm rửa & Nẹp bất động bàn tay (Open Drainage & Splinting)",
-      "detail": "Leave the capsule and skin incisions open. Đặt bấc dẫn lưu gạc mỡ hoặc ống dẫn lưu cao su mềm. Bơm rửa sạch phẫu trường, băng gạc vô trùng thấm dịch và bất động bàn tay trên nẹp bột nâng cao.",
-      "action": "Để ngỏ vết mổ dẫn lưu mủ tự do, tránh khâu kín làm tái ứ đọng ổ áp xe."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "In the fingers, section the transverse retinacular ligament, retract the extensor lateral band dorsally, and retract the neurovascular bundle toward the palm.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Identify the collateral ligament and make a longitudinal incision parallel to the ligament and palmar to it, separat- ing the accessory collateral ligament from it.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Ngâm rửa sát khuẩn ấm hàng ngày. Thay băng vô trùng. Bắt đầu tập vận động nhẹ nhàng ngay khi ổ nhiễm trùng kiểm soát được để chống xơ dính khớp.",
@@ -50,6 +56,15 @@
       "url": "web/static/images/techniques/78-7.webp",
       "type": "diagram",
       "caption": "Kỹ thuật rạch mở nhỏ và luồn catheter bơm rửa áp lực liên tục bao gân gấp theo Neviaser"
+    },
+    {
+      "url": "web/static/images/techniques/78-7_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 78-15 Passage of instrument from thenar space to radial bursa in cadaver specimen demonstrates how easily infec­ tions can propagate proximally. (From McDonald LS, Bavaro MR,",
+      "width": 561,
+      "height": 382
     }
-  ]
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "another and allow infection to spread from one to the other \nin a “horseshoe abscess.”\nINCISION AND DRAINAGE OF RADIAL \nAND ULNAR BURSAE\nFIGURE 78-15\t\nPassage of instrument from thenar space to \nradial bursa in cadaver specimen demonstrates how easily infec­\ntions can propagate proximally. (From McDonald LS, Bavaro MR, \nHofmeister EP, Kroonen LT: Current concepts. Hand infections, J Hand \nSurg 36A:1403, 2011.)\n■ With the patient under appropriate anesthesia, apply and \ninflate a tourniquet but do not wrap the arm.\n■ To drain the metacarpophalangeal joint, make an incision \non either side of the metacarpal head, retract the exten-\nsor expansion distally, and open the joint capsule dorsal \nto the collateral ligament sufficiently to allow free drain-\nage and irrigation of the joint.\n■ Leave the capsule and skin incisions open.\n■ To drain the thumb and finger interphalangeal joints and \nthe thumb metacarpophalangeal joint, use a midaxial \nincision on either side of the joint. Avoid injury to the \nneurovascular bundles.\n■ In the fingers, section the transverse retinacular ligament, \nretract the extensor lateral band dorsally, and retract the \nneurovascular bundle toward the palm.\n■ Identify the collateral ligament and make a longitudinal \nincision parallel to the ligament and palmar to it, separat-\ning the accessory collateral ligament from it.\n■ Remove a portion of the accessory collateral ligament, \ndrain the joint, and send specimens for aerobic and \nanaerobic cultures.\n■ Irrigate the wound with saline and leave it open.\n■ Apply a bulky dressing and a splint."
 }

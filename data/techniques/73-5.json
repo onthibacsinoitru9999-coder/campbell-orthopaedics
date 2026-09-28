@@ -1,1 +1,66 @@
-{"tech_id": "73-5", "name_en": "Correction of Severe Boutonniere Deformity", "name_vi": "Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4079, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Correction of Severe Boutonniere Deformity: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp)", "detail": "SWAN-NECK DEFORMITY Swan-neck deformity is described as a flexion posture of the distal interphalangeal joint and hyperextension posture of the proximal interphalangeal joint, at times with flexion of the metacarpophalangeal joint (Fig.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "It is caused by muscle imbalance and may be passively correctable, depend­ ing on the fixation of the original and secondary deformities (Fig.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "This deformity may begin as a mallet deformity associated with extensor tendon disruption at the distal joint with sec­ ondary overpull of the central slip, causing secondary proxi­ mal interphalangeal joint hyperextension This deformity also FINGER DEFORMITIES CAUSED BY RHEUMATOID ARTHRITIS Finger ", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp)", "detail": "In addition, flexor tenosynovitis may produce limitation of interphalangeal joint motion, so the range of active flexion of these joints is significantly less than passive flexion.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp)", "detail": "The Bunnell test is a test for intrinsic tightness where the degree of passive proximal interphalangeal joint flexion is compared with the metacarpophalangeal joint in full extension (intrinsic muscles stretched) and full flexion (intrinsic muscles relaxed).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-5",
+  "name_en": "Correction of Severe Boutonniere Deformity",
+  "name_vi": "Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4079,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Correction of Severe Boutonniere Deformity (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thao tác can thiệp kỹ thuật (Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp)",
+      "detail": "SWAN-NECK DEFORMITY Swan-neck deformity is described as a flexion posture of the distal interphalangeal joint and hyperextension posture of the proximal interphalangeal joint, at times with flexion of the metacarpophalangeal joint (Fig.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "It is caused by muscle imbalance and may be passively correctable, depend­ ing on the fixation of the original and secondary deformities (Fig.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "This deformity may begin as a mallet deformity associated with extensor tendon disruption at the distal joint with sec­ ondary overpull of the central slip, causing secondary proxi­ mal interphalangeal joint hyperextension This deformity also FINGER DEFORMITIES CAUSED BY RHEUMATOID ARTHRITIS Finger ",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp)",
+      "detail": "In addition, flexor tenosynovitis may produce limitation of interphalangeal joint motion, so the range of active flexion of these joints is significantly less than passive flexion.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Thao tác can thiệp kỹ thuật (Tạo Hình Dải Bên Gân Duỗi Sửa Biến Dạng Boutonnière Nặng Trong Viêm Khớp Dạng Thấp)",
+      "detail": "The Bunnell test is a test for intrinsic tightness where the degree of passive proximal interphalangeal joint flexion is compared with the metacarpophalangeal joint in full extension (intrinsic muscles stretched) and full flexion (intrinsic muscles relaxed).",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-5.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-9 Test for intrinsic tightness. A, Proximal interphalangeal (PIP) joint passive flexion is limited with the metacarpopha­ langeal (MP) joint in full extension. B, Full PIP joint flexion possible from intrinsic relaxation when the MP joint i",
+      "width": 955,
+      "height": 494
+    },
+    {
+      "url": "web/static/images/techniques/73-5_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-10 Test for tightness of oblique retinacular ligament. Proximal interphalangeal joint held in maximal extension by examiner. Resistance to passive flexion of distal interphalangeal joint is evaluated. FIGURE 73-11",
+      "width": 953,
+      "height": 476
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ").\nSWAN-NECK DEFORMITY\nSwan-neck deformity is described as a flexion posture of the \ndistal interphalangeal joint and hyperextension posture of \nthe proximal interphalangeal joint, at times with flexion of \nthe metacarpophalangeal joint (Fig. 73-11). It is caused by \nmuscle imbalance and may be passively correctable, depend­\ning on the fixation of the original and secondary deformities \n(Fig. 73-12). Although usually associated with rheumatoid \narthritis, swan-neck deformity may occur in patients with \nvolar plate laxity and in patients with conditions such as \nEhlers-Danlos syndrome.\nThis deformity may begin as a mallet deformity associated \nwith extensor tendon disruption at the distal joint with sec­\nondary overpull of the central slip, causing secondary proxi­\nmal interphalangeal joint hyperextension This deformity also \nFINGER DEFORMITIES CAUSED BY \nRHEUMATOID ARTHRITIS\nFinger deformities can be caused by the normal forces applied \nto damaged joints by the extrinsic flexors and extensors, \ntightness of the intrinsic muscles, displacement of the lateral \nbands of the extensor hood, central slip rupture, or rupture \nof the long extensor or long flexor tendons. Here abnormal \nforces also act on joints already weakened by the disease. In \naddition, flexor tenosynovitis may produce limitation of \ninterphalangeal joint motion, so the range of active flexion of \nthese joints is significantly less than passive flexion.\nINTRINSIC PLUS DEFORMITY\nThe intrinsic plus deformity is caused by intrinsic muscle \nwhere the proximal interphalangeal joint cannot be flexed \nwhile the metacarpophalangeal joint is fully extended. Often, \nthe deformity develops in combination with volar sublux­\nation of the metacarpophalangeal joints and ulnar deviation \nof the fingers. The Bunnell test is a test for intrinsic tightness \nwhere the degree of passive proximal interphalangeal joint \nflexion is compared with the metacarpophalangeal joint in \nfull extension (intrinsic muscles stretched) and full flexion \n(intrinsic muscles relaxed). Variable degrees of passive proxi­\nmal interphalangeal joint loss with the metacarpophalangeal \njoint in extension indicate intrinsic tightness (Fig. 73-9). \nWith ulnar drift of the fingers, this intrinsic tightness may be \npresent only on the ulnar side. To test this accurately, axial \nalignment of the finger with the metacarpal should be main­\ntained in checking intrinsic tightness. Any ulnar deviation at \nthe metacarpophalangeal joint during the test slackens the \nintrinsics on the ulnar side of the finger and may confuse \nthe findings. A tight first volar interosseous muscle pulls the \nextended index finger ulnarward, but if the finger is held in \nline with the second metacarpal during the test then tight­\nness of this muscle can be shown. The first volar interosseous \nFIGURE 73-9\t\nTest for intrinsic tightness. A, Proximal interphalangeal (PIP) joint passive flexion is limited with the metacarpopha­\nlangeal (MP) joint in full extension. B, Full PIP joint flexion possible from intrinsic relaxation when the MP joint is fully flexed. \nA\nB\n\nPART XVIII  THE HAND\n3668\nmay begin at the proximal interphalangeal joint because syno­\nvitis causes capsular disruption, tightening of the lateral bands \nand central tendon, and eventual adherence of the lateral \nbands in a fixed dorsal position, so they can no longer slide \nover the condyles when the proximal interphalangeal joint is \nflexed, hence limiting proximal interphalangeal flexion. The \ndorsally and centrally displaced lateral bands become rela­\ntively slack and may be ineffective in extending the distal \ninterphalangeal joint, which may secondarily assume a mallet \nFIGURE 73-10\t\nTest for tightness of oblique retinacular ligament. Proximal interphalangeal joint held in maximal extension by \nexaminer. Resistance to passive flexion of distal interphalangeal joint is evaluated. \nFIGURE 73-11\t\nSwan-neck deformity. A, Terminal tendon \nrupture may be associated with synovitis of di"
+}

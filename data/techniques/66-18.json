@@ -1,1 +1,72 @@
-{"tech_id": "66-18", "name_en": "Two-Stage Flexor Tendon Graft for Flexor Pollicis Longus (Hunter)", "name_vi": "Tái Tạo Gân Gấp Ngón Cái Dài (FPL) Hai Thì Bằng Que Silicon Hunter", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3768, "author": "Hunter", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Ngón Cái Dài (FPL) Hai Thì Bằng Que Silicon Hunter (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Two-Stage Flexor Tendon Graft for Flexor Pollicis Longus (Hunter): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Expose the flexor pollicis longus insertion through a midlateral or volar zigzag incision. Avoid injury to neuro- vascular structures and the annular thickenings of the flexor sheath of the thumb. Open only enough of the sheath to identify the flexor pollicis longus tendon inser- tion, and leave it ", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a transverse palmar incision at the level of the proximal flexion crease of the ring finger.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Acutely flex the metacarpophalangeal and proximal interphalangeal joints of the ring finger to allow harvest- ing the greatest length of the tendon.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Transect the flexor sublimis tendon and close the palmar incision with continuous 4-0 nylon sutures.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a longitudinal incision at the wrist to the radial side of the distal forearm. Identify the transected flexor subli- mis tendon to the ring finger and deliver it into the proximal wrist incision.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-18",
+  "name_en": "Two-Stage Flexor Tendon Graft for Flexor Pollicis Longus (Hunter)",
+  "name_vi": "Tái Tạo Gân Gấp Ngón Cái Dài (FPL) Hai Thì Bằng Que Silicon Hunter",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3768,
+  "author": "Hunter",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Ngón Cái Dài (FPL) Hai Thì Bằng Que Silicon Hunter (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Expose the flexor pollicis longus insertion through a midlateral or volar zigzag incision. Avoid injury to neuro- vascular structures and the annular thickenings of the flexor sheath of the thumb. Open only enough of the sheath to identify the flexor pollicis longus tendon inser- tion, and leave it attached to its insertion.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Make a transverse palmar incision at the level of the proximal flexion crease of the ring finger.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Acutely flex the metacarpophalangeal and proximal interphalangeal joints of the ring finger to allow harvest- ing the greatest length of the tendon.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Transect the flexor sublimis tendon and close the palmar incision with continuous 4-0 nylon sutures.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Make a longitudinal incision at the wrist to the radial side of the distal forearm. Identify the transected flexor subli- mis tendon to the ring finger and deliver it into the proximal wrist incision.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Identify the proximal end of the transected flexor pollicis longus tendon, either at the wrist incision or by using a palmar incision over the thenar eminence (see Chapter 64).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-18.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-18.webp",
+      "type": "diagram",
+      "caption": "FIGURE 66-56 Howard technique to free adherent extensor tendon. SEE TECHNIQUE 66-21. Adhesions",
+      "width": 510,
+      "height": 331
+    },
+    {
+      "url": "web/static/images/techniques/66-18_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-56 Howard technique to free adherent extensor tendon. SEE TECHNIQUE 66-21. Adhesions",
+      "width": 380,
+      "height": 662
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "TWO-STAGE FLEXOR TENDON GRAFT \nFOR FLEXOR POLLICIS LONGUS\nIn the unusual situation in which there is extensive disrup­\ntion of the flexor pollicis longus in its course from the carpal \ntunnel distally in its passage beneath the thenar muscles \nto the thumb and the tendon insertion and, especially if \nthere are associated joint contractures and pulley recon­\nstruction is required, staged tendon grafting using the sili­\ncone rod technique (Hunter) is appropriate.\n■ Expose the flexor pollicis longus insertion through a \nmidlateral or volar zigzag incision. Avoid injury to neuro-\nvascular structures and the annular thickenings of the \nflexor sheath of the thumb. Open only enough of the \nsheath to identify the flexor pollicis longus tendon inser-\ntion, and leave it attached to its insertion.\n■ Make a transverse palmar incision at the level of the \nproximal flexion crease of the ring finger.\n■ Acutely flex the metacarpophalangeal and proximal \ninterphalangeal joints of the ring finger to allow harvest-\ning the greatest length of the tendon.\n■ Transect the flexor sublimis tendon and close the palmar \nincision with continuous 4-0 nylon sutures.\n■ Make a longitudinal incision at the wrist to the radial side \nof the distal forearm. Identify the transected flexor subli-\nmis tendon to the ring finger and deliver it into the \nproximal wrist incision.\n■ Identify the proximal end of the transected flexor pollicis \nlongus tendon, either at the wrist incision or by using \na palmar incision over the thenar eminence (see \nChapter 64).\n■ If the flexor pollicis longus tendon is mobile in its sheath, \nthe distal end of the sublimis tendon can be attached to \nthe flexor pollicis longus, and then the tendon can be \ndelivered by applying traction to the distal end of the \nflexor pollicis longus tendon from its insertion. If this is \nthe case, detach the flexor pollicis longus from its inser-\ntion, deliver the sublimis tendon distally, and attach it \nwith a pull-out technique using the retrograde Bunnell \ntechnique or the antegrade pull-out technique.\n■ If the flexor pollicis longus cannot be moved easily in its \nsheath, dissect and mobilize the tendon and excise it as \nrequired by the scarred conditions in the palm and thumb;"
+}

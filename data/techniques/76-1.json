@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mở Giải Ép Ống Cổ Tay Qua Đường Rạch Nhỏ Lòng Bàn Tay (Mini-open Carpal Tunnel Release) (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.",
   "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Mini-Palm Open Carpal Tunnel Release: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
@@ -56,5 +56,7 @@
       "type": "xray",
       "caption": "Phim X-quang tiêu bản giải phẫu đánh dấu mốc giới hạn dây chằng vòng cổ tay"
     }
-  ]
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "EXTENDED OPEN CARPAL \nTUNNEL RELEASE\n■ The thenar crease takes a variable course, and palmar \nincisions should be well ulnar to it to avoid the median \nnerve palmar cutaneous branch. A curved incision ulnar \nand parallel to the thenar crease is not advisable because \nthe palmar cutaneous branch of the median nerve proxi-\nmally may be more at risk of injury. We prefer to use the"
 }

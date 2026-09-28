@@ -1,1 +1,70 @@
-{"tech_id": "68-10", "name_en": "Neurovascular Island Graft Transfer", "name_vi": "Chuyển Vạt Đảo Cuống Mạch Thần Kinh Littler Phục Hồi Cảm Giác Ngón Cái", "chapter": 68, "category": "Hand & Wrist", "pdf_page": 3868, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Vạt Đảo Cuống Mạch Thần Kinh Littler Phục Hồi Cảm Giác Ngón Cái (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).", "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Neurovascular Island Graft Transfer: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Exsanguinate the limb by wrapping or elevation and inflate a pneumatic tourniquet on the arm.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Beginning proximally near the base of the palm, make a zigzag incision distally to the fourth web (Fig. 68-17).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Identify and dissect free, along with some surrounding tissue, the common volar digital artery and nerve to the ring and little fingers and the proper digital artery and nerve to the ulnar side of the ring finger. Loupe magnifi- cation is helpful in this dissection.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Ligate and divide the proper digital artery to the radial side of the little finger.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Carefully dissect and split proximally from the common volar digital nerve the proper digital nerve to the ulnar side of the ring finger.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.", "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).", "image_url": "web/static/images/techniques/68-10.webp", "images": [{"url": "web/static/images/techniques/68-10.webp", "type": "diagram", "caption": "Sơ đồ chuyển vạt đảo cuống mạch thần kinh Littler phục hồi cảm giác ngón cái"}]}
+{
+  "tech_id": "68-10",
+  "name_en": "Neurovascular Island Graft Transfer",
+  "name_vi": "Chuyển Vạt Đảo Cuống Mạch Thần Kinh Littler Phục Hồi Cảm Giác Ngón Cái",
+  "chapter": 68,
+  "category": "Hand & Wrist",
+  "pdf_page": 3868,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Vạt Đảo Cuống Mạch Thần Kinh Littler Phục Hồi Cảm Giác Ngón Cái (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Exsanguinate the limb by wrapping or elevation and inflate a pneumatic tourniquet on the arm.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Beginning proximally near the base of the palm, make a zigzag incision distally to the fourth web (Fig. 68-17).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Identify and dissect free, along with some surrounding tissue, the common volar digital artery and nerve to the ring and little fingers and the proper digital artery and nerve to the ulnar side of the ring finger. Loupe magnifi- cation is helpful in this dissection.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Ligate and divide the proper digital artery to the radial side of the little finger.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Carefully dissect and split proximally from the common volar digital nerve the proper digital nerve to the ulnar side of the ring finger.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Continue the dissection distally and excise, with this attached neurovascular bundle, the previously outlined area of skin from the ulnar side of the ring finger; do not damage the artery, and preserve as many veins as possible.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.",
+  "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).",
+  "image_url": "web/static/images/techniques/68-10.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/68-10.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ chuyển vạt đảo cuống mạch thần kinh Littler phục hồi cảm giác ngón cái"
+    },
+    {
+      "url": "web/static/images/techniques/68-10_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 68-17 Technique of transferring neurovascular island graft. A, Palmar incision has been made, neurovascular island graft has been excised from ulnar surface of ring finger and its bundle has been freed proximally, and insensitive skin has been",
+      "width": 825,
+      "height": 559
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nA\nB\nprevent tension on the resulting scars during finger \nmovements.\n■ Exsanguinate the limb by wrapping or elevation and \ninflate a pneumatic tourniquet on the arm.\n■ Beginning proximally near the base of the palm, make a \nzigzag incision distally to the fourth web (Fig. 68-17).\n■ Identify and dissect free, along with some surrounding \ntissue, the common volar digital artery and nerve to the \nring and little fingers and the proper digital artery and \nnerve to the ulnar side of the ring finger. Loupe magnifi-\ncation is helpful in this dissection.\n■ Ligate and divide the proper digital artery to the radial \nside of the little finger.\n■ Carefully dissect and split proximally from the common \nvolar digital nerve the proper digital nerve to the ulnar \nside of the ring finger.\n■ Continue the dissection distally and excise, with this \nattached neurovascular bundle, the previously outlined area \nof skin from the ulnar side of the ring finger; do not damage \nthe artery, and preserve as many veins as possible.\n■ Use the bipolar cautery and divide any small branches of \nthe artery as necessary.\n■ Free the composite graft and carry the island graft across \nthe palm to the recipient area on the thumb; ensure \nthat the neurovascular bundle is long enough to permit \nthe transfer without causing tension on the bundle. The \nisland graft should cover most of the pulp area on the \npalmar aspect of the thumb and should extend to \nthe ulnar aspect of the digit, but not to the distal edge \nof the nail.\n■ Beginning at the proximal end of the original incision and \nproceeding to the thumb, make a second zigzag incision \nacross the palm conforming to the skin creases.\nespecially at the base of the finger, but should be transferred \nalong with some attached tissue; and (3) the bundle should \nbe channeled through an incision large enough to show the \nentire bundle to prevent kinking, twisting, or stretching of the \nnerve or vessels.\nThis procedure can be altered as necessary to meet other \ngiven requirements. In complete median nerve paralysis, if \nsensibility on the ulnar edge of the thumb pulp is reasonably \ngood as a result of overlap of innervation from the radial nerve, \ntransfer of the island graft to the radial side of the proximal \nand middle phalanges of the index finger may be desirable. \nThis area of the finger is used especially in strong pinch.\nNEUROVASCULAR ISLAND GRAFT \nTRANSFER\n■ Using a skin pencil, accurately outline the area of sensory \ndeficit on the thumb and prepare to remove skin from a \nsimilar area on the ulnar side of the ring finger. Alterna-\ntive donor sites include the radial side of the little finger \nor, in the absence of median nerve damage, the ulnar \nside of the middle finger.\n■ If the entire palmar surface of the thumb is insensitive, \noutline on the ring finger the maximal donor area for \ntransfer. Shape the donor area to include most of the \nulnar side of the finger, with darts to near the midline on \nthe palmar and dorsal surfaces between the finger joints. \nThe area outlined includes skin supplied by the dorsal \nbranch of the proper digital nerve and is shaped to"
+}

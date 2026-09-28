@@ -9,37 +9,43 @@
   "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
   "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Thiết kế vạt da mỏm cụt & Rạch da theo tỷ lệ",
-      "detail": "Isolate and free the insertion of the first dorsal interosseous and strip from the radial side of the second metacarpal shaft the origin of the muscle.",
-      "action": "Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo chuẩn tỷ lệ chiều dài/rộng."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Isolate and free the insertion of the first dorsal interosse- ous and strip from the radial side of the second metacar- pal shaft the origin of the muscle.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Phẫu tích khối cơ, thắt mạch máu chính 2 lần",
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
       "detail": "Isolate and free the insertion of the first volar interosseous and strip from the ulnar side of the metacarpal shaft the origin of this muscle. Take care to preserve the nerve and blood supplies to the muscle in each instance.",
-      "action": "Cắt cơ theo lớp vát hình nón; phẫu tích bộc lộ bó mạch lớn và thắt kép an toàn."
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Cắt xử lý thân thần kinh chống u thần kinh mỏm cụt",
-      "detail": "Separate the second metacarpal head from the metacarpal shaft by cutting through its epiphysis with a knife; preserve all of its soft-tissue attachments.",
-      "action": "Kéo nhẹ thân thần kinh xuống 3-5 cm, cắt ngang dứt khoát để đầu thần kinh co sâu vào cơ."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Separate the second metacarpal head from the metacar- pal shaft by cutting through its epiphysis with a knife; preserve all of its soft-tissue attachments.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Cắt xương, vát tròn bờ xương & Khâu cố định cơ Myodesis",
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
       "detail": "Divide the second metacarpal at its base, leaving intact the insertions of the extensor carpi radialis longus and flexor carpi radialis; discard the metacarpal shaft.",
-      "action": "Cắt xương ngang mức dự kiến; dùng giũa mài tròn nhẵn các góc cạnh sắc của vỏ xương."
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Cầm máu triệt để, đặt dẫn lưu kín & Đóng da không căng",
-      "detail": "Carry the index finger proximally and radially and relocate the second metacarpal head palmar to the second metacarpal base so that it simulates a trapezium (Fig. 19-29C); take care to rotate and angulate it so that the new thumb is properly positioned.",
-      "action": "Khâu vạt cơ qua các lỗ khoan xương màng xương; khâu da mũi rời nới lỏng không thiếu máu."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Carry the index finger proximally and radially and relocate the second metacarpal head palmar to the second meta- carpal base so that it simulates a trapezium (Fig. 19-29C); take care to rotate and angulate it so that the new thumb is properly positioned.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Anchor it in this position with a wire suture (Fig. 19-29D). Anchor the insertion of the first dorsal interosseous to the radial lateral band of the extensor mechanism of the new thumb and its origin to the soft tissues at the base of the digit; this muscle now functions as an abductor pollicis brevis (Fig. 19-29E).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Băng ép mỏm cụt bằng băng chun vô khuẩn hình số 8 hoặc nẹp bột cứng bảo vệ tránh co rút gập khớp. Theo dõi sát màu sắc mép vạt và dịch dẫn lưu. Rút dẫn lưu sau 24-48 giờ. Hướng dẫn tập gồng cơ mỏm cụt và tập phục hồi chức năng đi chi giả sớm.",
@@ -48,13 +54,19 @@
   "images": [
     {
       "url": "web/static/images/techniques/19-17.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 19-17 (Riordan Pollicization (Riordan)) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 19-29 Riordan pollicization for congenital absence of thumb, including greater trapezium, in an immature hand. A and B, Incision (see text). Skin of proximal phalanx (blue area in A) is elevated as full-thickness skin flap. C and D, Second met",
+      "width": 1101,
+      "height": 513
     },
     {
       "url": "web/static/images/techniques/19-17_xray.webp",
       "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 19-17 (Riordan Pollicization (Riordan)) - Campbell 13th Ed"
+      "caption": "FIGURE 19-29 Riordan pollicization for congenital absence of thumb, including greater trapezium, in an immature hand. A and B, Incision (see text). Skin of proximal phalanx (blue area in A) is elevated as full-thickness skin flap. C and D, Second met",
+      "width": 218,
+      "height": 123
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nA\nB\nC\nD\nE\n■ Isolate and free the insertion of the first dorsal interosse-\nous and strip from the radial side of the second metacar-\npal shaft the origin of the muscle.\n■ Isolate and free the insertion of the first volar interosseous \nand strip from the ulnar side of the metacarpal shaft the \norigin of this muscle. Take care to preserve the nerve and \nblood supplies to the muscle in each instance.\n■ Separate the second metacarpal head from the metacar-\npal shaft by cutting through its epiphysis with a knife; \npreserve all of its soft-tissue attachments.\n■ Divide the second metacarpal at its base, leaving intact \nthe insertions of the extensor carpi radialis longus and \nflexor carpi radialis; discard the metacarpal shaft.\n■ Carry the index finger proximally and radially and relocate \nthe second metacarpal head palmar to the second meta-\ncarpal base so that it simulates a trapezium (Fig. 19-29C); \ntake care to rotate and angulate it so that the new thumb \nis properly positioned.\n■ Anchor it in this position with a wire suture (Fig. 19-29D). \nAnchor the insertion of the first dorsal interosseous to the \nradial lateral band of the extensor mechanism of the new \nthumb and its origin to the soft tissues at the base of the \ndigit; this muscle now functions as an abductor pollicis \nbrevis (Fig. 19-29E).\n■ Anchor the insertion of the first volar interosseous to the \nopposite lateral band and its origin to the soft tissues; this \nmuscle now functions as an adductor pollicis.\n■ Shorten the extensor indicis proprius by resecting a \nsegment of its tendon; this muscle now functions as an \nextensor pollicis brevis. Also, shorten the extensor digito-\nrum communis by resecting a segment of its tendon.\n(RIORDAN)\n■ Beginning on the proximal phalanx of the index finger, \nmake a circumferential oval incision (Fig. 19-29A and B) \non the dorsal surface.\n■ Place the incision level with the middle of the phalanx \nand on the palmar surface level with the base of the \nphalanx. From the radiopalmar aspect of this oval, extend \nthe incision proximally, radially, and dorsally to the radial \nside of the second metacarpal head, then palmarward \nand ulnarward to the radial side of the third metacarpal \nbase in the middle of the palm, and finally again radially \nto end at the radial margin of the base of the palm.\n■ Dissect the skin from the proximal phalanx of the index \nfinger, leaving the fat attached to the digit and creating \na full-thickness skin flap."
 }

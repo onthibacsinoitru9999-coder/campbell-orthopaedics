@@ -1,1 +1,72 @@
-{"tech_id": "79-19", "name_en": "Open Finger Syndactyly Release (Withey et al., Modified)", "name_vi": "Tạo Hình Vạt Da Z-Plasty Mở Rộng Kẽ Ngón Cái Trong Khuyết Tật Xương Trụ", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4291, "author": "Withey et al., Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Vạt Da Z-Plasty Mở Rộng Kẽ Ngón Cái Trong Khuyết Tật Xương Trụ (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Finger Syndactyly Release (Withey et al., Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Outline all incisions carefully with a skin-marking pen (Figs. 79-39A and B and 79-40A and B). It also is helpful to draw a dotted line along the central axis of each involved digit to determine the limits of the triangular flaps. Draw the dorsal flap “A” so that it begins at the level of the metaca", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Incise the dorsal flaps and defat the proximal flap, care- fully identifying the neurovascular bundles through the dorsal incision.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Incise the palmar flaps, taking care during the midline dissection to spare the neurovascular bundles. The proxi- mal limb of the palmar flap “B” should be just proximal to the adjacent commissures (Fig. 79-40B).", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Remove the dorsal fat from the web space and suture the dorsal flap “A” first to restore the commissure; suture the proximal ring finger flap “B” to resurface the radial and proximal border of the ring finger.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Suture the triangular flaps to resurface as much of the intersurface of the digits as possible (Fig. 79-40C).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-19",
+  "name_en": "Open Finger Syndactyly Release (Withey et al., Modified)",
+  "name_vi": "Tạo Hình Vạt Da Z-Plasty Mở Rộng Kẽ Ngón Cái Trong Khuyết Tật Xương Trụ",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4291,
+  "author": "Withey et al., Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Vạt Da Z-Plasty Mở Rộng Kẽ Ngón Cái Trong Khuyết Tật Xương Trụ (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Outline all incisions carefully with a skin-marking pen (Figs. 79-39A and B and 79-40A and B). It also is helpful to draw a dotted line along the central axis of each involved digit to determine the limits of the triangular flaps. Draw the dorsal flap “A” so that it begins at the level of the metacarpal heads and extends two thirds of the length of the proximal phalanx.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Incise the dorsal flaps and defat the proximal flap, care- fully identifying the neurovascular bundles through the dorsal incision.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Incise the palmar flaps, taking care during the midline dissection to spare the neurovascular bundles. The proxi- mal limb of the palmar flap “B” should be just proximal to the adjacent commissures (Fig. 79-40B).",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Remove the dorsal fat from the web space and suture the dorsal flap “A” first to restore the commissure; suture the proximal ring finger flap “B” to resurface the radial and proximal border of the ring finger.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Suture the triangular flaps to resurface as much of the intersurface of the digits as possible (Fig. 79-40C).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Release the tourniquet and ensure that perfusion to the triangular flaps is adequate; if perfusion is inadequate after the hand is slightly warmed, resuture the flaps under less tension.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-19.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-19.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-39 Withey et al. open technique of syndactyly release (see text). A, Dorsal incisions. B, Palmar incisions. SEE TECHNIQUES 79-19 AND 79-20.",
+      "width": 499,
+      "height": 324
+    },
+    {
+      "url": "web/static/images/techniques/79-19_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-40 Bauer et al. syndactyly release. A, Dorsal skin incisions. Rectangular dorsal flap (A) is designed for web; alter­ nating flaps (C, D, and E) are arranged to interdigitate with volar",
+      "width": 656,
+      "height": 642
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "SYNDACTYLY RELEASE WITH \nDORSAL FLAP\n(BAUER ET AL.)\n■ Outline all incisions carefully with a skin-marking pen \n(Figs. 79-39A and B and 79-40A and B). It also is helpful \nto draw a dotted line along the central axis of each \ninvolved digit to determine the limits of the triangular \nflaps. Draw the dorsal flap “A” so that it begins at the \nlevel of the metacarpal heads and extends two thirds of \nthe length of the proximal phalanx.\n■ Incise the dorsal flaps and defat the proximal flap, care-\nfully identifying the neurovascular bundles through the \ndorsal incision.\n■ Incise the palmar flaps, taking care during the midline \ndissection to spare the neurovascular bundles. The proxi-\nmal limb of the palmar flap “B” should be just proximal \nto the adjacent commissures (Fig. 79-40B).\n■ Remove the dorsal fat from the web space and suture the \ndorsal flap “A” first to restore the commissure; suture the \nproximal ring finger flap “B” to resurface the radial and \nproximal border of the ring finger.\n■ Suture the triangular flaps to resurface as much of the \nintersurface of the digits as possible (Fig. 79-40C).\n■ Release the tourniquet and ensure that perfusion to the \ntriangular flaps is adequate; if perfusion is inadequate \nafter the hand is slightly warmed, resuture the flaps under \nless tension.\n■ Cover the remaining defects with a full-thickness skin \ngraft taken from the groin or elbow crease.\n■ If the fingernails are confluent, separate them and remove \nthe matrix at their margins so that the grafts can be \nbrought around to the edge of each nail.\n■ When a finger is webbed on both sides, it is safer to \nseparate only one side at a time.\n■ Place Xeroform gauze over the grafts and carefully insert \na wet contour dressing between the fingers; begin at the \nweb space and pack distally so that the fingers are held \nin wide abduction and extension. Apply a dry dressing \nand a plaster splint to immobilize the fingers and wrist."
+}

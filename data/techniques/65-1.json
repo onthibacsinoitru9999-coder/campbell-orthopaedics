@@ -1,1 +1,64 @@
-{"tech_id": "65-1", "name_en": "Applying Split-Thickness Grafts", "name_vi": "Kỹ thuật Lấy và Ghép Da Mỏng / Dày Trung Bình Bàn Tay (Split-Thickness Skin Graft)", "chapter": 65, "category": "Hand & Wrist", "pdf_page": 3707, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Lấy và Ghép Da Mỏng / Dày Trung Bình Bàn Tay (Split-Thickness Skin Graft) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.", "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Applying Split-Thickness Grafts: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Place the graft on the recipient area without trimming or excessive handling.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "The graft border may be attached with sutures or skin staples to secure it in its new position.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Kỹ thuật Lấy và Ghép Da Mỏng / Dày Trung Bình Bàn Tay)", "detail": "Trim the redundant edge (Fig. 65-5A).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "When suturing the graft in place, it is much easier to insert a small curved needle first through the graft and then through the skin around the recipient area than to do the reverse.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Apply a stent dressing, or a finely meshed nonadherent gauze (Xeroform or Adaptic), and hold in place with a bulky dressing secured by circumferential conforming gauze (Fig. 65-5B and C). If necessary, cover with a thin layer of plaster for splinting.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.", "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.", "image_url": "web/static/images/techniques/65-1.webp", "images": [{"url": "web/static/images/techniques/65-1.webp", "type": "diagram", "caption": "Kỹ thuật lấy và ghép da mỏng/dày trung bình (Split-thickness skin graft) bằng dao dermatome"}]}
+{
+  "tech_id": "65-1",
+  "name_en": "Applying Split-Thickness Grafts",
+  "name_vi": "Kỹ thuật Lấy và Ghép Da Mỏng / Dày Trung Bình Bàn Tay (Split-Thickness Skin Graft)",
+  "chapter": 65,
+  "category": "Hand & Wrist",
+  "pdf_page": 3707,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Lấy và Ghép Da Mỏng / Dày Trung Bình Bàn Tay (Split-Thickness Skin Graft) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Applying Split-Thickness Grafts (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Place the graft on the recipient area without trimming or excessive handling.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "The graft border may be attached with sutures or skin staples to secure it in its new position.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Kỹ thuật Lấy và Ghép Da Mỏng / Dày Trung Bình Bàn Tay)",
+      "detail": "Trim the redundant edge (Fig. 65-5A).",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "When suturing the graft in place, it is much easier to insert a small curved needle first through the graft and then through the skin around the recipient area than to do the reverse.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động sau mổ",
+      "detail": "Apply a stent dressing, or a finely meshed nonadherent gauze (Xeroform or Adaptic), and hold in place with a bulky dressing secured by circumferential conforming gauze (Fig. 65-5B and C). If necessary, cover with a thin layer of plaster for splinting.",
+      "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.",
+  "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.",
+  "image_url": "web/static/images/techniques/65-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/65-1.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật lấy và ghép da mỏng/dày trung bình (Split-thickness skin graft) bằng dao dermatome"
+    },
+    {
+      "url": "web/static/images/techniques/65-1_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 65-2 Flap attached distally on dorsum of hand (A) is less likely to survive than is similar one on palm (B). A",
+      "width": 1165,
+      "height": 710
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ").\nIf skin is lost and no deep structures (nerves, tendons, \njoints, or cortical bone) have been exposed, it should be \nreplaced immediately with a split-thickness graft or occasion­\nally with a full-thickness graft. Other types of skin grafts that \nmay have applications in the injured hand include allografts \nfrom other human donors and xenografts from other species \n(e.g., porcine skin). Both are used for temporary coverage \nFIGURE 65-2\t\nFlap attached distally on dorsum of hand (A) is \nless likely to survive than is similar one on palm (B). \nA\nB\nFIGURE 65-3\t\nPurse-string suture attachment of flap for \nfinger amputation. A, Design and dissection of flap. B, Advance­\nment of flap to cover defect without tension. C, Two ends of \ncontinuous v-string suture are pulled until desired curve of \nfingertip is achieved. (Redrawn from Hassanpour SE, Hosseini SN, \nAbdolzadeh M: Purse-string suture as a complementary technique \nwith conventional flaps in repairing fingertip amputation. Tech Hand Up \nExtrem Surg 15:94, 2011.)\nA\nB\nC\n\nPART XVIII  THE HAND\n3328\nA large skin defect on the dorsum of a finger that exposes \ntendons not covered with paratenon should be covered with \na flap. Frequently, a double local flap can be constructed by \nrotating a proximally based local flap on one side and a dis­\ntally based local flap on the other side of the defect to cover \nthe exposed tendon. The donor defects are covered with split \ngrafts. For more proximal dorsal injuries, local rotational \nflaps from the same finger are insufficient and a reverse cross \nfinger flap from the dorsum of an adjacent finger may be \nused. A “flag” flap, which is an axial flap, may be used for \nproximal palmar and dorsal digital defects (see Fig. 65-21). If \nmultiple fingers are involved, or if a larger area needs to be \ncovered, a subpectoral flap may be appropriate. Thick subcu­\ntaneous fat, as is found on the lower abdomen, is not pre­\nferred on a flap, especially on the finger.\nSkin defects on the volar surface of a finger that expose \ntendons may be covered with a cross finger flap. The flap is \nraised from the dorsal surface of an adjacent finger and \nextends from the midline of one of its lateral surfaces to that \nof the other; the flap is a little wider than the defect it is to \ncover. Although such a flap from the dorsal surface of one \nfinger can be used to cover a defect on the volar surface of \nanother, the reverse is never indicated. Skin defects on the \npalm or dorsum of the hand that expose vital structures can \nbe covered with a local flap, a flap from an adjacent unsal­\nvageable finger, a flap from the opposite forearm or upper \narm, an axial pattern flap from the same forearm or hand, a \nflap from the abdomen, or a free flap, depending on the size \nof the defect and the presence and location of any associated \ninjuries. Although cross arm and cross forearm flaps provide \ngood skin, immobilizing both upper extremities is a disad­\nvantage. In suitable situations, an arterialized axial flap from \nthe same forearm allows comfortable positioning of the upper \nlimb. An abdominal flap from the same side also permits \ncomfortable positioning of the arm. To ensure survival of the \nrandom pattern flap (because it must be applied immedi­\nately), its base should be as wide as its length. The length-to-\nwidth ratio may exceed 3 : 1 with axial pattern flaps such as \nthe groin pedicle flap. The donor area and the raw part of the \nflap that does not make contact with the defect should be \ncovered with split-thickness skin grafts. A local rotation flap \nis unlikely to survive, however, if undermining of the skin is \nextensive, especially if the skin is already crushed or contused \nfrom the injury. A filleted injured finger makes an excellent \nFIGURE 65-4\t\nA-C, Filleted graft fashioned from injured finger (see text). \nC\nB\nA\npedicle graft when this technique is applicable (Fig. 65-4). In \nsome situations, free tissue transfer by microvascular tech­\nnique provides the best"
+}

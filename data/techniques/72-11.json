@@ -1,1 +1,66 @@
-{"tech_id": "72-11", "name_en": "Flexor Pollicis Longus Abductorplasty (Smith)", "name_vi": "Tạo Hình Dây Chằng Gấp Ngón Cái Điều Trị Biến Dạng Gập Khớp Bàn Ngón Cái", "chapter": 72, "category": "Hand & Wrist", "pdf_page": 4063, "author": "Smith", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Dây Chằng Gấp Ngón Cái Điều Trị Biến Dạng Gập Khớp Bàn Ngón Cái (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Flexor Pollicis Longus Abductorplasty (Smith): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "A, Palmar plate is mobi­ lized by dividing accessory collateral ligament at its insertion into palmar plate.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "B, Two straight needles (with Kirschner wire driver) are used to pass polypropylene (Prolene) suture through sesamoid-palmar plate complex and metacarpal neck to secure sesamoid into corti­ cal defect created.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "C, Intraosseous suture is tied over metacarpal under extensor tendons as permanent suture.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Kirschner wire is placed across metacarpophalangeal joint to maintain joint in approximately 30 degrees of flexion.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Seam in collateral ligament is repaired, and proximal radial edge of palmar plate is sutured to metacarpal periosteum and aponeurotic fibers of abductor pollicis brevis.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.", "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.", "image_url": null, "images": []}
+{
+  "tech_id": "72-11",
+  "name_en": "Flexor Pollicis Longus Abductorplasty (Smith)",
+  "name_vi": "Tạo Hình Dây Chằng Gấp Ngón Cái Điều Trị Biến Dạng Gập Khớp Bàn Ngón Cái",
+  "chapter": 72,
+  "category": "Hand & Wrist",
+  "pdf_page": 4063,
+  "author": "Smith",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Dây Chằng Gấp Ngón Cái Điều Trị Biến Dạng Gập Khớp Bàn Ngón Cái (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Flexor Pollicis Longus Abductorplasty (Smith) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Flexor Pollicis Longus Abductorplasty (Smith), phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Flexor Pollicis Longus Abductorplasty (Smith) (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Flexor Pollicis Longus Abductorplasty (Smith) theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.",
+  "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.",
+  "image_url": "web/static/images/techniques/72-11.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/72-11.webp",
+      "type": "diagram",
+      "caption": "FIGURE 72-13 Dynamic approach to thumb-in-palm deformity. A, Release of adduction contracture through Z-plasty first web incision (see text). B, Transfer of palmaris longus to intact abductor pollicis longus, which has been released from first dorsal",
+      "width": 1209,
+      "height": 1014
+    },
+    {
+      "url": "web/static/images/techniques/72-11_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 72-14 Sesamoid arthrodesis. A, Palmar plate is mobi­ lized by dividing accessory collateral ligament at its insertion into palmar plate. Articular surface of sesamoid is denuded of carti­",
+      "width": 429,
+      "height": 651
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "FLEXOR POLLICIS LONGUS \nABDUCTORPLASTY\n\nPART XVIII  THE HAND\n3654\nFIGURE 72-14\t\nSesamoid arthrodesis. A, Palmar plate is mobi­\nlized by dividing accessory collateral ligament at its insertion into \npalmar plate. Articular surface of sesamoid is denuded of carti­\nlage. Cortical defect is created at head-neck junction of metacar­\npal. B, Two straight needles (with Kirschner wire driver) are used \nto pass polypropylene (Prolene) suture through sesamoid-palmar \nplate complex and metacarpal neck to secure sesamoid into corti­\ncal defect created. C, Intraosseous suture is tied over metacarpal \nunder extensor tendons as permanent suture. Kirschner wire is \nplaced across metacarpophalangeal joint to maintain joint in \napproximately 30 degrees of flexion. Seam in collateral ligament \nis repaired, and proximal radial edge of palmar plate is sutured \nto metacarpal periosteum and aponeurotic fibers of abductor \npollicis brevis. SEE"
+}

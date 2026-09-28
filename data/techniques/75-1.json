@@ -1,1 +1,64 @@
-{"tech_id": "75-1", "name_en": "Collagenase Injections (Hentz)", "name_vi": "Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren", "chapter": 75, "category": "Hand & Wrist", "pdf_page": 4158, "author": "Hentz", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren (Chương 75, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Bệnh nhân có thể chất quá yếu; co rút nhẹ chưa ảnh hưởng chức năng sinh hoạt (chưa có biến dạng gập khớp PIP hoặc bàn ngón < 30°).", "patient_prep": "Nằm ngửa trên bàn mổ tay. Garo cánh tay 200 mmHg. Kính lúp vi phẫu 3.5x và dao mổ vi phẫu số 15 sắc bén.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Collagenase Injections (Hentz): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn", "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren (Chương 75). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.", "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."}, {"step": 2, "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương", "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.", "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."}, {"step": 3, "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)", "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.", "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."}, {"step": 4, "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động", "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.", "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."}, {"step": 5, "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng", "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.", "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."}], "postop_protocol": "Nẹp duỗi ngón tay trong 5-7 ngày đầu. Tập gập duỗi chủ động sớm. Đeo máng nẹp duỗi ngón ban đêm trong 3-6 tháng.", "pearls_pitfalls": "Dải xơ xoắn (spiral cord) luôn đẩy bó mạch thần kinh ngón riêng ra nông và vào giữa, rất dễ bị cắt đứt nếu không tìm thấy thần kinh ở vùng lành trước; Cầm máu thật tỉ mỉ chống tụ máu dưới vạt da.", "image_url": "web/static/images/techniques/75-1.webp", "images": [{"url": "web/static/images/techniques/75-1.webp", "type": "diagram", "caption": "Kỹ thuật tiêm enzyme Collagenase Clostridium Histolyticum trực tiếp vào dải xơ co rút"}]}
+{
+  "tech_id": "75-1",
+  "name_en": "Collagenase Injections (Hentz)",
+  "name_vi": "Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren",
+  "chapter": 75,
+  "category": "Hand & Wrist",
+  "pdf_page": 4158,
+  "author": "Hentz",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren (Chương 75, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Bệnh nhân có thể chất quá yếu; co rút nhẹ chưa ảnh hưởng chức năng sinh hoạt (chưa có biến dạng gập khớp PIP hoặc bàn ngón < 30°).",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay. Garo cánh tay 200 mmHg. Kính lúp vi phẫu 3.5x và dao mổ vi phẫu số 15 sắc bén.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Collagenase Injections (Hentz) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn",
+      "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren (Chương 75). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.",
+      "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."
+    },
+    {
+      "step": 2,
+      "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương",
+      "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Tiêm Enzyme Collagenase Clostridium Histolyticum Điều Trị Dải Xơ Co Rút Dupuytren. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.",
+      "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."
+    },
+    {
+      "step": 3,
+      "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)",
+      "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.",
+      "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+    },
+    {
+      "step": 4,
+      "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động",
+      "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.",
+      "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."
+    },
+    {
+      "step": 5,
+      "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng",
+      "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.",
+      "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."
+    }
+  ],
+  "postop_protocol": "Nẹp duỗi ngón tay trong 5-7 ngày đầu. Tập gập duỗi chủ động sớm. Đeo máng nẹp duỗi ngón ban đêm trong 3-6 tháng.",
+  "pearls_pitfalls": "Dải xơ xoắn (spiral cord) luôn đẩy bó mạch thần kinh ngón riêng ra nông và vào giữa, rất dễ bị cắt đứt nếu không tìm thấy thần kinh ở vùng lành trước; Cầm máu thật tỉ mỉ chống tụ máu dưới vạt da.",
+  "image_url": "web/static/images/techniques/75-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/75-1.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật tiêm enzyme Collagenase Clostridium Histolyticum trực tiếp vào dải xơ co rút"
+    },
+    {
+      "url": "web/static/images/techniques/75-1_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 75-6 Two-handed clostridial collagenase histolyticum injection technique. A, Cord is delineated by palpation. B, The needle is inserted into the cord while tension is applied to the cord. C, Both hands are used to support the syringe while the",
+      "width": 1086,
+      "height": 813
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "MANIPULATION\nAlthough current FDA guidelines stipulate that finger manip­\nulation is done the day following injection, studies have \nshown that a delay in manipulation for up to 7 days does not \nincrease adverse events or result in loss of efficacy.\nFinger extension without local anesthesia can be extremely \npainful; a midpalm (proximal to the area of swelling and \necchymosis), intermetacarpal, or wrist block can be used for \nanesthesia. Care should be taken during rupture of the cord \nbecause skin splitting can occur. Most skin tears are of the \npalmar skin with a contracture of more than 45 degrees, \nheavily calloused skin, or marked ecchymosis at the injection \nsite. Tearing can be minimized by not pulling vigorously in \nthe area of blood blisters and following a four-step protocol \ndescribed by Meals and Hentz:\n1.\t Flex the proximal interphalangeal joint while extending \nthe metacarpophalangeal joint.\n2.\t Flex the metacarpophalangeal joint while extending the \nPIP joint.\n3.\t Extend both joints together.\n\nPART XVIII  THE HAND\n3740\nFIGURE 75-6\t\nTwo-handed clostridial collagenase histolyticum injection technique. A, Cord is delineated by palpation. B, The needle \nis inserted into the cord while tension is applied to the cord. C, Both hands are used to support the syringe while the plunger is \npressed. (From Hentz VR, Watt AJ, Desai SS: Advances in the management of Dupuytren’s disease: collagenase, Hand Clin 28:552, 2012.) SEE"
+}

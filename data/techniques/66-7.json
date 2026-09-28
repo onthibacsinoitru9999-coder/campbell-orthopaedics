@@ -1,1 +1,52 @@
-{"tech_id": "66-7", "name_en": "End-to-Side Repair", "name_vi": "Kỹ thuật Khâu Biểu Gân Bằng Mũi Chạy Quanh Vòng Liên Tục (Epitendinous Suture)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3739, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Biểu Gân Bằng Mũi Chạy Quanh Vòng Liên Tục (Epitendinous Suture) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật End-to-Side Repair: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Use a 4-0 monofilament wire or 4-0 monofilament nylon threaded on a small, curved needle (Fig. 66-21).", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Pass the suture through the skin just medial or lateral to the divided tendon and through the proximal segment of the tendon near its margin from superficial to deep and then through the deep surface of the distal segment, to emerge on its superficial surface.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Pass it proximally and through the opposite margin of the proximal segment and bring it out through the skin on", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-19.webp", "images": [{"url": "web/static/images/techniques/66-19.webp", "type": "diagram", "caption": "Kỹ thuật khâu biểu gân liên tục kiểu vắt quanh mép gân giúp bề mặt trượt trơn láng"}]}
+{
+  "tech_id": "66-7",
+  "name_en": "End-to-Side Repair",
+  "name_vi": "Kỹ thuật Khâu Biểu Gân Bằng Mũi Chạy Quanh Vòng Liên Tục (Epitendinous Suture)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3739,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Biểu Gân Bằng Mũi Chạy Quanh Vòng Liên Tục (Epitendinous Suture) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho End-to-Side Repair (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Use a 4-0 monofilament wire or 4-0 monofilament nylon threaded on a small, curved needle (Fig. 66-21).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Pass the suture through the skin just medial or lateral to the divided tendon and through the proximal segment of the tendon near its margin from superficial to deep and then through the deep surface of the distal segment, to emerge on its superficial surface.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Pass it proximally and through the opposite margin of the proximal segment and bring it out through the skin on",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-19.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-19.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật khâu biểu gân liên tục kiểu vắt quanh mép gân giúp bề mặt trượt trơn láng"
+    },
+    {
+      "url": "web/static/images/techniques/66-7_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-17 Cross section of a flexor tendon of right digit with placement of core sutures (double-loop 6-strand repair): (1) placement of first loop suture from proximal to distal in medial",
+      "width": 1109,
+      "height": 348
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "CHAPTER 66  FLEXOR AND EXTENSOR TENDON INJURIES\n3357\nFIGURE 66-19\t\nPulvertaft technique of suturing tendon of small diameter to one of larger diameter. A, Smaller tendon is brought \nthrough larger tendon and anchored with one or two sutures after tension is adjusted. B, Tendon is brought through more proximal \nhole and is anchored again with one or two sutures after tension is adjusted. C, After excess is cut flush with larger tendon, exit hole \ncan be closed with one or two sutures. D, Excess of larger tendon is trimmed as shown to permit central location of smaller tendon. \nThis so-called fish mouth is closed with sutures. \nA\nB\nC\nD\n■ Use a 4-0 monofilament wire or 4-0 monofilament nylon \nthreaded on a small, curved needle (Fig. 66-21).\n■ Pass the suture through the skin just medial or lateral to \nthe divided tendon and through the proximal segment of \nthe tendon near its margin from superficial to deep and \nthen through the deep surface of the distal segment, to \nemerge on its superficial surface.\n■ Pass it proximally and through the opposite margin of the \nproximal segment and bring it out through the skin on"
+}

@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
   "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_approach": "Đường mổ tạo hình mỏm cụt / vạt da bàn tay (Atasoy Triangular Advancement Flaps (Atasoy et al.)): Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo tỷ lệ; phẫu tích nhẹ nhàng bộc lộ cấu trúc gân xương, nhận diện bó mạch thần kinh ngón riêng.",
   "surgical_steps": [
     {
       "step": 1,
@@ -48,13 +48,19 @@
   "images": [
     {
       "url": "web/static/images/techniques/19-2.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 19-2 (Atasoy Triangular Advancement Flaps (Atasoy et al.)) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 19-5 Kutler V-Y advancement flaps. A, Advancement flaps over neurovascular pedicles carried down to bone. B-D, Fibrous septa are defined (B) and divided (C), permitting free",
+      "width": 1136,
+      "height": 648
     },
     {
       "url": "web/static/images/techniques/19-2_xray.webp",
       "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 19-2 (Atasoy Triangular Advancement Flaps (Atasoy et al.)) - Campbell 13th Ed"
+      "caption": "FIGURE 19-7 Distal fingertip amputation suitable for a V-Y advancement flap. A, Ample pulp skin with outline of intended skin incision. B and C, Flap raised with sequential dissection from the distal phalangeal periosteum and flexor digitorum profund",
+      "width": 1150,
+      "height": 866
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nA\nB\nC\nD\nIf deeper tissues and skin must be replaced to cover \nexposed tendon and bone, various flaps or grafts can be \nused. Frequently used distal advancement flaps include the \nKutler double lateral V-Y and Atasoy volar V-Y advance­\nment flaps (Figs. 19-5 to 19-7). These flaps involve tissue \nadvancement from the injured finger and provide limited \ncoverage. The dorsal pedicle flap is useful when a finger has \nbeen amputated proximal to the nail bed (Fig. 19-8). If \nfurther shortening is unacceptable, however, this type of flap \ncan be raised from the dorsum of the injured finger and \ncarried distally without involving another digit. Dorsal \ndefects may be managed by adipofascial turnover flaps in \nwhich the proximal subdermal adipofascial tissues are \nflipped distally over a vascularized zone of the same tissue \n(Fig. 19-9). Advantages of same-digit coverage techniques \ninclude no need for a second operation for flap division (as \nwith a cross finger flap), prevention of adjacent finger stiff­\nness that occurs with adjacent finger coverage techniques \n(especially in patients with underlying arthritic conditions), \nand the opportunity for coverage in patients in whom adja­\ncent fingers are injured. The cross finger flap provides excel­\nlent coverage but may be followed by stiffness not only of \nthe involved finger but also of the donor finger. This type of \ncoverage requires operation in two stages and a split-\nthickness graft to cover the donor site. The thenar flap also \nrequires operation in two stages. It usually does not cover as \nlarge a defect as a cross finger flap and sometimes is fol­\nlowed by tenderness of the donor site. It does have the \nadvantage, however, of involving only one finger directly. \n\nCHAPTER 19  AMPUTATIONS OF THE HAND\n715\nFIGURE 19-7\t\nDistal fingertip amputation suitable for a V-Y advancement flap. A, Ample pulp skin with outline of intended skin \nincision. B and C, Flap raised with sequential dissection from the distal phalangeal periosteum and flexor digitorum profundus tendon \ncentrodorsally, and dorsoradial and dorsoulnar margins by dissection down to the distal phalangeal bone laterally, and septal release \nvolarly. Note that the neurovascular bundles must be carefully kept with the pulp skin, and direct inspection of them is not always \npossible. D, Flap sutured into position with proximal open area left open to heal by secondary intention. E, Clinical result at 6 weeks"
 }

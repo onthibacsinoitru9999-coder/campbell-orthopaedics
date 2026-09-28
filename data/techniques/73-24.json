@@ -1,1 +1,66 @@
-{"tech_id": "73-24", "name_en": "Distraction Arthroplasty", "name_vi": "Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4106, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Distraction Arthroplasty: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm)", "detail": "Maintain the intermetacarpal ligament so that the thumb metacarpal base retains its attachments to the index finger metacarpal.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm)", "detail": "Remove small bone segments from the thumb metacarpal base and, if necessary, resect a part of the base of the index (second) metacarpal.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm)", "detail": "Perform a tenolysis of the extensor pollicis longus and abductor pollicis longus if needed.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Hold the thumb and index metacarpals with a Kirschner wire, maintaining the thumb in a rotated, abducted position.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Thumb web space contractures may require skin grafting, rotation or pedicle flaps, or Z-plasties.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-24",
+  "name_en": "Distraction Arthroplasty",
+  "name_vi": "Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4106,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Distraction Arthroplasty (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm)",
+      "detail": "Maintain the intermetacarpal ligament so that the thumb metacarpal base retains its attachments to the index finger metacarpal.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm)",
+      "detail": "Remove small bone segments from the thumb metacarpal base and, if necessary, resect a part of the base of the index (second) metacarpal.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Thang Bàn 1 Bằng Kỹ Thuật Eaton-Littler Trị Bán Trật Khớp Giai Đoạn Sớm)",
+      "detail": "Perform a tenolysis of the extensor pollicis longus and abductor pollicis longus if needed.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Hold the thumb and index metacarpals with a Kirschner wire, maintaining the thumb in a rotated, abducted position.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Thumb web space contractures may require skin grafting, rotation or pedicle flaps, or Z-plasties.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-24.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-24.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-36 Trapeziometacarpal pseudarthrosis. A, Percutaneous Kirschner wires allow pain-free mobilization of the thumb. B, Dorso-palmar radiograph showing advanced degenerative changes in the carpometacarpal joint. C, After surgery, before removal",
+      "width": 837,
+      "height": 1274
+    },
+    {
+      "url": "web/static/images/techniques/73-24_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-37 Suture-button suspensionplasty for thumb car­ pometacarpal arthritis. One button lies on the dorsoradial base of the thumb metacarpal and the other on the ulnar border of",
+      "width": 347,
+      "height": 561
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": "CHAPTER 73  ARTHRITIC HAND\n3695\nFIGURE 73-36\t\nTrapeziometacarpal pseudarthrosis. A, Percutaneous Kirschner wires allow pain-free mobilization of the thumb. \nB, Dorso-palmar radiograph showing advanced degenerative changes in the carpometacarpal joint. C, After surgery, before removal \nof Kirschner wires. D, Dorso-palmar radiograph 3 years after surgery; note maintenance of the trapeziometacarpal joint line. (From \nRubino M, Civani A, Pagani D, Sansone V: Trapeziometacarpal narrow pseudarthrosis: a new surgical technique to treat thumb carpometacarpal \njoint arthritis, J Hand Surg Eur Vol 38:844, 2013.)\nA\nB\nD\nC"
+}

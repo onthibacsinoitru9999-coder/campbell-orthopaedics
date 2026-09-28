@@ -1,1 +1,59 @@
-{"tech_id": "79-50", "name_en": "Toe-Phalanx Transplantation", "name_vi": "Cắt Xương Đóng Góc Hình Nêm Đốt Ngón Giữa Trị Biến Dạng Clinodactyly Nặng", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4326, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Đóng Góc Hình Nêm Đốt Ngón Giữa Trị Biến Dạng Clinodactyly Nặng (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Toe-Phalanx Transplantation: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Under fluoroscopic control, using the external fixator frame as a guide, insert two half-pins into the distal metacarpal and two into the proximal metacarpal. These pins should be placed so as not to impinge on the exten- sor mechanism of the metacarpophalangeal joint or irri- tate the extensor or f", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "After all four pins are inserted, mount the external fixator and adjust all blocks and screws.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Remove the frame and use an osteotome to make a transverse osteotomy between the center of the distal and proximal pins.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Adjust the fixator and firmly secure all clamps.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Close the bone gap caused by the osteotomy, suture the periosteum and close the skin.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-50",
+  "name_en": "Toe-Phalanx Transplantation",
+  "name_vi": "Cắt Xương Đóng Góc Hình Nêm Đốt Ngón Giữa Trị Biến Dạng Clinodactyly Nặng",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4326,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Đóng Góc Hình Nêm Đốt Ngón Giữa Trị Biến Dạng Clinodactyly Nặng (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Toe-Phalanx Transplantation (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Under fluoroscopic control, using the external fixator frame as a guide, insert two half-pins into the distal metacarpal and two into the proximal metacarpal. These pins should be placed so as not to impinge on the exten- sor mechanism of the metacarpophalangeal joint or irri- tate the extensor or flexor tendon. Insert them from a slight radial-to-ulnar direction in the long finger and from an ulnar-to-radial direction in the little finger.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "After all four pins are inserted, mount the external fixator and adjust all blocks and screws.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Remove the frame and use an osteotome to make a transverse osteotomy between the center of the distal and proximal pins.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Adjust the fixator and firmly secure all clamps.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Close the bone gap caused by the osteotomy, suture the periosteum and close the skin.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-50.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-50.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-79 A, Congenital ring syndrome with amputation of index finger and severe lymphedema of long finger. Good capillary refill was present at birth despite severe lymphedema; surgery was postponed for 1 month to lessen surgical risk. B, Radiogr",
+      "width": 1113,
+      "height": 1479
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "■ Under fluoroscopic control, using the external fixator \nframe as a guide, insert two half-pins into the distal \nmetacarpal and two into the proximal metacarpal. These \npins should be placed so as not to impinge on the exten-\nsor mechanism of the metacarpophalangeal joint or irri-\ntate the extensor or flexor tendon. Insert them from a \nslight radial-to-ulnar direction in the long finger and from \nan ulnar-to-radial direction in the little finger.\n■ After all four pins are inserted, mount the external fixator \nand adjust all blocks and screws.\n■ Remove the frame and use an osteotome to make a \ntransverse osteotomy between the center of the distal \nand proximal pins.\n■ Adjust the fixator and firmly secure all clamps.\n■ Close the bone gap caused by the osteotomy, suture the \nperiosteum and close the skin."
+}

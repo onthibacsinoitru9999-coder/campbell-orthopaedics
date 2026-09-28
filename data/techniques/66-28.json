@@ -1,1 +1,54 @@
-{"tech_id": "66-28", "name_en": "Reconstruction of the Extensor Mechanism for Chronic Boutonniere Deformity (Littler, Modified)", "name_vi": "Khâu Phục Hồi Gân Duỗi Vùng VII & VIII (Ngăn Gân Duỗi Cổ Tay & Cẳng Tay)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3778, "author": "Littler, Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Gân Duỗi Vùng VII & VIII (Ngăn Gân Duỗi Cổ Tay & Cẳng Tay) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Reconstruction of the Extensor Mechanism for Chronic Boutonniere Deformity (Littler, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "D B A E C F G Extensor + + Retinacular ligament Lumbrical Interosseous Oblique retinacular ligament Lumbrical Oblique retinacular ligament Oblique retinacular ligament Lumbrical Interosseous Interosseous Kirschner wire Interosseous Oblique retinacular ligament + + PIP Axis tendon, use a core suture,", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "If there is an insufficient insertion, a suture anchor may provide satisfactory attach- ment of the central slip to the middle phalanx.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "■ Close the wound and apply a volar splint over a gently compressing dressing.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-28",
+  "name_en": "Reconstruction of the Extensor Mechanism for Chronic Boutonniere Deformity (Littler, Modified)",
+  "name_vi": "Khâu Phục Hồi Gân Duỗi Vùng VII & VIII (Ngăn Gân Duỗi Cổ Tay & Cẳng Tay)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3778,
+  "author": "Littler, Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Gân Duỗi Vùng VII & VIII (Ngăn Gân Duỗi Cổ Tay & Cẳng Tay) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Reconstruction of the Extensor Mechanism for Chronic Boutonniere Deformity (Littler, Modified) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "D B A E C F G Extensor + + Retinacular ligament Lumbrical Interosseous Oblique retinacular ligament Lumbrical Oblique retinacular ligament Oblique retinacular ligament Lumbrical Interosseous Interosseous Kirschner wire Interosseous Oblique retinacular ligament + + PIP Axis tendon, use a core suture,",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "If there is an insufficient insertion, a suture anchor may provide satisfactory attach- ment of the central slip to the middle phalanx.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ",
+      "detail": "■ Close the wound and apply a volar splint over a gently compressing dressing.",
+      "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-28.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-28.webp",
+      "type": "diagram",
+      "caption": "FIGURE 66-70 Littler technique for repair of old boutonniere deformity. A, Typical deformity with flexion of proximal interphalan­ geal joint and extension of distal interphalangeal joint. Lateral bands have subluxated volarward. B, Dorsal curved lon",
+      "width": 1178,
+      "height": 1032
+    },
+    {
+      "url": "web/static/images/techniques/66-28_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-71 Extensor tenotomy for supple boutonniere deformity. A and B, Lateral bands are released distal to insertion of central slips. The resulting lateral proximal migration of exten­",
+      "width": 1133,
+      "height": 498
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \nD\nB\nA\nE\nC\nF\nG\nExtensor\n0\n+\n+\nRetinacular\nligament\nLumbrical\nInterosseous\nOblique\nretinacular\nligament\nLumbrical\n    Oblique\nretinacular\n   ligament\nOblique\nretinacular\nligament\nLumbrical\nInterosseous\nInterosseous\nKirschner\nwire\nInterosseous\nOblique retinacular\nligament\n1\n2\n+\n+\nPIP\nAxis\ntendon, use a core suture, supplemented with a Silfver-\nskiöld cross stitch (see Fig. 66-9). If there is an insufficient \ninsertion, a suture anchor may provide satisfactory attach-\nment of the central slip to the middle phalanx.\n■ Close the wound and apply a volar splint over a gently \ncompressing dressing."
+}

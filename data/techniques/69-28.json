@@ -9,41 +9,58 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Mở Phục Hồi Sụn Tam Giác TFCC Qua Đường Mổ Bờ Trụ Cổ Tay (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
   "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Repair of Class 1B Injury: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Chuẩn bị bệnh nhân, vô cảm & Khảo sát nội soi cổ tay (Patient Prep & Arthroscopy)",
-      "detail": "Follow the procedures for patient preparation; anesthetic management; and radiocarpal, ulnocarpal, and midcarpal examination outlined in Techniques 69-1 through 69-4. Xác nhận chẩn đoán rách sụn tam giác bờ trụ Class 1B (TFCC peripheral avulsion).",
-      "action": "Khảo sát nội soi xác định chính xác tổn thương rách sụn tam giác khỏi bao khớp bờ trụ."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Follow the procedures for patient preparation; anesthetic management; and radiocarpal, ulnocarpal, and midcarpal examination outlined in Techniques 69-1 through 69-4.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Đường rạch da bờ trụ cổ tay & Bộc lộ bao khớp (Ulnar Approach & Exposure)",
-      "detail": "Make a 1-cm or larger longitudinal incision distal to the ulnar head and volar to the extensor carpi ulnaris (ECU) tendon. Phẫu tích bảo tồn nhánh cảm giác mu tay thần kinh trụ (dorsal sensory branch of ulnar nerve).",
-      "action": "Bảo vệ nguyên vẹn nhánh bì mu tay thần kinh trụ và bao gân ECU."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Use a pneumatic tourniquet as needed, especially when shaving or burring bone or soft tissue.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Luồn kim dẫn chỉ qua bao khớp bờ trụ vào khớp (Needle Insertion under Arthroscopy)",
-      "detail": "Pass two 18-gauge needles through the volar capsule and, under arthroscopic control, through the ulnocarpal ligaments and the torn peripheral margin of the TFCC.",
-      "action": "Xuyên kim chính xác qua mép sụn rách dưới hướng dẫn màn hình nội soi."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "If arthroscopic examination reveals clear exposure of the pisotriquetral joint, significant disruption of the ulnocarpal ligaments is likely. If the ligaments appear reparable, make a 1-cm or larger incision, distal to the ulnar head and volar to the extensor carpi ulnaris tendon. Avoid injury to the dorsal sensory branch of the ulnar nerve and the ulnar nerve and artery.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Luồn chỉ khâu PDS & Cột chỉ phục hồi sụn tam giác (Suture Passing & Knot Tying)",
-      "detail": "Pass a 2-0 or 3-0 absorbable polydioxanone (PDS) suture through one needle into the joint, retrieve through the second needle and tie securely outside the capsule over the floor of the ECU sheath.",
-      "action": "Ép sát sụn tam giác vào thành bao khớp bờ trụ khôi phục độ căng vững chắc."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Pass two needles through the volar capsule and, under arthroscopic control, through the ulnocarpal ligaments.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động nẹp bột ôm khuỷu (Closure & Splinting)",
-      "detail": "Rút các dụng cụ nội soi, khâu đóng da mũi rời bằng chỉ nylon 5-0. Băng vô trùng và bất động bằng nẹp bột cánh bàn tay (Munster splint) giữ cẳng tay ở tư thế ngửa nhẹ trong 4-6 tuần.",
-      "action": "Khóa sấp ngửa cẳng tay bằng nẹp bột dài để bảo vệ mối khâu sụn tam giác."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Pass a 2-0 or 3-0 absorbable polydioxanone suture through one needle into the joint.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
   "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/69-28.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-28.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-61 Arthroscopic repair of class 1D injury of triangular fibrocartilage complex. A, Edge of sigmoid notch is abraded with motorized burr. B, Holes are drilled through radius with Kirschner wire. C, Sutures are placed into triangular fibrocar",
+      "width": 931,
+      "height": 740
+    },
+    {
+      "url": "web/static/images/techniques/69-28_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-61 Arthroscopic repair of class 1D injury of triangular fibrocartilage complex. A, Edge of sigmoid notch is abraded with motorized burr. B, Holes are drilled through radius with Kirschner wire. C, Sutures are placed into triangular fibrocar",
+      "width": 570,
+      "height": 502
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "OPEN REPAIR OF CLASS 1B INJURY\n(CULP, OSTERMAN, AND KAUFMANN, MODIFIED)\n■ Follow the procedures for patient preparation; anesthetic \nmanagement; and radiocarpal, ulnocarpal, and midcarpal \nexamination outlined in Techniques 69-1 through 69-4.\n■ Use a pneumatic tourniquet as needed, especially when \nshaving or burring bone or soft tissue.\n■ If arthroscopic examination reveals clear exposure of the \npisotriquetral joint, significant disruption of the ulnocarpal \nligaments is likely. If the ligaments appear reparable, \nmake a 1-cm or larger incision, distal to the ulnar head \nand volar to the extensor carpi ulnaris tendon. Avoid \ninjury to the dorsal sensory branch of the ulnar nerve and \nthe ulnar nerve and artery.\n■ Pass two needles through the volar capsule and, under \narthroscopic control, through the ulnocarpal ligaments.\n■ Pass a 2-0 or 3-0 absorbable polydioxanone suture \nthrough one needle into the joint."
 }

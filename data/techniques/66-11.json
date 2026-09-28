@@ -1,1 +1,66 @@
-{"tech_id": "66-11", "name_en": "Repair in Zones III, IV, and V", "name_vi": "Khâu Gân Gấp Các Vùng III, IV và V (Lòng Bàn Tay, Ống Cổ Tay, Cẳng Tay)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3750, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Gân Gấp Các Vùng III, IV và V (Lòng Bàn Tay, Ống Cổ Tay, Cẳng Tay) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Repair in Zones III, IV, and V: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Khâu Gân Gấp Các Vùng III, IV và V)", "detail": "Extend the laceration distally into the palm and proximally into the forearm, taking care to cross flexion creases obliquely. If the laceration occurs beneath the transverse carpal ligament, partial or complete release of the trans- verse carpal ligament may be required.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Khâu Gân Gấp Các Vùng III, IV và V)", "detail": "Preserve, if possible, a portion of the transverse carpal ligament to avoid bowstringing postoperatively.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "If it cannot be preserved, release it in a Z-lengthening configuration so that it can be repaired and help minimize the risk of postoperative bowstringing.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Repair the flexor profundus and sublimis tendons in the carpal tunnel; probably the best suture configuration is an intratendinous one with a locking core suture to hold the tendons with minimal exposure of cut surface and suture material.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "In the carpal tunnel, ensure proper orientation and loca- tion of the individual tendons. The usual arrangement of the flexor sublimis tendons in the carpal tunnel, with the middle and ring finger tendons superficial to the index and small finger tendons, is helpful to recall in this situ- ation. Pa", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-11",
+  "name_en": "Repair in Zones III, IV, and V",
+  "name_vi": "Khâu Gân Gấp Các Vùng III, IV và V (Lòng Bàn Tay, Ống Cổ Tay, Cẳng Tay)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3750,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Gân Gấp Các Vùng III, IV và V (Lòng Bàn Tay, Ống Cổ Tay, Cẳng Tay) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Repair in Zones III, IV, and V (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thao tác can thiệp kỹ thuật (Khâu Gân Gấp Các Vùng III, IV và V)",
+      "detail": "Extend the laceration distally into the palm and proximally into the forearm, taking care to cross flexion creases obliquely. If the laceration occurs beneath the transverse carpal ligament, partial or complete release of the trans- verse carpal ligament may be required.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Khâu Gân Gấp Các Vùng III, IV và V)",
+      "detail": "Preserve, if possible, a portion of the transverse carpal ligament to avoid bowstringing postoperatively.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "If it cannot be preserved, release it in a Z-lengthening configuration so that it can be repaired and help minimize the risk of postoperative bowstringing.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Repair the flexor profundus and sublimis tendons in the carpal tunnel; probably the best suture configuration is an intratendinous one with a locking core suture to hold the tendons with minimal exposure of cut surface and suture material.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "In the carpal tunnel, ensure proper orientation and loca- tion of the individual tendons. The usual arrangement of the flexor sublimis tendons in the carpal tunnel, with the middle and ring finger tendons superficial to the index and small finger tendons, is helpful to recall in this situ- ation. Pa",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-11.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-11.webp",
+      "type": "diagram",
+      "caption": "FIGURE 66-37 A, After primary flexor tendon repair or flexor tendon graft, wrist and hand are held in posterior plaster splint. Additionally, involved finger is held in flexion by elastic band attached at wrist level and at fingernail by wire through",
+      "width": 902,
+      "height": 589
+    },
+    {
+      "url": "web/static/images/techniques/66-11_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-37 A, After primary flexor tendon repair or flexor tendon graft, wrist and hand are held in posterior plaster splint. Additionally, involved finger is held in flexion by elastic band attached at wrist level and at fingernail by wire through",
+      "width": 1047,
+      "height": 355
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "REPAIR IN ZONES III, IV, AND V\n\nPART XVIII  THE HAND\n3368\nflexion crease, flexor tendon injury, especially with the \nfingers flexed, in zone IV should be suspected.\n■ Extend the laceration distally into the palm and proximally \ninto the forearm, taking care to cross flexion creases \nobliquely. If the laceration occurs beneath the transverse \ncarpal ligament, partial or complete release of the trans-\nverse carpal ligament may be required.\n■ Preserve, if possible, a portion of the transverse carpal \nligament to avoid bowstringing"
+}

@@ -1,1 +1,52 @@
-{"tech_id": "72-3", "name_en": "Fractional Lengthening of the Flexor Carpi Radialis Muscle and Finger Flexors", "name_vi": "Kéo Dài Phân Đoạn Gân Cơ Gấp Cổ Tay Quay (Fractional Lengthening of FCR)", "chapter": 72, "category": "Hand & Wrist", "pdf_page": 4054, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kéo Dài Phân Đoạn Gân Cơ Gấp Cổ Tay Quay (Fractional Lengthening of FCR) (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Fractional Lengthening of the Flexor Carpi Radialis Muscle and Finger Flexors: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Begin a curved volar incision over the forearm about 3 cm proximal to the volar wrist crease and continue it proximally for 6 cm.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Identify the flexor carpi radialis muscle and follow it proximally to the musculotendinous junction and farther proximally until the muscle belly is identified. The distal portion of the muscle belly is surrounded by an aponeu- rosis that thickens distally and forms the tendon of the muscle.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Lengthen the muscle-tendon unit and leave it in continu- ity by making transverse cuts in the aponeurosis proximal to the musculotendinous junction. Completely identify the muscle circumferentially and make a transverse cut through the aponeurosis but not through the muscle (Fig. 72-6). Divide the a", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.", "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.", "image_url": "web/static/images/techniques/72-3.webp", "images": [{"url": "web/static/images/techniques/72-3.webp", "type": "diagram", "caption": "Kỹ thuật kéo dài phân đoạn cơ gấp cổ tay quay (Fractional lengthening) điều trị co cứng"}]}
+{
+  "tech_id": "72-3",
+  "name_en": "Fractional Lengthening of the Flexor Carpi Radialis Muscle and Finger Flexors",
+  "name_vi": "Kéo Dài Phân Đoạn Gân Cơ Gấp Cổ Tay Quay (Fractional Lengthening of FCR)",
+  "chapter": 72,
+  "category": "Hand & Wrist",
+  "pdf_page": 4054,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kéo Dài Phân Đoạn Gân Cơ Gấp Cổ Tay Quay (Fractional Lengthening of FCR) (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Begin a curved volar incision over the forearm about 3 cm proximal to the volar wrist crease and continue it proximally for 6 cm.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Identify the flexor carpi radialis muscle and follow it proximally to the musculotendinous junction and farther proximally until the muscle belly is identified. The distal portion of the muscle belly is surrounded by an aponeu- rosis that thickens distally and forms the tendon of the muscle.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Lengthen the muscle-tendon unit and leave it in continu- ity by making transverse cuts in the aponeurosis proximal to the musculotendinous junction. Completely identify the muscle circumferentially and make a transverse cut through the aponeurosis but not through the muscle (Fig. 72-6). Divide the aponeurosis transversely and do not",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.",
+  "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.",
+  "image_url": "web/static/images/techniques/72-3.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/72-3.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật kéo dài phân đoạn cơ gấp cổ tay quay (Fractional lengthening) điều trị co cứng"
+    },
+    {
+      "url": "web/static/images/techniques/72-3_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 72-5 Ozkan brachioradialis rerouting technique. A, The tendon is cut in a Z fashion. B, The distal tendon is passed between the radius and ulna in a dorsal to palmar direction",
+      "width": 1175,
+      "height": 512
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nUlnar nerve\nextension, should be considered. The classic transfer is of \nthe flexor carpi ulnaris to the extensor carpi radialis \nbrevis, which improves supination, wrist extension, and \nfinger flexion (grasp). If weakness in finger extension \n(release) is considerable, transfer into the extensor digi­\ntorum communis is preferred. Preoperative electromyog­\nraphy may be useful to determine in which phase the \ndonor muscle is active: grasp or release. Another alterna­\ntive is to fractionally lengthen the flexor carpi ulnaris and \nflexor carpi radialis and transfer the extensor carpi ulnaris \ninto the extensor carpi radialis brevis to improve wrist \nextension power.\nPattern 3. The patient has severe flexion deformities and is \nunable to extend the fingers or wrist actively even when \nstarting from a position of maximal flexion. Hand sensi­\nbility usually is poor. Surgery would not improve function \nbut may improve hygiene. Tenotomy of the wrist flexors \nand sublimis-to-profundus transfers as described by \nBraun and Vice may be considered. Wrist arthrodesis and \ncarpectomy may improve appearance in these severe \ndeformities.\n■ Begin a curved volar incision over the forearm about 3 \ncm proximal to the volar wrist crease and continue it \nproximally for 6 cm.\n■ Identify the flexor carpi radialis muscle and follow it \nproximally to the musculotendinous junction and farther \nproximally until the muscle belly is identified. The distal \nportion of the muscle belly is surrounded by an aponeu-\nrosis that thickens distally and forms the tendon of the \nmuscle.\n■ Lengthen the muscle-tendon unit and leave it in continu-\nity by making transverse cuts in the aponeurosis proximal \nto the musculotendinous junction. Completely identify \nthe muscle circumferentially and make a transverse cut \nthrough the aponeurosis but not through the muscle (Fig. \n72-6). Divide the aponeurosis transversely and do not"
+}

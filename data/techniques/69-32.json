@@ -1,1 +1,59 @@
-{"tech_id": "69-32", "name_en": "Anatomic Reconstruction of the Distal Radioulnar Ligaments (Adams and Berger)", "name_vi": "Ghép Xương Có Cuống Mạch Cuộn Cơ Sấp Vuông Điều Trị Bệnh Kienböck Giai Đoạn Sớm", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3929, "author": "Adams and Berger", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Xương Có Cuống Mạch Cuộn Cơ Sấp Vuông Điều Trị Bệnh Kienböck Giai Đoạn Sớm (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Anatomic Reconstruction of the Distal Radioulnar Ligaments (Adams and Berger): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Ununited, displaced ulnar styloid fractures can be treated with open reduction and internal fixation.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Bowers emphasized the importance of repairing or reconstructing the TFCC.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Late repair of the TFCC may be possible.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "If the TFCC cannot be repaired, but the articular surfaces are in good condition, and the sigmoid notch is competent, reconstruction of the liga­ ments around the DRUJ may stabilize the joint satisfactorily.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "suggested that tenodesis augmentation of TFCC repair with extensor carpi ulnaris (Bach) or tendon graft reconstruction through radio­ ulnar drill holes (Scheker) helped to stabilize the DRUJ.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-32",
+  "name_en": "Anatomic Reconstruction of the Distal Radioulnar Ligaments (Adams and Berger)",
+  "name_vi": "Ghép Xương Có Cuống Mạch Cuộn Cơ Sấp Vuông Điều Trị Bệnh Kienböck Giai Đoạn Sớm",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3929,
+  "author": "Adams and Berger",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Xương Có Cuống Mạch Cuộn Cơ Sấp Vuông Điều Trị Bệnh Kienböck Giai Đoạn Sớm (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Ununited, displaced ulnar styloid fractures can be treated with open reduction and internal fixation.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Bowers emphasized the importance of repairing or reconstructing the TFCC.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Late repair of the TFCC may be possible.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "If the TFCC cannot be repaired, but the articular surfaces are in good condition, and the sigmoid notch is competent, reconstruction of the liga­ ments around the DRUJ may stabilize the joint satisfactorily.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "suggested that tenodesis augmentation of TFCC repair with extensor carpi ulnaris (Bach) or tendon graft reconstruction through radio­ ulnar drill holes (Scheker) helped to stabilize the DRUJ.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-32.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-32.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-65 Anatomic reconstruction of distal radioulnar ligaments. A, Retraction of capsular flap to expose articular surface of distal radioulnar joint and proximal surface of triangular fibrocartilage complex. B, Position of guidewire for creatin",
+      "width": 1117,
+      "height": 1350
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "through the base of the ulnar styloid may contribute to DRUJ \ninstability. Most acute injuries, with appropriate treatment, \nresult in a stable DRUJ. Patients with symptomatic DRUJ \ninstability usually have symptoms related to dorsal displace­\nment of the distal ulna.\nPROCEDURES TO STABILIZE THE DISTAL \nRADIOULNAR JOINT\nDRUJ instability related to malunited distal radial fractures \ncan be treated with distal radial osteotomy and bone grafting \nto correct shortening and angulation. Ununited, displaced \nulnar styloid fractures can be treated with open reduction and \ninternal fixation.\nMany soft-tissue techniques have been proposed to stabi­\nlize the DRUJ and the unstable distal ulna. Bowers emphasized \nthe importance of repairing or reconstructing the TFCC. Late \nrepair of the TFCC may be possible. If the TFCC cannot be \nrepaired, but the articular surfaces are in good condition, and \nthe sigmoid notch is competent, reconstruction of the liga­\nments around the DRUJ may stabilize the joint satisfactorily. \nAdams identified three categories of soft-tissue reconstruc­\ntion for chronic DRUJ instability: (1) distal ulnar tenodesis, \nwith the extensor carpi ulnaris or flexor carpi ulnaris tendon, \n(2) ulnocarpal tether, and (3) radioulnar tether. Although the \nulnocarpal techniques described by Hui and Linscheid and by \nBoyes and Bunnell may be effective, a cadaver study by Gupta \net al. suggested that the ulnocarpal ligaments may not require \nreconstruction in all patients with DRUJ instability. The dif­\nficulty of restoring the smooth carpal articulation, a flexible \nrotational radioulnar tether, an ulnocarpal suspension from \nthe radius, an ulnocarpal cushion, and an ulnar shaft to the \nulnar carpal connection is recognized. Many complex radio­\nulnar tethering procedures proximal to the radioulnar joint \nhave been described. Hermansdorfer and Kleinman found \nreattachment of the TFCC effective for minimal subluxation. \nThe reports of Bach et al. and of Scheker et al. suggested that \ntenodesis augmentation of TFCC repair with extensor carpi \nulnaris (Bach) or tendon graft reconstruction through radio­\nulnar drill holes (Scheker) helped to stabilize the DRUJ. \nAdams emphasized the importance of reconstruction of the \ndistal radioulnar ligaments to restore DRUJ stability and to \npreserve DRUJ motion. In patients with posttraumatic DRUJ \ninstability, Adams and Berger found that anatomic recon­\nstruction of the distal radioulnar ligaments restored stability, \npreserved motion, and relieved pain in 12 of 14 patients.\nANATOMIC RECONSTRUCTION OF \nTHE DISTAL RADIOULNAR \nLIGAMENTS\n\nPART XVIII  THE HAND\n3536\nFIGURE 69-65\t\nAnatomic reconstruction of distal radioulnar ligaments. A, Retraction of capsular flap to expose articular surface of \ndistal radioulnar joint and proximal surface of triangular fibrocartilage complex. B, Position of guidewire for creating radial tunnel. C, \nLocation of radial and ulnar tunnels. D, Position of guidewire for creating tunnel through ulnar head and neck (radial tunnel also can \nbe seen). E, Deep exposure and location of bone tunnels for tendon graft. F, Tendon graft passed through bone tunnels and volar \ncapsule of distal radioulnar joint. G, Completed passage of tendon graft. (A, C, E, F, G, redrawn from and B and D from Adams BD, Berger \nRA: An anatomic reconstruction of the distal radioulnar ligaments for posttraumatic distal radioulnar joint instability, J Hand Surg 27A:243, 2002.) \nSEE"
+}

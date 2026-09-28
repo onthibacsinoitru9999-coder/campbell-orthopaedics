@@ -1,1 +1,60 @@
-{"tech_id": "69-37", "name_en": "Wafer Distal Ulnar Resection (Feldon, Terrono, and Belsky)", "name_vi": "Phẫu thuật Cắt Bán Phần Chỏm Xương Trụ Chêm Bao Hoạt Dịch (Bowers Hemiresection)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3937, "author": "Feldon, Terrono, and Belsky", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Bán Phần Chỏm Xương Trụ Chêm Bao Hoạt Dịch (Bowers Hemiresection) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Wafer Distal Ulnar Resection (Feldon, Terrono, and Belsky): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Phẫu thuật Cắt Bán Phần Chỏm Xương Trụ Chêm Bao Hoạt Dịch)", "detail": "If the ulna abuts against the articular sulcus in the distal radius, remove a sufficient amount of this part of the radius to allow free movement.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Phẫu thuật Cắt Bán Phần Chỏm Xương Trụ Chêm Bao Hoạt Dịch)", "detail": "Confirm free forearm rotation.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Deflate the tourniquet, obtain adequate hemostasis, and close the skin.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 4, "title": "Thì 4: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Apply a bulky hand dressing, supported with a splint.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-37",
+  "name_en": "Wafer Distal Ulnar Resection (Feldon, Terrono, and Belsky)",
+  "name_vi": "Phẫu thuật Cắt Bán Phần Chỏm Xương Trụ Chêm Bao Hoạt Dịch (Bowers Hemiresection)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3937,
+  "author": "Feldon, Terrono, and Belsky",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Bán Phần Chỏm Xương Trụ Chêm Bao Hoạt Dịch (Bowers Hemiresection) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho “Wafer” Distal Ulnar Resection (Feldon, Terrono, and Belsky) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "If the ulna abuts against the articular sulcus in the distal radius, remove a sufficient amount of this part of the radius to allow free movement.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Confirm free forearm rotation.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Deflate the tourniquet, obtain adequate hemostasis, and close the skin.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Apply a bulky hand dressing, supported with a splint.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-37.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-37.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-72 Matched distal ulnar resection. Ulna is resected 5 to 6 cm and shaped to match contour of radius through full supination and pronation. Distal resected ulna should be at level",
+      "width": 947,
+      "height": 557
+    },
+    {
+      "url": "web/static/images/techniques/69-37_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-74 Combined arthroscopic “wafer” distal ulnar resection and triangular fibrocartilage complex (TFCC) debride­ ment. A, Central perforation of TFCC (arrow). B, After excision of",
+      "width": 540,
+      "height": 1177
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nA\nB\nC\nTFCC\nTFCC\nUlnar \nStyloid\nWafer \nosteotomy\nTriquetrum\nTFCC\nOsteotomy\nUlna\nCapsule\nSutures \nanchoring\nTFCC\ntissues because the distal ulna would adhere to the ulnar \nsling mechanism.\n■ If the ulna abuts against the articular sulcus in the distal \nradius, remove a sufficient amount of this part of the \nradius to allow free movement.\n■ Confirm free forearm rotation.\n■ Deflate the tourniquet, obtain adequate hemostasis, and \nclose the skin.\n■ Apply a bulky hand dressing, supported with a splint."
+}

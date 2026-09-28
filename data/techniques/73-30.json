@@ -1,1 +1,72 @@
-{"tech_id": "73-30", "name_en": "Metacarpophalangeal Arthrodesis of the Thumb", "name_vi": "Cắt Bao Khớp & Cắt Lọc Gai Xương Khớp Bàn Ngón Tay Thoái Hóa", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4117, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bao Khớp & Cắt Lọc Gai Xương Khớp Bàn Ngón Tay Thoái Hóa (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Metacarpophalangeal Arthrodesis of the Thumb: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Approach the interphalangeal joint through a dorsal inci­ sion (see Fig. 73-32).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Divide the extensor tendon, release and excise the col­ lateral ligaments, and flex open the joint.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Cắt Bao Khớp & Cắt Lọc Gai Xương Khớp Bàn Ngón Tay Thoái Hóa)", "detail": "Remove the articular surface and just enough subchon­ dral bone from the distal and proximal phalanges for cancellous bone contact.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Position the interphalangeal joint in 0 to 15 degrees of flexion and fix it with small Kirschner wires driven out through the distal phalanx distally and then proximally into the proximal phalanx after the interphalangeal joint has been appropriately positioned.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Alternatively, cannulated headless screws can be used for fixation if the medullary canal allows; the medullary canal of the thumb proximal phalanx may be too large in some instances for interference fit of some intramedullary screws. Moreover, screw fixation requires the interphalan­ geal joint to ", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-30",
+  "name_en": "Metacarpophalangeal Arthrodesis of the Thumb",
+  "name_vi": "Cắt Bao Khớp & Cắt Lọc Gai Xương Khớp Bàn Ngón Tay Thoái Hóa",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4117,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bao Khớp & Cắt Lọc Gai Xương Khớp Bàn Ngón Tay Thoái Hóa (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Metacarpophalangeal Arthrodesis of the Thumb (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Approach the interphalangeal joint through a dorsal inci­ sion (see Fig. 73-32).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Divide the extensor tendon, release and excise the col­ lateral ligaments, and flex open the joint.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Remove the articular surface and just enough subchon­ dral bone from the distal and proximal phalanges for cancellous bone contact.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Position the interphalangeal joint in 0 to 15 degrees of flexion and fix it with small Kirschner wires driven out through the distal phalanx distally and then proximally into the proximal phalanx after the interphalangeal joint has been appropriately positioned.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Alternatively, cannulated headless screws can be used for fixation if the medullary canal allows; the medullary canal of the thumb proximal phalanx may be too large in some instances for interference fit of some intramedullary screws. Moreover, screw fixation requires the interphalan­ geal joint to be in full extension.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "After the interphalangeal joint has been stabilized with the internal fixation, evaluate the thumb for appropriate position and length. If the thumb is shortened excessively, as may be seen in patients with arthritis mutilans, obtain",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-30.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-30.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-42 Proximal interphalangeal arthrodesis with (A) tension-band and (B) compression-screw fixation. (From Breyer JM, Vergas P, Parra L, et al: Metacarpophalangeal and interphalangeal arthrodesis: a comparative study between tension band and c",
+      "width": 1083,
+      "height": 414
+    },
+    {
+      "url": "web/static/images/techniques/73-30_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-43 Tension band technique for thumb metacarpophalangeal joint arthrodesis. A, Curved dorsal incision. B, Incision through extensor pollicis brevis tendon and radial aponeurotic fibers exposing dorsal capsule. C, Capsule split longitudinally",
+      "width": 950,
+      "height": 1263
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": "■ Approach the interphalangeal joint through a dorsal inci­\nsion (see Fig. 73-32).\n■ Divide the extensor tendon, release and excise the col­\nlateral ligaments, and flex open the joint.\n■ Remove the articular surface and just enough subchon­\ndral bone from the distal and proximal phalanges for \ncancellous bone contact.\n■ Position the interphalangeal joint in 0 to 15 degrees of \nflexion and fix it with small Kirschner wires driven out \nthrough the distal phalanx distally and then proximally \ninto the proximal phalanx after the interphalangeal joint \nhas been appropriately positioned.\n■ Alternatively, cannulated headless screws can be used for \nfixation if the medullary canal allows; the medullary canal \nof the thumb proximal phalanx may be too large in some \ninstances for interference fit of some intramedullary \nscrews. Moreover, screw fixation requires the interphalan­\ngeal joint to be in full extension.\n■ After the interphalangeal joint has been stabilized with \nthe internal fixation, evaluate the thumb for appropriate \nposition and length. If the thumb is shortened excessively, \nas may be seen in patients with arthritis mutilans, obtain"
+}

@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cái Hóa Ngón Trỏ Bằng Đường Mổ Riordan Điều Trị Bất Sản Toàn Bộ Ngón Cái (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
   "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Riordan Pollicization (Riordan): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Riordan Pollicization (Riordan) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
@@ -38,6 +38,23 @@
   ],
   "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
   "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/79-41.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-41.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-70 Flatt recession of index finger. A, Two incisions are required: intermetacarpal ligament is cut through distal incision, and osteotomy of index metacarpal is performed through proximal incision. B, Distal portion of index is rotated 110 ",
+      "width": 661,
+      "height": 422
+    },
+    {
+      "url": "web/static/images/techniques/79-41_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-71 Riordan pollicization for congenital absence of thumb, including greater trapezium, in an immature hand. A and B, Incision (see text). Skin of proximal phalanx (blue area in A) is elevated as full-thickness skin flap. C and D, Second met",
+      "width": 1111,
+      "height": 513
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "CHAPTER 79  CONGENITAL ANOMALIES OF THE HAND\n3887\nFIGURE 79-71\t\nRiordan pollicization for congenital absence of thumb, including greater trapezium, in an immature hand. A and \nB, Incision (see text). Skin of proximal phalanx (blue area in A) is elevated as full-thickness skin flap. C and D, Second metacarpal has \nbeen resected by dividing base proximally and by cutting through epiphysis distally, and finger has been relocated proximally and \nradially. Second metacarpal head has been anchored palmar to second metacarpal base and simulates greater trapezium (see text). \nE, Insertion of first dorsal interosseous has been anchored to radial lateral band of extensor mechanism of new thumb and origin to \nsoft tissues at base of digit; insertion of first volar interosseous has been anchored to opposite lateral band and origin to soft tissues. \nSEE"
 }

@@ -1,1 +1,72 @@
-{"tech_id": "67-26", "name_en": "Correction of Metacarpal Neck Malunion", "name_vi": "Nắn Kín & Ghim Kim Cố Định Gãy Đốt Ngón Xa Bàn Tay", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3843, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Ghim Kim Cố Định Gãy Đốt Ngón Xa Bàn Tay (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Correction of Metacarpal Neck Malunion: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Dissect the interosseous muscle from the lateral side of the neck and the extensor tendon and expansion from its dorsum as necessary for sufficient exposure.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "If the callus is hard, drill across the old fracture site transversely; otherwise, cut across it with an osteotome.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Drill the medullary canal proximally and distally so that it accepts a medullary cortical bone peg a little larger than a matchstick. The peg can be obtained from the proximal ulna or proximal tibia.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Nắn Kín & Ghim Kim Cố Định Gãy Đốt Ngón Xa Bàn Tay)", "detail": "Insert it proximally into the medullary canal of the shaft and cap it with the metacarpal head.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Nắn Kín & Ghim Kim Cố Định Gãy Đốt Ngón Xa Bàn Tay)", "detail": "Carefully check rotational alignment, and impact the fragments.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-26",
+  "name_en": "Correction of Metacarpal Neck Malunion",
+  "name_vi": "Nắn Kín & Ghim Kim Cố Định Gãy Đốt Ngón Xa Bàn Tay",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3843,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Ghim Kim Cố Định Gãy Đốt Ngón Xa Bàn Tay (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Correction of Metacarpal Neck Malunion (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Dissect the interosseous muscle from the lateral side of the neck and the extensor tendon and expansion from its dorsum as necessary for sufficient exposure.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "If the callus is hard, drill across the old fracture site transversely; otherwise, cut across it with an osteotome.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Drill the medullary canal proximally and distally so that it accepts a medullary cortical bone peg a little larger than a matchstick. The peg can be obtained from the proximal ulna or proximal tibia.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Insert it proximally into the medullary canal of the shaft and cap it with the metacarpal head.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Carefully check rotational alignment, and impact the fragments.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Pack cancellous bone chips around their juncture as needed. If the osteotomy is unstable despite the bone peg, insert a Kirschner wire across the osteotomy site (Fig. 67-72).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-26.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-26.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-68 A and B, Condylar fracture fixed with Kirschner wires. A B",
+      "width": 771,
+      "height": 628
+    },
+    {
+      "url": "web/static/images/techniques/67-26_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-68 A and B, Condylar fracture fixed with Kirschner wires. A B",
+      "width": 532,
+      "height": 380
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "PART XVIII  THE HAND\n3454\nFIGURE 67-70\t\nA, Malunited fracture of base of middle phalanx \nwith splaying of volar and dorsal articular surfaces. B, After \nwedge resection of bone, volar and dorsal fragments were held \nsecurely with cerclage wire fixation. \nA\nB\nFIGURE 67-71\t\nA and B, Destruction of middle phalanx ulnar base of golfer’s ring finger resulted in ulnar deviation and pain. C and \nD, Osteoarticular graft fashioned from ipsilateral distal radius resulted in satisfactory correction of deformity. \nA\nB\nC\nD\nand free it on one side of the metacarpal neck with a \nsharp knife.\n■ Dissect the interosseous muscle from the lateral side of \nthe neck and the extensor tendon and expansion from its \ndorsum as necessary for sufficient exposure.\n■ If the callus is hard, drill across the old fracture site \ntransversely; otherwise, cut across it with an osteotome.\n■ Drill the medullary canal proximally and distally so that it \naccepts a medullary cortical bone peg a little larger than \na matchstick. The peg can be obtained from the proximal \nulna or proximal tibia.\n■ Insert it proximally into the medullary canal of the shaft \nand cap it with the metacarpal head.\n■ Carefully check rotational alignment, and impact the \nfragments.\n■ Pack cancellous bone chips around their juncture as \nneeded. If the osteotomy is unstable despite the bone \npeg, insert a Kirschner wire across the osteotomy site (Fig. \n67-72).\n■ Examine the metacarpophalangeal joint for passive \nflexion; when the collateral ligaments are contracted and \nallow little or no motion, capsulotomy may be \nindicated.\n■ Suture the lateral expansion of the extensor hood in place \nwith fine suture.\n■ Hold the metacarpophalangeal joint in 60 to 70 degrees \nof flexion and apply a protective splint."
+}

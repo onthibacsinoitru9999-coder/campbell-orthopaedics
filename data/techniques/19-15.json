@@ -9,37 +9,25 @@
   "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
   "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_approach": "Đường mổ bên ngón (Midlateral incision): Rạch dọc bờ bên ngón tay ngay phía sau đường nối các nếp gấp gian đốt, phẫu tích sau dây chằng Cleland để bảo tồn bó mạch thần kinh ngón riêng ở phía trước vạt.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Thiết kế vạt da mỏm cụt & Rạch da theo tỷ lệ",
-      "detail": "accomplished. ADVANCEMENT PEDICLE FLAP FOR THUMB INJURIES Advancement flaps for fingertip injuries usually survive if the volar flap incisions are not brought proximal to the proximal interphalangeal joint. In the thumb, the venous drainage is not as dependent on the volar flap, however, and this technique is safer, and the flap can be longer (Fig. 19-21).",
-      "action": "Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo chuẩn tỷ lệ chiều dài/rộng."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Using tourniquet control and appropriate anesthesia, make a midlateral incision on each side of the thumb from the tip to the metacarpophalangeal joint (Fig. 19-22A).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Phẫu tích khối cơ, thắt mạch máu chính 2 lần",
-      "detail": "Using tourniquet control and appropriate anesthesia, make a midlateral incision on each side of the thumb from the tip to the metacarpophalangeal joint (Fig. 19-22A).",
-      "action": "Cắt cơ theo lớp vát hình nón; phẫu tích bộc lộ bó mạch lớn và thắt kép an toàn."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Elevate the flap that contains both neurovascular bundles without disturbing the flexor tendon sheath (Fig. 19-22B).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Cắt xử lý thân thần kinh chống u thần kinh mỏm cụt",
-      "detail": "Elevate the flap that contains both neurovascular bundles without disturbing the flexor tendon sheath (Fig. 19-22B).",
-      "action": "Kéo nhẹ thân thần kinh xuống 3-5 cm, cắt ngang dứt khoát để đầu thần kinh co sâu vào cơ."
-    },
-    {
-      "step": 4,
-      "title": "Thì 4: Cắt xương, vát tròn bờ xương & Khâu cố định cơ Myodesis",
-      "detail": "Flex the joints to allow the flap to be advanced and carefully sutured over the defect with interrupted sutures (Fig. 19-22C).",
-      "action": "Cắt xương ngang mức dự kiến; dùng giũa mài tròn nhẵn các góc cạnh sắc của vỏ xương."
-    },
-    {
-      "step": 5,
-      "title": "Thì 5: Cầm máu triệt để, đặt dẫn lưu kín & Đóng da không căng",
-      "detail": "Thực hiện các thao tác chuyên môn theo đúng nguyên bản kỹ thuật Cầm máu triệt để, đặt dẫn lưu kín & Đóng da không căng mô tả trong Campbell's Operative Orthopaedics 13th Edition. Bộc lộ rõ phẫu trường, bảo vệ mô lành và kiểm soát cầm máu triệt để.",
-      "action": "Khâu vạt cơ qua các lỗ khoan xương màng xương; khâu da mũi rời nới lỏng không thiếu máu."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Flex the joints to allow the flap to be advanced and care- fully sutured over the defect with interrupted sutures (Fig. 19-22C).",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Băng ép mỏm cụt bằng băng chun vô khuẩn hình số 8 hoặc nẹp bột cứng bảo vệ tránh co rút gập khớp. Theo dõi sát màu sắc mép vạt và dịch dẫn lưu. Rút dẫn lưu sau 24-48 giờ. Hướng dẫn tập gồng cơ mỏm cụt và tập phục hồi chức năng đi chi giả sớm.",
@@ -48,13 +36,19 @@
   "images": [
     {
       "url": "web/static/images/techniques/19-15.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 19-15 (Lengthening of the Metacarpal and Transfer of Local Flap (Gillies and Millard, Modified)) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 19-20 Peacock technique of transposing index ray. Dorsal incision is shown; arrows indicate points along skin edges that will be brought together. Similar palmar incision is made (see",
+      "width": 427,
+      "height": 646
     },
     {
       "url": "web/static/images/techniques/19-15_xray.webp",
       "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 19-15 (Lengthening of the Metacarpal and Transfer of Local Flap (Gillies and Millard, Modified)) - Campbell 13th Ed"
+      "caption": "FIGURE 19-21 Thumb tip amputation levels. Acceptable pro­ cedures by level are 1, split-thickness graft; 2, cross-finger flap or advancement flap; 3, advancement flap, cross-finger flap, or",
+      "width": 220,
+      "height": 460
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ") if replantation cannot be \naccomplished.\nADVANCEMENT PEDICLE FLAP FOR \nTHUMB INJURIES\nAdvancement flaps for fingertip injuries usually survive if \nthe volar flap incisions are not brought proximal to the \nproximal interphalangeal joint. In the thumb, the venous \ndrainage is not as dependent on the volar flap, however, \nand this technique is safer, and the flap can be longer \n(Fig. 19-21).\n■ Using tourniquet control and appropriate anesthesia, \nmake a midlateral incision on each side of the thumb \nfrom the tip to the metacarpophalangeal joint (Fig. \n19-22A).\n■ Elevate the flap that contains both neurovascular bundles \nwithout disturbing the flexor tendon sheath (Fig. 19-22B).\n■ Flex the joints to allow the flap to be advanced and care-\nfully sutured over the defect with interrupted sutures \n(Fig. 19-22C)."
 }

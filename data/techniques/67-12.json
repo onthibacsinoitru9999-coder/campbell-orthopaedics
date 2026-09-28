@@ -1,1 +1,63 @@
-{"tech_id": "67-12", "name_en": "Open Reduction—Dorsal Approach (Becton et al.)", "name_vi": "Mổ Mở Giải Phóng Trật Khớp Bàn Ngón Phức Tạp Ngón Trỏ Qua Đường Gan Tay (Kaplan)", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3816, "author": "Becton et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Giải Phóng Trật Khớp Bàn Ngón Phức Tạp Ngón Trỏ Qua Đường Gan Tay (Kaplan) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Reduction—Dorsal Approach (Becton et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Flex the wrist volarward to release the tension on the flexor tendons; place traction on the finger and flex the metacarpophalangeal joint, reducing the dislocation.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Mổ Mở Giải Phóng Trật Khớp Bàn Ngón Phức Tạp Ngón Trỏ Qua Đường Gan Tay)", "detail": "Observe to see if any free cartilage is missing from the metacarpal head; this may be lodged in the joint.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Suture the extensor tendon and skin. be an occult fracture of the metacarpal head, this can be reduced and fixed more easily. (BECTON ET AL.)", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Over the metacarpophalangeal joint, make a 4-cm midline incision, splitting longitudinally the underlying extensor tendon and joint capsule as well. The fibrocartilaginous plate may be difficult to identify because it is the same color as the articular cartilage and its torn margin may not be visibl", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a small incision to ensure that the tissue is the volar plate; complete the longitudinal incision (Fig. 67-35).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": "web/static/images/techniques/67-33.webp", "images": [{"url": "web/static/images/techniques/67-33.webp", "type": "diagram", "caption": "Đường mổ Kaplan gan tay bộc lộ và giải phóng trật khớp bàn ngón phức tạp ngón trỏ"}]}
+{
+  "tech_id": "67-12",
+  "name_en": "Open Reduction—Dorsal Approach (Becton et al.)",
+  "name_vi": "Mổ Mở Giải Phóng Trật Khớp Bàn Ngón Phức Tạp Ngón Trỏ Qua Đường Gan Tay (Kaplan)",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3816,
+  "author": "Becton et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Giải Phóng Trật Khớp Bàn Ngón Phức Tạp Ngón Trỏ Qua Đường Gan Tay (Kaplan) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Open Reduction—Dorsal Approach (Becton et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Flex the wrist volarward to release the tension on the flexor tendons; place traction on the finger and flex the metacarpophalangeal joint, reducing the dislocation.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Mổ Mở Giải Phóng Trật Khớp Bàn Ngón Phức Tạp Ngón Trỏ Qua Đường Gan Tay)",
+      "detail": "Observe to see if any free cartilage is missing from the metacarpal head; this may be lodged in the joint.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Suture the extensor tendon and skin. be an occult fracture of the metacarpal head, this can be reduced and fixed more easily. (BECTON ET AL.)",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Over the metacarpophalangeal joint, make a 4-cm midline incision, splitting longitudinally the underlying extensor tendon and joint capsule as well. The fibrocartilaginous plate may be difficult to identify because it is the same color as the articular cartilage and its torn margin may not be visibl",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a small incision to ensure that the tissue is the volar plate; complete the longitudinal incision (Fig. 67-35).",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-33.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-33.webp",
+      "type": "diagram",
+      "caption": "Đường mổ Kaplan gan tay bộc lộ và giải phóng trật khớp bàn ngón phức tạp ngón trỏ"
+    },
+    {
+      "url": "web/static/images/techniques/67-12_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-32 Unstable fracture of base of fifth metacarpal may permit proximal displacement of shaft similar to Bennett fracture (see text).",
+      "width": 1015,
+      "height": 670
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu."
+}

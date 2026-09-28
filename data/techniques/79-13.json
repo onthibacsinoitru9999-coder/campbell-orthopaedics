@@ -1,1 +1,57 @@
-{"tech_id": "79-13", "name_en": "Palmar Cleft Closure (Ueba)", "name_vi": "Tạo Hình Đóng Khe Gan Tay Theo Kỹ Thuật Ueba Phục Hồi Khoang Kẽ Ngón 1", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4283, "author": "Ueba", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Đóng Khe Gan Tay Theo Kỹ Thuật Ueba Phục Hồi Khoang Kẽ Ngón 1 (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Palmar Cleft Closure (Ueba): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a V-shaped skin incision in the form of a triangular skin flap on the radial side of the ring finger (Fig. 79-28A). This flap is used to form the commissure.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a second skin incision beginning from the palmar end of the previous skin incision and extending to the ulnar side of the palm (Fig. 79-28B).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a third skin incision around the base of the index finger; place an incision at the bottom of the cleft to connect the previous incisions (Fig. 79-28C).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Elevate the interdigital palmar and dorsal skin flaps and sever the fibrous bands between the thumb and index finger to widen the thumb web as much as possible (Fig. 79-28D).", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": "web/static/images/techniques/79-13.webp", "images": [{"url": "web/static/images/techniques/79-13.webp", "type": "diagram", "caption": "Kỹ thuật đóng khe gan tay theo Ueba phục hồi khoang gian cốt thứ nhất"}]}
+{
+  "tech_id": "79-13",
+  "name_en": "Palmar Cleft Closure (Ueba)",
+  "name_vi": "Tạo Hình Đóng Khe Gan Tay Theo Kỹ Thuật Ueba Phục Hồi Khoang Kẽ Ngón 1",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4283,
+  "author": "Ueba",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Đóng Khe Gan Tay Theo Kỹ Thuật Ueba Phục Hồi Khoang Kẽ Ngón 1 (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Palmar Cleft Closure (Ueba) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a V-shaped skin incision in the form of a triangular skin flap on the radial side of the ring finger (Fig. 79-28A). This flap is used to form the commissure.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a second skin incision beginning from the palmar end of the previous skin incision and extending to the ulnar side of the palm (Fig. 79-28B).",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a third skin incision around the base of the index finger; place an incision at the bottom of the cleft to connect the previous incisions (Fig. 79-28C).",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cầm máu, đóng vết mổ & Bất động sau mổ",
+      "detail": "Elevate the interdigital palmar and dorsal skin flaps and sever the fibrous bands between the thumb and index finger to widen the thumb web as much as possible (Fig. 79-28D).",
+      "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-13.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-13.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật đóng khe gan tay theo Ueba phục hồi khoang gian cốt thứ nhất"
+    },
+    {
+      "url": "web/static/images/techniques/79-13_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-28 Ueba technique for cleft hand. A, Dorsal view of incisions. Solid line indicates dorsal incisions; broken line indicates palmar incisions. B, Palmar view of incisions. Solid line indicates palmar incisions; broken line indicates dorsal i",
+      "width": 1105,
+      "height": 620
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay."
+}

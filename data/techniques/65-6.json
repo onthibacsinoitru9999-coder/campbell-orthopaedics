@@ -1,1 +1,66 @@
-{"tech_id": "65-6", "name_en": "Applying a Random Pattern Abdominal Pedicle Flap", "name_vi": "Tạo Hình Vạt Da Có Cuống Thành Bụng Kiểu Ngẫu Nhiên (Random Abdominal Pedicle Flap)", "chapter": 65, "category": "Hand & Wrist", "pdf_page": 3721, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Vạt Da Có Cuống Thành Bụng Kiểu Ngẫu Nhiên (Random Abdominal Pedicle Flap) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.", "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Applying a Random Pattern Abdominal Pedicle Flap: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "With a split skin graft, cover the part of the raw, exposed undersurface of the flap pedicle that does not cover the hand defect. Slightly undermine the edges of the defect on the hand and apply the flap over the entire defect. Suture the edges of the flap to the edges of the defect, and suture the ", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "On sterile paper, make a pattern of the defect and outline it on the abdomen; outline the flap, making it sufficiently larger than the pattern to allow for normal skin contrac- tion and for the pedicle “bridge” between the abdomen and the defect. As a rule, the flap should be rectangular to avoid a ", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Using sharp dissection, raise the skin flap of the desired size and thickness (Figs. 65-32 and 65-33).", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tạo Hình Vạt Da Có Cuống Thành Bụng Kiểu Ngẫu Nhiên)", "detail": "Maintain hemostasis and handle the fat carefully to avoid necrosis.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "To close the donor site defect, widely undermine the skin margins and suture them together or apply a split- thickness skin graft, or both.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.", "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.", "image_url": null, "images": []}
+{
+  "tech_id": "65-6",
+  "name_en": "Applying a Random Pattern Abdominal Pedicle Flap",
+  "name_vi": "Tạo Hình Vạt Da Có Cuống Thành Bụng Kiểu Ngẫu Nhiên (Random Abdominal Pedicle Flap)",
+  "chapter": 65,
+  "category": "Hand & Wrist",
+  "pdf_page": 3721,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Vạt Da Có Cuống Thành Bụng Kiểu Ngẫu Nhiên (Random Abdominal Pedicle Flap) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Applying a Random Pattern Abdominal Pedicle Flap (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "With a split skin graft, cover the part of the raw, exposed undersurface of the flap pedicle that does not cover the hand defect. Slightly undermine the edges of the defect on the hand and apply the flap over the entire defect. Suture the edges of the flap to the edges of the defect, and suture the free edge of the split graft to the edge of epigastric vessels, usually on the same side as the affected hand, or proximal, above the umbilicus toward the thoraco­ epigastric vessels, usually on the opposite side (Fig. 65-31). The flaps above the umbilicus should not be used in a patient with a “barrel chest” associated with chronic lung disease. Abdominal flaps obtained from areas above the umbilicus usually avoid the fat “storage areas.” If the flap is obtained from the infraumbilical area, the recipient grafted area usually increases in bulk because the infraumbilical area skin adds fat. APPLYING A RANDOM PATTERN ABDOMINAL PEDICLE FLAP",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "On sterile paper, make a pattern of the defect and outline it on the abdomen; outline the flap, making it sufficiently larger than the pattern to allow for normal skin contrac- tion and for the pedicle “bridge” between the abdomen and the defect. As a rule, the flap should be rectangular to avoid a circular outline when the flap is attached to the hand. Avoid making the flap too thick. If possible, follow the principles of appropriate hand incisions (see Chapter 64) to avoid tension lines and excessive scarring.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Using sharp dissection, raise the skin flap of the desired size and thickness (Figs. 65-32 and 65-33).",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Maintain hemostasis and handle the fat carefully to avoid necrosis.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "To close the donor site defect, widely undermine the skin margins and suture them together or apply a split- thickness skin graft, or both.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.",
+  "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.",
+  "image_url": "web/static/images/techniques/65-6.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/65-6.webp",
+      "type": "diagram",
+      "caption": "FIGURE 65-31 Example of abdominal flaps (see text for details regarding length and width of flaps). Lower abdominal flap may be made narrower in relation to its length if it contains superficial",
+      "width": 1035,
+      "height": 569
+    },
+    {
+      "url": "web/static/images/techniques/65-6_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 65-31 Example of abdominal flaps (see text for details regarding length and width of flaps). Lower abdominal flap may be made narrower in relation to its length if it contains superficial",
+      "width": 556,
+      "height": 451
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ".\nA\nB\nC\nD\n■ With a split skin graft, cover the part of the raw, exposed \nundersurface of the flap pedicle that does not cover the \nhand defect. Slightly undermine the edges of the defect \non the hand and apply the flap over the entire defect. \nSuture the edges of the flap to the edges of the defect, \nand suture the free edge of the split graft to the edge of \nepigastric vessels, usually on the same side as the affected \nhand, or proximal, above the umbilicus toward the thoraco­\nepigastric vessels, usually on the opposite side (Fig. 65-31). \nThe flaps above the umbilicus should not be used in a \npatient with a “barrel chest” associated with chronic lung \ndisease. Abdominal flaps obtained from areas above the \numbilicus usually avoid the fat “storage areas.” If the flap is \nobtained from the infraumbilical area, the recipient grafted \narea usually increases in bulk because the infraumbilical area \nskin adds fat.\nAPPLYING A RANDOM PATTERN \nABDOMINAL PEDICLE FLAP\n■ On sterile paper, make a pattern of the defect and outline \nit on the abdomen; outline the flap, making it sufficiently \nlarger than the pattern to allow for normal skin contrac-\ntion and for the pedicle “bridge” between the abdomen \nand the defect. As a rule, the flap should be rectangular \nto avoid a circular outline when the flap is attached to \nthe hand. Avoid making the flap too thick. If possible, \nfollow the principles of appropriate hand incisions \n(see Chapter 64) to avoid tension lines and excessive \nscarring.\n■ Using sharp dissection, raise the skin flap of the desired \nsize and thickness (Figs. 65-32 and 65-33).\n■ Maintain hemostasis and handle the fat carefully to avoid \nnecrosis.\n■ To close the donor site defect, widely undermine the skin \nmargins and suture them together or apply a split-\nthickness skin graft, or both."
+}

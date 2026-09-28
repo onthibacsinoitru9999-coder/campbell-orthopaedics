@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Mở Ngăn Duỗi Thứ Nhất Điều Trị Viêm Bao Gân Hẹp De Quervain (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.",
   "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Surgical Release of Trigger Finger: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
@@ -50,6 +50,14 @@
       "url": "web/static/images/techniques/76-6.webp",
       "type": "diagram",
       "caption": "Phẫu thuật giải phóng ngăn duỗi thứ nhất điều trị viêm bao gân hẹp De Quervain"
+    },
+    {
+      "url": "web/static/images/techniques/76-6_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 76-18 Local anesthetic for trigger finger release. SEE TECHNIQUE 76-6. FIGURE 76-19",
+      "width": 1103,
+      "height": 771
     }
-  ]
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu."
 }

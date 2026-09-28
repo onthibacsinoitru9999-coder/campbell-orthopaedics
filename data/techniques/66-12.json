@@ -1,1 +1,60 @@
-{"tech_id": "66-12", "name_en": "Profundus Advancement (Wagner)", "name_vi": "Phẫu thuật Đẩy Gân Gấp Sâu Ra Trước (Profundus Advancement - Wagner)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3757, "author": "Wagner", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Đẩy Gân Gấp Sâu Ra Trước (Profundus Advancement - Wagner) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Profundus Advancement (Wagner): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "When both tendons have been divided, and if conditions do not permit primary or delayed primary repair of the tendons, flexor function can be restored with a single-stage tendon graft when all prerequi­ sites are met in the fingers (healed and stable wound, flexible joints, and good or improving sen", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "ZONES III, IV, AND V (FOREARM AND PALM) Flexor tendons in the forearm and palm can be repaired 3 or 4 weeks after injury by direct suture because flexing the wrist usually accommodates the gap sufficiently to overcome muscle retraction.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The tendons can be attached with a mattress suture or with a strong multiple-strand technique, using 4-0 nonabsorbable suture or monofilament wire, especially in the distal forearm.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "PROFUNDUS ADVANCEMENT (WAGNER) ■ Make a volar oblique, zigzag, or midlateral incision over the profundus insertion.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-12",
+  "name_en": "Profundus Advancement (Wagner)",
+  "name_vi": "Phẫu thuật Đẩy Gân Gấp Sâu Ra Trước (Profundus Advancement - Wagner)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3757,
+  "author": "Wagner",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Đẩy Gân Gấp Sâu Ra Trước (Profundus Advancement - Wagner) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "When both tendons have been divided, and if conditions do not permit primary or delayed primary repair of the tendons, flexor function can be restored with a single-stage tendon graft when all prerequi­ sites are met in the fingers (healed and stable wound, flexible joints, and good or improving sen",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "ZONES III, IV, AND V (FOREARM AND PALM) Flexor tendons in the forearm and palm can be repaired 3 or 4 weeks after injury by direct suture because flexing the wrist usually accommodates the gap sufficiently to overcome muscle retraction.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "The tendons can be attached with a mattress suture or with a strong multiple-strand technique, using 4-0 nonabsorbable suture or monofilament wire, especially in the distal forearm.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "PROFUNDUS ADVANCEMENT (WAGNER) ■ Make a volar oblique, zigzag, or midlateral incision over the profundus insertion.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-12.webp",
+      "type": "diagram",
+      "caption": "FIGURE 66-42 Long-standing flexor tendon interruptions in palm may require short segmental graft or “minigraft” to avoid excessive tension.",
+      "width": 1128,
+      "height": 547
+    },
+    {
+      "url": "web/static/images/techniques/66-12_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-44 Repair of finger flexor tendons by tendon graft. Graft has been sutured in place. Proximal and distal pulleys have been narrowed. SEE TECHNIQUE 66-13.",
+      "width": 659,
+      "height": 616
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \nlong finger but rarely in other digits. When both tendons have \nbeen divided, and if conditions do not permit primary or \ndelayed primary repair of the tendons, flexor function can be \nrestored with a single-stage tendon graft when all prerequi­\nsites are met in the fingers (healed and stable wound, flexible \njoints, and good or improving sensibility).\nZONES III, IV, AND V (FOREARM AND PALM)\nFlexor tendons in the forearm and palm can be repaired 3 or \n4 weeks after injury by direct suture because flexing the wrist \nusually accommodates the gap sufficiently to overcome \nmuscle retraction. After 4 or 5 weeks, the muscles become \ntightly contracted and a graft is necessary at times to bring \nthe tendon ends together. This may be in the form of a short \nsegmental graft between the tendon ends (Fig. 66-42). When \ntendons have been destroyed, profundus tendons take prior­\nity, and attaching available proximal sublimis tendons to \ndistal profundus tendons may provide satisfactory function. \nThe tendons can be attached with a mattress suture or with a \nstrong multiple-strand technique, using 4-0 nonabsorbable \nsuture or monofilament wire, especially in the distal forearm.\nPROFUNDUS ADVANCEMENT\n(WAGNER)\n■ Make a volar oblique, zigzag, or midlateral incision over \nthe profundus insertion. Incise the tendon sheath at the \nC4 pulley area and retract it, preserving the annular \npulleys. Usually the proximal end of the profundus has \nretracted into the palm. This can be determined by \nmaking another opening in the sheath distal to the A2"
+}

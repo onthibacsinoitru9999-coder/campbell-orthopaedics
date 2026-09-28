@@ -1,1 +1,66 @@
-{"tech_id": "66-25", "name_en": "Tendon Transfer for Correction of Old Mallet Finger Deformity (Milford)", "name_vi": "Phẫu thuật Dolphin Tái Tạo Dải Giữa Gân Duỗi Bằng Gân Duỗi Riêng Ngón Trỏ (EIP)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3775, "author": "Milford", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Dolphin Tái Tạo Dải Giữa Gân Duỗi Bằng Gân Duỗi Riêng Ngón Trỏ (EIP) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Tendon Transfer for Correction of Old Mallet Finger Deformity (Milford): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a small pulley by opening the flexor tendon sheath with two parallel incisions opposite the proximal interpha- langeal joint.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Pass the lateral band of tendon slip from distal to proximal through the pulley, bringing the end to be sutured to the extensor hood a bit dorsal to its original position on the lateral side of the extensor mechanism (Fig. 66-66C).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Correct tension on this transfer is essential and holds the proximal interphalangeal joint slightly flexed while the distal joint is fully extended.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Protect this repair with a transarticular 0.045-inch Kirsch- ner wire obliquely placed across the proximal interphalan- geal joint.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Close the wound with interrupted 5-0 nylon suture and apply a conforming, compressing dressing, supporting the finger, hand, and wrist with a volar plaster splint over ade- quate padding for postoperative comfort and protection.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-25",
+  "name_en": "Tendon Transfer for Correction of Old Mallet Finger Deformity (Milford)",
+  "name_vi": "Phẫu thuật Dolphin Tái Tạo Dải Giữa Gân Duỗi Bằng Gân Duỗi Riêng Ngón Trỏ (EIP)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3775,
+  "author": "Milford",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Dolphin Tái Tạo Dải Giữa Gân Duỗi Bằng Gân Duỗi Riêng Ngón Trỏ (EIP) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make a small pulley by opening the flexor tendon sheath with two parallel incisions opposite the proximal interpha- langeal joint.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Pass the lateral band of tendon slip from distal to proximal through the pulley, bringing the end to be sutured to the extensor hood a bit dorsal to its original position on the lateral side of the extensor mechanism (Fig. 66-66C).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Correct tension on this transfer is essential and holds the proximal interphalangeal joint slightly flexed while the distal joint is fully extended.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Protect this repair with a transarticular 0.045-inch Kirsch- ner wire obliquely placed across the proximal interphalan- geal joint.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Close the wound with interrupted 5-0 nylon suture and apply a conforming, compressing dressing, supporting the finger, hand, and wrist with a volar plaster splint over ade- quate padding for",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-25.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-25.webp",
+      "type": "diagram",
+      "caption": "FIGURE 66-65 Tenotomy of central slip (Fowler procedure) to correct mallet finger; this results in proximal retraction of exten­ sor apparatus. SEE TECHNIQUE 66-24.",
+      "width": 1141,
+      "height": 426
+    },
+    {
+      "url": "web/static/images/techniques/66-25_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-65 Tenotomy of central slip (Fowler procedure) to correct mallet finger; this results in proximal retraction of exten­ sor apparatus. SEE TECHNIQUE 66-24.",
+      "width": 465,
+      "height": 205
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \nA\nB\nC\n■ Make a small pulley by opening the flexor tendon sheath \nwith two parallel incisions opposite the proximal interpha-\nlangeal joint.\n■ Pass the lateral band of tendon slip from distal to proximal \nthrough the pulley, bringing the end to be sutured to the \nextensor hood a bit dorsal to its original position on \nthe lateral side of the extensor mechanism (Fig. 66-66C).\n■ Correct tension on this transfer is essential and holds the \nproximal interphalangeal joint slightly flexed while the \ndistal joint is fully extended.\n■ Protect this repair with a transarticular 0.045-inch Kirsch-\nner wire obliquely placed across the proximal interphalan-\ngeal joint.\n■ Close the wound with interrupted 5-0 nylon suture and \napply a conforming, compressing dressing, supporting the \nfinger, hand, and wrist with a volar plaster splint over ade-\nquate padding for"
+}

@@ -9,37 +9,43 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Dải Trung Tâm & Cân Bằng Gân Duỗi Trị Ngón Tay Khuy Áo Do Viêm Khớp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
   "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Correction of Mild Boutonniere Deformity by Extensor Tenotomy: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Correction of Mild Boutonniere Deformity by Extensor Tenotomy (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Đường rạch da mặt mu ngón tay (Incision & Exposure)",
-      "detail": "Make a curved, dorsal, longitudinal incision over the proximal interphalangeal joint and extend it distally to the distal interphalangeal joint. Bộc lộ dải bên gân duỗi (lateral band) và gân duỗi tận cùng (terminal extensor tendon).",
-      "action": "Rạch da cẩn thận, bộc lộ rõ cơ chế duỗi ngón tay mà không làm tổn thương màng xương."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Divide this tendon obliquely to enable it to lengthen and remain partially in apposition after the distal interphalan­ geal joint is flexed.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Cắt chéo gân duỗi tận cùng kéo dài gân (Oblique Extensor Tenotomy)",
-      "detail": "Divide this tendon obliquely to enable it to lengthen and remain partially in apposition after the distal interphalangeal joint is flexed.",
-      "action": "Cắt chéo dải gân cho phép gân trượt giãn dài ra mà vẫn duy trì một phần liên tục."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Carefully stretch the distal interphalangeal joint into flexion. This uncommonly may become overstretched and develop a mallet deformity that requires splinting.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Gập thụ động khớp ngón xa kiểm tra độ dãn (Passive DIP Joint Flexion)",
-      "detail": "Carefully stretch the distal interphalangeal joint into flexion. This uncommonly may become overstretched and develop a mallet deformity that requires splinting. Kiểm tra khớp DIP gập được tự do 60-70°.",
-      "action": "Thao tác kéo giãn nhẹ nhàng tránh làm đứt rách hoàn toàn mép gân còn lại."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Do not suture the extensor tendon.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Duy trì gân không khâu lại (Tendon Left Unsutured)",
-      "detail": "Do not suture the extensor tendon. Để khoảng hở tự nhiên giữa hai mép gân cắt chéo, quá trình liền sẹo sinh học sẽ nối dài gân mà không gây mất duỗi ngón.",
-      "action": "Không khâu gân duỗi để bảo đảm hiệu quả kéo dài gân chống biến dạng Boutonniere."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Close the wound and begin motion in the next several days, ensuring that active motion is carried out by the patient. Splint only if there is a mallet deformity. CORRECTION OF MODERATE BOUTONNIERE DEFORMITY",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Đóng vết mổ & Phác đồ vận động sớm (Closure & Early Motion)",
-      "detail": "Close the wound with interrupted 5-0 nylon sutures and begin motion in the next several days, ensuring that active motion is carried out by the patient. Splint only if there is a mallet deformity.",
-      "action": "Đóng da cẩn thận và hướng dẫn bệnh nhân tập chủ động ngay trong những ngày đầu."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Make a curved, dorsal, longitudinal incision over the proximal interphalangeal joint and extend it distally to the distal interphalangeal joint.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Mobilize the lateral bands by incising the transverse reti­ nacular ligament longitudinally and dissecting under­ neath the displaced lateral slips.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
@@ -50,6 +56,15 @@
       "url": "web/static/images/techniques/73-3.webp",
       "type": "diagram",
       "caption": "Cơ chế bệnh sinh và phân loại mức độ tổn thương ngón tay khuy áo trong viêm khớp dạng thấp"
+    },
+    {
+      "url": "web/static/images/techniques/73-3_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-15 Boutonniere deformity. A, Primary synovitis of proximal interphalangeal (PIP) joint can lead to attenuation of overly­ ing central slip and dorsal capsule and increased flexion at PIP joint. Lateral band subluxation volar to axis of rota",
+      "width": 1064,
+      "height": 692
     }
-  ]
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "CHAPTER 73  ARTHRITIC HAND\n3673\nINTERPHALANGEAL JOINT ARTHROPLASTY\nProximal interphalangeal joint arthroplasties can be \ndone when metacarpophalangeal joints are reasonably well \npreserved. Some surgeons consider the central two digits \nmore suitable for proximal interphalangeal arthroplasty \nbecause lateral stability can be supported by digits on \neither side. We have found proximal interphalangeal joint \narthroplasty satisfactory in the middle, ring, and small \nfingers. Distal interphalangeal joint or thumb interphalan­\ngeal joint arthroplasty rarely is necessary because arthro­\nplasty of these joints results in limited motion and because \nfunction after arthrodesis is quite satisfactory and predict­\nable. Metacarpophalangeal joint and proximal interphalan­\ngeal joint arthroplasties of the same finger rarely are \nindicated.\nLin, Wyrick, and Stern reported 69 proximal interphalan­\ngeal silicone arthroplasties and found that (1) an anterior \napproach (Schneider) preserved the extensor central slip, \nallowing earlier motion; (2) pain relief was achieved in 67 of \n69 patients; (3) coronal plane deformities were not easily cor­\nrected; and (4) total motion was not improved.\nAlternative arthroplasty implants continue to evolve with \nvariable success. The surface replacement arthroplasty \ndevices are, in general, two-piece constructs designed to \nreplace the normal joint anatomy. Features common to these \ndevices include minimal bone resection, motion center rec­\nreation, and soft-tissue preservation. Despite these intuitive \nadvantages, categorically these have not proven superior to \nflexible implant arthroplasty. Dislocations, implant squeak­\ning, loosening, and high revision rates are not uncommon, \nespecially when used in the index proximal interphalangeal \njoint. Pelligrini and Burton compared the results of arthro­\nplasty and arthrodesis in 43 proximal interphalangeal joints. \nAll cemented arthroplasty devices failed at an average of 2.25 \nyears after surgery. None of the flexible silicone interposition \narthroplasties in ulnar digits required revision, but progres­\nsive bone resorption was evident radiographically adjacent \nto the implant. They concluded that no currently available \ncemented articulated device provides adequate lateral \nstability in the radial proximal interphalangeal joints; arthro­\ndesis remains their procedure of choice for the index and \noccasionally the long finger proximal interphalangeal \njoints with arthritic involvement that interferes with lateral \npinch.\nThe proximal interphalangeal joint volar plate may be \nused as an interposition arthroplasty in selected individu­\nals. Although technically demanding, this procedure may \nbenefit patients who wish to retain motion but have con­\ntraindications to or wish not to have a nonbiologic \narthroplasty. Small patient series with proximal interpha­\nlangeal joint volar plate arthroplasty have reported pain \nreduction and maintenance of the preoperative strength \nand motion.\n■ Divide this tendon obliquely to enable it to lengthen and \nremain partially in apposition after the distal interphalan­\ngeal joint is flexed.\n■ Carefully stretch the distal interphalangeal joint into \nflexion. This uncommonly may become overstretched and \ndevelop a mallet deformity that requires splinting.\n■ Do not suture the extensor tendon.\n■ Close the wound and begin motion in the next several \ndays, ensuring that active motion is carried out by the \npatient. Splint only if there is a mallet deformity.\nCORRECTION OF MODERATE \nBOUTONNIERE DEFORMITY\n■ Make a curved, dorsal, longitudinal incision over the \nproximal interphalangeal joint and extend it distally to the \ndistal interphalangeal joint.\n■ Mobilize the lateral bands by incising the transverse reti­\nnacular ligament longitudinally and dissecting under­\nneath the displaced lateral slips.\n■ Tenotomize the terminal slips of the two lateral tendons \njust proximal to the distal interphalangeal joint.\n■ When the central tendon appear"
 }

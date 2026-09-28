@@ -1,1 +1,66 @@
-{"tech_id": "71-6", "name_en": "Muscle Transfer (Abductor Digiti Quinti) to Restore Opposition (Littler and Cooley)", "name_vi": "Bộ Ba Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Quay (PT sang ECRB, FCU sang EDC, PL sang EPL)", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4010, "author": "Abductor Digiti Quinti", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Bộ Ba Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Quay (PT sang ECRB, FCU sang EDC, PL sang EPL) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Muscle Transfer (Abductor Digiti Quinti) to Restore Opposition (Littler and Cooley): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "B, Through volar incision, flexor sublimis tendon to ring finger and flexor carpi ulnaris tendon are exposed.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Through ulnar incision, extensor carpi ulnaris is exposed.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Flexor carpi ulnaris tendon is divided 4 cm from its insertion, and free end of distal segment is sutured to extensor carpi ulnaris.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Flexor digitorum sublimis tendon to ring finger is exposed through transverse incision at proximal flexor crease of finger, and its two slips are divided.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "C, Tendon of flexor digitorum sublimis to ring finger is drawn proximally through volar incision at wrist, threaded through pulley, and passed through subcutaneous tissue to metacarpophalangeal joint of thumb.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": null, "images": []}
+{
+  "tech_id": "71-6",
+  "name_en": "Muscle Transfer (Abductor Digiti Quinti) to Restore Opposition (Littler and Cooley)",
+  "name_vi": "Bộ Ba Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Quay (PT sang ECRB, FCU sang EDC, PL sang EPL)",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4010,
+  "author": "Abductor Digiti Quinti",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Bộ Ba Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Quay (PT sang ECRB, FCU sang EDC, PL sang EPL) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Muscle Transfer (Abductor Digiti Quinti) to Restore Opposition (Littler and Cooley) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Muscle Transfer (Abductor Digiti Quinti) to Restore Opposition (Littler and Cooley), phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Muscle Transfer (Abductor Digiti Quinti) to Restore Opposition (Littler and Cooley) (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Muscle Transfer (Abductor Digiti Quinti) to Restore Opposition (Littler and Cooley) theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-6.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-6.webp",
+      "type": "diagram",
+      "caption": "FIGURE 71-8 A, Two incisions made at wrist. B, Through volar incision, flexor sublimis tendon to ring finger and flexor carpi ulnaris tendon are exposed. Through ulnar incision, extensor carpi ulnaris is exposed. Flexor carpi ulnaris tendon is divide",
+      "width": 1138,
+      "height": 1018
+    },
+    {
+      "url": "web/static/images/techniques/71-6_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 71-10 Jeanne sign (see text). FIGURE 71-9 Littler transfer of abductor digiti quinti to restore opposition. A, Two skin incisions. Intervening skin (shaded area)",
+      "width": 1116,
+      "height": 522
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "PART XVIII  THE HAND\n3604\nFIGURE 71-8\t\nA, Two incisions made at wrist. B, Through volar incision, flexor sublimis tendon to ring finger and flexor carpi ulnaris \ntendon are exposed. Through ulnar incision, extensor carpi ulnaris is exposed. Flexor carpi ulnaris tendon is divided 4 cm from its \ninsertion, and free end of distal segment is sutured to extensor carpi ulnaris. Flexor digitorum sublimis tendon to ring finger is exposed \nthrough transverse incision at proximal flexor crease of finger, and its two slips are divided. C, Tendon of flexor digitorum sublimis to \nring finger is drawn proximally through volar incision at wrist, threaded through pulley, and passed through subcutaneous tissue to \nmetacarpophalangeal joint of thumb. D, Two slips of transferred tendon are secured to base of proximal phalanx. Hole is made through \nproximal phalanx in ulnar-to-radial direction and is enlarged on ulnar side to accept loop of one tendon slip, which is secured with \npull-out suture. E, After transfer has been secured to thumb phalanx, tension is adjusted (see text), and proximal segment of flexor \ncarpi ulnaris tendon is sutured to transferred tendon. (Redrawn from Groves RJ, Goldner JL: Restoration of strong opposition after median-nerve \nor brachial plexus paralysis, J Bone Joint Surg 57A:112, 1975.) SEE"
+}

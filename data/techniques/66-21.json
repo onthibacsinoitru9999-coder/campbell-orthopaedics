@@ -1,1 +1,64 @@
-{"tech_id": "66-21", "name_en": "Freeing of Adherent Tendon (Howard)", "name_vi": "Tái Tạo Gân Duỗi Mạn Tính Vùng I Bằng Phẫu thuật Brooks-Graner", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3770, "author": "Howard", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Duỗi Mạn Tính Vùng I Bằng Phẫu thuật Brooks-Graner (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Freeing of Adherent Tendon (Howard): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a longitudinal incision parallel to the lateral margin of the involved metacarpal and away from any previous scar.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Free the tendon from the bone and smooth the bone with a rasp or osteotome.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Remove all scar tissue from the tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Place a Silastic sheet over the bone and anchor it with sutures at its corners (Fig. 66-56).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Tái Tạo Gân Duỗi Mạn Tính Vùng I Bằng Phẫu thuật Brooks-Graner)", "detail": "Immobilize the part for 5 days and then begin voluntary motion. Improvement can be expected up to 1 year postoperatively.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-57.webp", "images": [{"url": "web/static/images/techniques/66-57.webp", "type": "diagram", "caption": "Phẫu thuật Brooks-Graner tái tạo dải gân duỗi ngón tay búa mạn tính bằng mảnh ghép gân tự thân"}]}
+{
+  "tech_id": "66-21",
+  "name_en": "Freeing of Adherent Tendon (Howard)",
+  "name_vi": "Tái Tạo Gân Duỗi Mạn Tính Vùng I Bằng Phẫu thuật Brooks-Graner",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3770,
+  "author": "Howard",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Duỗi Mạn Tính Vùng I Bằng Phẫu thuật Brooks-Graner (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Freeing of Adherent Tendon (Howard) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make a longitudinal incision parallel to the lateral margin of the involved metacarpal and away from any previous scar.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Free the tendon from the bone and smooth the bone with a rasp or osteotome.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Remove all scar tissue from the tendon.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Place a Silastic sheet over the bone and anchor it with sutures at its corners (Fig. 66-56).",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Immobilize the part for 5 days and then begin voluntary motion. Improvement can be expected up to 1 year",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-57.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-57.webp",
+      "type": "diagram",
+      "caption": "Phẫu thuật Brooks-Graner tái tạo dải gân duỗi ngón tay búa mạn tính bằng mảnh ghép gân tự thân"
+    },
+    {
+      "url": "web/static/images/techniques/66-21_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-56 Howard technique to free adherent extensor tendon. SEE TECHNIQUE 66-21. Adhesions",
+      "width": 510,
+      "height": 331
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \nAdhesions\nSilastic\nsheet\nExtensor\nmechanism\nretracted\nFIGURE 66-57\t\nTenodesis for irreparable damage to profundus \ntendon. A, Before tenodesis, distal interphalangeal joint is \nunstable and hyperextends during pinch. B, After tenodesis, joint \nis stable and remains partially flexed during pinch. \nA\nB\nbecause the adherent tendon acts as a checkrein. When a \nprofundus tendon is stuck to the shaft of the proximal \nphalanx, the two distal finger joints cannot be flexed actively \nby this tendon; however, the proximal interphalangeal joint \ncan be actively flexed by the sublimis tendon. The metacar­\npophalangeal joint also can be actively flexed by the profundus \nand sublimis tendons, along with the intrinsics. Adherence of \nthe profundus tendon to the shaft of the proximal phalanx \nalso checks full passive or active extension of the two distal \nfinger joints. Active extension of the distal interphalangeal \njoint can be increased by passive flexion of the proximal \ninterphalangeal joint; likewise, active extension of the proxi­\nmal interphalangeal joint can be increased by passive flexion \nof the distal interphalangeal joint. Extension of the wrist can \ninitiate flexion of the metacarpophalangeal joint through the \nadherent tendon.\nADHERENCE OF A TENDON TO A FRACTURE SITE\nThe adherence of a tendon to a fracture site usually is associ­\nated with (1) volar angulation of a phalangeal fracture after \npoor reduction, (2) external pressure against the tendon, \nforcing it against the fracture during healing, (3) crush inju­\nries, or (4) laceration of the tendon sheath. A sublimis tendon \nusually adheres to the proximal phalanx, causing a flexion \ncontracture of the proximal interphalangeal joint; a profun­\ndus tendon usually adheres to the middle phalanx, causing a \nflexion contracture of the distal interphalangeal joint. An \nextensor tendon usually adheres to the metacarpal shaft or \nproximal phalanx. Surgery may be indicated when the tendon \nfails to loosen by active exercise, as determined by measure­\nments of motion of adjacent joints.\nFREEING OF ADHERENT TENDON\n(HOWARD)\n■ Make a longitudinal incision parallel to the lateral margin \nof the involved metacarpal and away from any previous \nscar.\n■ Free the tendon from the bone and smooth the bone with \na rasp or osteotome.\n■ Remove all scar tissue from the tendon.\n■ Place a Silastic sheet over the bone and anchor it with \nsutures at its corners (Fig. 66-56).\n■ Immobilize the part for 5 days and then begin voluntary \nmotion. Improvement can be expected up to 1 year"
+}

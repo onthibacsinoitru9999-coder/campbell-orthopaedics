@@ -1,1 +1,66 @@
-{"tech_id": "67-28", "name_en": "Metacarpophalangeal Joint Capsulotomy", "name_vi": "Phẫu thuật Tái Tạo Dây Chằng Bên Khớp PIP Bằng Gân Gan Tay Dài", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3847, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Tái Tạo Dây Chằng Bên Khớp PIP Bằng Gân Gan Tay Dài (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Metacarpophalangeal Joint Capsulotomy: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Keep the joint surfaces in full contact and check that the proximal phalanx base remains seated on the metacarpal head during flexion and glides smoothly. Sometimes the volar pouch is scarred, and during attempted passive flexion the posterior joint opens from volar proximal phalanx lip impingement.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "If the volar plate is adherent, strip it from the anterior part of the metacarpal head with a probe or elevator. Release additional capsule and collateral ligament attachments to gain full passive flexion. Do not destabilize the joint, especially the radial side of the index finger.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "When satisfactory passive metacarpophalangeal joint motion is achieved, approximate the extensor tendon and close the skin edges. Do not close the dorsal capsule; often the dorsal capsule is thickened and contracted and its excision along with portions of the collateral ligaments has been done previ", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Phẫu thuật Tái Tạo Dây Chằng Bên Khớp PIP Bằng Gân Gan Tay Dài)", "detail": "Intraoperatively, inject a long-acting local anesthetic to help reduce postoperative pain.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Apply a bandage incorporating a dorsal blocking splint, holding the wrist extended 15 to 20 degrees with the metacarpophalangeal joints in full flexion. Occasionally, it is necessary to pin the metacarpophalangeal joints in the achieved degree of passive flexion for several days to a week.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-28",
+  "name_en": "Metacarpophalangeal Joint Capsulotomy",
+  "name_vi": "Phẫu thuật Tái Tạo Dây Chằng Bên Khớp PIP Bằng Gân Gan Tay Dài",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3847,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Tái Tạo Dây Chằng Bên Khớp PIP Bằng Gân Gan Tay Dài (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Metacarpophalangeal Joint Capsulotomy (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Flex the joint passively.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Keep the joint surfaces in full contact and check that the proximal phalanx base remains seated on the metacarpal head during flexion and glides smoothly. Sometimes the volar pouch is scarred, and during attempted passive flexion the posterior joint opens from volar proximal phalanx lip impingement.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "If the volar plate is adherent, strip it from the anterior part of the metacarpal head with a probe or elevator. Release additional capsule and collateral ligament attachments to gain full passive flexion. Do not destabilize the joint, especially the radial side of the index finger.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "When satisfactory passive metacarpophalangeal joint motion is achieved, approximate the extensor tendon and close the skin edges. Do not close the dorsal capsule; often the dorsal capsule is thickened and contracted and its excision along with portions of the collateral ligaments has been done previously to achieve full passive flexion and maintain collateral ligament stability.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Intraoperatively, inject a long-acting local anesthetic to help reduce",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-28.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-28.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-77 Littler technique for grafting metacarpal non­ union in which bone substance has been lost. SEE TECHNIQUE 67-27.",
+      "width": 456,
+      "height": 226
+    },
+    {
+      "url": "web/static/images/techniques/67-28_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-77 Littler technique for grafting metacarpal non­ union in which bone substance has been lost. SEE TECHNIQUE 67-27.",
+      "width": 436,
+      "height": 102
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "PART XVIII  THE HAND\n3458\nhas been previously traumatized. Sequentially excise por-\ntions of these ligaments to gain passive flexion, taking \nspecial care not to destabilize the joint. Moreover, passive \nmetacarpophalangeal joint flexion can be achieved only \nif there is no extrinsic extensor tightness or proximal \ntendon adhesions. Evaluation and management of the \nextensor tendon tightness are prerequisites for satisfac-\ntory joint release.\n■ Flex the joint passively.\n■ Keep the joint surfaces in full contact and check that the \nproximal phalanx base remains seated on the metacarpal \nhead during flexion and glides smoothly. Sometimes the \nvolar pouch is scarred, and during attempted passive \nflexion the posterior joint opens from volar proximal \nphalanx lip impingement.\n■ If the volar plate is adherent, strip it from the anterior part \nof the metacarpal head with a probe or elevator. Release \nadditional capsule and collateral ligament attachments to \ngain full passive flexion. Do not destabilize the joint, \nespecially the radial side of the index finger.\n■ When satisfactory passive metacarpophalangeal joint \nmotion is achieved, approximate the extensor tendon and \nclose the skin edges. Do not close the dorsal capsule; \noften the dorsal capsule is thickened and contracted and \nits excision along with portions of the collateral ligaments \nhas been done previously to achieve full passive flexion \nand maintain collateral ligament stability.\n■ Intraoperatively, inject a long-acting local anesthetic to \nhelp reduce"
+}

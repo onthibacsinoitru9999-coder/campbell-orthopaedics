@@ -1,1 +1,52 @@
-{"tech_id": "79-49", "name_en": "Callotasis Metacarpal Lengthening (Kato et al.)", "name_vi": "Cắt Xương Sửa Trục Đốt Ngón Gần Trị Biến Dạng Ngón Vẹo Bẩm Sinh (Clinodactyly)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4325, "author": "Kato et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Sửa Trục Đốt Ngón Gần Trị Biến Dạng Ngón Vẹo Bẩm Sinh (Clinodactyly) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Callotasis Metacarpal Lengthening (Kato et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "For lengthening of the long finger, make a straight skin incision on the dorsoradial side; for the little finger, make the incision on the dorsoulnar side.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Preserve and retract the subcutaneous sensory nerve and the extensor tendons.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Incise the periosteum longitudinally at the intended osteotomy site and carefully retract it.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Apply a unilateral external fixation with four half-pins (1.5 or 2.0 mm)", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-49",
+  "name_en": "Callotasis Metacarpal Lengthening (Kato et al.)",
+  "name_vi": "Cắt Xương Sửa Trục Đốt Ngón Gần Trị Biến Dạng Ngón Vẹo Bẩm Sinh (Clinodactyly)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4325,
+  "author": "Kato et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Sửa Trục Đốt Ngón Gần Trị Biến Dạng Ngón Vẹo Bẩm Sinh (Clinodactyly) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Callotasis Metacarpal Lengthening (Kato et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "For lengthening of the long finger, make a straight skin incision on the dorsoradial side; for the little finger, make the incision on the dorsoulnar side.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Preserve and retract the subcutaneous sensory nerve and the extensor tendons.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Incise the periosteum longitudinally at the intended osteotomy site and carefully retract it.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Apply a unilateral external fixation with four half-pins (1.5 or 2.0 mm)",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-49.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-49.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-78 Tajima technique for metacarpal lengthening in hypoplastic hand. A, Chevron osteotomy is made in shortened metacarpal; interosseous muscle and transverse metacarpal liga­",
+      "width": 535,
+      "height": 331
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay."
+}

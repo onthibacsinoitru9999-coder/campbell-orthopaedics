@@ -1,1 +1,60 @@
-{"tech_id": "69-18", "name_en": "Vascularized Bone Grafts (Kawai and Yamamoto)", "name_vi": "Nắn Mở & Ghim Kim Cố Định Gãy Trật Qua Xương Thuyền Quanh Nguyệt (Transscaphoid)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3905, "author": "Kawai and Yamamoto", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Mở & Ghim Kim Cố Định Gãy Trật Qua Xương Thuyền Quanh Nguyệt (Transscaphoid) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Vascularized Bone Grafts (Kawai and Yamamoto): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The wires can be inserted after packing the cavity with bone, but it is easier to verify their location before insert- ing the graft.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Often a cortical bone graft can be fashioned to fit snugly into the volar window; stabilize it with one additional 0.028-inch (0.7-mm) Kirschner wire (Fig. 69-43C).", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Cut the wires off beneath the skin.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Approximate the capsule with absorbable sutures, close the skin, and immobilize the extremity in a long arm thumb spica splint with the forearm in supination, the wrist in neutral, and the thumb in abduction.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-18",
+  "name_en": "Vascularized Bone Grafts (Kawai and Yamamoto)",
+  "name_vi": "Nắn Mở & Ghim Kim Cố Định Gãy Trật Qua Xương Thuyền Quanh Nguyệt (Transscaphoid)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3905,
+  "author": "Kawai and Yamamoto",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Mở & Ghim Kim Cố Định Gãy Trật Qua Xương Thuyền Quanh Nguyệt (Transscaphoid) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "The wires can be inserted after packing the cavity with bone, but it is easier to verify their location before insert- ing the graft.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Often a cortical bone graft can be fashioned to fit snugly into the volar window; stabilize it with one additional 0.028-inch (0.7-mm) Kirschner wire (Fig. 69-43C).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Cut the wires off beneath the skin.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Approximate the capsule with absorbable sutures, close the skin, and immobilize the extremity in a long arm thumb spica splint with the forearm in supination, the wrist in neutral, and the thumb in abduction.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-18.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-18.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-44 Pronator quadratus pedicle bone graft for scaphoid nonunion. Graft fills excavated site of nonunion and is fixed with Kirschner wires. SEE TECHNIQUE 69-18.",
+      "width": 570,
+      "height": 502
+    },
+    {
+      "url": "web/static/images/techniques/69-18_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-45 Pedicled vascularized bone graft for scaphoid nonunion. A, Incision (solid green line) exposes scaphoid and bone graft donor site. Subcutaneous tissues are raised from extensor retinaculum, and 1,2 intercompartmental supraretinacular art",
+      "width": 1125,
+      "height": 698
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nUnunited\nscaphoid\nfracture\nPronator\nquadratus\n■ The wires can be inserted after packing the cavity with \nbone, but it is easier to verify their location before insert-\ning the graft.\n■ Often a cortical bone graft can be fashioned to fit snugly \ninto the volar window; stabilize it with one additional \n0.028-inch (0.7-mm) Kirschner wire (Fig. 69-43C).\n■ Cut the wires off beneath the skin.\n■ Approximate the capsule with absorbable sutures, close \nthe skin, and immobilize the extremity in a long arm \nthumb spica splint with the forearm in supination, the \nwrist in neutral, and the thumb in abduction."
+}

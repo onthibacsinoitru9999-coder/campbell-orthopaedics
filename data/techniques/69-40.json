@@ -1,1 +1,66 @@
-{"tech_id": "69-40", "name_en": "Tenodesis of the Extensor Carpi Ulnaris and Transfer of the Pronator Quadratus (Kleinman and Greenberg)", "name_vi": "Cắt Bỏ Hàng Xương Cổ Tay Đầu (Proximal Row Carpectomy - PRC) Trị Cổ Tay SLAC/SNAC", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3941, "author": "Kleinman and Greenberg", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Hàng Xương Cổ Tay Đầu (Proximal Row Carpectomy - PRC) Trị Cổ Tay SLAC/SNAC (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Tenodesis of the Extensor Carpi Ulnaris and Transfer of the Pronator Quadratus (Kleinman and Greenberg): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a curvilinear dorsoulnar skin incision at the wrist level. Extend the incision proximally along the distal ulnar shaft; avoid injury to the dorsal sensory branches of the ulnar nerve. Approach the ulna between the extensor carpi ulnaris and the flexor carpi ulnaris.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Identify and expose the distal end of the previous Darrach resection of the distal ulna.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Cắt Bỏ Hàng Xương Cổ Tay Đầu)", "detail": "Contour the distal end of the ulna with a burr or rongeur as needed.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Dissect the pronator quadratus free from its palmar- medial attachment to the ulna (Fig. 69-77A). Mobilize the pronator quadratus radially with its ulnar border tendon to allow its passage from palmar to dorsal through the interosseous space to the dorsomedial aspect of the ulna (Fig. 69-77B). (KLEI", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "With the patient supine, apply a well-padded tourniquet, prepare the skin, and apply drapes to the hand and arm on the hand table. Sit on the cephalad side of the hand table and pronate the patient’s forearm for ease of access to the ulnar side of the forearm and wrist. Exsanguinate the extremity, a", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-40",
+  "name_en": "Tenodesis of the Extensor Carpi Ulnaris and Transfer of the Pronator Quadratus (Kleinman and Greenberg)",
+  "name_vi": "Cắt Bỏ Hàng Xương Cổ Tay Đầu (Proximal Row Carpectomy - PRC) Trị Cổ Tay SLAC/SNAC",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3941,
+  "author": "Kleinman and Greenberg",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Hàng Xương Cổ Tay Đầu (Proximal Row Carpectomy - PRC) Trị Cổ Tay SLAC/SNAC (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make a curvilinear dorsoulnar skin incision at the wrist level. Extend the incision proximally along the distal ulnar shaft; avoid injury to the dorsal sensory branches of the ulnar nerve. Approach the ulna between the extensor carpi ulnaris and the flexor carpi ulnaris.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Identify and expose the distal end of the previous Darrach resection of the distal ulna.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Contour the distal end of the ulna with a burr or rongeur as needed.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Dissect the pronator quadratus free from its palmar- medial attachment to the ulna (Fig. 69-77A). Mobilize the pronator quadratus radially with its ulnar border tendon to allow its passage from palmar to dorsal through the interosseous space to the dorsomedial aspect of the ulna (Fig. 69-77B). (KLEINMAN AND GREENBERG)",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "With the patient supine, apply a well-padded tourniquet, prepare the skin, and apply drapes to the hand and arm on the hand table. Sit on the cephalad side of the hand table and pronate the patient’s forearm for ease of access to the ulnar side of the forearm and wrist. Exsanguinate the extremity, and inflate the tourniquet.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-40.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-40.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-77 Reconstructive salvage technique after failed Darrach procedure. A, Pronator quadratus (white arrows), held by hemostats, is mobilized free from its palmar-medial insertion on ulna in preparation for interosseous transfer to dorsomedial ",
+      "width": 1135,
+      "height": 799
+    },
+    {
+      "url": "web/static/images/techniques/69-40_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-78 A, Dorsal skin incision. B, Palmar skin incision. C, Extensor carpi ulnaris (ECU) stabilized by sling created from retinaculum. SEE TECHNIQUE 69-41.",
+      "width": 600,
+      "height": 376
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ".\nA\nDistal\nulna\nDistal\nulna\n*\nB\nDU\nC\nECU\n  Sixth dorsal\ncompartment\nRetards\nimpingement\nPronator\nquadratus\nRetards dorsal translation\n(“winging”)\nD\n■ Make a curvilinear dorsoulnar skin incision at the wrist \nlevel. Extend the incision proximally along the distal ulnar \nshaft; avoid injury to the dorsal sensory branches of the \nulnar nerve. Approach the ulna between the extensor \ncarpi ulnaris and the flexor carpi ulnaris.\n■ Identify and expose the distal end of the previous Darrach \nresection of the distal ulna.\n■ Contour the distal end of the ulna with a burr or rongeur \nas needed.\n■ Dissect the pronator quadratus free from its palmar-\nmedial attachment to the ulna (Fig. 69-77A). Mobilize the \npronator quadratus radially with its ulnar border tendon \nto allow its passage from palmar to dorsal through the \ninterosseous space to the dorsomedial aspect of the ulna \n(Fig. 69-77B).\n(KLEINMAN AND GREENBERG)\n■ With the patient supine, apply a well-padded tourniquet, \nprepare the skin, and apply drapes to the hand and arm \non the hand table. Sit on the cephalad side of the hand \ntable and pronate the patient’s forearm for ease of access \nto the ulnar side of the forearm and wrist. Exsanguinate \nthe extremity, and inflate the tourniquet."
+}

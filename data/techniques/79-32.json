@@ -9,41 +9,64 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Cầu Sụn Tiếp Hợp Bất Thường (Physiolysis) Trị Đốt Ngón Delta (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
   "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Thumb Shortening (Millesi): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Thumb Shortening (Millesi) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Đường rạch da mặt mu đốt gần & Đốt xa ngón cái (Dorsal Incision & Exposure)",
-      "detail": "Through a dorsal longitudinal incision overlying the proximal and distal phalanx, expose the phalangeal bones subperiosteally while protecting the nail bed and digital neurovascular bundles.",
-      "action": "Bộc lộ xương đốt gần và đốt xa ngón cái phì đại qua đường mổ mặt mu."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Under tourniquet control, excise the distal half of the nail and nail matrix and the underlying distal phalangeal tuft (Fig. 79-59A).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Cắt thu nhỏ nửa xa móng và mầm móng (Distal Nail Matrix Excision)",
-      "detail": "Under tourniquet control, excise the distal half of the nail and nail matrix and the underlying distal phalangeal tuft (Fig. 79-59A).",
-      "action": "Cắt bớt nửa xa phiến móng và mầm móng tương ứng để thu nhỏ kích thước ngón cái."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Through a dorsal longitudinal incision overlying the proximal and distal phalanx, remove the middle third of the distal phalanx and the middle third of the overlying nail and matrix.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Cắt xương thu ngắn đốt gần ngón cái (Proximal Phalanx Osteotomy)",
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
       "detail": "Remove the middle third of the proximal phalanx by making parallel oblique osteotomies (Fig. 79-59B).",
-      "action": "Cắt bỏ 1/3 giữa xương đốt gần bằng hai đường cắt xương chéo song song."
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Nắn chỉnh & Ghim kim K-wire đốt ngón xa (Distal Phalanx Reduction & Pinning)",
-      "detail": "Reduce the two remaining longitudinal components of the distal phalanx and pin them with a transverse Kirschner wire.",
-      "action": "Nắn ép hai nửa xương đốt xa và ghim cố định vững chắc bằng kim K-wire ngang."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Reduce the two remaining longitudinal components of the distal phalanx and pin them with a transverse Kirsch- ner wire.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Cố định kim K-wire đốt gần & Đóng da thu nhỏ (Proximal Phalanx Pinning & Skin Closure)",
-      "detail": "Reduce the distal and proximal fragments of the proximal phalanx in a shortened fashion and pin them with an oblique Kirschner wire (Fig. 79-59C). Cắt lọc vạt da thừa và khâu da mũi rời bằng chỉ nylon 5-0, nẹp bột bất động ngón cái.",
-      "action": "Thu ngắn ngón cái cân đối với bàn tay đối bên, khâu da không sức căng."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Reduce the distal and proximal fragments of the proximal phalanx in a shortened fashion and pin them with an oblique Kirschner wire (Fig. 79-59C).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Close the wound by carefully approximating the skin edges and the nail matrix, leaving the Kirschner wires protruding through the skin.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
   "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/79-32.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-32.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-59 Thumb reduction for macrodactyly (Millesi). A, Removal of distal half of nail and distal phalanx, preserving eponychial tissue. B, Reduction osteotomies performed through",
+      "width": 493,
+      "height": 240
+    },
+    {
+      "url": "web/static/images/techniques/79-32_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-60 Littler correction of adduction contracture of thumb using abdominal flap based on thoracoepigastric vessels. Extensor policis",
+      "width": 913,
+      "height": 664
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": ". \nA\nB\nC\n(MILLESI)\n■ Under tourniquet control, excise the distal half of the nail \nand nail matrix and the underlying distal phalangeal tuft \n(Fig. 79-59A).\n■ Through a dorsal longitudinal incision overlying the \nproximal and distal phalanx, remove the middle third of \nthe distal phalanx and the middle third of the overlying \nnail and matrix.\n■ Remove the middle third of the proximal phalanx by \nmaking parallel oblique osteotomies (Fig. 79-59B).\n■ Reduce the two remaining longitudinal components of \nthe distal phalanx and pin them with a transverse Kirsch-\nner wire.\n■ Reduce the distal and proximal fragments of the proximal \nphalanx in a shortened fashion and pin them with an \noblique Kirschner wire (Fig. 79-59C).\n■ Close the wound by carefully approximating the skin \nedges and the nail matrix, leaving the Kirschner wires \nprotruding through the skin.\n■ Apply a thumb splint."
 }

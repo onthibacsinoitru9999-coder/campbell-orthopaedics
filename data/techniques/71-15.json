@@ -1,1 +1,54 @@
-{"tech_id": "71-15", "name_en": "Capsulodesis (Zancolli)", "name_vi": "Chuyển Gân Khép Ngón Cái Phục Hồi Lực Kẹp Chìa Khóa (Key Pinch Restoration)", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4020, "author": "Zancolli", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Khép Ngón Cái Phục Hồi Lực Kẹp Chìa Khóa (Key Pinch Restoration) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Capsulodesis (Zancolli): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "MPJ volar plate Section of volar plate Flexor tendons A1 pulley Riordan devised a tenodesing procedure in which the exten­ sor carpi radialis brevis and extensor carpi ulnaris tendons are each cut halfway through at about the level of the junction of the middle and distal thirds of the forearm; one ", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Each strand of tendon is split into two strips, forming four slips; each slip is passed through an interosseous space and along the volar side of the deep transverse metacarpal ligament to a finger and is attached to the radial side of its extensor aponeurosis.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Fowler used a free tendon graft attached to the fingers as in the Riordan technique but anchored proximally in the area of the dorsal carpal ligament proximal to the wrist.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": null, "images": []}
+{
+  "tech_id": "71-15",
+  "name_en": "Capsulodesis (Zancolli)",
+  "name_vi": "Chuyển Gân Khép Ngón Cái Phục Hồi Lực Kẹp Chìa Khóa (Key Pinch Restoration)",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4020,
+  "author": "Zancolli",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Khép Ngón Cái Phục Hồi Lực Kẹp Chìa Khóa (Key Pinch Restoration) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "MPJ volar plate Section of volar plate Flexor tendons A1 pulley Riordan devised a tenodesing procedure in which the exten­ sor carpi radialis brevis and extensor carpi ulnaris tendons are each cut halfway through at about the level of the junction of the middle and distal thirds of the forearm; one ",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Each strand of tendon is split into two strips, forming four slips; each slip is passed through an interosseous space and along the volar side of the deep transverse metacarpal ligament to a finger and is attached to the radial side of its extensor aponeurosis.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Fowler used a free tendon graft attached to the fingers as in the Riordan technique but anchored proximally in the area of the dorsal carpal ligament proximal to the wrist.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-15.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-15.webp",
+      "type": "diagram",
+      "caption": "FIGURE 71-22 Brand transfer of extensor carpi radialis brevis tendon prolonged with free graft to restore intrinsic function of fingers (see text).",
+      "width": 1345,
+      "height": 1405
+    },
+    {
+      "url": "web/static/images/techniques/71-15_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 71-27 Fowler tenodesis for intrinsic paralysis (see text). SEE TECHNIQUE 71-16. Four-tailed",
+      "width": 1199,
+      "height": 764
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nMPJ\nvolar plate\nSection of\nvolar plate\nFlexor\ntendons\nA1 pulley\n\nPART XVIII  THE HAND\n3614\nRiordan devised a tenodesing procedure in which the exten­\nsor carpi radialis brevis and extensor carpi ulnaris tendons \nare each cut halfway through at about the level of the junction \nof the middle and distal thirds of the forearm; one half of each \ntendon is stripped distally and is left attached at its insertion \non a metacarpal base. Each strand of tendon is split into two \nstrips, forming four slips; each slip is passed through an \ninterosseous space and along the volar side of the deep \ntransverse metacarpal ligament to a finger and is attached to \nthe radial side of its extensor aponeurosis. The disadvantage \nof this tenodesis is that it cannot be activated by wrist motion \nas can the Fowler tenodesis. Fowler used a free tendon graft \nattached to the fingers as in the Riordan technique but \nanchored proximally in the area of the dorsal carpal ligament \nproximal to the wrist. When the wrist is flexed, the tenodesis \nis activated (Fig. 71-27).\nIf the finger flexors and the wrist flexors and extensors \nare strong, and if there is no habitual wrist flexion, the opera­\ntion of choice to restore finger intrinsic function is the modi­\nfied Bunnell procedure, in which the flexor digitorum sublimis \nof the ring finger is transferred (see Fig. 71-18). If flexing the \nwrist is habitual, or there is a flexion contracture of the joint \nand if a wrist flexor can be spared, the Riordan recommended \ntransfer of the flexor carpi radialis to the dorsum of the wrist \nprolonged by tendon grafts (see Fig. 71-25); however, at least \none strong wrist flexor should remain after the transfer. If the \nwrist extensors are strong, and the flexors are weak, the Brand \ntransfer of the extensor carpi radialis longus volarward and \nprolonged by a free graft through the carpal tunnel (see Fig. \n71-24) may be indicated. The Brand transfer of the extensor \ncarpi radialis brevis prolonged by a free graft carried between \nthe metacarpals and attached to the extensor aponeuroses \n(see Fig. 71-22) may be complicated by difficulty in reeduca­\ntion. If a flexor digitorum sublimis or a wrist flexor or exten­\nsor is unavailable for transfer or cannot be spared, the extensor \nFIGURE 71-27\t\nFowler tenodesis for intrinsic paralysis (see \ntext). SEE"
+}

@@ -1,1 +1,66 @@
-{"tech_id": "67-24", "name_en": "Open Reduction and Fixation with a Kirschner Wire", "name_vi": "Nắn Mở & Cố Định Trật Khớp Liên Đốt Xa (DIP Dislocation)", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3838, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Mở & Cố Định Trật Khớp Liên Đốt Xa (DIP Dislocation) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Reduction and Fixation with a Kirschner Wire: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "OPEN REDUCTION AND FIXATION WITH A KIRSCHNER WIRE", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "DISTAL PHALANGEAL FRACTURES Distal phalangeal fractures caused by crushing injuries usually are comminuted and require only splinting.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "When a circular wound is present that nearly amputates the fingertip, a Kirschner wire or a 22-gauge hypodermic needle is valuable in supporting the bone while the soft tissues heal (Fig.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "MALLET FINGER Disruption of the terminal extensor tendon frequently results in a distal interphalangeal joint extension lag and is commonly referred to as a baseball or mallet finger deformity.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Full passive distal interphalangeal joint extension usually remains, and proximal interphalangeal joint hyperextension may develop because of secondary volar plate laxity from proximal migration of the extensor apparatus resulting in a swan neck deformity.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-24",
+  "name_en": "Open Reduction and Fixation with a Kirschner Wire",
+  "name_vi": "Nắn Mở & Cố Định Trật Khớp Liên Đốt Xa (DIP Dislocation)",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3838,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Mở & Cố Định Trật Khớp Liên Đốt Xa (DIP Dislocation) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Open Reduction and Fixation with a Kirschner Wire (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "OPEN REDUCTION AND FIXATION WITH A KIRSCHNER WIRE",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ",
+      "detail": "DISTAL PHALANGEAL FRACTURES Distal phalangeal fractures caused by crushing injuries usually are comminuted and require only splinting.",
+      "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "When a circular wound is present that nearly amputates the fingertip, a Kirschner wire or a 22-gauge hypodermic needle is valuable in supporting the bone while the soft tissues heal (Fig.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "MALLET FINGER Disruption of the terminal extensor tendon frequently results in a distal interphalangeal joint extension lag and is commonly referred to as a baseball or mallet finger deformity.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Full passive distal interphalangeal joint extension usually remains, and proximal interphalangeal joint hyperextension may develop because of secondary volar plate laxity from proximal migration of the extensor apparatus resulting in a swan neck deformity.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-24.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-24.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-60 A, Chronically unstable proximal interphalan­ geal joint permitted tilting and produced pain on pinch. B, Alignment by segmental graft from palmaris longus tendon",
+      "width": 1147,
+      "height": 595
+    },
+    {
+      "url": "web/static/images/techniques/67-24_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-62 Radiographs of interphalangeal dislocation in child. Injury had gone undiagnosed for 1 month because defor­ mity appeared slight externally. After open reduction, flexion of",
+      "width": 533,
+      "height": 468
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "UNDIAGNOSED INTERPHALANGEAL \nDISLOCATIONS\nFailure to diagnose interphalangeal dislocations is rare but \ndoes occur because swelling soon obscures the landmarks \nthat make early diagnosis easy. If the dislocation is not diag­\nnosed within the first week, joint cartilage may be eroded by \npressure from the articular edge of the dislocated phalanx; \nopen reduction is then usually necessary (Figs. 67-62 and \n67-63).\nOPEN REDUCTION AND FIXATION \nWITH A KIRSCHNER WIRE\n\nCHAPTER 67  FRACTURES, DISLOCATIONS, AND LIGAMENTOUS INJURIES\n3449\nFIGURE 67-62\t\nRadiographs of interphalangeal dislocation in \nchild. Injury had gone undiagnosed for 1 month because defor­\nmity appeared slight externally. After open reduction, flexion of \n30 degrees was eventually possible. \nFIGURE 67-63\t\nUndiagnosed interphalangeal dislocation in adult complicated by infected wound. Bone has been eroded. At 6 weeks \nafter injury, infection had been controlled, and joint was arthrodesed. \nDISTAL PHALANGEAL FRACTURES\nDistal phalangeal fractures caused by crushing injuries \nusually are comminuted and require only splinting. Treat­\nment is primarily directed at managing the associated soft-\ntissue injuries, such as nail bed lacerations. When a circular \nwound is present that nearly amputates the fingertip, a \nKirschner wire or a 22-gauge hypodermic needle is valuable \nin supporting the bone while the soft tissues heal (Fig. 67-64). \nProlonged tenderness and hypoesthesia of the fingertip after \nthe fracture are common for many months.\nMALLET FINGER\nDisruption of the terminal extensor tendon frequently results \nin a distal interphalangeal joint extension lag and is \ncommonly referred to as a baseball or mallet finger deformity. \nFull passive distal interphalangeal joint extension usually \nremains, and proximal interphalangeal joint hyperextension \nmay develop because of secondary volar plate laxity from \nproximal migration of the extensor apparatus resulting in a \nswan neck deformity. The usual cause is a forceful blow to the \ntip of the finger causing sudden flexion; however, a hyperex­\ntension injury with fracture of the dorsal lip of the distal \nphalanx also may manifest as mallet deformity. Although \nclosed injuries are more common, open injuries caused by \nlacerations and crush abrasions also occur. Approximately \n40% of mallet fingers result from minor injuries. Mallet \nfingers are classified into four types according to associated \nsoft-tissue injuries and the fracture pattern:\nType 1: Closed or blunt trauma with loss of tendon continuity \nwith or without a small avulsion fracture\nType 2: Laceration at or proximal to the distal interphalangeal \njoint with loss of tendon continuity\nType 3: Deep abrasion with loss of skin, subcutaneous cover, \nand tendon substance\nType 4: 4A, transphyseal fracture in children; 4B, hyperflexion \ninjury with fracture of articular surface of 20% to 50%; \n4C, hyperextension injury with fracture of the articular \nsurface usually greater than 50% with early or late volar \nsubluxation of the distal phalanx\nType 1 mallet fingers are the most common. Differentiating \nsmall avulsion type 1 fractures from the larger type 4 fractures \nis important because the subluxation or dislocation present \nin type 4 fractures determines treatment.\nTreatment for type 1 mallet fingers usually consists of \ncontinuous distal interphalangeal joint extension splinting \nwith a molded polythene (Stack) or aluminum splint for 6 to \n8 weeks (Fig. 67-65). Night splinting usually is recommended \nfor an additional 2 to 6 weeks. Volar or dorsal splints can be \nused, but care must be taken when applying them to prevent \nskin maceration and ulceration. Hyperextension of the distal \ninterphalangeal joint should be avoided because it causes skin \nblanching, which possibly contributes to skin breakdown. \nAlthough open type 2 injuries can be treated with closed \nreduction after appropriate wound care, splint management"
+}

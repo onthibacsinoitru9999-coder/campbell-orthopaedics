@@ -1,1 +1,72 @@
-{"tech_id": "79-54", "name_en": "Release of a Trigger Finger", "name_vi": "Phẫu thuật Cắt Ngắn Xương Trụ Phối Hợp Trong Điều Trị Biến Dạng Madelung", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4330, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Ngắn Xương Trụ Phối Hợp Trong Điều Trị Biến Dạng Madelung (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Release of a Trigger Finger: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Phẫu thuật Cắt Ngắn Xương Trụ Phối Hợp Trong Điều Trị Biến Dạng Madelung)", "detail": "Shaving the nodule and excising a segment of the A1 pulley usually are unnecessary.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Close the wound (Fig. 79-81B) and apply a soft dressing. No particular immobilization is required.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Phẫu thuật Cắt Ngắn Xương Trụ Phối Hợp Trong Điều Trị Biến Dạng Madelung)", "detail": "This procedure can be done in a similar fashion in other involved digits.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Phẫu thuật Cắt Ngắn Xương Trụ Phối Hợp Trong Điều Trị Biến Dạng Madelung)", "detail": "Inspect the A3 pulley area and release the A3 pulley if there is triggering at this level. Place the finger through a passive range of motion to ensure that the triggering has resolved.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Apply proximal traction to both flexor tendons together and individually and passively extend the finger to verify that there is no further triggering.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-54",
+  "name_en": "Release of a Trigger Finger",
+  "name_vi": "Phẫu thuật Cắt Ngắn Xương Trụ Phối Hợp Trong Điều Trị Biến Dạng Madelung",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4330,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Ngắn Xương Trụ Phối Hợp Trong Điều Trị Biến Dạng Madelung (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Release of a Trigger Finger (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Shaving the nodule and excising a segment of the A1 pulley usually are unnecessary.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Close the wound (Fig. 79-81B) and apply a soft dressing. No particular immobilization is required.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "This procedure can be done in a similar fashion in other involved digits.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Inspect the A3 pulley area and release the A3 pulley if there is triggering at this level. Place the finger through a passive range of motion to ensure that the triggering has resolved.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Apply proximal traction to both flexor tendons together and individually and passively extend the finger to verify that there is no further triggering.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Close the skin and apply a soft hand dressing. CHAPTER 79 CONGENITAL ANOMALIES OF THE HAND 3901 or volar plate, insufficient palmar skin, and congenital fibrous substrata in the subcutaneous tissues. There seem to be two types of camptodactyly, based on the age at which the deformity occurs. The first type occurs in infancy and affects both sexes equally. This is the more common type and occurs in about 80% of patients. The second type occurs during adolescence and affects mostly girls. Camptodactyly commonly is associated with many syndromes, including trisomy 13, oculodentodigital, orofa­ ciodigital, Aarskog, and cerebrohepatorenal syndromes. A subgroup of camptodactyly has been reported in which severe flexion deformities of the proximal interphalangeal joints are present at birth. Often several digits of the same hand are affected, and there is no predilection for the small finger. Pathologic findings in this subtype primarily involve the extensor mechanism (attenuation of the central slip, palmar subluxation of the lateral bands, and hypoplasia of the radial extensor structure).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-54.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-54.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-81 A, Trigger thumb in 2-year-old child. B, After release. SEE TECHNIQUE 79-53. A B",
+      "width": 700,
+      "height": 556
+    },
+    {
+      "url": "web/static/images/techniques/79-54_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-82 Camptodactyly (flexion deformity of proximal interphalangeal joint) involving little finger only. percent of patients improve with nonoperative treatment and",
+      "width": 553,
+      "height": 508
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "■ Shaving the nodule and excising a segment of the A1 \npulley usually are unnecessary.\n■ Close the wound (Fig. 79-81B) and apply a soft dressing. \nNo particular immobilization is required.\n■ This procedure can be done in a similar fashion in other \ninvolved digits.\n■ Inspect the A3 pulley area and release the A3 pulley if \nthere is triggering at this level. Place the finger through \na passive range of motion to ensure that the triggering \nhas resolved.\n■ Apply proximal traction to both flexor tendons together \nand individually and passively extend the finger to verify \nthat there is no further triggering.\n■ Close the skin and apply a soft hand dressing.\n\nCHAPTER 79  CONGENITAL ANOMALIES OF THE HAND\n3901\nor volar plate, insufficient palmar skin, and congenital fibrous \nsubstrata in the subcutaneous tissues.\nThere seem to be two types of camptodactyly, based on \nthe age at which the deformity occurs. The first type occurs \nin infancy and affects both sexes equally. This is the more \ncommon type and occurs in about 80% of patients. The \nsecond type occurs during adolescence and affects mostly \ngirls. Camptodactyly commonly is associated with many \nsyndromes, including trisomy 13, oculodentodigital, orofa­\nciodigital, Aarskog, and cerebrohepatorenal syndromes. A \nsubgroup of camptodactyly has been reported in which severe \nflexion deformities of the proximal interphalangeal joints are \npresent at birth. Often several digits of the same hand are \naffected, and there is no predilection for the small finger. \nPathologic findings in this subtype primarily involve the \nextensor mechanism (attenuation of the central slip, palmar \nsubluxation of the lateral bands, and hypoplasia of the radial \nextensor structure)."
+}

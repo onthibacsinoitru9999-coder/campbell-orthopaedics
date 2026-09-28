@@ -1,1 +1,70 @@
-{"tech_id": "79-21", "name_en": "Syndactyly Release with Matching Volar and Dorsal Proximally Based V-Shaped Flaps (Skoog)", "name_vi": "Tái Tạo Ngón Cái Nhân Đôi Bằng Kỹ Thuật Ghép Đôi Xương Móng Bilhaut-Cloquet", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4292, "author": "Skoog", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Ngón Cái Nhân Đôi Bằng Kỹ Thuật Ghép Đôi Xương Móng Bilhaut-Cloquet (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Syndactyly Release with Matching Volar and Dorsal Proximally Based V-Shaped Flaps (Skoog): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "With a skin pencil, outline the incisions to be made on the fingers. Design dorsal and volar flaps so that when mobilized they cover most of the denuded side of one finger without tension (Fig. 79-42A and B). Make the free borders of the flaps irregular by designing small triangular points at the le", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "In planning the flaps so that they fit each other, first outline the incision on one side and then establish the key points for the incision on the opposite side by pushing straight needles vertically through the web.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Inflate the tourniquet and raise the flaps consisting mainly of the skin that forms the abnormal web.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "In raising the flaps, preserve all subcutaneous tissue and take care not to sever digital nerves and arteries.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Release the tourniquet and control all bleeding.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": "web/static/images/techniques/79-21.webp", "images": [{"url": "web/static/images/techniques/79-21.webp", "type": "diagram", "caption": "Phẫu thuật Bilhaut-Cloquet ghép đôi xương và móng điều trị tật thừa ngón cái phân đôi (Type II)"}]}
+{
+  "tech_id": "79-21",
+  "name_en": "Syndactyly Release with Matching Volar and Dorsal Proximally Based V-Shaped Flaps (Skoog)",
+  "name_vi": "Tái Tạo Ngón Cái Nhân Đôi Bằng Kỹ Thuật Ghép Đôi Xương Móng Bilhaut-Cloquet",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4292,
+  "author": "Skoog",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Ngón Cái Nhân Đôi Bằng Kỹ Thuật Ghép Đôi Xương Móng Bilhaut-Cloquet (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Syndactyly Release with Matching Volar and Dorsal Proximally Based V-Shaped Flaps (Skoog) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "With a skin pencil, outline the incisions to be made on the fingers. Design dorsal and volar flaps so that when mobilized they cover most of the denuded side of one finger without tension (Fig. 79-42A and B). Make the free borders of the flaps irregular by designing small triangular points at the level of the interphalangeal joints.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "In planning the flaps so that they fit each other, first outline the incision on one side and then establish the key points for the incision on the opposite side by pushing straight needles vertically through the web.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Inflate the tourniquet and raise the flaps consisting mainly of the skin that forms the abnormal web.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "In raising the flaps, preserve all subcutaneous tissue and take care not to sever digital nerves and arteries.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Release the tourniquet and control all bleeding.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Using the triangular flaps, reconstruct the web space (Fig. 79-42C).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-21.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-21.webp",
+      "type": "diagram",
+      "caption": "Phẫu thuật Bilhaut-Cloquet ghép đôi xương và móng điều trị tật thừa ngón cái phân đôi (Type II)"
+    },
+    {
+      "url": "web/static/images/techniques/79-21_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-40 Bauer et al. syndactyly release. A, Dorsal skin incisions. Rectangular dorsal flap (A) is designed for web; alter­ nating flaps (C, D, and E) are arranged to interdigitate with volar",
+      "width": 656,
+      "height": 642
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "SYNDACTYLY RELEASE WITH \nMATCHING VOLAR AND \nDORSAL PROXIMALLY \nBASED V-SHAPED FLAPS\n(SKOOG)\n■ With a skin pencil, outline the incisions to be made on \nthe fingers. Design dorsal and volar flaps so that when \nmobilized they cover most of the denuded side of one \nfinger without tension (Fig. 79-42A and B). Make the free \nborders of the flaps irregular by designing small triangular \npoints at the level of the interphalangeal joints.\n■ In planning the flaps so that they fit each other, first \noutline the incision on one side and then establish the \nkey points for the incision on the opposite side by pushing \nstraight needles vertically through the web.\n■ Inflate the tourniquet and raise the flaps consisting mainly \nof the skin that forms the abnormal web.\n■ In raising the flaps, preserve all subcutaneous tissue and \ntake care not to sever digital nerves and arteries.\n■ Release the tourniquet and control all bleeding.\n■ Using the triangular flaps, reconstruct the web space \n(Fig. 79-42C).\n■ On one finger, close the flaps as planned and cover the \nsmall remaining defect at the dorsomedial aspect of the \n\nCHAPTER 79  CONGENITAL ANOMALIES OF THE HAND\n3863\nAPERT SYNDROME\nIn 1906, Apert described a patient with a group of deformities \nthat included atypical facies and multiple complex syndacty­\nlies of the hand, which he called acrocephalosyndactyly. \nDespite its rarity (one per 200,000 births), much has been \nwritten about the management of the complex hand deformi­\nties in this syndrome. The condition is believed to result from \na single gene mutation in one of the parents and can be passed \nin dominant and recessive forms; sporadic occurrences also \nare possible. The abnormal gene is located on chromosome \n10q26 and has been identified as FGFR-2. Apert syndrome \nwas classified into two main categories by Blank: (1) true, or \ntypical, characterized by multiple complex syndactylies, and \n(2) atypical, with only partial syndactylies.\nAt birth, these patients have a high, broad forehead and \na flattened occiput. The eyes are widely set, with the outer \ncanthus lower than the inner canthus. The lower jaw is promi­\nnent, and the maxilla is shortened (Fig. 79-43A). Mental \nretardation is common but not universal. There may be \nassociated visceral abnormalities. These patients usually can \nbe expected to live well into adulthood. The hand deformities \nare typically symmetrical. Upton classified the Apert hand \ninto three types. Type 1 or “spade hand” has a separate thumb \nwith complete syndactyly of the remaining digits. Type 2 or \n“spoon hand” has syndactyly involving all the digits. The \nhand is spoon shaped, with a tapering terminal end and \ncomplex syndactyly of the index, long, and ring fingers (Fig. \n79-43B). The little finger usually shows complete simple \nsyndactyly with the ring finger. Often a nail is shared between \nthe index, long, and ring fingers. The fingers have limited \nmotion because of incomplete joint development, and they \nusually are shortened. Type 3 or “rosebud hand” has complex \nsyndactyly with distal synostosis between the thumb and the \nindex finger with a broad conjoined nail overlying the thumb, \nindex long, and ring fingers. Five digits usually are present, \ndistinguishing Apert syndrome from Carpenter syndrome \n(acrocephalopolysyndactyly), in which polydactyly also is \npresent. The arm and forearm frequently are shortened with \nlimited elbow motion. The untreated hand functions in a \nspoonlike fashion with either a two-handed or a thumb-to-\nside-of-index finger prehensile pattern.\nTREATMENT\nReconstructive surgery usually improves hand function in \nthese patients by creating a three-fingered hand with an \nopposable thumb. Early cranial surgery if recommended \nshould take priority over hand surgery and should not be \nperformed simultaneously. The surgical management should \nfollow the protocol outlined by Flatt. In children younger \nthan 2 years old, bilateral simultaneous reconstructive proce­\ndures may be perf"
+}

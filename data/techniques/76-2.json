@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Giải Ép Dây Thần Kinh & Động Mạch Trụ Trong Kênh Guyon (Ulnar Tunnel Release) (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.",
   "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Extended Open Carpal Tunnel Release: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
@@ -50,6 +50,15 @@
       "url": "web/static/images/techniques/76-2.webp",
       "type": "diagram",
       "caption": "Giải phẫu tương quan các cấu trúc thần kinh và động mạch trụ trong kênh Guyon"
+    },
+    {
+      "url": "web/static/images/techniques/76-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 76-1 Two approaches for open carpal tunnel release. A, Transverse incision proximal to anterior wrist crease between flexor carpi ulnaris and flexor carpi radialis tendons. Distal longi­",
+      "width": 497,
+      "height": 371
     }
-  ]
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "CHAPTER 76  CARPAL TUNNEL SYNDROME, ULNAR TUNNEL SYNDROME, AND STENOSING TENOSYNOVITIS\n3755\nFIGURE 76-2\t\nA, Anteroposterior radiograph of dissected right hand. Wires mark proximal and distal extents of classic flexor reti­\nnaculum, which includes middle portion of flexor retinaculum (transverse carpal ligament) and distal portion of flexor retinaculum. \nNote proximal limit is at distal aspect of pisiform (P) and distal limit is distal to hook of hamate (H). B, Three portions of flexor retinacu­\nlum (1 to 3) consist of thick aponeurosis between thenar (A) and hypothenar (B) muscles. Thenar muscles attach to radial half of classic \nflexor retinaculum, composed of distal portion of flexor retinaculum (3); trapezial ridge (T) and scaphoid tubercle (S) also are shown. \nProximal portion of flexor retinaculum (1) courses deep to flexor carpi ulnaris (U) and flexor carpi radialis (R). Flexor carpi radialis tendon \nis shown as it pierces flexor retinaculum at junction of proximal and middle portions to enter its fibroosseous canal. F, Antebrachial \nfascia; M, third metacarpal. (A from and B redrawn from Cobb TK, Dalley BK, Posteraro R, et al: Anatomy of the flexor retinaculum, J Hand Surg \n18A:91, 1993.)\nA\nP\nH\nM\n2\n1\nR\nA\nT\nF\nU\nH\nB\nB\nP\nS\n3\nincision described for the mini-palm technique (see"
 }

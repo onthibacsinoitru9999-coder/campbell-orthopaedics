@@ -1,1 +1,52 @@
-{"tech_id": "65-2", "name_en": "Applying Full-Thickness Grafts", "name_vi": "Kỹ thuật Ghép Da Dày Toàn Bộ Vùng Bàn Tay (Full-Thickness Skin Graft - Wolfe-Krause)", "chapter": 65, "category": "Hand & Wrist", "pdf_page": 3710, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Ghép Da Dày Toàn Bộ Vùng Bàn Tay (Full-Thickness Skin Graft - Wolfe-Krause) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.", "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Applying Full-Thickness Grafts: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "B, Back-cut in combined flap decreases tension on flap but also decreases blood supply to flap; defect created by this back-cut is closed as shown.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "A B C V V Primary defect Primary defect Pivot point Backcut Tension lines Rotation flap Primary defect Pivot point Pivot point Secondary defect Secondary defect Closure Combined flap Transposition flap", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Kỹ thuật Ghép Da Dày Toàn Bộ Vùng Bàn Tay)", "detail": "When angles are less than 45 degrees, blood supply to flap is impaired; when they are more than 60 degrees, flaps cannot be transposed without severe tension.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "2, Incisions have been made, and flaps are being shifted.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "3, Flaps have been sutured in their new positions.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.", "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.", "image_url": "web/static/images/techniques/65-7.webp", "images": [{"url": "web/static/images/techniques/65-7.webp", "type": "diagram", "caption": "Vị trí lấy và kỹ thuật bóc tách mảnh ghép da dày toàn bộ (Full-thickness skin graft) ở bàn tay"}]}
+{
+  "tech_id": "65-2",
+  "name_en": "Applying Full-Thickness Grafts",
+  "name_vi": "Kỹ thuật Ghép Da Dày Toàn Bộ Vùng Bàn Tay (Full-Thickness Skin Graft - Wolfe-Krause)",
+  "chapter": 65,
+  "category": "Hand & Wrist",
+  "pdf_page": 3710,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Ghép Da Dày Toàn Bộ Vùng Bàn Tay (Full-Thickness Skin Graft - Wolfe-Krause) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Applying Full-Thickness Grafts (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Angles that central limb of Z make with each of other two limbs should be between 45 and 60 degrees.",
+      "action": "Thực hiện thao tác bộc lộ & tiếp cận phẫu trường theo đúng quy chuẩn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "If the defect is too large to be covered with a local flap, an axial arterialized pedicle flap from the forearm, a distant flap from the abdomen, or a free tissue transfer (see Chapter 63) is indicated.",
+      "action": "Thực hiện thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng quy chuẩn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật cốt lõi",
+      "detail": "This type covers vital structures but leaves a defect that must be covered with a split-thickness graft (A common error in designing a local flap is to make it too short.",
+      "action": "Thực hiện thao tác thao tác kỹ thuật cốt lõi theo đúng quy chuẩn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.",
+  "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.",
+  "image_url": "web/static/images/techniques/65-7.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/65-7.webp",
+      "type": "diagram",
+      "caption": "Vị trí lấy và kỹ thuật bóc tách mảnh ghép da dày toàn bộ (Full-thickness skin graft) ở bàn tay"
+    },
+    {
+      "url": "web/static/images/techniques/65-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 65-5 Technique of applying split-thickness graft. A, Graft has been sutured over defect, and redundant edges of graft are being trimmed. B, Sheet of finely meshed gauze and pack of moist cotton or gauze have been placed over graft. C, Sutures ",
+      "width": 1073,
+      "height": 456
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "CHAPTER 65  ACUTE HAND INJURIES\n3331\nFIGURE 65-7\t\nA-C, Principles of three types of local flaps. In \neach type, defect to be covered is converted into triangular one. \nFlap may be rotated (A) or transposed (C) or both (B). B, Back-cut \nin combined flap decreases tension on flap but also decreases \nblood supply to flap; defect created by this back-cut is closed as \nshown. C, Defect created by transposing flap must be covered \nwith split-thickness graft. \nA\nB\nC\nV\nV\nPrimary\ndefect\nPrimary\ndefect\nPivot \npoint\nBackcut\nTension\nlines\nRotation flap\nPrimary\ndefect\nPivot \npoint\n Pivot\n point\nSecondary\ndefect\nSecondary\ndefect\nClosure\nCombined flap\nTransposition flap\nFIGURE 65-8\t\nAngles permissible in performing Z-plasties. \nAngles that central limb of Z make with each of other two limbs \nshould be between 45 and 60 degrees. When angles are less than \n45 degrees, blood supply to flap is impaired; when they are more \nthan 60 degrees, flaps cannot be transposed without severe \ntension. \nLess angle\nimpractical\nAngle size\nIncrease\nin length\n25%\n50%\n75%\n30°\n45°\n60°\nGreater angle\ndifficult to\ntranspose\nFIGURE 65-9\t\nSimple Z-plasty to release a long, narrow contracture. 1, Central limb of Z is to be made along line of contracture, \nand other two limbs are to be made where shown. 2, Incisions have been made, and flaps are being shifted. 3, Flaps have been sutured \nin their new positions. Note special stitches at A and B. \n1\n2\n3\nA\nB\nB\nB\nA\nA\nin 40 patients with a more proximally based adipofascial \n“turnover flap” for coverage of the dorsum of the distal and \nmiddle phalanges (Fig. 65-15). This flap is based on dorsal \nbranches of the digital arteries, providing pedicle lengths of \n10 mm proximal or distal to the proximal interphalangeal \njoint. The advantages of a local flap over one from a distant \npart are that the involved hand is not tied to the distant donor \nand in many instances finger motions may continue. If the \ndefect is too large to be covered with a local flap, an axial \narterialized pedicle flap from the forearm, a distant flap from \nthe abdomen, or a free tissue transfer (see Chapter 63) is \nindicated.\nLOCAL FLAPS IN FINGERS\nFigure 65-7 illustrates the principles of three types of local \nflaps. In the fingers, either they are random pedicle flaps, \nreceiving their circulation through the base of a skin pedicle, \nor they can be designed with circulation through the proper \ndigital artery or one of its branches (Fig. 65-16). Local flaps \nused in the fingers usually are of the simple transposition \ntype. This type covers vital structures but leaves a defect that \nmust be covered with a split-thickness graft (Fig. 65-12). A \ncommon error in designing a local flap is to make it too short. \nThe fixed point of pivot from which the advancement is made \nis at the border of the base that is opposite the defect. If the \ncorresponding border of the flap is not long enough, tension \noccurs when the flap is sutured in its new bed.\nSkin to be used for a local flap should not be damaged \nbecause necrosis may occur. Developing a local skin flap \nrequires undermining and minimal tension on the flap."
+}

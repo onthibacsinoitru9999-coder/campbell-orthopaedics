@@ -1,1 +1,64 @@
-{"tech_id": "68-7", "name_en": "Repair of the Deep Branch of the Ulnar Nerve (Boyes, Modified)", "name_vi": "Phẫu thuật Giải Phóng Bao Thần Kinh Vi Phẫu (Internal Neurolysis)", "chapter": 68, "category": "Hand & Wrist", "pdf_page": 3865, "author": "Boyes, Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Giải Phóng Bao Thần Kinh Vi Phẫu (Internal Neurolysis) (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).", "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Repair of the Deep Branch of the Ulnar Nerve (Boyes, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "DORSAL BRANCH OF THE ULNAR NERVE The dorsal branch of the ulnar nerve is large enough at the wrist and just distal to it to be repaired similar to a digital nerve.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "If extra length is needed to appose the ends, it may be made to branch from the main trunk more proximally by intraneural dissection and is then routed more directly to the dorsum of the hand.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Phẫu thuật Giải Phóng Bao Thần Kinh Vi Phẫu)", "detail": "The wrist should be held in extension for 3 to 4 weeks after surgery, following which gradual pro­ tected motion is begun, and a progressive exercise program is followed.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "MEDIAN NERVE AT THE WRIST Division of the median nerve at the wrist is not unusual, and the vital sensory function of the hand depends on its success­ ful repair.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "It is important to emphasize the following: (1) the neuroma must be carefully excised from the proximal end, and the glioma must be excised from the distal end; (2) sur­ rounding scar must be excised to provide a vascular bed; (3) the repair must be accurate, with the ends in proper rotation, for th", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.", "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).", "image_url": "web/static/images/techniques/68-8_tech.webp", "images": [{"url": "web/static/images/techniques/68-8_tech.webp", "type": "diagram", "caption": "Kỹ thuật bóc tách và giải phóng bao ngoài thần kinh (Internal neurolysis) dưới kính hiển vi"}]}
+{
+  "tech_id": "68-7",
+  "name_en": "Repair of the Deep Branch of the Ulnar Nerve (Boyes, Modified)",
+  "name_vi": "Phẫu thuật Giải Phóng Bao Thần Kinh Vi Phẫu (Internal Neurolysis)",
+  "chapter": 68,
+  "category": "Hand & Wrist",
+  "pdf_page": 3865,
+  "author": "Boyes, Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Giải Phóng Bao Thần Kinh Vi Phẫu (Internal Neurolysis) (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "DORSAL BRANCH OF THE ULNAR NERVE The dorsal branch of the ulnar nerve is large enough at the wrist and just distal to it to be repaired similar to a digital nerve.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "If extra length is needed to appose the ends, it may be made to branch from the main trunk more proximally by intraneural dissection and is then routed more directly to the dorsum of the hand.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Phẫu thuật Giải Phóng Bao Thần Kinh Vi Phẫu)",
+      "detail": "The wrist should be held in extension for 3 to 4 weeks after surgery, following which gradual pro­ tected motion is begun, and a progressive exercise program is followed.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "MEDIAN NERVE AT THE WRIST Division of the median nerve at the wrist is not unusual, and the vital sensory function of the hand depends on its success­ ful repair.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "It is important to emphasize the following: (1) the neuroma must be carefully excised from the proximal end, and the glioma must be excised from the distal end; (2) sur­ rounding scar must be excised to provide a vascular bed; (3) the repair must be accurate, with the ends in proper rotation, for th",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.",
+  "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).",
+  "image_url": "web/static/images/techniques/68-8_tech.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/68-8_tech.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật bóc tách và giải phóng bao ngoài thần kinh (Internal neurolysis) dưới kính hiển vi"
+    },
+    {
+      "url": "web/static/images/techniques/68-7_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 68-14 Boyes technique of repairing deep branch of ulnar nerve. A, Main trunk and deep branch of ulnar nerve have been exposed, and volar carpal ligament has been divided. B, Ends of deep branch have been freshened. C, Deep branch has been spli",
+      "width": 819,
+      "height": 879
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "DORSAL BRANCH OF THE ULNAR NERVE\nThe dorsal branch of the ulnar nerve is large enough at the \nwrist and just distal to it to be repaired similar to a digital \nnerve. It crosses the ulnar styloid superficially, although it \nmay have branched from the trunk 5 cm or more proximal \nto the wrist. If extra length is needed to appose the ends, it \nmay be made to branch from the main trunk more proximally \nby intraneural dissection and is then routed more directly to \nthe dorsum of the hand. The wrist should be held in extension \nfor 3 to 4 weeks after surgery, following which gradual pro­\ntected motion is begun, and a progressive exercise program \nis followed.\nMEDIAN NERVE AT THE WRIST\nDivision of the median nerve at the wrist is not unusual, and \nthe vital sensory function of the hand depends on its success­\nful repair. It is important to emphasize the following: (1) the \nneuroma must be carefully excised from the proximal end, \nand the glioma must be excised from the distal end; (2) sur­\nrounding scar must be excised to provide a vascular bed; (3) \nthe repair must be accurate, with the ends in proper rotation, \nfor the nerve contains motor and sensory fibers; and (4) \ntension on the repair must be avoided.\nThe following points are helpful. A vessel usually lies on \nthe anterior surface of the median nerve parallel with its long \naxis; this vessel may be helpful in securing proper rotational \nalignment, or it may be obliterated by scar when the repair is \nlate. An epineurial suture in each segment as described for \nthe ulnar nerve at the wrist (see"
+}

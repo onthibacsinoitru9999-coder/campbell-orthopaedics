@@ -1,1 +1,66 @@
-{"tech_id": "79-31", "name_en": "Digital Shortening (Barsky)", "name_vi": "Cắt Xương Sửa Trục Chữ V Đốt Ngón Hình Nêm (Delta Phalanx Osteotomy)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4306, "author": "Barsky", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Sửa Trục Chữ V Đốt Ngón Hình Nêm (Delta Phalanx Osteotomy) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Digital Shortening (Barsky): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Under tourniquet control, make a midlateral incision the length of the involved digit.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Identify and dissect out the digital nerve.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Cắt Xương Sửa Trục Chữ V Đốt Ngón Hình Nêm)", "detail": "Excise all excessive adipose tissue.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "If the digital nerve is grossly enlarged, half the fascicles may be stripped and excised as recommended by Tsuge. If the digital nerve is excessively tortuous, a section can be resected and an end-to-end repair performed as described by Kelikian.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Cắt Xương Sửa Trục Chữ V Đốt Ngón Hình Nêm)", "detail": "Resect matching sections of the volar half of the distal phalanx and the dorsal half of the middle phalanx (Fig. 79-57A) and reduce the fragments (Fig. 79-57B).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-31",
+  "name_en": "Digital Shortening (Barsky)",
+  "name_vi": "Cắt Xương Sửa Trục Chữ V Đốt Ngón Hình Nêm (Delta Phalanx Osteotomy)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4306,
+  "author": "Barsky",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Sửa Trục Chữ V Đốt Ngón Hình Nêm (Delta Phalanx Osteotomy) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường mổ bên ngón (Midlateral incision): Rạch dọc bờ bên ngón tay ngay phía sau đường nối các nếp gấp gian đốt, phẫu tích sau dây chằng Cleland để bảo tồn bó mạch thần kinh ngón riêng ở phía trước vạt.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Under tourniquet control, make a midlateral incision the length of the involved digit.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Identify and dissect out the digital nerve.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Excise all excessive adipose tissue.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "If the digital nerve is grossly enlarged, half the fascicles may be stripped and excised as recommended by Tsuge. If the digital nerve is excessively tortuous, a section can be resected and an end-to-end repair performed as described by Kelikian.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Resect matching sections of the volar half of the distal phalanx and the dorsal half of the middle phalanx (Fig. 79-57A) and reduce the fragments (Fig. 79-57B).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-31.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-31.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-57 Digital shortening for macrodactyly (Tsuge). A, Matching sections (shaded areas) of volar half of distal phalanx and dorsal half of middle phalanx are removed. B, Distal phalanx",
+      "width": 998,
+      "height": 585
+    },
+    {
+      "url": "web/static/images/techniques/79-31_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-59 Thumb reduction for macrodactyly (Millesi). A, Removal of distal half of nail and distal phalanx, preserving eponychial tissue. B, Reduction osteotomies performed through",
+      "width": 493,
+      "height": 240
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \nA\nB\nC\nnonreconstructable macrodactyly of the index finger and \nthumb.\nThe most common complication is recurrence, which is \nexpected after debulking. Flap necrosis is a major surgical \ncomplication, and some authors have recommended excision \nof the overlying skin and replacement with a full-thickness \nskin graft to avoid this problem. Careful attention to flap \ndesign may help prevent skin necrosis. Operating on only one \nside of the finger at a time minimizes the risk of circulatory \ndisturbance.\nDEBULKING\n(TSUGE)\n■ Under tourniquet control, make a midlateral incision the \nlength of the involved digit.\n■ Identify and dissect out the digital nerve.\n■ Excise all excessive adipose tissue.\n■ If the digital nerve is grossly enlarged, half the fascicles \nmay be stripped and excised as recommended by Tsuge. \nIf the digital nerve is excessively tortuous, a section can \nbe resected and an end-to-end repair performed as \ndescribed by Kelikian.\n■ Resect matching sections of the volar half of the distal \nphalanx and the dorsal half of the middle phalanx (Fig. \n79-57A) and reduce the fragments (Fig. 79-57B)."
+}

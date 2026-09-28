@@ -1,1 +1,72 @@
-{"tech_id": "69-17", "name_en": "Grafting Operations (Stark et al.)", "name_vi": "Phẫu thuật Đường Mổ Kép Gan Mu Cố Định Trật Xương Nguyệt & Quanh Nguyệt Phức Tạp", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3904, "author": "Stark et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Đường Mổ Kép Gan Mu Cố Định Trật Xương Nguyệt & Quanh Nguyệt Phức Tạp (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Grafting Operations (Stark et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Sculpt the graft to fit the defect.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Gently impact the graft into place with the inner (cancel- lous) surface facing the capitate (Fig. 69-41D). Avoid prominence of the graft on the dorsal and ulnar surfaces.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Pass a single 1.1-mm (0.045-inch) Kirschner wire eccentri- cally down the long scaphoid axis to hold the scaphoid and graft in place.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Remove the radiolunate wire to allow movement of the wrist to obtain satisfactory images of guidewire placement.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Using C-arm fluoroscopic images, place the guidewire for the Herbert-Whipple screw. Ascertain with the fluoro- scopic images that the guidewire is centrally placed.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-17",
+  "name_en": "Grafting Operations (Stark et al.)",
+  "name_vi": "Phẫu thuật Đường Mổ Kép Gan Mu Cố Định Trật Xương Nguyệt & Quanh Nguyệt Phức Tạp",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3904,
+  "author": "Stark et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Đường Mổ Kép Gan Mu Cố Định Trật Xương Nguyệt & Quanh Nguyệt Phức Tạp (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Sculpt the graft to fit the defect.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Gently impact the graft into place with the inner (cancel- lous) surface facing the capitate (Fig. 69-41D). Avoid prominence of the graft on the dorsal and ulnar surfaces.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Pass a single 1.1-mm (0.045-inch) Kirschner wire eccentri- cally down the long scaphoid axis to hold the scaphoid and graft in place.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Remove the radiolunate wire to allow movement of the wrist to obtain satisfactory images of guidewire placement.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Using C-arm fluoroscopic images, place the guidewire for the Herbert-Whipple screw. Ascertain with the fluoro- scopic images that the guidewire is centrally placed.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Insert a screw of appropriate length. Anticipate that it might be necessary to reduce the screw length 4 to 6 mm from the length obtained from the guidewire.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-17.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-17.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-43 Technique for scaphoid nonunion (Stark et al.). A, Excavation of scaphoid and placement of Kirschner wires; Chandler retractor is used to protect articular cartilage of radioscaphoid joint. B, Cortical graft is inserted into cavity. C, K",
+      "width": 896,
+      "height": 508
+    },
+    {
+      "url": "web/static/images/techniques/69-17_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-44 Pronator quadratus pedicle bone graft for scaphoid nonunion. Graft fills excavated site of nonunion and is fixed with Kirschner wires. SEE TECHNIQUE 69-18.",
+      "width": 570,
+      "height": 502
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nA\nB\nC\nCortical\ngraft \nCancellous\ngraft \n■ Sculpt the graft to fit the defect.\n■ Gently impact the graft into place with the inner (cancel-\nlous) surface facing the capitate (Fig. 69-41D). Avoid \nprominence of the graft on the dorsal and ulnar \nsurfaces.\n■ Pass a single 1.1-mm (0.045-inch) Kirschner wire eccentri-\ncally down the long scaphoid axis to hold the scaphoid \nand graft in place.\n■ Remove the radiolunate wire to allow movement of the \nwrist to obtain satisfactory images of guidewire \nplacement.\n■ Using C-arm fluoroscopic images, place the guidewire for \nthe Herbert-Whipple screw. Ascertain with the fluoro-\nscopic images that the guidewire is centrally placed.\n■ Insert a screw of appropriate length. Anticipate that it \nmight be necessary to reduce the screw length 4 to 6 mm \nfrom the length obtained from the guidewire.\n■ Using the fluoroscope, ascertain central placement of the \nguidewire and screw.\n■ Use a small burr to remove prominent graft on the radial \nand volar surfaces.\n■ Assess wrist flexion and extension and radial and ulnar \ndeviation to ensure that the graft is not impinging on the \ndistal radius. If there is impingement, perform a limited \nradial styloidectomy.\n■ Repair the palmar capsule, the radioscaphocapitate liga-\nment, and the sheath of the flexor carpi radialis.\n■ Deflate the pneumatic tourniquet, obtain hemostasis, \nand close the skin.\n■ Apply a short arm thumb spica splint."
+}

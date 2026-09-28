@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Rạch Mở Dẫn Lưu Áp Xe Khoang Parona Sâu Cẳng Tay (Chương 78, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Chống chỉ định gây tê ngấm tại chỗ trong mô viêm mủ; chống chỉ định khâu kín da thì đầu ổ nhiễm trùng mủ sâu bàn tay.",
   "patient_prep": "Gây mê hoặc tê vùng (tránh gây tê tại chỗ vào ổ nhiễm trùng). Bơm rửa số lượng lớn nước muối sinh lý vô trùng.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Postoperative Closed Irrigation (Neviaser, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Postoperative Closed Irrigation (Neviaser, Modified) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
@@ -44,6 +44,23 @@
   ],
   "postop_protocol": "Ngâm rửa sát khuẩn ấm hàng ngày. Thay băng vô trùng. Bắt đầu tập vận động nhẹ nhàng ngay khi ổ nhiễm trùng kiểm soát được để chống xơ dính khớp.",
   "pearls_pitfalls": "Lấy bệnh phẩm cấy vi khuẩn và kháng sinh đồ trước khi dùng kháng sinh; Dẫn lưu triệt để các khoang mủ sâu (ô mô cái, Parona, bao gân Kanavel); Để hở vết mổ có bấc dẫn lưu.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/78-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/78-5.webp",
+      "type": "diagram",
+      "caption": "FIGURE 78-12 Closed irrigation for tenosynovitis (modified Neviaser technique). SEE TECHNIQUE 78-5. ■ As an alternative, carefully make a transverse incision over",
+      "width": 590,
+      "height": 589
+    },
+    {
+      "url": "web/static/images/techniques/78-5_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 78-13 Open drainage for advanced infection and necrosis of tendon and sheath. SEE TECHNIQUE 78-6. persistent infection are present, irrigation is continued for",
+      "width": 950,
+      "height": 625
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": "infected with S. aureus. However, Streptococcus also may be \nfound. Under ideal circumstances, fluid should be obtained \nfrom the sheath for Gram stain, culture, and antibiotic sensi­\ntivity testing. If gross pus is obtained from the aspiration of \nthe digital flexor sheath, surgical drainage usually is indi­\ncated. Purulent fluid might not be present in the flexor sheath \nwith overlying cellulitis; however, needle aspiration of the \nsheath through cellulitic tissue creates the risk of inoculating \nthe uninfected sheath with bacteria. An increasing frequency \nof MRSA hand infections has been documented in clinical \nstudies. Vancomycin is effective for infections caused by \ngram-positive bacteria, whereas ciprofloxacin is most effec­\ntive for gram-negative organisms, including Pseudomonas. \nWith persistent tenosynovial infection, pressures within the \nflexor sheath can exceed 30 mm Hg, rendering the tendons \nischemic in the presence of infection. Delay in treatment may \nlead to damage to the flexor tendon and sheath, with resulting \nadhesion, loss of excursion, finger stiffness, and impaired \nfunction. The prognosis for function is poor if an infection \nhere produces pus that must be drained. If drainage is \nrequired, an open or closed irrigation technique can be used. \nIf an open technique is used, healing and rehabilitation are \nprolonged and full motion may not be regained."
 }

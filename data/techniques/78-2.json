@@ -9,31 +9,31 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mở Cửa Sổ Mép Móng (Eponychial Marsupialization) Điều Trị Viêm Mủ Quanh Móng (Chương 78, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Chống chỉ định gây tê ngấm tại chỗ trong mô viêm mủ; chống chỉ định khâu kín da thì đầu ổ nhiễm trùng mủ sâu bàn tay.",
   "patient_prep": "Gây mê hoặc tê vùng (tránh gây tê tại chỗ vào ổ nhiễm trùng). Bơm rửa số lượng lớn nước muối sinh lý vô trùng.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Eponychial Marsupialization (Bednar and Lane; Keyser and Eaton): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Eponychial Marsupialization (Bednar and Lane; Keyser and Eaton) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Rạch cắt hình trăng khuyết mép nếp móng (Eponychial Crescent Excision)",
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
       "detail": "Excise a crescent of skin 3mm wide parallel to the eponychium and extending from the radial to the ulnar borders (Fig. 78-3).",
-      "action": "Cắt bỏ dải da hình lưỡi liềm song song với nếp gốc móng tạo đường dẫn lưu tự nhiên."
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Cắt lọc mô hạt viêm mạn tính phì đại (Granulation Tissue Debridement)",
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
       "detail": "When using the Keyser and Eaton technique, remove all thickened tissue from the skin. Bednar and Lane leave the subcutaneous fat intact.",
-      "action": "Lấy sạch tổ chức mô hạt xơ dày, bảo vệ mầm sinh móng (nail matrix)."
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Xử trí tổn thương phiến móng (Nail Plate Management)",
-      "detail": "If nail irregularities are present, remove the nail. Nếu phiến móng gồ ghề biến dạng hoặc nhiễm nấm mạn, nhổ bỏ 1 phần hoặc toàn bộ phiến móng.",
-      "action": "Tạo sự thông thoáng tối đa cho giường móng phát triển lại."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "If nail irregularities are present, remove the nail.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Phủ gạc vô trùng Xeroform & Băng ép nhẹ (Dressing & Splinting)",
-      "detail": "Cover the wound with petroleum/bismuth tribromophenate–impregnated gauze (Xeroform). If the nail is removed, place this gauze beneath the nail fold. Băng gạc vô trùng, thay băng định kỳ.",
-      "action": "Chèn gạc mỡ giữ mở nếp gấp móng cho đến khi biểu mô hóa hoàn toàn."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Cover the wound with petroleum/bismuth tribromo- phenate–impregnated gauze (Xeroform). If the nail is removed, place this gauze beneath the nail fold.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Ngâm rửa sát khuẩn ấm hàng ngày. Thay băng vô trùng. Bắt đầu tập vận động nhẹ nhàng ngay khi ổ nhiễm trùng kiểm soát được để chống xơ dính khớp.",
@@ -44,6 +44,15 @@
       "url": "web/static/images/techniques/78-2.webp",
       "type": "diagram",
       "caption": "Kỹ thuật rạch mép móng mở cửa sổ (Eponychial marsupialization) điều trị viêm quanh móng"
+    },
+    {
+      "url": "web/static/images/techniques/78-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 78-1 Diagram of nail and nail bed. A, Nail. B, Eponych­ ium. C, Dorsal roof of nail fold. D, Ventral floor of nail fold (ger­ minal matrix). E, Nail bed (sterile matrix). (From Bednar MS, Lane",
+      "width": 1108,
+      "height": 553
     }
-  ]
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "swelling with clear vesicle formation. Lymphangitis and \nlymphadenopathy may be present. The diagnosis can be con­\nfirmed with viral cultures of fluid from the vesicles, a Tzanck \nsmear, and serum antibody titers. The condition is self-\nlimiting, usually resolving over 3 to 4 weeks, and does not \nrequire surgical treatment.\nCHRONIC PARONYCHIA\nChronic paronychia typically occurs in patients whose activi­\nties require prolonged exposure to water. With chronic \ninflammation and recurring infection, the eponychium \nappears thickened and prominent. Organisms obtained from \nthe cultures of these lesions include Staphylococcus pyogenes, \nS. epidermidis, Candida albicans, colonic gram-negative bac­\nteria, or a mixture of these. Tosti et al. compared topical \nmethylprednisolone with two oral antifungal medicines in \nthe treatment of chronic paronychia of 45 patients with mul­\ntiple nail involvement. Methylprednisolone cured or improved \n85% of the nails. Of the oral antifungal medications, terbin­\nafine was effective in 52% and itraconazole in 45%, suggesting \nthe possibility that a chronic paronychia is more likely a der­\nmatitis related to environmental exposure.\nEPONYCHIAL MARSUPIALIZATION\nBednar and Lane found the eponychial marsupialization \ntechnique of Keyser and Eaton to be effective in curing \npatients of chronic paronychia. They further noted that if \nnail irregularities are present, removing the nail leads to \nhealing without recurrence.\nFIGURE 78-1\t\nDiagram of nail and nail bed. A, Nail. B, Eponych­\nium. C, Dorsal roof of nail fold. D, Ventral floor of nail fold (ger­\nminal matrix). E, Nail bed (sterile matrix). (From Bednar MS, Lane \nLB: Eponychial marsupialization and nail removal for surgical treatment \nof paronychia, J Hand Surg 16A:314, 1991.)\nA\nE\nB\nC\nD\nFIGURE 78-2\t\nIncision and drainage of paronychia (see text). \nDistended\nparonychia\nPurulent\ndrainage\ndrainage. Sterile technique should be observed during \ndressings to prevent further contamination. After several \ndays, further debridement of necrotic material may be \nnecessary if the infection is extensive. As soon as drainage \nhas ceased and healthy granulation tissue appears, the \nwound is closed secondarily; a free skin graft or flap \ncoverage may be necessary, but usually only when a skin \nslough has occurred.\nPARONYCHIA\nA paronychia (“runaround”) infection usually is caused by \nthe introduction of S. aureus into the soft-tissue fold around \nthe fingernail (eponychium) associated with a hangnail \nor poor nail hygiene (Fig. 78-1). In three studies of paro­\nnychia, with a total of 61 patients, 25% were caused by anaer­\nobic bacteria, 25% by aerobic bacteria, and 50% by mixed \naerobic and anaerobic bacteria. Nonbacterial pathogens such \nas yeast and viruses also have been identified as causative \norganisms.\nWhen an abscess forms in the eponychial or paronychial \nfold, it usually begins at one corner of the horny nail and \ntravels under either the eponychium or the nail toward the \nopposite side. If an abscess is on one side only, it should be \nincised, angling the knife away from the nail to avoid cutting \nthe nail bed, which would cause a ridge later. If the abscess is \nunder one corner of the nail root, this corner should be \nremoved. If it has already migrated to the opposite side and \nunder the nail, a second incision should be made there, the \nskin folded back proximally, and the proximal one third of \nthe nail excised. The wound is loosely packed with iodoform \ngauze for 48 hours for drainage (Fig. 78-2).\nOgunlusi et al. described using the tip of a 21- or 23-gauge \nneedle to lift the nail fold and drain the abscess; drainage was \nfollowed by oral antibiotic therapy. Resolution of acute paro­\nnychia occurred within 2 days in 8 of 10 patients. No anes­\nthesia or daily dressing changes were required.\nInfections caused by herpes simplex virus type 1 or 2 may \nbe confused with bacterial paronychia. The “herpetic whitlow” \nis seen more often in health care workers a"
 }

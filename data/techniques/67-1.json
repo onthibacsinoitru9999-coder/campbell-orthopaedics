@@ -1,1 +1,62 @@
-{"tech_id": "67-1", "name_en": "Closed Pinning (Wagner)", "name_vi": "Nắn Kín & Ghim Kim Kirschner Gãy Nền Xương Bàn 1 (Gãy Bennett) Theo Wagner", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3797, "author": "Wagner", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Ghim Kim Kirschner Gãy Nền Xương Bàn 1 (Gãy Bennett) Theo Wagner (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Closed Pinning (Wagner): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Check the reduction by radiographs; if it is accurate, cut the wire near the skin.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Apply a forearm cast, holding the wrist in extension and the thumb in abduction; leave the thumb interphalangeal joint free.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Sometimes more than one Kirschner wire is required, and the wire may engage carpal bones other than the trape- zium for adequate fixation. Fixation merely to the volar oblique fragment may be insufficient to prevent loss of fracture reduction. OPEN REDUCTION (WAGNER)", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Begin a curved incision on the dorsoradial aspect of the first metacarpal and curve it volarward at the wrist crease. Carefully protect the sensory branches crossing this area.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "To expose the fracture, partially strip the soft tissue from the proximal end of the metacarpal shaft and open the carpometacarpal joint.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": "web/static/images/techniques/67-1.webp", "images": [{"url": "web/static/images/techniques/67-1.webp", "type": "diagram", "caption": "Kỹ thuật nắn kín ghim kim Kirschner gãy Bennett theo Wagner"}, {"url": "web/static/images/techniques/67-1_xray.webp", "type": "xray", "caption": "Phim X-quang ca lâm sàng gãy Bennett trước và sau nắn chỉnh cố định kim K-wire"}]}
+{
+  "tech_id": "67-1",
+  "name_en": "Closed Pinning (Wagner)",
+  "name_vi": "Nắn Kín & Ghim Kim Kirschner Gãy Nền Xương Bàn 1 (Gãy Bennett) Theo Wagner",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3797,
+  "author": "Wagner",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Ghim Kim Kirschner Gãy Nền Xương Bàn 1 (Gãy Bennett) Theo Wagner (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Closed Pinning (Wagner) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Check the reduction by radiographs; if it is accurate, cut the wire near the skin.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ",
+      "detail": "Apply a forearm cast, holding the wrist in extension and the thumb in abduction; leave the thumb interphalangeal joint free.",
+      "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Sometimes more than one Kirschner wire is required, and the wire may engage carpal bones other than the trape- zium for adequate fixation. Fixation merely to the volar oblique fragment may be insufficient to prevent loss of fracture reduction. OPEN REDUCTION (WAGNER)",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Begin a curved incision on the dorsoradial aspect of the first metacarpal and curve it volarward at the wrist crease. Carefully protect the sensory branches crossing this area.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "To expose the fracture, partially strip the soft tissue from the proximal end of the metacarpal shaft and open the carpometacarpal joint.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-1.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật nắn kín ghim kim Kirschner gãy Bennett theo Wagner"
+    },
+    {
+      "url": "web/static/images/techniques/67-1_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang ca lâm sàng gãy Bennett trước và sau nắn chỉnh cố định kim K-wire"
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "see Figs. 67-8 to 67-10\n\nPART XVIII  THE HAND\n3408\nFIGURE 67-5\t\nA and B, Open fractures of right hand with loss of distal end of middle phalanx and painful small finger partial \namputation. C and D, Proximal phalanx of painful and stiff small finger was used as structural graft to restore articular column of \nmiddle finger. \nA\nB\nC\nD\nFIGURE 67-6\t\nVarious techniques employed to manage \nmiddle phalangeal fractures in multiple-digit replantation. Com­\nbination intramedullary Kirschner wire rod and wiring in index \nfinger and intraosseous wiring alone in middle finger with good \nrotational control. \nFIGURE 67-7\t\nA and B, Oblique ring finger metacarpal shaft \nfracture with shortening and malrotation in young woman \ntreated with lag screw technique. \nA\nB"
+}

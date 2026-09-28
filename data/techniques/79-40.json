@@ -1,1 +1,66 @@
-{"tech_id": "79-40", "name_en": "Recession of the Index Finger (Flatt)", "name_vi": "Cái Hóa Ngón Trỏ (Buck-Gramcko Pollicization) Cho Thiểu Sản Ngón Cái Độ IV (Pouce Flottant)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4315, "author": "Flatt", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cái Hóa Ngón Trỏ (Buck-Gramcko Pollicization) Cho Thiểu Sản Ngón Cái Độ IV (Pouce Flottant) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Recession of the Index Finger (Flatt): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn", "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Cái Hóa Ngón Trỏ (Chương 79). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.", "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."}, {"step": 2, "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương", "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Cái Hóa Ngón Trỏ. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.", "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."}, {"step": 3, "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)", "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.", "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."}, {"step": 4, "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động", "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.", "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."}, {"step": 5, "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng", "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.", "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-40",
+  "name_en": "Recession of the Index Finger (Flatt)",
+  "name_vi": "Cái Hóa Ngón Trỏ (Buck-Gramcko Pollicization) Cho Thiểu Sản Ngón Cái Độ IV (Pouce Flottant)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4315,
+  "author": "Flatt",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cái Hóa Ngón Trỏ (Buck-Gramcko Pollicization) Cho Thiểu Sản Ngón Cái Độ IV (Pouce Flottant) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Recession of the Index Finger (Flatt) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn",
+      "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Cái Hóa Ngón Trỏ (Chương 79). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.",
+      "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."
+    },
+    {
+      "step": 2,
+      "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương",
+      "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Cái Hóa Ngón Trỏ. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.",
+      "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."
+    },
+    {
+      "step": 3,
+      "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)",
+      "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.",
+      "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+    },
+    {
+      "step": 4,
+      "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động",
+      "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.",
+      "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."
+    },
+    {
+      "step": 5,
+      "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng",
+      "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.",
+      "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-40.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-40.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-69 Floating thumb (pouce flottant) deformity. absent thumb except in the thrombocytopenia–absent radius (TAR) syndrome. Absence of the thumb creates an extreme",
+      "width": 560,
+      "height": 412
+    },
+    {
+      "url": "web/static/images/techniques/79-40_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-70 Flatt recession of index finger. A, Two incisions are required: intermetacarpal ligament is cut through distal incision, and osteotomy of index metacarpal is performed through proximal incision. B, Distal portion of index is rotated 110 ",
+      "width": 661,
+      "height": 422
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "PART XVIII  THE HAND\n3886\nPOLLICIZATION FOR RECONSTRUCTION OF \nTHE THUMB\nPollicization or transposition of a finger to replace an absent \nor severely hypoplastic thumb is the procedure of choice for \ntypes IIIB, IV, and V thumb hypoplasia. The thumb frequently \nis absent in patients with radial hypoplasia. Children can \nadapt to a thumbless hand, with prehension possible using \nthe ulnar side of the index finger and radial side of the long \nfinger. Despite this adaptability, overall function and self-care \nactivities are impaired and can be drastically improved with \nsuccessful pollicization. Because normal and compensatory \nprehensile patterns are firmly established within the first year \nof life, it is desirable that surgical reconstruction be performed \nearly. Pollicization is recommended for unilateral and bilat­\neral cases. If a “floating” thumb deformity is present, with \ninadequate musculotendinous and bony elements, the \nremnant should be amputated before pollicization to allow \nreconstruction of a stable thumb. The parents must be clearly \ninformed that the floating thumb is of no functional use and \nwill be discarded after the operation.\nRIORDAN POLLICIZATION\nIn the Riordan technique, the index ray is shortened by \nresection of its metacarpal shaft. To simulate the trapezium, \nthe second metacarpal head is positioned palmar to the \nnormal plane of the metacarpal bases, and the metacarpo­\nphalangeal joint acts as the carpometacarpal joint of the \nnew thumb. The first dorsal interosseous is converted to \nan abductor pollicis brevis, and the first volar interosseous \nFIGURE 79-70\t\nFlatt recession of index finger. A, Two incisions are required: intermetacarpal ligament is cut through distal incision, \nand osteotomy of index metacarpal is performed through proximal incision. B, Distal portion of index is rotated 110 degrees and \nabducted 20 degrees radialward. C, Skin closure. SEE"
+}

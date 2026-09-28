@@ -1,1 +1,64 @@
-{"tech_id": "66-9", "name_en": "Pull-Out Technique for Tendon Attachment", "name_vi": "Kỹ thuật Khâu Kéo Rút Qua Xương Bằng Nút Bấm Xuyên Xương (Bunnell Pull-Out Wire)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3741, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Kéo Rút Qua Xương Bằng Nút Bấm Xuyên Xương (Bunnell Pull-Out Wire) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Pull-Out Technique for Tendon Attachment: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "B, Hole is drilled through bone with Kirschner wire in drill.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "C, Bunnell crisscross stitch is placed in end of tendon, and wire suture is drawn through hole in bone.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "A B C D SUTURE ANCHOR TENDON ATTACHMENT The use of a suture anchor has been shown to be as effective as a pull-out wire or suture but without the potential compli­ cations with the fingernail that can occur with the pull-out technique.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Two suture anchors are placed in the distal phalanx from distal-volar to proximal-dorsal so that they gain pur­ chase in the thickest portion of the distal phalanx to provide the greatest pull-out strength (Fig.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "TIMING OF FLEXOR TENDON REPAIR If a wound is caused by a sharp object such as a knife and is reasonably clean, some tendons of the hand can be repaired at the time of primary wound closure.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-24.webp", "images": [{"url": "web/static/images/techniques/66-24.webp", "type": "diagram", "caption": "Kỹ thuật khâu kéo rút Bunnell (Pull-out wire) xuyên qua đốt ngón xa và buộc nút trên cúc bấm"}]}
+{
+  "tech_id": "66-9",
+  "name_en": "Pull-Out Technique for Tendon Attachment",
+  "name_vi": "Kỹ thuật Khâu Kéo Rút Qua Xương Bằng Nút Bấm Xuyên Xương (Bunnell Pull-Out Wire)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3741,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Kéo Rút Qua Xương Bằng Nút Bấm Xuyên Xương (Bunnell Pull-Out Wire) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Pull-Out Technique for Tendon Attachment (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Pull-Out Technique for Tendon Attachment, phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Pull-Out Technique for Tendon Attachment (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Pull-Out Technique for Tendon Attachment theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-24.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-24.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật khâu kéo rút Bunnell (Pull-out wire) xuyên qua đốt ngón xa và buộc nút trên cúc bấm"
+    },
+    {
+      "url": "web/static/images/techniques/66-9_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-22 Tendon-to-tendon suture. FIGURE 66-21 Roll stitch using 4-0 wire or 4-0 monofilament",
+      "width": 933,
+      "height": 665
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "CHAPTER 66  FLEXOR AND EXTENSOR TENDON INJURIES\n3359\nFIGURE 66-24\t\nTendon attachment through finger flap. \nPulvertaft (1965)\nSnow & Littler (1971)\nStenstrom (1967)\nWilson et al (1985)\nFIGURE 66-25\t\nA-K, End-to-end suture of tendon using Bunnell crisscross stitch (see text). \nA\nB\nD\nE\nF\nG\nH\nI\nJ\nK\nC\nFIGURE 66-26\t\nOne method of attaching tendon to bone. \nA, Small area of cortex is raised with osteotome. B, Hole is drilled \nthrough bone with Kirschner wire in drill. C, Bunnell crisscross \nstitch is placed in end of tendon, and wire suture is drawn through \nhole in bone. D, End of tendon is drawn against bone. \nA\nB\nC\nD"
+}

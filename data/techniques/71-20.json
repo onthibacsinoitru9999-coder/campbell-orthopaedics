@@ -1,1 +1,54 @@
-{"tech_id": "71-20", "name_en": "Posterior Deltoid-to-Triceps Transfer (Moberg, Modified)", "name_vi": "Chuyển Gân Phục Hồi Tổn Thương Phối Hợp Liệt Thần Kinh Giữa & Trụ", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4035, "author": "Moberg, Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Phục Hồi Tổn Thương Phối Hợp Liệt Thần Kinh Giữa & Trụ (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Posterior Deltoid-to-Triceps Transfer (Moberg, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Place the patient in the lateral decubitus position and make a 10- to 13-cm incision along the posterior border of the deltoid muscle down to the insertion of the muscle. Raise flaps over the fascia of the deltoid and identify its humeral insertion.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Using a periosteal elevator and sharp dissection, elevate the posterior third to half of the tendon with a strip of the periosteal insertion (Fig. 71-37A).", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Place this portion of the deltoid under slight tension and gently split the muscle fibers in a distal-to-proximal direc- tion, taking care to palpate and inspect for the axillary nerve and posterior circumflex humeral vessels entering the muscle on its deep surface posteriorly. End the", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": null, "images": []}
+{
+  "tech_id": "71-20",
+  "name_en": "Posterior Deltoid-to-Triceps Transfer (Moberg, Modified)",
+  "name_vi": "Chuyển Gân Phục Hồi Tổn Thương Phối Hợp Liệt Thần Kinh Giữa & Trụ",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4035,
+  "author": "Moberg, Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Phục Hồi Tổn Thương Phối Hợp Liệt Thần Kinh Giữa & Trụ (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Posterior Deltoid-to-Triceps Transfer (Moberg, Modified) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Place the patient in the lateral decubitus position and make a 10- to 13-cm incision along the posterior border of the deltoid muscle down to the insertion of the muscle. Raise flaps over the fascia of the deltoid and identify its humeral insertion.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Using a periosteal elevator and sharp dissection, elevate the posterior third to half of the tendon with a strip of the periosteal insertion (Fig. 71-37A).",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Place this portion of the deltoid under slight tension and gently split the muscle fibers in a distal-to-proximal direc- tion, taking care to palpate and inspect for the axillary nerve and posterior circumflex humeral vessels entering the muscle on its deep surface posteriorly. End the",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-20.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-20.webp",
+      "type": "diagram",
+      "caption": "FIGURE 71-37 Deltoid-to-triceps transfer (Moberg). A, Posterior border of muscle belly is isolated, preserving as much of tendinous insertion as possible. B, Tendon grafts are laced into distal end of posterior deltoid muscle belly and triceps aponeu",
+      "width": 1079,
+      "height": 724
+    },
+    {
+      "url": "web/static/images/techniques/71-20_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 71-38 Rerouting of distal end of biceps and release of interosseous membrane for fixed supination deformity. (Redrawn from Zancolli EA: Structural and dynamic bases of hand surgery, Phila­",
+      "width": 572,
+      "height": 474
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao.",
+  "extracted_text": ". \nA\nB\nC\nDeltoid\nmuscle\nTriceps\nmuscle\nFascia latae\nBone tunnel\nincorporated as elbow flexion increases. The controlled \nmotion brace is discontinued when 90 degrees of elbow \nflexion is achieved without extension lag. Nighttime \nbracing is maintained for 12 weeks"
+}

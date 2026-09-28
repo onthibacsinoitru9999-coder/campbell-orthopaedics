@@ -1,1 +1,72 @@
-{"tech_id": "69-2", "name_en": "Radiocarpal Examination", "name_vi": "Nắn Kín & Bó Bột Gãy Xương Thuyền Cổ Tay Không Di Lệch", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3881, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Bó Bột Gãy Xương Thuyền Cổ Tay Không Di Lệch (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Radiocarpal Examination: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn", "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Nắn Kín & Bó Bột Gãy Xương Thuyền Cổ Tay Không Di Lệch (Chương 69). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.", "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."}, {"step": 2, "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương", "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Nắn Kín & Bó Bột Gãy Xương Thuyền Cổ Tay Không Di Lệch. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.", "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."}, {"step": 3, "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)", "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.", "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."}, {"step": 4, "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động", "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.", "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."}, {"step": 5, "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng", "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.", "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-2",
+  "name_en": "Radiocarpal Examination",
+  "name_vi": "Nắn Kín & Bó Bột Gãy Xương Thuyền Cổ Tay Không Di Lệch",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3881,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Bó Bột Gãy Xương Thuyền Cổ Tay Không Di Lệch (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Remove the needle, incise the skin over the portal, use a small hemostat to dissect gently down to and through the capsule, insert a cannula and blunt obturator, and establish inflow irrigation through the arthroscope.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "As an alternative, a continuous inflow system can be established through the ulnocarpal joint through portal 6 to the ulnar side of the extensor carpi ulnaris. Avoid the dorsal sensory branch of the ulnar nerve.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Outflow can occur through the arthroscope or with gravity drainage through a tube. An irrigation pump that maintains constant pressure and flow may be helpful. Avoid extravasation.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Introduce the arthroscope into the radiocarpal joint at portal 3 through a small skin incision.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Use a small hemostat to dissect bluntly and spread the subcutaneous soft tissues to retract the extensor pollicis longus tendon to the radial side.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Use the hemostat or a no. 11 blade to open the dorsal capsule. Avoid tendon injury.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-2.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-15 A, Standard radiocarpal portals. B, Standard midcarpal portals. STT, Scaphotrapeziotrapezoid; TH, triquetrohamate. (From Gupta R, Bozentka DJ, Osterman AL: Wrist arthroscopy: principles and clinical applications, J Am Acad Orthop Surg 9:",
+      "width": 745,
+      "height": 508
+    },
+    {
+      "url": "web/static/images/techniques/69-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-15 A, Standard radiocarpal portals. B, Standard midcarpal portals. STT, Scaphotrapeziotrapezoid; TH, triquetrohamate. (From Gupta R, Bozentka DJ, Osterman AL: Wrist arthroscopy: principles and clinical applications, J Am Acad Orthop Surg 9:",
+      "width": 570,
+      "height": 294
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "1 can help to evaluate the articular surface of the distal radius. \nUse of needles, such as 20-gauge and 22-gauge hypodermic \nneedles, in the various portals before placement of the probe \nor other instruments helps determine which portal would \nwork best. Portals for the DRUJ are located just proximal and \ndistal to the ulnar head. The posterior interosseous nerve is \nat risk when the proximal portal is used, whereas the trian­\ngular fibrocartilage may be injured by instruments entering \nthe distal portal. The use of a blunt trocar helps avoid injury \nto the joint surface when inserting the arthroscope sheath.\nAlthough larger arthroscopes provide better fields of \nvision, they usually are too large and difficult to manipulate. \nIf continuous inflow irrigation is used, an efficient drainage \nsystem also must be used to avoid fluid extravasation and \ncomplications in the forearm. Pumps with automatic moni­\ntoring of pressure and flow also help to avoid such complica­\ntions. Continuous fluid infusion and positioning the \narthroscope with the camera end toward the ceiling helps \navoid air bubble accumulation. The use of a probe for trian­\ngulation is helpful in examining the ligaments and cartilage \nsurfaces. To see in the joint satisfactorily, joint distraction \nshould be maintained with weight to allow distention with \nsaline and frequent irrigation.\nRADIOCARPAL EXAMINATION\n\nPART XVIII  THE HAND\n3488\nneedle from dorsal-distal to palmar-proximal 12 to 15 \ndegrees to follow the normal distal radial joint palmar tilt \n(Fig. 69-18B). Distend the joint with 5 to 10 mL of normal \nsaline.\n■ Remove the needle, incise the skin over the portal, \nuse a small hemostat to dissect gently down to \nand through the capsule, insert a cannula and blunt \nobturator, and establish inflow irrigation through the \narthroscope.\n■ As an alternative, a continuous inflow system can be \nestablished through the ulnocarpal joint through portal 6 \nto the ulnar side of the extensor carpi ulnaris. Avoid the \ndorsal sensory branch of the ulnar nerve.\n■ Outflow can occur through the arthroscope or with \ngravity drainage through a tube. An irrigation pump that \nmaintains constant pressure and flow may be helpful. \nAvoid extravasation.\n■ Introduce the arthroscope into the radiocarpal joint at \nportal 3 through a small skin incision.\n■ Use a small hemostat to dissect bluntly and spread the \nsubcutaneous soft tissues to retract the extensor pollicis \nlongus tendon to the radial side.\n■ Use the hemostat or a no. 11 blade to open the dorsal \ncapsule. Avoid tendon injury.\n■ Insert the arthroscope with a proximal palmar inclination \nto accommodate the palmar tilt of the distal radius.\n■ Incline the arthroscope so that the proximal end is toward \nthe ceiling to help remove air bubbles.\n■ At this point, identify the palmar capsule of the wrist and \nthe distal radial articular concavity.\n■ Insert a probe through portal 4-5 through a skin incision \nor between the extensor digiti quinti and the extensor \ncarpi ulnaris (6R portal). This portal can be used as an \ninflow or outflow portal during radiocarpal examination \nFIGURE 69-18\t\nA, Radial and ulnar styloid are marked, and distal radius and ulna are outlined. B, Twenty-gauge needle with bevel \nparallel to extensor tendons is inserted through 3-4 portal. C, Blunt trocar is removed and arthroscope inserted. D, 6U portal is \nestablished slightly ulnar to extensor carpi ulnaris tendon. SEE"
+}

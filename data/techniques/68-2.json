@@ -1,1 +1,72 @@
-{"tech_id": "68-2", "name_en": "Polyglycolic Acid and Digital Nerve Repair (Weber et al.)", "name_vi": "Khâu Nối Vi Phẫu Bao Ngoài Thần Kinh Ngón Tay Riêng (Epineurial Repair)", "chapter": 68, "category": "Hand & Wrist", "pdf_page": 3860, "author": "Weber et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nối Vi Phẫu Bao Ngoài Thần Kinh Ngón Tay Riêng (Epineurial Repair) (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).", "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Polyglycolic Acid and Digital Nerve Repair (Weber et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Before nerve repair, trim the ends back to the level at which there was no intraneural hemorrhage for the primary cases and no interfascicular scarring for the sec- ondary cases.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Measure the distance or gap length between the two nerve ends at rest.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Khâu Nối Vi Phẫu Bao Ngoài Thần Kinh Ngón Tay Riêng)", "detail": "Insert the tube as described by Mackinnon and Dellon.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Pull the proximal end of the nerve into the conduit with an 8-0 nylon suture, such that 5 mm of the nerve lies within the tube (Fig. 68-8).", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Khâu Nối Vi Phẫu Bao Ngoài Thần Kinh Ngón Tay Riêng)", "detail": "Because blood clots are an impediment to axonal regen- eration, fill the tube with a solution containing 1000 U of heparin per 100 mL of normal saline.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.", "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).", "image_url": null, "images": []}
+{
+  "tech_id": "68-2",
+  "name_en": "Polyglycolic Acid and Digital Nerve Repair (Weber et al.)",
+  "name_vi": "Khâu Nối Vi Phẫu Bao Ngoài Thần Kinh Ngón Tay Riêng (Epineurial Repair)",
+  "chapter": 68,
+  "category": "Hand & Wrist",
+  "pdf_page": 3860,
+  "author": "Weber et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nối Vi Phẫu Bao Ngoài Thần Kinh Ngón Tay Riêng (Epineurial Repair) (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Polyglycolic Acid and Digital Nerve Repair (Weber et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Before nerve repair, trim the ends back to the level at which there was no intraneural hemorrhage for the primary cases and no interfascicular scarring for the sec- ondary cases.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Measure the distance or gap length between the two nerve ends at rest.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Insert the tube as described by Mackinnon and Dellon.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Pull the proximal end of the nerve into the conduit with an 8-0 nylon suture, such that 5 mm of the nerve lies within the tube (Fig. 68-8).",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Because blood clots are an impediment to axonal regen- eration, fill the tube with a solution containing 1000 U of heparin per 100 mL of normal saline.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Insert the distal end of the nerve into the conduit using the same technique.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.",
+  "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).",
+  "image_url": "web/static/images/techniques/68-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/68-2.webp",
+      "type": "diagram",
+      "caption": "FIGURE 68-8 Weber et al. conduit repair technique. Minimal distance between nerve stumps is 5 mm, even in instances in which ends can be coapted without tension. (Redrawn from Weber",
+      "width": 449,
+      "height": 449
+    },
+    {
+      "url": "web/static/images/techniques/68-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 68-9 A to C, Step-cut technique of Millesi. SEE TECH­ NIQUE 68-3. A",
+      "width": 554,
+      "height": 497
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ".\n5 mm\nreeducation should be started 6 weeks after surgery. \nExercises that focus on localization and pressure versus \nmovement are done 5 to 10 minutes twice a day until \nsensation to the fingertip is recovered. Thereafter, late-\nphase sensory reeducation is begun, which consists of \ntactile discrimination between grades of sandpaper, tex-\ntured cloth, and small objects.\nPOLYGLYCOLIC ACID AND DIGITAL \nNERVE REPAIR\n(WEBER ET AL.)\n■ Before nerve repair, trim the ends back to the level at \nwhich there was no intraneural hemorrhage for the \nprimary cases and no interfascicular scarring for the sec-\nondary cases.\n■ Measure the distance or gap length between the two \nnerve ends at rest.\n■ Insert the tube as described by Mackinnon and Dellon.\n■ Pull the proximal end of the nerve into the conduit with \nan 8-0 nylon suture, such that 5 mm of the nerve lies \nwithin the tube (Fig. 68-8).\n■ Because blood clots are an impediment to axonal regen-\neration, fill the tube with a solution containing 1000 U \nof heparin per 100 mL of normal saline.\n■ Insert the distal end of the nerve into the conduit using \nthe same technique.\n■ Leave a minimum space of 5 mm between nerve ends \neven in cases in which there is only a 0- to 4-mm nerve \ntissue deficit.\n■ Inject additional heparinized saline into the tube to fill any \nremaining space.\n■ Repair any concomitant injuries to bone or tendon and \nreconstruct any vascular interruptions.\n■ Close the soft tissue using whatever tissue necessary and \nsplint the hand and finger as appropriate for the overall \nhand surgery."
+}

@@ -1,1 +1,72 @@
-{"tech_id": "69-4", "name_en": "Distal Radioulnar Examination", "name_vi": "Bắt Vít Nén Ép Qua Da Điều Trị Gãy Xương Thuyền (Percutaneous Screw Fixation)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3883, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Bắt Vít Nén Ép Qua Da Điều Trị Gãy Xương Thuyền (Percutaneous Screw Fixation) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Distal Radioulnar Examination: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Bắt Vít Nén Ép Qua Da Điều Trị Gãy Xương Thuyền)", "detail": "Proximal and distal radioulnar portals have been described by Whipple. The proximal portal is safer because it pre- sents less risk to the articular cartilage of the ulnar head and to the triangular fibrocartilage.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "To establish the proximal portal, incise the dorsal skin just proximal to the dorsal prominence of the ulnar head, centered between the distal ulna and the medial (ulnar) side of the radius.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Bluntly dissect with a hemostat to avoid injury to the extensor carpi ulnaris tendon and the dorsal sensory branch of the ulnar nerve.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Bắt Vít Nén Ép Qua Da Điều Trị Gãy Xương Thuyền)", "detail": "Enter the joint with the hemostat.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Bắt Vít Nén Ép Qua Da Điều Trị Gãy Xương Thuyền)", "detail": "Pass the arthroscopic cannula with a blunt obturator from proximal to distal.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-4",
+  "name_en": "Distal Radioulnar Examination",
+  "name_vi": "Bắt Vít Nén Ép Qua Da Điều Trị Gãy Xương Thuyền (Percutaneous Screw Fixation)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3883,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Bắt Vít Nén Ép Qua Da Điều Trị Gãy Xương Thuyền (Percutaneous Screw Fixation) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Proximal and distal radioulnar portals have been described by Whipple. The proximal portal is safer because it pre- sents less risk to the articular cartilage of the ulnar head and to the triangular fibrocartilage.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "To establish the proximal portal, incise the dorsal skin just proximal to the dorsal prominence of the ulnar head, centered between the distal ulna and the medial (ulnar) side of the radius.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Bluntly dissect with a hemostat to avoid injury to the extensor carpi ulnaris tendon and the dorsal sensory branch of the ulnar nerve.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Enter the joint with the hemostat.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Pass the arthroscopic cannula with a blunt obturator from proximal to distal.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Remove the obturator and insert the arthroscope to determine entry into the joint.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-4.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-19 Ligaments of radiocarpal joint: 1, radioscapho­ capitate; 2, radioscapholunate; 3, radiolunotriquetral; 4, ulnotri­ quetral; 5, ulnolunate; 6, triangular fibrocartilage. SEE TECHNIQUE",
+      "width": 570,
+      "height": 454
+    },
+    {
+      "url": "web/static/images/techniques/69-4_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-19 Ligaments of radiocarpal joint: 1, radioscapho­ capitate; 2, radioscapholunate; 3, radiolunotriquetral; 4, ulnotri­ quetral; 5, ulnolunate; 6, triangular fibrocartilage. SEE TECHNIQUE",
+      "width": 1103,
+      "height": 423
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "PART XVIII  THE HAND\n3490\nFRACTURES AND DISLOCATIONS \nOF THE CARPAL BONES, \nINCLUDING KIENBÖCK DISEASE\nThe diagnosis of fractures and dislocations of the carpal \nbones can be difficult for several reasons. The outlines of the \neight bones are superimposed in most radiographic views. \nEven in the anteroposterior view, at least one bone overlies \nanother. All views must be interpreted with an understanding \nof the normal bone contours, the relationships between the \nbones, and the changing relationships during the various arcs \nof wrist motion.\nBecause of the difficulty in recognizing fractures in acute \ninjuries, fractures in this region may not be seen at initial \nexamination. Articular damage and ligament injuries are \nlocated by palpation of the distal radioulnar area with the \nforearm supinated.\n■ Proximal and distal radioulnar portals have been described \nby Whipple. The proximal portal is safer because it pre-\nsents less risk to the articular cartilage of the ulnar head \nand to the triangular fibrocartilage.\n■ To establish the proximal portal, incise the dorsal skin just \nproximal to the dorsal prominence of the ulnar head, \ncentered between the distal ulna and the medial (ulnar) \nside of the radius.\n■ Bluntly dissect with a hemostat to avoid injury to the \nextensor carpi ulnaris tendon and the dorsal sensory \nbranch of the ulnar nerve.\n■ Enter the joint with the hemostat.\n■ Pass the arthroscopic cannula with a blunt obturator from \nproximal to distal.\n■ Remove the obturator and insert the arthroscope to \ndetermine entry into the joint.\n■ Establish a working portal 5 to 10 mm distal to the \nproximal radioulnar portal by making a small skin incision \nand bluntly dissecting to pass an 18-gauge needle. Use \nthe arthroscope to ensure that the needle is in the joint. \nThis portal can be used as needed for the insertion of \ninstruments such as forceps and shavers.\n■ To establish the DRUJ portal, make an incision over the \nfifth and sixth extensor compartments, dissecting to enter \nthe joint just proximal to the triangular fibrocartilage, \nbetween the fibrocartilage and the ulnar head. As noted \npreviously, the proximal portal allows safer inspection of \nthe lesser sigmoid notch, the ulnar head, and the proximal \nsurface of the triangular fibrocartilage.\n■ After thorough arthroscopic examination, remove the \narthroscope, instruments, and cannulas.\n■ Suture the wounds and apply a compressing bandage \nand supporting splint."
+}

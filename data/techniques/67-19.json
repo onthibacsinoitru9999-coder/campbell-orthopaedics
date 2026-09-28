@@ -1,1 +1,72 @@
-{"tech_id": "67-19", "name_en": "Hemi-Hamate Autograft (Williams et al.)", "name_vi": "Mổ Mở Nắn Chỉnh & Kết Hợp Xương Nẹp Vít Gãy Đốt Ngón Giữa", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3828, "author": "Williams et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh & Kết Hợp Xương Nẹp Vít Gãy Đốt Ngón Giữa (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Hemi-Hamate Autograft (Williams et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Release the collateral ligaments, leaving a small portion attached to the middle phalangeal base to facilitate volar plate reattachment during closure. “Shotgun” the proxi- mal interphalangeal joint by hyperextension and remove remaining bone fragments (Fig. 67-52A).", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Prepare the middle phalangeal base with a rongeur and oscillating saw, taking care to remove bone necessary for the graft. Take special care not to remove much dorsal bone to prevent fracture. Measure the defect with calipers.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Under fluoroscopic guidance, make a 3-cm incision transversely at the ring and small finger carpometacarpal bases.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Make a capsulotomy and locate the distal surface of the hamate. Mark the desired graft centered on the distal hamate articular ridge. The graft should be slightly larger than the defect to allow further contouring.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make the axial hamate cut (Fig. 67-52B, line A) and sagit- tal hamate cut (Fig. 67-52B, lines B and C) with an osteotome or sagittal saw.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-19",
+  "name_en": "Hemi-Hamate Autograft (Williams et al.)",
+  "name_vi": "Mổ Mở Nắn Chỉnh & Kết Hợp Xương Nẹp Vít Gãy Đốt Ngón Giữa",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3828,
+  "author": "Williams et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh & Kết Hợp Xương Nẹp Vít Gãy Đốt Ngón Giữa (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Hemi-Hamate Autograft (Williams et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Release the collateral ligaments, leaving a small portion attached to the middle phalangeal base to facilitate volar plate reattachment during closure. “Shotgun” the proxi- mal interphalangeal joint by hyperextension and remove remaining bone fragments (Fig. 67-52A).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Prepare the middle phalangeal base with a rongeur and oscillating saw, taking care to remove bone necessary for the graft. Take special care not to remove much dorsal bone to prevent fracture. Measure the defect with calipers.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Under fluoroscopic guidance, make a 3-cm incision transversely at the ring and small finger carpometacarpal bases.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Make a capsulotomy and locate the distal surface of the hamate. Mark the desired graft centered on the distal hamate articular ridge. The graft should be slightly larger than the defect to allow further contouring.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Make the axial hamate cut (Fig. 67-52B, line A) and sagit- tal hamate cut (Fig. 67-52B, lines B and C) with an osteotome or sagittal saw.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "The coronal cut can be made with a curved osteotome and is facilitated by removing a small notch of bone proximal to the axial cut (Fig. 67-52B, line A). Make sure not to make the cut too oblique because the graft must be contoured to cup the proximal phalangeal head.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-19.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-19.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-48 A and B, Comminuted intraarticular fracture in middle finger proximal phalanx base of avid tennis player treated by screw fixation.",
+      "width": 491,
+      "height": 527
+    },
+    {
+      "url": "web/static/images/techniques/67-19_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-48 A and B, Comminuted intraarticular fracture in middle finger proximal phalanx base of avid tennis player treated by screw fixation.",
+      "width": 1075,
+      "height": 561
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "hamate articular surface is carefully shaped to match the \ncontour of the middle phalanx (Fig. 67-51). We have found \nthis technique useful, and in selected patients the need to \nprotect the repair with provisional pinning appears unneces­\nsary because intraoperatively dramatic stability is achieved. \nSuccessful outcomes are dependent on accurate graft fashion­\ning to “cup” to the proximal phalangeal head. Suboptimal \nresults will be obtained when the graft is placed flatly and \nrecurrent dorsal subluxation ensues. Some indications for \nthis procedure include delayed presentations of proximal \ninterphalangeal joint dorsal fracture subluxations with middle \nphalanx volar lip fractures exceeding 50% of the articular \nsurface, failed volar plate arthroplasty, and failed dynamic \ntraction or extension block splinting.\nHEMI-HAMATE AUTOGRAFT\n\nCHAPTER 67  FRACTURES, DISLOCATIONS, AND LIGAMENTOUS INJURIES\n3439\nFIGURE 67-50\t\nA, Radiograph 1 year after fracture-dislocation. Patient had pain and only 20 degrees of motion. B, Radiograph 14 \nmonths after arthroplasty. Note smooth, congruous articular arc. C, Active extension 14 months after arthroplasty of proximal inter­\nphalangeal joint. D, Active flexion 14 months after arthroplasty of proximal interphalangeal joint. E, Schema of volar plate advance­\nment. (A-D from Eaton RG, Malerich MM: Volar plate arthroplasty for the proximal interphalangeal joint: a ten-year review, J Hand Surg 5A:260, \n1980.)\nE\nC\nD\nA\nB\nVolar plate\nphalangeal fracture site and the proximal phalangeal \nhead.\n■ Release the collateral ligaments, leaving a small portion \nattached to the middle phalangeal base to facilitate volar \nplate reattachment during closure. “Shotgun” the proxi-\nmal interphalangeal joint by hyperextension and remove \nremaining bone fragments (Fig. 67-52A).\n■ Prepare the middle phalangeal base with a rongeur and \noscillating saw, taking care to remove bone necessary for \nthe graft. Take special care not to remove much dorsal \nbone to prevent fracture. Measure the defect with \ncalipers.\n■ Under fluoroscopic guidance, make a 3-cm incision \ntransversely at the ring and small finger carpometacarpal \nbases.\n■ Make a capsulotomy and locate the distal surface of the \nhamate. Mark the desired graft centered on the distal \nhamate articular ridge. The graft should be slightly larger \nthan the defect to allow further contouring.\n■ Make the axial hamate cut (Fig. 67-52B, line A) and sagit-\ntal hamate cut (Fig. 67-52B, lines B and C) with an \nosteotome or sagittal saw.\n■ The coronal cut can be made with a curved osteotome \nand is facilitated by removing a small notch of bone \nproximal to the axial cut (Fig. 67-52B, line A). Make sure \nnot to make the cut too oblique because the graft must \nbe contoured to cup the proximal phalangeal head.\n■ Contour the graft and place it into the defect and, if \nnecessary, place bone graft under the distal end of the \ngraft to make it cup shaped.\n■ Provisionally fix the graft with a 0.9-mm Kirchner wire in \nthe graft center and fix the graft in place with 1.0- to \n1.5-mm volar to dorsal screws. A third screw can be used \nif the graft is large enough in the provisional pin fixation \nsite.\n■ Reduce the joint and assess the reduction fluoroscopically. \nNote that the hamate articular cartilage is thicker than \nthat of the proximal phalangeal base and an apparent"
+}

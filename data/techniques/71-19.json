@@ -1,1 +1,66 @@
-{"tech_id": "71-19", "name_en": "Distal Biceps-to-Triceps Transfer", "name_vi": "Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Trụ Cao (High Ulnar Nerve Palsy)", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4033, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Trụ Cao (High Ulnar Nerve Palsy) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Distal Biceps-to-Triceps Transfer: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Release the biceps tendon from its attachment and place a large nonabsorbable grasping suture through the tendon.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Through the previously performed medial incision, release the intermuscular septum and identify the ulnar nerve (Fig. 71-36E).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Take care to carefully release the biceps tendon and muscle from surrounding fascial attachments to enhance excursion and line of pull.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Continue the dissection until adequate excursion for transfer of the biceps to the olecranon is achieved.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a third 7-cm posterior incision over the distal third of the triceps and carry it around the olecranon.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": null, "images": []}
+{
+  "tech_id": "71-19",
+  "name_en": "Distal Biceps-to-Triceps Transfer",
+  "name_vi": "Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Trụ Cao (High Ulnar Nerve Palsy)",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4033,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Phục Hồi Liệt Dây Thần Kinh Trụ Cao (High Ulnar Nerve Palsy) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Distal Biceps-to-Triceps Transfer (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Release the biceps tendon from its attachment and place a large nonabsorbable grasping suture through the tendon.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Through the previously performed medial incision, release the intermuscular septum and identify the ulnar nerve (Fig. 71-36E).",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Take care to carefully release the biceps tendon and muscle from surrounding fascial attachments to enhance excursion and line of pull.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Continue the dissection until adequate excursion for transfer of the biceps to the olecranon is achieved.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a third 7-cm posterior incision over the distal third of the triceps and carry it around the olecranon.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-19.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-19.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ kỹ thuật mổ 71-19: Distal Biceps-to-Triceps Transfer (Campbell 13th Ed, Trang 4034)",
+      "width": 1149,
+      "height": 1069
+    },
+    {
+      "url": "web/static/images/techniques/71-19_xray.webp",
+      "type": "xray",
+      "caption": "Sơ đồ kỹ thuật mổ 71-19: Distal Biceps-to-Triceps Transfer (Campbell 13th Ed, Trang 4034)",
+      "width": 1122,
+      "height": 400
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nBOX 71-2\nPatient Evaluation and Muscle Selection \nGuidelines for Tendon Transfers\nPrerequisite Checks for Transfers\nSensibility\nStability\nBone\nNeurologic\nPsychologic\nSoft tissue\nSite adequacy\nAdequate soft-tissue bed\nSupple joints\nMuscle Selection\nStrength\nTendon fraction\nMass fraction\nExcursion\nAlignment\nSynergy\nIntegrity\nExpendability\nStaging\nRehabilitation\n• Release the biceps tendon from its attachment and place \na large nonabsorbable grasping suture through the \ntendon.\n• Through the previously performed medial incision, release \nthe intermuscular septum and identify the ulnar nerve \n(Fig. 71-36E).\n• Take care to carefully release the biceps tendon and \nmuscle from surrounding fascial attachments to enhance \nexcursion and line of pull.\n• Continue the dissection until adequate excursion for \ntransfer of the biceps to the olecranon is achieved.\n• Make a third 7-cm posterior incision over the distal third \nof the triceps and carry it around the olecranon.\n• Sharply split the triceps over the tip of the olecranon (Fig. \n71-36F).\n• Prepare the olecranon by placing a unicortical hole into \nthe intramedullary canal and sequentially enlarge it to \naccommodate the distal biceps tendon (Fig. 71-36G).\n• Transfer the biceps tendon from the anterior incision to \nthe medial incision, superficial to the ulnar nerve into the \nposterior incision (Fig. 71-36H).\n• Pass the biceps tendon obliquely through the medial \nportion of the triceps into the previously placed split in \nthe triceps tendon (Fig. 71-36I).\n• Drill two small holes into the opposite posterior cortex of \nthe olecranon (i.e., inside-out technique) (Fig. 71-36J).\n• With the elbow in full extension, dock the distal biceps \ninto the unicortical hole in the olecranon and secure the \nsutures over the bone tunnel (an interference screw can \nalso be used) (Fig. 71-36K).\n• Subsequently augment the transfer with additional non-\nabsorbable sutures.\n• After appropriate hemostasis and wound closure, apply a \nlong arm splint incorporating the wrist with the elbow in \nfull extension."
+}

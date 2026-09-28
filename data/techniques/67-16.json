@@ -1,1 +1,68 @@
-{"tech_id": "67-16", "name_en": "Open Reduction and Plate Fixation", "name_vi": "Kết Hợp Xương Nẹp Vít Nén Ép Vi Phẫu Thân Xương Bàn Tay", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3821, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kết Hợp Xương Nẹp Vít Nén Ép Vi Phẫu Thân Xương Bàn Tay (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Reduction and Plate Fixation: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Plate fixation for metacarpal fractures should include screw purchase in at least four cortices distal and proximal to the fracture. The choice of plates must be tailored to the individual situation. Stabilize short oblique or spiral fractures requiring neutralization plating with a one- fourth tubu", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Check that screw placement near the fracture spikes is accurate to ensure bicortical purchase.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The 2-mm screws are useful for shaft fractures, and the 2.7-mm screws are better for metaphyseal fractures.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Countersink the screw head to allow for better load distribution and reduce screw head prominence.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Interfragment gliding hole screws compress fracture surfaces together and convert the screws’ torsional load to an axial load. Some metacarpal head fractures can be fixed with a single screw; fractures of the metaphysis and diaphysis require a minimum of two screws. Stable fixa- tion by screws alone", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": "web/static/images/techniques/67-16.webp", "images": [{"url": "web/static/images/techniques/67-16.webp", "type": "diagram", "caption": "Kỹ thuật kết hợp xương nẹp vít vi phẫu cho gãy thân và cổ xương bàn tay"}, {"url": "web/static/images/techniques/67-16_xray.webp", "type": "xray", "caption": "Phim X-quang trước và sau mổ nẹp nén ép kết hợp xương bàn ngón tay"}]}
+{
+  "tech_id": "67-16",
+  "name_en": "Open Reduction and Plate Fixation",
+  "name_vi": "Kết Hợp Xương Nẹp Vít Nén Ép Vi Phẫu Thân Xương Bàn Tay",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3821,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kết Hợp Xương Nẹp Vít Nén Ép Vi Phẫu Thân Xương Bàn Tay (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Open Reduction and Plate Fixation (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Plate fixation for metacarpal fractures should include screw purchase in at least four cortices distal and proximal to the fracture. The choice of plates must be tailored to the individual situation. Stabilize short oblique or spiral fractures requiring neutralization plating with a one- fourth tubular plate and 2.7-mm dynamic compression plate or a one-third tubular plate. Such a strut plate requires protection from loading and early bone grafting.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Check that screw placement near the fracture spikes is accurate to ensure bicortical purchase.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "The 2-mm screws are useful for shaft fractures, and the 2.7-mm screws are better for metaphyseal fractures.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Countersink the screw head to allow for better load distribution and reduce screw head prominence.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Interfragment gliding hole screws compress fracture surfaces together and convert the screws’ torsional load to an axial load. Some metacarpal head fractures can be fixed with a single screw; fractures of the metaphysis and diaphysis require a minimum of two screws. Stable fixa- tion by screws alone is possible for fractures with a length twice the bone diameter and fixed with two or more screws. MINICONDYLAR PLATE FIXATION Minicondylar plates sometimes are useful for metacarpal and phalangeal periarticular injuries. Indications may include (1) acute fractures associated with partial or complete flexor tendon disruption treated with primary tenorrhaphy and early motion, partial or complete extensor tendon injuries that are functionally competent or repaired so as to with­ stand early tensile loading, and periarticular injuries in which the risk of joint stiffness is great because of the severity and location of associated soft-tissue injury, (2) replantation of digits, (3) metaphyseal osteotomies of phalanges or metacarpals, especially in conjunction with capsulotomy or OPEN REDUCTION AND SCREW FIXATION Screw fixation alone may be indicated in long oblique or spiral fractures and displaced intraarticular fractures (Fig. 67-42). The screw size and number will vary according to the fracture pattern. Not all metacarpal fractures shafts can accept even 2-mm screws; thus, smaller screws may adequately suit some fracture needs.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Fracture reduction follows local debridement of hema- toma and soft tissue.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-16.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-16.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật kết hợp xương nẹp vít vi phẫu cho gãy thân và cổ xương bàn tay"
+    },
+    {
+      "url": "web/static/images/techniques/67-16_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang trước và sau mổ nẹp nén ép kết hợp xương bàn ngón tay"
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "PART XVIII  THE HAND\n3432\n■ Plate fixation for metacarpal fractures should include \nscrew purchase in at least four cortices distal and proximal \nto the fracture. The choice of plates must be tailored to \nthe individual situation. Stabilize short oblique or spiral \nfractures requiring neutralization plating with a one-\nfourth tubular plate and 2.7-mm dynamic compression \nplate or a one-third tubular plate. Such a strut plate \nrequires protection from loading and early bone \ngrafting.\nFIGURE 67-41\t\nA, Displaced, closed fractures of metaphyseal shafts of right middle, ring, and small digits and comminuted intraar­\nticular fracture of head and distal metaphysis of index finger. B, Tubular plate fixation of index, middle, ring, and small metacarpals. \n(From Hastings H II: Unstable metacarpal and phalangeal fractures treatment with screws and plates, Clin Orthop Relat Res 214:37, 1987.)\nA\nB\nbone’s long axis. For torsional stress, place screws at 90 \ndegrees to the fracture. The best compromise for resis-\ntance against axial and torsional loading is a screw that \nbisects the angle between a line 90 degrees to the frac-\nture and 90 degrees to the bone’s long axis.\n■ Check that screw placement near the fracture spikes is \naccurate to ensure bicortical purchase.\n■ The 2-mm screws are useful for shaft fractures, and the \n2.7-mm screws are better for metaphyseal fractures.\n■ Countersink the screw head to allow for better load \ndistribution and reduce screw head prominence.\n■ Interfragment gliding hole screws compress fracture \nsurfaces together and convert the screws’ torsional load \nto an axial load. Some metacarpal head fractures can be \nfixed with a single screw; fractures of the metaphysis and \ndiaphysis require a minimum of two screws. Stable fixa-\ntion by screws alone is possible for fractures with a length \ntwice the bone diameter and fixed with two or more \nscrews.\nMINICONDYLAR PLATE FIXATION\nMinicondylar plates sometimes are useful for metacarpal and \nphalangeal periarticular injuries. Indications may include \n(1) acute fractures associated with partial or complete flexor \ntendon disruption treated with primary tenorrhaphy and \nearly motion, partial or complete extensor tendon injuries \nthat are functionally competent or repaired so as to with­\nstand early tensile loading, and periarticular injuries in \nwhich the risk of joint stiffness is great because of the severity \nand location of associated soft-tissue injury, (2) replantation \nof digits, (3) metaphyseal osteotomies of phalanges or \nmetacarpals, especially in conjunction with capsulotomy or \nOPEN REDUCTION AND SCREW \nFIXATION\nScrew fixation alone may be indicated in long oblique \nor spiral fractures and displaced intraarticular fractures \n(Fig. 67-42). The screw size and number will vary according \nto the fracture pattern. Not all metacarpal fractures shafts \ncan accept even 2-mm screws; thus, smaller screws may \nadequately suit some fracture needs.\n■ Fracture reduction follows local debridement of hema-\ntoma and soft tissue.\n■ Limit periosteal stripping to 1 or 2 mm, only enough to \nensure anatomic reduction.\n■ Use reduction forceps or Kirschner wires for temporary \nfixation.\n■ Plan screw placement according to the fracture anatomy.\n■ For compressive forces, which act to deform and shorten \nthe metacarpals, place a screw at 90 degrees to the"
+}

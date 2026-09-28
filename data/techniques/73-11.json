@@ -1,1 +1,72 @@
-{"tech_id": "73-11", "name_en": "Metacarpal Joint Surface Arthroplasty (Beckenbaugh)", "name_vi": "Cân Bằng Lại Mô Mềm & Chuyển Dải Gân Duỗi Khớp Bàn Ngón Chống Trôi Lệch Trụ", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4093, "author": "Beckenbaugh", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cân Bằng Lại Mô Mềm & Chuyển Dải Gân Duỗi Khớp Bàn Ngón Chống Trôi Lệch Trụ (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Metacarpal Joint Surface Arthroplasty (Beckenbaugh): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Incise the extensor hood on the radial side of the central tendon or through its center if no dislocation or sublux­ ation of the tendon is present.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Dissect the extensor tendon free from the joint capsule when possible and split it longitudinally to expose the joint so that the proximal phalangeal dorsal base and the meta­ carpal head with the collateral ligament origins are visible. Preserve the capsule as much as possible for later repair.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Cân Bằng Lại Mô Mềm & Chuyển Dải Gân Duỗi Khớp Bàn Ngón Chống Trôi Lệch Trụ)", "detail": "Use an awl to puncture the metacarpal head in its dorsal third, centered in the width of the head and aligned with the long axis of the metacarpal medullary canal.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Cân Bằng Lại Mô Mềm & Chuyển Dải Gân Duỗi Khớp Bàn Ngón Chống Trôi Lệch Trụ)", "detail": "Attach the alignment guide and insert into the puncture and advance it into the medullary canal one-half to two- thirds the length of the metacarpal. The alignment guide should be parallel to the dorsal surface of the metacarpal shaft and in line with the long axis of the bone.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Begin a partial metacarpal osteotomy using the proximal osteotomy guide mounted on the alignment awl and complete it free hand by following the previously estab­ lished osteotomy plane. Attach the proximal osteotomy guide (Fig. 73-26A) on the alignment awl and advance it Surface replacement arthropl", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-11",
+  "name_en": "Metacarpal Joint Surface Arthroplasty (Beckenbaugh)",
+  "name_vi": "Cân Bằng Lại Mô Mềm & Chuyển Dải Gân Duỗi Khớp Bàn Ngón Chống Trôi Lệch Trụ",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4093,
+  "author": "Beckenbaugh",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cân Bằng Lại Mô Mềm & Chuyển Dải Gân Duỗi Khớp Bàn Ngón Chống Trôi Lệch Trụ (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Metacarpal Joint Surface Arthroplasty (Beckenbaugh) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Incise the extensor hood on the radial side of the central tendon or through its center if no dislocation or sublux­ ation of the tendon is present.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Dissect the extensor tendon free from the joint capsule when possible and split it longitudinally to expose the joint so that the proximal phalangeal dorsal base and the meta­ carpal head with the collateral ligament origins are visible. Preserve the capsule as much as possible for later repair.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Use an awl to puncture the metacarpal head in its dorsal third, centered in the width of the head and aligned with the long axis of the metacarpal medullary canal.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Attach the alignment guide and insert into the puncture and advance it into the medullary canal one-half to two- thirds the length of the metacarpal. The alignment guide should be parallel to the dorsal surface of the metacarpal shaft and in line with the long axis of the bone.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Begin a partial metacarpal osteotomy using the proximal osteotomy guide mounted on the alignment awl and complete it free hand by following the previously estab­ lished osteotomy plane. Attach the proximal osteotomy guide (Fig. 73-26A) on the alignment awl and advance it Surface replacement arthroplasty is reserved for patients with stable metacarpal joints. Most rheumatoid arthritis patients, however, are not candidates for this technique because joint instability much less joint dislocations are contraindications to this procedure. Thus surface replacement arthroplasty is more ideally suited for patients with osteoarthritis or post­ traumatic disorders with intact and stable metacarpal joint collateral ligaments and volar plates. METACARPAL JOINT SURFACE ARTHROPLASTY (BECKENBAUGH)",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "If a single joint is to be replaced, make a longitudinal incision over the metacarpal joint dorsally; if multiple joints are involved, make a curving transverse incision across the metacarpal joints dorsally.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-11.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-11.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-26 Metacarpal joint surface arthroplasty. SEE TECHNIQUE 73-11. A B",
+      "width": 1118,
+      "height": 932
+    },
+    {
+      "url": "web/static/images/techniques/73-11_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-27 Rupture of extensor tendons at level of exten­ sor retinaculum in rheumatoid arthritis. Most ruptures of common finger extensors occur at an abrasive point created by dorsally",
+      "width": 561,
+      "height": 358
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \nA\nB\nC\nD\nSeating plane\nAvoid\nimpingement\nSeating plane\nAvoid\nimpingement\n■ Incise the extensor hood on the radial side of the central \ntendon or through its center if no dislocation or sublux­\nation of the tendon is present.\n■ Dissect the extensor tendon free from the joint capsule \nwhen possible and split it longitudinally to expose the joint \nso that the proximal phalangeal dorsal base and the meta­\ncarpal head with the collateral ligament origins are visible. \nPreserve the capsule as much as possible for later repair.\n■ Use an awl to puncture the metacarpal head in its dorsal \nthird, centered in the width of the head and aligned with \nthe long axis of the metacarpal medullary canal.\n■ Attach the alignment guide and insert into the puncture \nand advance it into the medullary canal one-half to two-\nthirds the length of the metacarpal. The alignment guide \nshould be parallel to the dorsal surface of the metacarpal \nshaft and in line with the long axis of the bone.\n■ Begin a partial metacarpal osteotomy using the proximal \nosteotomy guide mounted on the alignment awl and \ncomplete it free hand by following the previously estab­\nlished osteotomy plane. Attach the proximal osteotomy \nguide (Fig. 73-26A) on the alignment awl and advance it \nSurface replacement arthroplasty is reserved for patients with \nstable metacarpal joints. Most rheumatoid arthritis patients, \nhowever, are not candidates for this technique because joint \ninstability much less joint dislocations are contraindications \nto this procedure. Thus surface replacement arthroplasty is \nmore ideally suited for patients with osteoarthritis or post­\ntraumatic disorders with intact and stable metacarpal joint \ncollateral ligaments and volar plates.\nMETACARPAL JOINT SURFACE \nARTHROPLASTY\n(BECKENBAUGH)\n■ If a single joint is to be replaced, make a longitudinal \nincision over the metacarpal joint dorsally; if multiple \njoints are involved, make a curving transverse incision \nacross the metacarpal joints dorsally."
+}

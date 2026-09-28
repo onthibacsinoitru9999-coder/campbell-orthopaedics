@@ -1,1 +1,70 @@
-{"tech_id": "66-2", "name_en": "Flexor Tendon Repair Using Six-Strand Repair (Adelaide Technique) (Savage)", "name_vi": "Kỹ thuật Khâu Gân Gấp 6 Sợi Lõi Adelaide (Savage)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3738, "author": "Adelaide Technique", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Lõi Adelaide (Savage) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Flexor Tendon Repair Using Six-Strand Repair (Adelaide Technique) (Savage): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Insert the needle laterally into the proximal tendon end on the volar surface within 1 cm from the intended repair site.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Run the strand longitudinally across the repair site and take it out 1 cm past the repair site at the distal tendon end.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Pass the needle transversely in the distal part, taking the strand across the loop, and reinsert it into the distal tendon end; cross the repair site at the dorsal surface and exit at the proximal end dorsally. Then reintroduce the suture transversely to make a loop.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Perform the same suture passage as just described but on the opposite side of the tendon (Fig. 66-16).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "To complete the repair use a peripheral 6-0 monofilament running polypropylene suture (see Fig. 66-13).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-2.webp", "images": [{"url": "web/static/images/techniques/66-2.webp", "type": "diagram", "caption": "Kỹ thuật khâu gân gấp 6 sợi Adelaide và mũi khâu đôi Lim-Tsai chịu lực cao"}]}
+{
+  "tech_id": "66-2",
+  "name_en": "Flexor Tendon Repair Using Six-Strand Repair (Adelaide Technique) (Savage)",
+  "name_vi": "Kỹ thuật Khâu Gân Gấp 6 Sợi Lõi Adelaide (Savage)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3738,
+  "author": "Adelaide Technique",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Gân Gấp 6 Sợi Lõi Adelaide (Savage) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Flexor Tendon Repair Using Six-Strand Repair (Adelaide Technique) (Savage) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Insert the needle laterally into the proximal tendon end on the volar surface within 1 cm from the intended repair site.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Run the strand longitudinally across the repair site and take it out 1 cm past the repair site at the distal tendon end.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Pass the needle transversely in the distal part, taking the strand across the loop, and reinsert it into the distal tendon end; cross the repair site at the dorsal surface and exit at the proximal end dorsally. Then reintroduce the suture transversely to make a loop.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Tie a knot at this site.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Perform the same suture passage as just described but on the opposite side of the tendon (Fig. 66-16).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "To complete the repair use a peripheral 6-0 monofilament running polypropylene suture (see Fig. 66-13).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-2.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật khâu gân gấp 6 sợi Adelaide và mũi khâu đôi Lim-Tsai chịu lực cao"
+    },
+    {
+      "url": "web/static/images/techniques/66-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-16 Modified Tsuge suture technique. SEE TECH­ NIQUE 66-3 to avoid placing knots at the same level on the tendon",
+      "width": 796,
+      "height": 416
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "(CHUNG, MODIFIED TSUGE)\n■ Insert the needle laterally into the proximal tendon end on \nthe volar surface within 1 cm from the intended repair site.\n■ Run the strand longitudinally across the repair site and take \nit out 1 cm past the repair site at the distal tendon end.\n■ Pass the needle transversely in the distal part, taking the \nstrand across the loop, and reinsert it into the distal \ntendon end; cross the repair site at the dorsal surface and \nexit at the proximal end dorsally. Then reintroduce the \nsuture transversely to make a loop.\n■ Tie a knot at this site.\n■ Perform the same suture passage as just described but on \nthe opposite side of the tendon (Fig. 66-16).\n■ To complete the repair use a peripheral 6-0 monofilament \nrunning polypropylene suture (see Fig. 66-13)."
+}

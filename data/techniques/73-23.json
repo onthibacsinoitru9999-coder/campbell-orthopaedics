@@ -1,1 +1,50 @@
-{"tech_id": "73-23", "name_en": "Trapeziometacarpal Ligament Reconstruction (Eaton and Littler)", "name_vi": "Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR (Burton-Pellegrini)", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4104, "author": "Eaton and Littler", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR (Burton-Pellegrini) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Trapeziometacarpal Ligament Reconstruction (Eaton and Littler): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR)", "detail": "The volar ligament is a reflection of the transverse carpal ligament after insertion into crest of trapezium.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR)", "detail": "Note flexor radialis passing directly beneath this ligament.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR)", "detail": "Emerging dorsally, the flexor carpi radialis is passed deep to extensor pollicis brevis and under insertion of abductor pollicis longus, also reinforcing dorsal capsule.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": "web/static/images/techniques/73-23.webp", "images": [{"url": "web/static/images/techniques/73-23.webp", "type": "diagram", "caption": "Phẫu thuật cắt xương thang và tái tạo dây chằng cuộn chêm gân (LRTI) thoái hóa khớp bàn ngón 1"}, {"url": "web/static/images/techniques/73-23_xray.webp", "type": "xray", "caption": "Phim X-quang khớp giả thang bàn 1 và kết quả giữ khoảng cách khớp sau phẫu thuật LRTI"}]}
+{
+  "tech_id": "73-23",
+  "name_en": "Trapeziometacarpal Ligament Reconstruction (Eaton and Littler)",
+  "name_vi": "Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR (Burton-Pellegrini)",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4104,
+  "author": "Eaton and Littler",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR (Burton-Pellegrini) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thao tác can thiệp kỹ thuật (Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR)",
+      "detail": "The volar ligament is a reflection of the transverse carpal ligament after insertion into crest of trapezium.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR)",
+      "detail": "Note flexor radialis passing directly beneath this ligament.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Phẫu thuật LRTI Cắt Xương Thang, Tái Tạo Dây Chằng & Cuộn Chêm Gân FCR)",
+      "detail": "Emerging dorsally, the flexor carpi radialis is passed deep to extensor pollicis brevis and under insertion of abductor pollicis longus, also reinforcing dorsal capsule.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-23.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-23.webp",
+      "type": "diagram",
+      "caption": "Phẫu thuật cắt xương thang và tái tạo dây chằng cuộn chêm gân (LRTI) thoái hóa khớp bàn ngón 1"
+    },
+    {
+      "url": "web/static/images/techniques/73-23_xray.webp",
+      "type": "xray",
+      "caption": "Phim X-quang khớp giả thang bàn 1 và kết quả giữ khoảng cách khớp sau phẫu thuật LRTI"
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "CHAPTER 73  ARTHRITIC HAND\n3693\nFIGURE 73-35\t\nReconstruction for painful thumb carpometacarpal joint. A, Incision for exposure. B, Schema of ligament support. \nThe volar ligament is a reflection of the transverse carpal ligament after insertion into crest of trapezium. Note flexor radialis passing \ndirectly beneath this ligament. C, Gouge track created in sagittal diameter of metacarpal, emerging at its volar beak. Small branch of \nradial nerve retracted volarly. D, A 6-cm to 8-cm strip, representing half width of flexor radialis tendon split away and remaining in \ncontinuity distally. Split continues 5 mm distal to crest of trapezium. E, Scissor point indicates path of flexor radialis strip rerouted to \nenter the channel at metacarpal beak. Emerging dorsally, the flexor carpi radialis is passed deep to extensor pollicis brevis and under \ninsertion of abductor pollicis longus, also reinforcing dorsal capsule. F, Schema of volar and radial ligament reconstruction. Course of \ntendon strip creates reinforcement in volar, dorsal, and radial aspect of joint. (Redrawn from Eaton RG, Littler JW: Ligament reconstruction \nfor the painful thumb carpometacarpal joint, J Bone Joint Surg 55A:1665, 1973.) SEE"
+}

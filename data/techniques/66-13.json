@@ -1,1 +1,70 @@
-{"tech_id": "66-13", "name_en": "Reconstruction of Finger Flexors: Single-Stage Tendon Graft", "name_vi": "Tái Tạo Gân Gấp Bằng Ghép Gân Tự Thân Một Thì (Single-Stage Tendon Graft)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3758, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Bằng Ghép Gân Tự Thân Một Thì (Single-Stage Tendon Graft) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Reconstruction of Finger Flexors: Single-Stage Tendon Graft: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "In 10% to 15% of individuals, the palmaris longus tendon is absent, but when present, it can be taken from the same forearm and used as the graft.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Expose the palmaris longus tendon through a transverse incision just proximal to its insertion at the wrist and through another in the upper forearm.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Dissect the tendon at its musculotendinous junction proximally and detach it distally after dissecting out the various portions of its insertion; draw the tendon out through the proximal forearm incision.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Place a monofilament 4-0 pull-out wire suture in the distal end of the palmaris longus tendon before dividing it proximally. As an alternative, use a 4-0 or 3-0 nylon suture. Arrange the pull-out wire in the retrograde Bunnell technique or use a single-loop antegrade pull-out wire. This suture is mu", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Thread the pull-out wire through the hole in the distal phalanx. Pass the needles in the suture through sterile felt and tie the distal ends of the suture. The distal attach- ment can be reinforced with an absorbable mattress suture.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-13.webp", "images": [{"url": "web/static/images/techniques/66-13.webp", "type": "diagram", "caption": "Kỹ thuật đính gân gấp vào xương đốt xa (Bunnell pull-out wire technique)"}]}
+{
+  "tech_id": "66-13",
+  "name_en": "Reconstruction of Finger Flexors: Single-Stage Tendon Graft",
+  "name_vi": "Tái Tạo Gân Gấp Bằng Ghép Gân Tự Thân Một Thì (Single-Stage Tendon Graft)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3758,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Bằng Ghép Gân Tự Thân Một Thì (Single-Stage Tendon Graft) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "In 10% to 15% of individuals, the palmaris longus tendon is absent, but when present, it can be taken from the same forearm and used as the graft.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Expose the palmaris longus tendon through a transverse incision just proximal to its insertion at the wrist and through another in the upper forearm.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Dissect the tendon at its musculotendinous junction proximally and detach it distally after dissecting out the various portions of its insertion; draw the tendon out through the proximal forearm incision.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Place a monofilament 4-0 pull-out wire suture in the distal end of the palmaris longus tendon before dividing it proximally. As an alternative, use a 4-0 or 3-0 nylon suture. Arrange the pull-out wire in the retrograde Bunnell technique or use a single-loop antegrade pull-out wire. This suture is much more easily placed when the proximal end of the tendon has been stabilized.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Thread the pull-out wire through the hole in the distal phalanx. Pass the needles in the suture through sterile felt and tie the distal ends of the suture. The distal attach- ment can be reinforced with an absorbable mattress suture.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Bring the palmaris longus tendon proximally through the intact tendon sheath and into the palm by wetting the tendon and passing it with a suture passer, or use a 22-gauge wire loop to pass the tendon proximally.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-13.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-13.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật đính gân gấp vào xương đốt xa (Bunnell pull-out wire technique)"
+    },
+    {
+      "url": "web/static/images/techniques/66-13_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-44 Repair of finger flexor tendons by tendon graft. Graft has been sutured in place. Proximal and distal pulleys have been narrowed. SEE TECHNIQUE 66-13.",
+      "width": 659,
+      "height": 616
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \n■ In 10% to 15% of individuals, the palmaris longus tendon \nis absent, but when present, it can be taken from the \nsame forearm and used as the graft.\n■ Expose the palmaris longus tendon through a transverse \nincision just proximal to its insertion at the wrist and \nthrough another in the upper forearm.\n■ Dissect the tendon at its musculotendinous junction \nproximally and detach it distally after dissecting out the \nvarious portions of its insertion; draw the tendon out \nthrough the proximal forearm incision.\n■ Place a monofilament 4-0 pull-out wire suture in the distal \nend of the palmaris longus tendon before dividing it \nproximally. As an alternative, use a 4-0 or 3-0 nylon \nsuture. Arrange the pull-out wire in the retrograde Bunnell \ntechnique or use a single-loop antegrade pull-out wire. \nThis suture is much more easily placed when the proximal \nend of the tendon has been stabilized.\n■ Thread the pull-out wire through the hole in the distal \nphalanx. Pass the needles in the suture through sterile felt \nand tie the distal ends of the suture. The distal attach-\nment can be reinforced with an absorbable mattress \nsuture.\n■ Bring the palmaris longus tendon proximally through the \nintact tendon sheath and into the palm by wetting the \ntendon and passing it with a suture passer, or use a \n22-gauge wire loop to pass the tendon proximally.\n■ A careful attempt must be made to attach the tendon to \nthe graft under appropriate tension.\n■ Place the wrist in neutral and the finger in full extension \nand place tension on the musculotendinous junction \nproximally and on the graft attached to the finger \ndistally.\n■ At the point where the tendon and graft are to be joined, \nmark the junction with a methylene blue pen.\ncannot be closed because of myocontracture, or if other \nconditions exist that may lead the surgeon to select tendon \ngrafting. The following requirements should be met before \na tendon graft is done: (1) the skin is pliable; (2) any \nwounds are well healed; (3) edema has subsided; (4) the \njoints allow a full passive range of motion; and (5) sensa­\ntion in the finger is normal or at least one digital nerve is \nintact (one divided digital nerve can be sutured at the time \nof grafting if the other nerve is intact). The A2 and A4 \npulley systems also should be intact; otherwise, these \nshould be reconstructed in a separate staged procedure \nbefore tendon grafting (see later discussion of technique \nfor pulley reconstruction). Age is a strong prognostic factor. \nResults are best in patients 10 to 30 years old, and the \nworst results occur in the very young and in patients older \nthan 50 years.\n■ Make a zigzag or volar oblique incision on the volar \naspect of the finger to expose the underlying flexor \nsheath up to the proximal finger crease, or make a volar \noblique or midlateral incision (see Fig. 66-34); carefully \navoid entering the proximal interphalangeal joint, which \nhas thin subcutaneous fat laterally. Avoid injuring the \nneurovascular bundles, and make the flaps wide and thick \nenough to prevent necrosis.\n■ Expose the flexor sheath and preserve as much of the \nunscarred sheath as possible.\n■ Excise no more than absolutely necessary of the A2 and \nA4 pulley systems; complete excision of either may result \nin limited excursion of the grafted tendon.\n■ Free the scarred sublimis and profundus tendons and \ncarefully preserve all of the volar plate of the proximal \nand distal interphalangeal joints. In the patient with \nhyperextensible joints, tenodesis of the sublimis helps \nprevent a swan-neck deformity.\n■ Divide both tendons at their insertions and bring them \nout through a transverse palmar incision made over the \nmidbelly of the lumbrical muscles.\n■ Use a small chisel to raise a flap of bone just distal to the \ndistal interphalangeal joint on the volar surface of the \ndistal phalanx for later insertion of the profundus tendon \ngraft (see Fig. 66-26).\n■ Under this bone flap, drill a small hole with a Kirschner \nwire "
+}

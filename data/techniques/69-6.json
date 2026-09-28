@@ -1,1 +1,70 @@
-{"tech_id": "69-6", "name_en": "Open Reduction and Internal Fixation of Acute Displaced Fractures of the Scaphoid—Dorsal Approach", "name_vi": "Mổ Mở Nắn Chỉnh & Bắt Vít Mặt Mu Gãy Cực Gần Xương Thuyền (Dorsal Approach)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3888, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh & Bắt Vít Mặt Mu Gãy Cực Gần Xương Thuyền (Dorsal Approach) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Reduction and Internal Fixation of Acute Displaced Fractures of the Scaphoid—Dorsal Approach: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Pass a loop of Penrose drain around the extensor tendons, and retract them ulnarly.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Mổ Mở Nắn Chỉnh & Bắt Vít Mặt Mu Gãy Cực Gần Xương Thuyền)", "detail": "Open the dorsal capsule by creating a radially based flap, incising along the dorsal intercarpal ligament and the dorsal radiotriquetral ligament.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Retract the capsular flap radially and expose the fracture.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Insert a Kirschner wire into the proximal fragment parallel to the central axis of the scaphoid. Use this wire as a toggle lever (“joystick”) to manipulate the proximal frag- ment into a reduced position.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "When the fracture is reduced, pass the first wire across the fracture for temporary interfragmentary fixation. Insert an additional Kirschner wire, or screw fixation, as the fracture configuration permits.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": "web/static/images/techniques/69-6.webp", "images": [{"url": "web/static/images/techniques/69-6.webp", "type": "diagram", "caption": "Đường mổ mặt mu bộc lộ và bắt vít cố định gãy cực gần xương thuyền (Proximal pole fracture)"}]}
+{
+  "tech_id": "69-6",
+  "name_en": "Open Reduction and Internal Fixation of Acute Displaced Fractures of the Scaphoid—Dorsal Approach",
+  "name_vi": "Mổ Mở Nắn Chỉnh & Bắt Vít Mặt Mu Gãy Cực Gần Xương Thuyền (Dorsal Approach)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3888,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh & Bắt Vít Mặt Mu Gãy Cực Gần Xương Thuyền (Dorsal Approach) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Pass a loop of Penrose drain around the extensor tendons, and retract them ulnarly.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Open the dorsal capsule by creating a radially based flap, incising along the dorsal intercarpal ligament and the dorsal radiotriquetral ligament.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Retract the capsular flap radially and expose the fracture.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Insert a Kirschner wire into the proximal fragment parallel to the central axis of the scaphoid. Use this wire as a toggle lever (“joystick”) to manipulate the proximal frag- ment into a reduced position.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "When the fracture is reduced, pass the first wire across the fracture for temporary interfragmentary fixation. Insert an additional Kirschner wire, or screw fixation, as the fracture configuration permits.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "If a cannulated screw is used, center the guidewire in the proximal and distal poles, monitoring this placement with C-arm fluoroscopy.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-6.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-6.webp",
+      "type": "diagram",
+      "caption": "Đường mổ mặt mu bộc lộ và bắt vít cố định gãy cực gần xương thuyền (Proximal pole fracture)"
+    },
+    {
+      "url": "web/static/images/techniques/69-6_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-24 Dorsal approach to wrist. Transverse incision of skin. Radial-based capsular flap between dorsal radiotriquetral and dorsal intercarpal ligaments (enlargement shows proximal",
+      "width": 562,
+      "height": 561
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \npollicis longus tendon as it exits the third dorsal retinacula \ncompartment. Connect the parallel incisions proximally to \ncreate a flap to allow access to the dorsal wrist capsule.\n■ Pass a loop of Penrose drain around the extensor tendons, \nand retract them ulnarly.\n■ Open the dorsal capsule by creating a radially based flap, \nincising along the dorsal intercarpal ligament and the \ndorsal radiotriquetral ligament.\n■ Retract the capsular flap radially and expose the fracture.\n■ Insert a Kirschner wire into the proximal fragment parallel \nto the central axis of the scaphoid. Use this wire as a \ntoggle lever (“joystick”) to manipulate the proximal frag-\nment into a reduced position.\n■ When the fracture is reduced, pass the first wire across \nthe fracture for temporary interfragmentary fixation. \nInsert an additional Kirschner wire, or screw fixation, as \nthe fracture configuration permits.\n■ If a cannulated screw is used, center the guidewire in the \nproximal and distal poles, monitoring this placement with \nC-arm fluoroscopy.\n■ Determine the appropriate length of the screw to be \nused. Drill and tap the bone, according to the device \nbeing used, and insert the screw of appropriate length. \nEnsure that the guidewire or screw fixation is placed in \nthe center of the long axis of the proximal and distal poles \nof the scaphoid, using C-arm fluoroscopy. Either leave the \ninitial Kirschner wire as supplemental fixation, or remove \nit if screw fixation has been selected.\n■ Close the capsular flap and repair the retinacula flap.\n■ Close the skin and apply a thumb spica cast or splint.\nSee also Video 69-1."
+}

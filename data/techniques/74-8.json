@@ -1,1 +1,66 @@
-{"tech_id": "74-8", "name_en": "Release of Severe Intrinsic Contractures with Muscle Fibrosis (Smith)", "name_vi": "Đóng Kín Vết Mổ Sau Mở Cân Bằng Kỹ Thuật Néo Dây Giày (Shoelace) Kết Hợp Ghép Da", "chapter": 74, "category": "Hand & Wrist", "pdf_page": 4148, "author": "Smith", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Đóng Kín Vết Mổ Sau Mở Cân Bằng Kỹ Thuật Néo Dây Giày (Shoelace) Kết Hợp Ghép Da (Chương 74, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Chẩn đoán phân biệt hội chứng chèn ép khoang muộn quá 24-48 giờ khi cơ đã hoại tử toàn bộ (cân nhắc cắt cụt hoặc điều trị bảo tồn tránh sốc độc tố giải phóng Myoglobin).", "patient_prep": "CẤP CỨU KHẨN CẤP: Không dùng garo hơi. Chuẩn bị hệ thống hút áp lực âm (VAC) và dung dịch bơm rửa vô trùng số lượng lớn.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Release of Severe Intrinsic Contractures with Muscle Fibrosis (Smith): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "B, Position of hand with triangular distal flap (b) sutured into dorsal thumb web defect.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The saddlelike first carpometacarpal joint provides the circumductive movement of the thumb necessary for pinch or grasp functions.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The short abductor muscle positions and stabilizes the thumb metacarpal for pinch; the adductor muscle supplies the power for pinch by acting on the proximal phalanx; the long extrinsic flexor muscle positions the distal phalanx in varying degrees of flexion and consequently controls the type of pin", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "When the skin alone is contracted from a hypertrophic scar after a surgical incision or a laceration along the border of the web, it sometimes can be released by a Z-plasty or a local flap.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The first and second metacarpals are fixed in the desired posi­ tion with Kirschner wires.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Hút áp lực âm VAC liên tục. Trở lại phòng mổ sau 48h để cắt lọc thì 2 và đóng da dần dần bằng kỹ thuật néo dây giày hoặc ghép da.", "pearls_pitfalls": "Mở cân kịp thời trong 6 giờ đầu là cơ hội duy nhất để cứu sống tế bào cơ và thần kinh; KHÔNG BAO GIỜ khâu kín da thì đầu sau mở cân cấp cứu; Đánh giá cẩn trọng sự sống của mô cơ.", "image_url": null, "images": []}
+{
+  "tech_id": "74-8",
+  "name_en": "Release of Severe Intrinsic Contractures with Muscle Fibrosis (Smith)",
+  "name_vi": "Đóng Kín Vết Mổ Sau Mở Cân Bằng Kỹ Thuật Néo Dây Giày (Shoelace) Kết Hợp Ghép Da",
+  "chapter": 74,
+  "category": "Hand & Wrist",
+  "pdf_page": 4148,
+  "author": "Smith",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Đóng Kín Vết Mổ Sau Mở Cân Bằng Kỹ Thuật Néo Dây Giày (Shoelace) Kết Hợp Ghép Da (Chương 74, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Chẩn đoán phân biệt hội chứng chèn ép khoang muộn quá 24-48 giờ khi cơ đã hoại tử toàn bộ (cân nhắc cắt cụt hoặc điều trị bảo tồn tránh sốc độc tố giải phóng Myoglobin).",
+  "patient_prep": "CẤP CỨU KHẨN CẤP: Không dùng garo hơi. Chuẩn bị hệ thống hút áp lực âm (VAC) và dung dịch bơm rửa vô trùng số lượng lớn.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Release of Severe Intrinsic Contractures with Muscle Fibrosis (Smith) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Release of Severe Intrinsic Contractures with Muscle Fibrosis (Smith), phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Release of Severe Intrinsic Contractures with Muscle Fibrosis (Smith) (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Release of Severe Intrinsic Contractures with Muscle Fibrosis (Smith) theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Hút áp lực âm VAC liên tục. Trở lại phòng mổ sau 48h để cắt lọc thì 2 và đóng da dần dần bằng kỹ thuật néo dây giày hoặc ghép da.",
+  "pearls_pitfalls": "Mở cân kịp thời trong 6 giờ đầu là cơ hội duy nhất để cứu sống tế bào cơ và thần kinh; KHÔNG BAO GIỜ khâu kín da thì đầu sau mở cân cấp cứu; Đánh giá cẩn trọng sự sống của mô cơ.",
+  "image_url": "web/static/images/techniques/74-8.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/74-8.webp",
+      "type": "diagram",
+      "caption": "FIGURE 74-12 A, Method of stripping and advancing interos­ seous muscles to slacken them, allowing proximal finger joints to extend and distal two to flex. Interosseous muscles of two",
+      "width": 1183,
+      "height": 792
+    },
+    {
+      "url": "web/static/images/techniques/74-8_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 74-14 Cross-arm flap coverage of deepened thumb web. A, Web space deepening after skin division and muscle recession. B, Position of hand with triangular distal flap (b) sutured into dorsal thumb web defect. Outline of proximal triangular flap",
+      "width": 1087,
+      "height": 424
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "PART XVIII  THE HAND\n3732\nFIGURE 74-14\t\nCross-arm flap coverage of deepened thumb web. A, Web space deepening after skin division and muscle recession. \nB, Position of hand with triangular distal flap (b) sutured into dorsal thumb web defect. Outline of proximal triangular flap (a) that \nwill be used for palmar web coverage. C, Web space reconstruction after transfer of palmar flap at second-stage operation 3 weeks \nlater. \na\nb\na\nb\nC\nB\nA\nfinger or over the distal palmar eminence. The saddlelike first \ncarpometacarpal joint provides the circumductive movement \nof the thumb necessary for pinch or grasp functions. The \nintrinsic muscles of the thumb and the extrinsic flexors and \nextensors all are important in the balanced control required \nto perform these functions effectively. The short abductor \nmuscle positions and stabilizes the thumb metacarpal for \npinch; the adductor muscle supplies the power for pinch by \nacting on the proximal phalanx; the long extrinsic flexor \nmuscle positions the distal phalanx in varying degrees of \nflexion and consequently controls the type of pinch, whether \nit be fingernail-to-fingernail opposition or pulp-to-pulp \nopposition with another digit. The thumb web must be supple \nif these important movements of the thumb are to be possible. \nAny contracture of the thumb web causes limited opposition \nof varying degrees. In severe contracture, the thumb is in a \nposition of adduction and external rotation.\nThe thumb web consists of skin, subcutaneous tissue, \nmuscle, fascia, and joint capsule. Contracture of any one of \nthese tissues can cause a secondary contracture of the others; \nrarely is there contracture of only one. Causes of some inju­\nries include scarring of the skin, burns, infection, crush inju­\nries, congenital webbing, paralysis, Dupuytren contracture, \nand faulty immobilization.\nThe proper treatment of a contracted web is determined \nby which structures of the web are involved; little is accom­\nplished by releasing the skin alone when deeper structures, \nsuch as muscle, fascia, or joint capsule, also are contracted. \nWhen the skin alone is contracted from a hypertrophic scar \nafter a surgical incision or a laceration along the border of the \nweb, it sometimes can be released by a Z-plasty or a local flap.\nCrushing injuries, infections, or deep burns result in \nextensive fibrosis within the thumb web that cannot be treated \nby release of the skin alone; rather, the scarred components \nof the contracted skin, muscle, fascia, and capsule must be \nexcised with care to avoid damaging the radial artery near the \ncarpometacarpal joint. This excision produces a deep fissure \nthat must be filled with skin and subcutaneous fat to provide \nan elastic functioning web. Usually this can be accomplished \nby dorsal rotation or a sliding flap with supplemental skin \ngrafting (Figs. 74-13 and 74-14). If the adjacent dorsal skin is \nunsuitable for transfer, a cross-arm flap may be considered. \nThe cross-arm flap is fashioned as a double triangle, one on \nthe dorsal surface and one on the volar surface of the web, to \neliminate any line of scar paralleling the border of the web. \nThe first and second metacarpals are fixed in the desired posi­\ntion with Kirschner wires. When motion in the carpometa­\ncarpal joint can be restored, any necessary tendon transfers \nfor apposition can be done later, but if motion cannot be \nrestored the carpometacarpal joint must be arthrodesed to \nmaintain the new position of the thumb permanently.\nParalysis of the muscles of apposition can result in sec­\nondary contracture of the skin and joint capsule, and in con­\ntracture of the thumb web, requiring release by a Z-plasty or \nusing a local flap and a skin graft as described by Brand and \nMilford (Fig. 74-14). Contracted fascia and bands of muscle \nmust be released, and capsulotomy of the carpometacarpal \njoint must be done at the same time.\nOccasionally, a useless index finger may provide a filleted \npedicle with which a satis"
+}

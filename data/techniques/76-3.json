@@ -1,1 +1,64 @@
-{"tech_id": "76-3", "name_en": "Endoscopic Carpal Tunnel Release Through a Single Incision (Agee)", "name_vi": "Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Một Cổng Vào (Agee Technique)", "chapter": 76, "category": "Hand & Wrist", "pdf_page": 4179, "author": "Agee", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Một Cổng Vào (Agee Technique) (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Endoscopic Carpal Tunnel Release Through a Single Incision (Agee): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Một Cổng Vào)", "detail": "Use general or regional anesthesia. Although the proce- dure can be done safely using local anesthesia, the increase in tissue fluid can compromise endoscopic viewing.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Exsanguinate the limb with an elastic wrap and inflate a pneumatic tourniquet applied over adequate padding. Leave the arm exposed distal to the tourniquet.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "In a patient with two or more wrist flexion creases, make the incision in the more proximal crease between the tendons of the flexor carpi radialis and flexor carpi ulnaris (Fig. 76-7A).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Use longitudinal blunt dissection to protect the subcuta- neous nerves and expose the forearm fascia. ENDOSCOPIC CARPAL TUNNEL RELEASE THROUGH A SINGLE INCISION (AGEE)", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Một Cổng Vào)", "detail": "Ascertain that the operating room setup is satisfactory. Ensure there is an unobstructed view of the patient’s hand and the television monitor.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.", "pearls_pitfalls": "Luôn nhận diện và bảo vệ tuyệt đối nhánh vận động quặp ngược của thần kinh giữa trong ống cổ tay và nhánh cảm giác nông thần kinh quay trong phẫu thuật De Quervain; Cắt trọn vẹn bề dày dây chằng mà không bỏ sót mép đầu gần.", "image_url": "web/static/images/techniques/76-3.webp", "images": [{"url": "web/static/images/techniques/76-3.webp", "type": "diagram", "caption": "Kỹ thuật nội soi giải phóng ống cổ tay 1 cổng vào theo Agee"}]}
+{
+  "tech_id": "76-3",
+  "name_en": "Endoscopic Carpal Tunnel Release Through a Single Incision (Agee)",
+  "name_vi": "Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Một Cổng Vào (Agee Technique)",
+  "chapter": 76,
+  "category": "Hand & Wrist",
+  "pdf_page": 4179,
+  "author": "Agee",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Một Cổng Vào (Agee Technique) (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Use general or regional anesthesia. Although the proce- dure can be done safely using local anesthesia, the increase in tissue fluid can compromise endoscopic viewing.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Exsanguinate the limb with an elastic wrap and inflate a pneumatic tourniquet applied over adequate padding. Leave the arm exposed distal to the tourniquet.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "In a patient with two or more wrist flexion creases, make the incision in the more proximal crease between the tendons of the flexor carpi radialis and flexor carpi ulnaris (Fig. 76-7A).",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Use longitudinal blunt dissection to protect the subcuta- neous nerves and expose the forearm fascia. ENDOSCOPIC CARPAL TUNNEL RELEASE THROUGH A SINGLE INCISION (AGEE)",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Ascertain that the operating room setup is satisfactory. Ensure there is an unobstructed view of the patient’s hand and the television monitor.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.",
+  "pearls_pitfalls": "Luôn nhận diện và bảo vệ tuyệt đối nhánh vận động quặp ngược của thần kinh giữa trong ống cổ tay và nhánh cảm giác nông thần kinh quay trong phẫu thuật De Quervain; Cắt trọn vẹn bề dày dây chằng mà không bỏ sót mép đầu gần.",
+  "image_url": "web/static/images/techniques/76-3.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/76-3.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật nội soi giải phóng ống cổ tay 1 cổng vào theo Agee"
+    },
+    {
+      "url": "web/static/images/techniques/76-3_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 76-7, cont’d",
+      "width": 880,
+      "height": 351
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ".\nFIGURE 76-7, cont’d\t\n\nPART XVIII  THE HAND\n3760\nIncision = 0.5 cm\n1 cm\nB\nProximal pole\nof pisiform\nA\nIncision\n1-1.5 cm\n0.5 cm\nTransverse fibers\nof carpal ligament\nWalls of trocar\nC\nHook of\nhamate\nUlnar artery\nand nerve\nPisiform\nMedian\nnerve\nRadial\nartery\nScope\nProbe knife\nD\nScope\nTriangle knife\nE\nFIGURE 76-8\t\nChow technique. A, Incision for entry portal. B, Incision for exit portal. C, Following the proximal portal dissection \nand placement of the slotted cannula, the transverse fibers of the transverse carpal ligament are identified in its entirety, by camera \nplacement in the slotted cannula. D, First cut is made with probe knife, cutting distal to proximal, to release distal edge of carpal liga­\nment. E, Second cut made with triangle knife, with cut made in midsection of the transverse carpal ligament. \n■ Use general or regional anesthesia. Although the proce-\ndure can be done safely using local anesthesia, the increase \nin tissue fluid can compromise endoscopic viewing.\n■ Exsanguinate the limb with an elastic wrap and inflate a \npneumatic tourniquet applied over adequate padding. \nLeave the arm exposed distal to the tourniquet.\n■ In a patient with two or more wrist flexion creases, make \nthe incision in the more proximal crease between the \ntendons of the flexor carpi radialis and flexor carpi ulnaris \n(Fig. 76-7A).\n■ Use longitudinal blunt dissection to protect the subcuta-\nneous nerves and expose the forearm fascia.\nENDOSCOPIC CARPAL TUNNEL \nRELEASE THROUGH A \nSINGLE INCISION\n(AGEE)\n■ Ascertain that the operating room setup is satisfactory. \nEnsure there is an unobstructed view of the patient’s hand \nand the television monitor."
+}

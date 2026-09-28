@@ -1,1 +1,65 @@
-{"tech_id": "73-18", "name_en": "Thumb Trapeziometacarpal Joint Synovectomy", "name_vi": "Cắt Bao Hoạt Dịch Bao Gân Gấp & Giải Phóng Ống Cổ Tay Trong Viêm Khớp Dạng Thấp", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4100, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bao Hoạt Dịch Bao Gân Gấp & Giải Phóng Ống Cổ Tay Trong Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Thumb Trapeziometacarpal Joint Synovectomy: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Approach the thumb trapeziometacarpal joint through a straight dorsal incision curving toward the palm over the trapeziometacarpal joint.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Retract the skin, avoiding injury to the cutaneous nerve branches.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Cắt Bao Hoạt Dịch Bao Gân Gấp & Giải Phóng Ống Cổ Tay Trong Viêm Khớp Dạng Thấp)", "detail": "Open the capsule to the dorsal side of the abductor pol­ licis longus and clean the joint as much as possible with a rongeur and curet.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Close the capsule and skin and splint the thumb in exten­ sion and abduction.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Cắt Bao Hoạt Dịch Bao Gân Gấp & Giải Phóng Ống Cổ Tay Trong Viêm Khớp Dạng Thấp)", "detail": "If extensive ligamentous laxity is noted, reconstruction of the trapeziometacarpal capsuloligamentous structures may be required, as described subsequently. SOFT-TISSUE RECONSTRUCTION Soft-tissue reconstruction may be required for rheumatoid deformities at the thumb interphalangeal, metacarpophalan­", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-18",
+  "name_en": "Thumb Trapeziometacarpal Joint Synovectomy",
+  "name_vi": "Cắt Bao Hoạt Dịch Bao Gân Gấp & Giải Phóng Ống Cổ Tay Trong Viêm Khớp Dạng Thấp",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4100,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bao Hoạt Dịch Bao Gân Gấp & Giải Phóng Ống Cổ Tay Trong Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Thumb Trapeziometacarpal Joint Synovectomy (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Approach the thumb trapeziometacarpal joint through a straight dorsal incision curving toward the palm over the trapeziometacarpal joint.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Retract the skin, avoiding injury to the cutaneous nerve branches.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Open the capsule to the dorsal side of the abductor pol­ licis longus and clean the joint as much as possible with a rongeur and curet. CHAPTER 73 ARTHRITIC HAND 3689",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Close the capsule and skin and splint the thumb in exten­ sion and abduction.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "If extensive ligamentous laxity is noted, reconstruction of the trapeziometacarpal capsuloligamentous structures may be required, as described subsequently. SOFT-TISSUE RECONSTRUCTION Soft-tissue reconstruction may be required for rheumatoid deformities at the thumb interphalangeal, metacarpophalan­ geal, and trapeziometacarpal joints or for joint instability related to osteoarthritic deformities, especially at the meta­ carpophalangeal and trapeziometacarpal joints. INTERPHALANGEAL SOFT-TISSUE RECONSTRUCTION",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "If the interphalangeal joint is passively correctable and there are no significant radiographic changes, release of this joint may be effective in restoring some of its flexion.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-18.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-18.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-33 Reconstruction of metacarpophalangeal joint of thumb in rheumatoid arthritis. A, Metacarpophalangeal joint of thumb with extensive tendon damage. After rupture of insertion of extensor pollicis brevis tendon proximal retraction, the exte",
+      "width": 1055,
+      "height": 834
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": "■ Approach the thumb trapeziometacarpal joint through a \nstraight dorsal incision curving toward the palm over the \ntrapeziometacarpal joint.\n■ Retract the skin, avoiding injury to the cutaneous nerve \nbranches.\n■ Open the capsule to the dorsal side of the abductor pol­\nlicis longus and clean the joint as much as possible with \na rongeur and curet.\n\nCHAPTER 73  ARTHRITIC HAND\n3689\n■ Close the capsule and skin and splint the thumb in exten­\nsion and abduction.\n■ If extensive ligamentous laxity is noted, reconstruction of \nthe trapeziometacarpal capsuloligamentous structures \nmay be required, as described subsequently.\nSOFT-TISSUE RECONSTRUCTION\nSoft-tissue reconstruction may be required for rheumatoid \ndeformities at the thumb interphalangeal, metacarpophalan­\ngeal, and trapeziometacarpal joints or for joint instability \nrelated to osteoarthritic deformities, especially at the meta­\ncarpophalangeal and trapeziometacarpal joints.\nINTERPHALANGEAL SOFT-TISSUE \nRECONSTRUCTION\n■ If the interphalangeal joint is passively correctable and \nthere are no significant radiographic changes, release of \nthis joint may be effective in restoring some of its flexion.\n■ Expose the joint; if there is a severe extension contracture \ndeformity, convert the incision to a Z-plasty as the wound \nis closed.\n■ Perform an extensor tenolysis and release the dorsal \ncapsule by retracting the extensor tendon to the side and \nincising the dorsal part of the metacarpophalangeal joint \ncapsule along with the dorsal portions of the collateral \nligaments.\n■ Flex the joint 20 to 30 degrees and pin it with a Kirschner \nwire.\n■ If there is a small portion of the wound that cannot \nbe closed distally, leave it open; it usually heals in 10 to \n14 days.\n■ Apply a thumb spica splint."
+}

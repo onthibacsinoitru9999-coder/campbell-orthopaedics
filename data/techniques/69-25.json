@@ -1,1 +1,53 @@
-{"tech_id": "69-25", "name_en": "Arthroscopic Debridement of Triangular Fibrocartilage Tears", "name_vi": "Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3922, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Arthroscopic Debridement of Triangular Fibrocartilage Tears: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Symptoms of ulnar impaction include ulnar- sided wrist pain that is worsened by ulnar deviation with pronation and supination.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS)", "detail": "Physical findings also include pain on passive ulnar deviation and passive depression of the ulnar head with the wrist stabilized.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Surgical treatment may be considered when splinting, medications, and injections have failed.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS)", "detail": "With an ulnar-positive wrist, the possible presence of degenerative changes in the ulnocarpal joint should be considered; these can be treated with arthroscopic “wafer” resection of the ulnar head (see", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-25",
+  "name_en": "Arthroscopic Debridement of Triangular Fibrocartilage Tears",
+  "name_vi": "Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3922,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Arthroscopic Debridement of Triangular Fibrocartilage Tears (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Symptoms of ulnar impaction include ulnar- sided wrist pain that is worsened by ulnar deviation with pronation and supination.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS)",
+      "detail": "Physical findings also include pain on passive ulnar deviation and passive depression of the ulnar head with the wrist stabilized.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ",
+      "detail": "Surgical treatment may be considered when splinting, medications, and injections have failed.",
+      "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Thao tác can thiệp kỹ thuật (Khâu Nội Soi Sụn Tam Giác TFCC Kỹ Thuật Inside-Out Bằng Chỉ PDS)",
+      "detail": "With an ulnar-positive wrist, the possible presence of degenerative changes in the ulnocarpal joint should be considered; these can be treated with arthroscopic “wafer” resection of the ulnar head (see",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-25.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-25.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-60 Arthroscopic repair of foveal detachment of triangular fibrocartilage complex (TFCC). (From Nakamura T, Sato K, Okazaki M, et al: Repair of foveal detachment of the triangular",
+      "width": 504,
+      "height": 703
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "Palmer classified degenerative changes in the triangular \nfibrocartilage, lunate, triquetrum, lunotriquetral ligament, \nand ulnocarpal joints according to extent and severity (class \n2A-E). These lesions usually are included in the “ulnar impac­\ntion syndrome” or “ulnar abutment syndrome.” Triangular \nfibrocartilage perforation related to ulnar impaction may \noccur in 73% of ulnar-positive and ulnar-neutral wrists; it is \nunusual in ulnar-negative wrists (17%) according to cadaver \nstudies by Palmer and Werner. The thinner articular disc in \nthe ulnar-positive wrist may make it more susceptible to wear \nchanges. Injuries to the distal radial physis, radial shortening \nafter fracture of the distal radius, and shortening after radial \nhead and elbow injuries (Essex-Lopresti) are acquired causes \nof ulnar-positive changes that may contribute to ulnar impac­\ntion symptoms. Symptoms of ulnar impaction include ulnar-\nsided wrist pain that is worsened by ulnar deviation with \npronation and supination. Swelling and restriction of motion \nmay be present. Physical findings also include pain on passive \nulnar deviation and passive depression of the ulnar head with \nthe wrist stabilized. Infiltration of a local anesthetic may help \nlocate the source of the pain. Radiographic techniques men­\ntioned previously assist in showing ulnar-positive relation­\nships and ulnolunate changes. Surgical treatment may be \nconsidered when splinting, medications, and injections have \nfailed. Unloading of the ulnocarpal joint may be accomplished \nwith open or arthroscopic intraarticular procedures and \nextraarticular procedures such as ulnar shortening.\nTREATMENT OF TRAUMATIC LESIONS OF THE \nTRIANGULAR FIBROCARTILAGE COMPLEX \n(PALMER CLASS 1)\nClass 1A lesions are traumatic central tears of the TFCC with \nno instability. Initial treatment is nonoperative for about 4 \nweeks. Persistent pain may be relieved by arthroscopic \ndebridement of the flap portion of the tear. No more than two \nthirds of the central disc should be excised, and 2 mm of the \nTFCC peripheral rim should be preserved to avoid instability \nof the DRUJ. Preoperative evaluation should indicate the \npresence of an ulnar-positive variation. With an ulnar-positive \nwrist, the possible presence of degenerative changes in the \nulnocarpal joint should be considered; these can be treated \nwith arthroscopic “wafer” resection of the ulnar head (see"
+}

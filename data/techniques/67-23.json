@@ -1,1 +1,72 @@
-{"tech_id": "67-23", "name_en": "Tendon Graft to Replace Ruptured Collateral Ligament", "name_vi": "Phẫu thuật Tạo Hình Khớp PIP Bằng Ghép Xương Sụn Móc (Hemi-Hamate Arthroplasty)", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3837, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Tạo Hình Khớp PIP Bằng Ghép Xương Sụn Móc (Hemi-Hamate Arthroplasty) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Tendon Graft to Replace Ruptured Collateral Ligament: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Phẫu thuật Tạo Hình Khớp PIP Bằng Ghép Xương Sụn Móc)", "detail": "Incise the transverse retinacular ligament and reflect the extensor mechanism dorsally.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Phẫu thuật Tạo Hình Khớp PIP Bằng Ghép Xương Sụn Móc)", "detail": "Excise any scar tissue from around the origin and insertion of the cord fibers.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Drill a hole completely through the bone on each side of the joint (Fig. 67-61).", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Obtain the necessary graft material, such as the palmaris longus tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Tie a 4-0 suture or 34-gauge wire loop around each end of the graft and bring one end out through one of the holes on the side opposite the injury.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-23",
+  "name_en": "Tendon Graft to Replace Ruptured Collateral Ligament",
+  "name_vi": "Phẫu thuật Tạo Hình Khớp PIP Bằng Ghép Xương Sụn Móc (Hemi-Hamate Arthroplasty)",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3837,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Tạo Hình Khớp PIP Bằng Ghép Xương Sụn Móc (Hemi-Hamate Arthroplasty) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Tendon Graft to Replace Ruptured Collateral Ligament (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Incise the transverse retinacular ligament and reflect the extensor mechanism dorsally.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Excise any scar tissue from around the origin and insertion of the cord fibers.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Drill a hole completely through the bone on each side of the joint (Fig. 67-61).",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Obtain the necessary graft material, such as the palmaris longus tendon.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Tie a 4-0 suture or 34-gauge wire loop around each end of the graft and bring one end out through one of the holes on the side opposite the injury.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Pass the other end of the graft across the joint and through the hole in the other bone in the appropriate direction.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-23.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-23.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-59 Volar dislocation of middle finger proximal interphalangeal joint. A, Injury suggestive of central slip injury. B, Proximal phalangeal radial condyle buttonholed through extensor mechanism with lateral band trapped volarly. C, Lateral ba",
+      "width": 1135,
+      "height": 1152
+    },
+    {
+      "url": "web/static/images/techniques/67-23_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-60 A, Chronically unstable proximal interphalan­ geal joint permitted tilting and produced pain on pinch. B, Alignment by segmental graft from palmaris longus tendon",
+      "width": 1147,
+      "height": 595
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "PART XVIII  THE HAND\n3448\nFIGURE 67-60\t\nA, Chronically unstable proximal interphalan­\ngeal joint permitted tilting and produced pain on pinch. B, \nAlignment by segmental graft from palmaris longus tendon \nattached through bone. \nA\nB\nFIGURE 67-61\t\nA and B, Reconstruction of collateral ligament \nof proximal interphalangeal joint with tendon graft. SEE TECH­\nNIQUE 67-23. \nA\nB\nFlexor sheath to\nprovide accessory\ncollateral ligament\nGraft\nGraft\n■ Incise the transverse retinacular ligament and reflect the \nextensor mechanism dorsally.\n■ Excise any scar tissue from around the origin and insertion \nof the cord fibers.\n■ Drill a hole completely through the bone on each side of \nthe joint (Fig. 67-61).\n■ Obtain the necessary graft material, such as the palmaris \nlongus tendon.\n■ Tie a 4-0 suture or 34-gauge wire loop around each end \nof the graft and bring one end out through one of the \nholes on the side opposite the injury.\n■ Pass the other end of the graft across the joint and \nthrough the hole in the other bone in the appropriate \ndirection.\n■ Pass each wire loop on the ends of the graft through a \npiece of felt and then through separate holes in a single \nbutton.\n■ Pull the graft snug and tie the two wires together over \nthe button.\n■ Additionally, an accessory collateral ligament may be \ncreated if necessary. Section a portion of the tendon \nsheath on the side opposite the defect; maintain its inser-\ntion into the bone on the side of the involved collateral \nligament, and fold this fascia-like sheath over the grafted \ntendon. Suture it to the graft with the finger in extension. \nTransfix the joint with an oblique Kirschner wire."
+}

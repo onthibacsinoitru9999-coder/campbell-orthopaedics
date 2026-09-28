@@ -1,1 +1,70 @@
-{"tech_id": "73-14", "name_en": "Metacarpophalangeal Joint Arthrodesis (Stern et al.; Segmüller, Modified)", "name_vi": "Phẫu thuật Darrach Cắt Đầu Dưới Xương Trụ Giải Phóng Đau Hội Chứng Caput Ulnae", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4097, "author": "Stern et al.; Segmüller, Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Darrach Cắt Đầu Dưới Xương Trụ Giải Phóng Đau Hội Chứng Caput Ulnae (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Metacarpophalangeal Joint Arthrodesis (Stern et al.; Segmüller, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a transverse dorsal incision over the metacarpopha­ langeal joint to be fused.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Split the extensor hood and joint capsule longitudinally in the center of the central extensor tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Phẫu thuật Darrach Cắt Đầu Dưới Xương Trụ Giải Phóng Đau Hội Chứng Caput Ulnae)", "detail": "Remove sufficient capsule to gain exposure of the joint.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Phẫu thuật Darrach Cắt Đầu Dưới Xương Trụ Giải Phóng Đau Hội Chứng Caput Ulnae)", "detail": "Release the collateral ligaments to allow full flexion of the joint, exposing the joint surfaces proximally and distally.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Phẫu thuật Darrach Cắt Đầu Dưới Xương Trụ Giải Phóng Đau Hội Chứng Caput Ulnae)", "detail": "Remove any remaining articular cartilage from the destroyed joint and remove subchondral bone down to cancellous bone.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": "web/static/images/techniques/73-14.webp", "images": [{"url": "web/static/images/techniques/73-14.webp", "type": "diagram", "caption": "Phẫu thuật Darrach cắt bỏ đầu dưới xương trụ giải phóng đau và dính khớp quay trụ dưới"}]}
+{
+  "tech_id": "73-14",
+  "name_en": "Metacarpophalangeal Joint Arthrodesis (Stern et al.; Segmüller, Modified)",
+  "name_vi": "Phẫu thuật Darrach Cắt Đầu Dưới Xương Trụ Giải Phóng Đau Hội Chứng Caput Ulnae",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4097,
+  "author": "Stern et al.; Segmüller, Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Darrach Cắt Đầu Dưới Xương Trụ Giải Phóng Đau Hội Chứng Caput Ulnae (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Metacarpophalangeal Joint Arthrodesis (Stern et al.; Segmüller, Modified) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make a transverse dorsal incision over the metacarpopha­ langeal joint to be fused.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Split the extensor hood and joint capsule longitudinally in the center of the central extensor tendon.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Remove sufficient capsule to gain exposure of the joint.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Release the collateral ligaments to allow full flexion of the joint, exposing the joint surfaces proximally and distally.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Remove any remaining articular cartilage from the destroyed joint and remove subchondral bone down to cancellous bone.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Use one of two techniques to shape the articular surfaces: Resect the joint surfaces with an osteotome or oscillating saw to achieve the desired angle (20 to 30 degrees), or remove the metacarpal head and proximal phalangeal base to make a cup-and-cone or ball-and-socket fit.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-14.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-14.webp",
+      "type": "diagram",
+      "caption": "Phẫu thuật Darrach cắt bỏ đầu dưới xương trụ giải phóng đau và dính khớp quay trụ dưới"
+    },
+    {
+      "url": "web/static/images/techniques/73-14_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-30 Tension band arthrodesis. A, Phalangeal osteotomy. Cuts are made parallel at desired angle with oscillating saw. B, Hole for 25-gauge or 26-gauge stainless steel wire made through middle phalangeal base dorsal to midaxial line. C, Retrog",
+      "width": 1215,
+      "height": 678
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nA\nC\nD\nB\nE\nphysical therapy is continued until satisfactory motion has \nbeen achieved and the patient understands various exer­\ncises sufficiently to perform them independently.\nFINGER JOINT ARTHRODESIS\nThumb or finger joint arthrodeses may be indicated when \narthroplasty cannot reliably restore stability and motion. \nLigamentous instability and angular and rotational deformi­\nties, especially those of the index and thumb, are more reli­\nably treated by arthrodesis because the stress from pinch and \ngrasp may further the deformity. Occasionally, a joint must \nbe arthrodesed because the muscles that control the digit are \nnot strong enough to stabilize and move all joints. When the \nmetacarpophalangeal joint is destroyed, if good muscle \nstrength is present, arthroplasty is indicated more often than \narthrodesis.\nFollowing are the preferred positions for arthrodesis of \nthe various joints. In the fingers, the metacarpophalangeal \njoint should be fixed in 20 to 30 degrees of flexion. The proxi­\nmal interphalangeal joints should be fixed from 25 degrees of \nflexion in the index finger to almost 40 degrees in the small \nfinger (less flexion in the radial fingers than in the ulnar \nfingers). The distal interphalangeal joints are fixed in 0 to 20 \ndegrees of flexion depending on the patient’s preference and \nthe method of fixation. Techniques for arthrodesis with inter­\nnal fixation include Kirschner wires, screws, and bone graft­\ning techniques. Tension band wiring has been reported to \nprovide reliable fixation for proximal interphalangeal and \nmetacarpophalangeal joint arthrodesis (Fig. 73-30). Kirsch­\nner wire fixation is rapid and simple and allows control of the \nfusion position in flexion, angulation, and rotation before \nfixation. It preserves maximal length, it allows early motion, \nand rapid union is achieved (Fig. 73-31).\nMETACARPOPHALANGEAL JOINT \nARTHRODESIS\n(STERN ET AL.; SEGMÜLLER, MODIFIED)\n■ Make a transverse dorsal incision over the metacarpopha­\nlangeal joint to be fused.\n■ Split the extensor hood and joint capsule longitudinally \nin the center of the central extensor tendon.\n■ Remove sufficient capsule to gain exposure of the \njoint.\n■ Release the collateral ligaments to allow full flexion of \nthe joint, exposing the joint surfaces proximally and \ndistally.\n■ Remove any remaining articular cartilage from the \ndestroyed joint and remove subchondral bone down to \ncancellous bone.\n■ Use one of two techniques to shape the articular surfaces: \nResect the joint surfaces with an osteotome or oscillating \nsaw to achieve the desired angle (20 to 30 degrees), or \nremove the metacarpal head and proximal phalangeal \nbase to make a cup-and-cone or ball-and-socket fit.\n■ With a 0.028-inch Kirschner wire, drill a transverse hole \n5 to 10 mm distal to the fusion site slightly dorsal to the \nmidaxial line."
+}

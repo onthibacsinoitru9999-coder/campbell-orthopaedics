@@ -1,1 +1,66 @@
-{"tech_id": "66-26", "name_en": "Tendon Graft for Correction of Old Mallet Finger Deformity", "name_vi": "Phẫu thuật Littler Chuyển Dải Bên Gân Duỗi Điều Trị Biến Dạng Boutonnière Mạn Tính", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3776, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Littler Chuyển Dải Bên Gân Duỗi Điều Trị Biến Dạng Boutonnière Mạn Tính (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Tendon Graft for Correction of Old Mallet Finger Deformity: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Apply longitudinal tension to the proximal end of the graft and demonstrate that the distal and the proximal interphalangeal joints will be extended.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Secure the distal bony attachment of the tendon to the distal phalanx using an antegrade pull-out wire technique over a felt-and-button gently applied to the pulp of the distal phalanx. Set the tension on the graft by adjusting it with the proximal and the distal interphalangeal joints at neutral ex", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Take care in adjusting the tension on the tendon graft to avoid excessive pull, which can cause proximal interpha- langeal joint flexion and distal interphalangeal joint extension, or a boutonniere posture. If necessary, transfix the proximal interphalangeal joint in extension with a 0.045-inch Kirs", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Phẫu thuật Littler Chuyển Dải Bên Gân Duỗi Điều Trị Biến Dạng Boutonnière Mạn Tính)", "detail": "Immobilize the hand with the wrist slightly extended, the metacarpophalangeal joint flexed, and the proximal and distal interphalangeal joints fully extended.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Apply a well-padded volar plaster splint for postoperative comfort and protection.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-26",
+  "name_en": "Tendon Graft for Correction of Old Mallet Finger Deformity",
+  "name_vi": "Phẫu thuật Littler Chuyển Dải Bên Gân Duỗi Điều Trị Biến Dạng Boutonnière Mạn Tính",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3776,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Littler Chuyển Dải Bên Gân Duỗi Điều Trị Biến Dạng Boutonnière Mạn Tính (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Tendon Graft for Correction of Old Mallet Finger Deformity (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Apply longitudinal tension to the proximal end of the graft and demonstrate that the distal and the proximal interphalangeal joints will be extended.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Secure the distal bony attachment of the tendon to the distal phalanx using an antegrade pull-out wire technique over a felt-and-button gently applied to the pulp of the distal phalanx. Set the tension on the graft by adjusting it with the proximal and the distal interphalangeal joints at neutral extension, and secure the proximal free ends of the tendon graft with a button-over-felt applied to the radial side over the base of the proximal phalanx. With these attachments, passive extension of the proximal interphalangeal joint should show full passive extension of the distal interphalangeal joint with a tenodesis effect.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Take care in adjusting the tension on the tendon graft to avoid excessive pull, which can cause proximal interpha- langeal joint flexion and distal interphalangeal joint extension, or a boutonniere posture. If necessary, transfix the proximal interphalangeal joint in extension with a 0.045-inch Kirschner wire to protect the tenodesis.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Immobilize the hand with the wrist slightly extended, the metacarpophalangeal joint flexed, and the proximal and distal interphalangeal joints fully extended.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Apply a well-padded volar plaster splint for",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-26.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-26.webp",
+      "type": "diagram",
+      "caption": "FIGURE 66-68 Kleinert modification of Bunnell crisscross suture technique. FIGURE 66-67",
+      "width": 1035,
+      "height": 643
+    },
+    {
+      "url": "web/static/images/techniques/66-26_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-69 A and B, Dorsolateral and lateral views of extensor mechanism. C, Anterior dislocation of proximal interphalangeal joint with rupture of middle slip, avulsed collateral ligament, and partial tear of distal fibers of transverse retinacula",
+      "width": 1026,
+      "height": 661
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \nLateral band\nPrimary insertion \nof central tendon\nVolar plate\nvolar to the flexor sheath to guide the tendon graft into \nits appropriate position.\n■ Apply longitudinal tension to the proximal end of the \ngraft and demonstrate that the distal and the proximal \ninterphalangeal joints will be extended.\n■ Secure the distal bony attachment of the tendon to the \ndistal phalanx using an antegrade pull-out wire technique \nover a felt-and-button gently applied to the pulp of the \ndistal phalanx. Set the tension on the graft by adjusting \nit with the proximal and the distal interphalangeal joints \nat neutral extension, and secure the proximal free ends \nof the tendon graft with a button-over-felt applied to the \nradial side over the base of the proximal phalanx. With \nthese attachments, passive extension of the proximal \ninterphalangeal joint should show full passive extension \nof the distal interphalangeal joint with a tenodesis effect.\n■ Take care in adjusting the tension on the tendon graft to \navoid excessive pull, which can cause proximal interpha-\nlangeal joint flexion and distal interphalangeal joint \nextension, or a boutonniere posture. If necessary, transfix \nthe proximal interphalangeal joint in extension with a \n0.045-inch Kirschner wire to protect the tenodesis.\n■ Immobilize the hand with the wrist slightly extended, the \nmetacarpophalangeal joint flexed, and the proximal and \ndistal interphalangeal joints fully extended.\n■ Apply a well-padded volar plaster splint for"
+}

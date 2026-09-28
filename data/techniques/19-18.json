@@ -9,37 +9,31 @@
   "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
   "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_approach": "Đường mổ tạo hình mỏm cụt / vạt da bàn tay (Buck-Gramcko Pollicization (Buck-Gramcko)): Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo tỷ lệ; phẫu tích nhẹ nhàng bộc lộ cấu trúc gân xương, nhận diện bó mạch thần kinh ngón riêng.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Thiết kế vạt da mỏm cụt & Rạch da theo tỷ lệ",
-      "detail": "A H F G B C D Dorsal E First DI (“APB”) First PI (“AP”) EIP (“EPL”) EDC (“APL”) A´ C A B A´ A B C Palmar",
-      "action": "Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo chuẩn tỷ lệ chiều dài/rộng."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Anchor the proximal segment of the tendon to the base of the proximal phalanx; this muscle now functions as an abductor pollicis longus.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Phẫu tích khối cơ, thắt mạch máu chính 2 lần",
-      "detail": "Anchor the proximal segment of the tendon to the base of the proximal phalanx; this muscle now functions as an abductor pollicis longus.",
-      "action": "Cắt cơ theo lớp vát hình nón; phẫu tích bộc lộ bó mạch lớn và thắt kép an toàn."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Trim the skin flaps appropriately; fashion the palmar flap so that when sutured it places sufficient tension on the new thumb to hold it in opposition.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Cắt xử lý thân thần kinh chống u thần kinh mỏm cụt",
-      "detail": "Trim the skin flaps appropriately; fashion the palmar flap so that when sutured it places sufficient tension on the new thumb to hold it in opposition.",
-      "action": "Kéo nhẹ thân thần kinh xuống 3-5 cm, cắt ngang dứt khoát để đầu thần kinh co sâu vào cơ."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Suture the flaps, but avoid a circumferential closure at the base of the new thumb.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Cắt xương, vát tròn bờ xương & Khâu cố định cơ Myodesis",
-      "detail": "Suture the flaps, but avoid a circumferential closure at the base of the new thumb.",
-      "action": "Cắt xương ngang mức dự kiến; dùng giũa mài tròn nhẵn các góc cạnh sắc của vỏ xương."
-    },
-    {
-      "step": 5,
-      "title": "Thì 5: Cầm máu triệt để, đặt dẫn lưu kín & Đóng da không căng",
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
       "detail": "Apply a pressure dressing of wet cotton and a plaster cast.",
-      "action": "Khâu vạt cơ qua các lỗ khoan xương màng xương; khâu da mũi rời nới lỏng không thiếu máu."
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Băng ép mỏm cụt bằng băng chun vô khuẩn hình số 8 hoặc nẹp bột cứng bảo vệ tránh co rút gập khớp. Theo dõi sát màu sắc mép vạt và dịch dẫn lưu. Rút dẫn lưu sau 24-48 giờ. Hướng dẫn tập gồng cơ mỏm cụt và tập phục hồi chức năng đi chi giả sớm.",
@@ -48,13 +42,19 @@
   "images": [
     {
       "url": "web/static/images/techniques/19-18.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 19-18 (Buck-Gramcko Pollicization (Buck-Gramcko)) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 19-30 Pollicization of index finger. A and B, Palmar and dorsal skin incisions. C and D, Appearance after wound closure. E, Rotation of metacarpal head into flexion to prevent postoperative hyperextension. F, Index finger rotated about 160 deg",
+      "width": 1053,
+      "height": 785
     },
     {
       "url": "web/static/images/techniques/19-18_xray.webp",
       "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 19-18 (Buck-Gramcko Pollicization (Buck-Gramcko)) - Campbell 13th Ed"
+      "caption": "FIGURE 19-31 Foucher index pollicization. A, Proposed skin incisions providing a large dorsal flap and a distally based palmar flap, which provide a more weblike fold. B, Metacarpal head rotated into flexion and fixed into the metacarpal base with a ",
+      "width": 1023,
+      "height": 936
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \nA\nH\nF\nG\nB\nC\nD\nDorsal\nE\nFirst DI\n(“APB”)\nFirst PI (“AP”)\nEIP (“EPL”)\nEDC\n(“APL”)\nA´\nC\nA B\nA´\nA\nB\nC\nPalmar\n■ Anchor the proximal segment of the tendon to the base \nof the proximal phalanx; this muscle now functions as an \nabductor pollicis longus.\n■ Trim the skin flaps appropriately; fashion the palmar flap \nso that when sutured it places sufficient tension on the \nnew thumb to hold it in opposition.\n■ Suture the flaps, but avoid a circumferential closure at the \nbase of the new thumb.\n■ Apply a pressure dressing of wet cotton and a plaster cast."
 }

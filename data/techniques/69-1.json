@@ -1,1 +1,52 @@
-{"tech_id": "69-1", "name_en": "Patient Positioning for Wrist Arthroscopy", "name_vi": "Đánh Giá X-Quang & Mổ Khám Xét Giải Phẫu Bệnh Lý Khối Xương Cổ Tay", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3880, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Đánh Giá X-Quang & Mổ Khám Xét Giải Phẫu Bệnh Lý Khối Xương Cổ Tay (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Patient Positioning for Wrist Arthroscopy: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "High-definition (HD) video camera system/imaging console Liquid crystal display (LCD) or light-emitting diode (LED) video monitor Image capture system/digital video recorder Irrigation system: gravity feed usually satisfactory; pumps (mechanical and manual) allow better irrigation and use of suction", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "With the patient supine and the shoul­ der abducted on a hand table, arthroscopy can be done with the elbow flexed and the hand pointing toward the ceiling.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Đánh Giá X-Quang & Mổ Khám Xét Giải Phẫu Bệnh Lý Khối Xương Cổ Tay)", "detail": "Extension of the elbow (horizontal position) to allow prona­ tion of the forearm may facilitate the treatment of intraarticu­ lar fractures.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": "web/static/images/techniques/69-1.webp", "images": [{"url": "web/static/images/techniques/69-1.webp", "type": "diagram", "caption": "Đặc điểm giải phẫu và mạng lưới cấp máu nội xương của xương thuyền (Scaphoid vascularity)"}]}
+{
+  "tech_id": "69-1",
+  "name_en": "Patient Positioning for Wrist Arthroscopy",
+  "name_vi": "Đánh Giá X-Quang & Mổ Khám Xét Giải Phẫu Bệnh Lý Khối Xương Cổ Tay",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3880,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Đánh Giá X-Quang & Mổ Khám Xét Giải Phẫu Bệnh Lý Khối Xương Cổ Tay (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Patient Positioning for Wrist Arthroscopy (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "High-definition (HD) video camera system/imaging console Liquid crystal display (LCD) or light-emitting diode (LED) video monitor Image capture system/digital video recorder Irrigation system: gravity feed usually satisfactory; pumps (mechanical and manual) allow better irrigation and use of suction",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "With the patient supine and the shoul­ der abducted on a hand table, arthroscopy can be done with the elbow flexed and the hand pointing toward the ceiling.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Đánh Giá X-Quang & Mổ Khám Xét Giải Phẫu Bệnh Lý Khối Xương Cổ Tay)",
+      "detail": "Extension of the elbow (horizontal position) to allow prona­ tion of the forearm may facilitate the treatment of intraarticu­ lar fractures.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-1.webp",
+      "type": "diagram",
+      "caption": "Đặc điểm giải phẫu và mạng lưới cấp máu nội xương của xương thuyền (Scaphoid vascularity)"
+    },
+    {
+      "url": "web/static/images/techniques/69-1_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-14 Positioning of patient and equipment for wrist arthroscopy. CDR, Compact disc recorder. SEE TECHNIQUE 69-1. Monitor",
+      "width": 484,
+      "height": 374
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "High-definition (HD) video camera system/imaging console\nLiquid crystal display (LCD) or light-emitting diode (LED) \nvideo monitor\nImage capture system/digital video recorder\nIrrigation system: gravity feed usually satisfactory; pumps \n(mechanical and manual) allow better irrigation and use \nof suction and cutting tools\n18-gauge needles\nSterile tubing\nLimb-positioning attachments\nCeiling hook or overhead pole and pulley\nRobotic devices, convenient and easily adjustable (trac­\ntion “tower”)\nFingertraps\nForearm and wrist stabilizers\nTraction weights: 4 to 7 lb\nScalpel blades\nArthroscopy instruments\nRadiofrequency probes\nBasket forceps: 2 to 3 mm in diameter, 40 to 60 mm long\nCutting tools\nFour-jaw, shallow probe: 40 mm long, 1.5 to 2.0 mm in \ndiameter\nGrasping forceps with thin jaws: straight and curved\nResector: full radius and 2 to 3 mm in diameter usually \nbest\nPower source\nPOSITIONING AND PREPARATION OF \nTHE PATIENT\nWrist arthroscopy can be done with the patient under regional \nblock anesthesia or general anesthesia. If multiple procedures \nare to be done, or if the patient is uncomfortable, a general \nanesthetic usually is best. The use of a pneumatic arm tour­\nniquet is optional but may be helpful when treating an \nintraarticular fracture. With the patient supine and the shoul­\nder abducted on a hand table, arthroscopy can be done with \nthe elbow flexed and the hand pointing toward the ceiling. \nExtension of the elbow (horizontal position) to allow prona­\ntion of the forearm may facilitate the treatment of intraarticu­\nlar fractures.\nPATIENT POSITIONING FOR WRIST \nARTHROSCOPY\nFIGURE 69-14\t\nPositioning of patient and equipment for wrist \narthroscopy. CDR, Compact disc recorder. SEE"
+}

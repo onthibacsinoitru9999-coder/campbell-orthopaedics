@@ -1,1 +1,63 @@
-{"tech_id": "66-22", "name_en": "Tenodesis", "name_vi": "Phẫu thuật Fowler Giải Phóng Dải Giữa Gân Duỗi Điều Trị Ngón Tay Búa Mạn Tính", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3767, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Fowler Giải Phóng Dải Giữa Gân Duỗi Điều Trị Ngón Tay Búa Mạn Tính (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Tenodesis: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make an incision on the radial side of the thumb from a point near the base of the nail to near the middle of the metacarpal and angle it toward the palm to end near the middle of the thenar eminence.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Elevate the skin and subcutaneous tissue as a flap with its base toward the palm; carefully dissect the branch of the radial nerve and its corresponding vessel, and retract them with this flap.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Dissect the digital neurovascular bundle, which lies well toward the anterior aspect of the thumb.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Identify the pulley and open the tendon sheath and the pulley sufficiently to insert the tendon graft, but leave a segment of the pulley at least 1 cm wide intact over the metacarpophalangeal joint to prevent bowstringing of the tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Phẫu thuật Fowler Giải Phóng Dải Giữa Gân Duỗi Điều Trị Ngón Tay Búa Mạn Tính)", "detail": "Also leave intact the oblique pulley at the proximal and middle thirds of the proximal phalanx.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-22",
+  "name_en": "Tenodesis",
+  "name_vi": "Phẫu thuật Fowler Giải Phóng Dải Giữa Gân Duỗi Điều Trị Ngón Tay Búa Mạn Tính",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3767,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Fowler Giải Phóng Dải Giữa Gân Duỗi Điều Trị Ngón Tay Búa Mạn Tính (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make an incision on the radial side of the thumb from a point near the base of the nail to near the middle of the metacarpal and angle it toward the palm to end near the middle of the thenar eminence.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Elevate the skin and subcutaneous tissue as a flap with its base toward the palm; carefully dissect the branch of the radial nerve and its corresponding vessel, and retract them with this flap.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Dissect the digital neurovascular bundle, which lies well toward the anterior aspect of the thumb.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Identify the pulley and open the tendon sheath and the pulley sufficiently to insert the tendon graft, but leave a segment of the pulley at least 1 cm wide intact over the metacarpophalangeal joint to prevent bowstringing of the tendon.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Also leave intact the oblique pulley at the proximal and middle thirds of the proximal phalanx.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Free the flexor tendon, but do not enter the interphalan- geal joint or damage its volar plate.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-22.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-22.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ phẫu thuật 66-22: Tenodesis of Flexor Tendons (Campbell 13th Ed, Trang 3770)"
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ").\nFLEXOR TENDON GRAFT\n■ Make an incision on the radial side of the thumb from a \npoint near the base of the nail to near the middle of the \nmetacarpal and angle it toward the palm to end near the \nmiddle of the thenar eminence.\n■ Elevate the skin and subcutaneous tissue as a flap with \nits base toward the palm; carefully dissect the branch of \nthe radial nerve and its corresponding vessel, and retract \nthem with this flap.\n■ Dissect the digital neurovascular bundle, which lies well \ntoward the anterior aspect of the thumb.\n■ Identify the pulley and open the tendon sheath and the \npulley sufficiently to insert the tendon graft, but leave a \nsegment of the pulley at least 1 cm wide intact over the \nmetacarpophalangeal joint to prevent bowstringing of \nthe tendon.\n■ Also leave intact the oblique pulley at the proximal and \nmiddle thirds of the proximal phalanx.\n■ Free the flexor tendon, but do not enter the interphalan-\ngeal joint or damage its volar plate.\n■ Make a transverse incision 2.5 cm long proximal to the \nflexor crease of the wrist and identify the flexor pollicis \nlongus tendon and withdraw it; if possible, tag the distal \nend of the tendon with a suture before withdrawing it, \nand use this suture as a guide in threading the graft into \nthe thumb.\n■ Obtain a tendon graft from an appropriate site, usually \nthe palmaris longus or toe extensor digitorum longus \ntendons.\n■ Anchor the graft at the point of insertion of the original \ntendon as described for a flexor tendon graft of a \nfinger.\n■ Use the end-weave technique to suture the proximal end \nof the graft to the distal end of the flexor pollicis longus \ntendon at a level proximal to the wrist so that the juncture \ndoes not enter the carpal tunnel or encroach on the \nmedian nerve when the thumb and wrist are extended.\n■ The graft should be under enough tension to flex slightly \nthe interphalangeal joint of the thumb when the wrist is"
+}

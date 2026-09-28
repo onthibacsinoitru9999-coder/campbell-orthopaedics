@@ -9,41 +9,64 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Khớp Cổ Tay Bằng Mảnh Ghép Xương Sụn Vi Phẫu Điều Trị Bất Sản Xương Quay (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
   "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Cleft Closure (Barsky): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Cleft Closure (Barsky) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Đường rạch da dọc mép khe hở bàn tay (Incision along Cleft Margins)",
-      "detail": "Make an incision from the free end of the flap along the opposing surfaces of the cleft. Rạch da theo bờ các ngón tay cạnh khe hở bàn tay bẩm sinh.",
-      "action": "Thiết kế đường rạch bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Under tourniquet control, sharply elevate a distally based, diamond-shaped flap from one side of the opposing sides of the involved fingers (Fig. 79-25A). Place the flap slightly dorsally to allow for a gentle slope of the commissure. Make the flap approximately 1 cm at the base and 1.5 times longer than wide. Defat the flap down to the subdermal vascular plexus.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Thiết kế & Bóc tách vạt da hình thoi đáy ngọn (Diamond-Shaped Flap Elevation)",
-      "detail": "Under tourniquet control, sharply elevate a distally based, diamond-shaped flap from one side of the opposing sides of the involved fingers (Fig. 79-25A). Place the flap slightly dorsally to allow for a gentle slope of the commissure. Make the flap approximately 1 cm at the base and 1.5 times longer.",
-      "action": "Bóc tách vạt da hình thoi có cuống đáy ở ngọn ngón tay để tái tạo kẽ ngón mới."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Make an incision from the free end of the flap along the opposing surfaces of the cleft.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Bộc lộ xương bàn tay ngoài màng xương (Extraperiosteal Metacarpal Exposure)",
-      "detail": "Expose the metacarpals extraperiosteally. Phẫu tích bộc lộ thân và đầu các xương bàn ngón tay hai bên khe hở.",
-      "action": "Bộc lộ xương bàn ngoài màng xương bảo vệ các nhánh mạch máu thần kinh."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Expose the metacarpals extraperiosteally.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Cắt lọc mô mềm thừa & Thành phần xương cản trở (Excision of Excess Elements)",
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
       "detail": "Excise excess soft tissue and bony elements that would prevent apposing of the metacarpals.",
-      "action": "Giải phóng triệt để các cấu trúc xơ xương bất thường ngăn cản việc khép các xương bàn tay."
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Khoan lỗ xương bàn, khâu khép khe hở & Đóng da chuyển vạt (Metacarpal Approximation & Flap Inset)",
-      "detail": "Drill two holes in each metacarpal just proximal to the heads and place a heavy suture through the holes (Fig. 79-25B) to appose the metacarpals. Chuyển vạt hình thoi tái tạo kẽ ngón và khâu đóng da bằng chỉ nylon 5-0 không sức căng, nẹp bột bất động bàn tay.",
-      "action": "Buộc khép vững chắc hai xương bàn tay và tạo vòm kẽ ngón mềm mại tự nhiên."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Drill two holes in each metacarpal just proximal to the heads and place a heavy suture through the holes (Fig. 79-25B).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Approximate the metacarpals and tie the suture to secure the correction.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
   "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/79-9.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-9.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-25 Barsky technique of cleft closure. A, Skin inci­ sion. B, Approximation of metacarpals with heavy sutures passed through holes drilled in bone. C, Flap used to create new web",
+      "width": 578,
+      "height": 516
+    },
+    {
+      "url": "web/static/images/techniques/79-9_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-26 Snow and Littler technique of combined cleft closure and release of thumb adduction contracture (see text). A, Dorsal view. Skin incisions, flap elevation, and wound closure. B, Palmar view. Skin incisions, flap elevation, and wound clos",
+      "width": 970,
+      "height": 829
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": ". \nA\nB\nC\nCLEFT CLOSURE\n(BARSKY)\n■ Under tourniquet control, sharply elevate a distally based, \ndiamond-shaped flap from one side of the opposing sides \nof the involved fingers (Fig. 79-25A). Place the flap slightly \ndorsally to allow for a gentle slope of the commissure. \nMake the flap approximately 1 cm at the base and 1.5 \ntimes longer than wide. Defat the flap down to the \nsubdermal vascular plexus.\n■ Make an incision from the free end of the flap along the \nopposing surfaces of the cleft.\n■ Expose the metacarpals extraperiosteally.\n■ Excise excess soft tissue and bony elements that would \nprevent apposing of the metacarpals.\n■ Drill two holes in each metacarpal just proximal to the \nheads and place a heavy suture through the holes \n(Fig. 79-25B).\n■ Approximate the metacarpals and tie the suture to secure \nthe correction.\n■ Close the dorsal and palmar skin incisions from proximal \nto distal.\n■ Excise excess skin to create interdigitating flaps along the \ndorsal and palmar surfaces.\n■ Place the finger flap into the commissure, and before \nsuturing the flap, excise excess skin from the dorsum of \nthe hand, rather than from the flap (see Fig. 79-25C).\n■ Apply a well-molded, long arm cast to the level of the \nmetacarpal heads over a minimal amount of bandages."
 }

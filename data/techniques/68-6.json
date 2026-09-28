@@ -1,1 +1,54 @@
-{"tech_id": "68-6", "name_en": "Repair of the Ulnar Nerve", "name_vi": "Khâu Nối Vi Phẫu Dây Thần Kinh Giữa Tại Vùng Cổ Tay", "chapter": 68, "category": "Hand & Wrist", "pdf_page": 3863, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nối Vi Phẫu Dây Thần Kinh Giữa Tại Vùng Cổ Tay (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).", "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Repair of the Ulnar Nerve: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Extensive freeing of a nerve may damage its blood supply. When advancing the nerve distally, do not divide its branches to the muscles in the proximal forearm.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Careful intraneural dissection of the branches may allow mobilization of the nerve. Flex the elbow as necessary to avoid tension, but avoid excessive flexion of the elbow.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Use the operating microscope to help align major groups of fascicles. Although four-quadrant traction sutures may be sufficient, it is sometimes easier to start with the deep surface and close the cut surface like a book, using a combination of 8-0 or 9-0 nylon epiperineurial and 10-0 perineurial (f", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.", "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).", "image_url": null, "images": []}
+{
+  "tech_id": "68-6",
+  "name_en": "Repair of the Ulnar Nerve",
+  "name_vi": "Khâu Nối Vi Phẫu Dây Thần Kinh Giữa Tại Vùng Cổ Tay",
+  "chapter": 68,
+  "category": "Hand & Wrist",
+  "pdf_page": 3863,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nối Vi Phẫu Dây Thần Kinh Giữa Tại Vùng Cổ Tay (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Extensive freeing of a nerve may damage its blood supply. When advancing the nerve distally, do not divide its branches to the muscles in the proximal forearm.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Careful intraneural dissection of the branches may allow mobilization of the nerve. Flex the elbow as necessary to avoid tension, but avoid excessive flexion of the elbow.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Use the operating microscope to help align major groups of fascicles. Although four-quadrant traction sutures may be sufficient, it is sometimes easier to start with the deep surface and close the cut surface like a book, using a combination of 8-0 or 9-0 nylon epiperineurial and 10-0 perineurial (fascicular) suture to complete the repair.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.",
+  "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).",
+  "image_url": "web/static/images/techniques/68-6.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/68-6.webp",
+      "type": "diagram",
+      "caption": "FIGURE 68-12 Anatomic zone system of the proper digital nerve (PDN) defects. Zone 1, the origin of the dorsal branch of the PDN to the proximal interphalangeal joint; zone 2, the origin",
+      "width": 487,
+      "height": 639
+    },
+    {
+      "url": "web/static/images/techniques/68-6_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 68-13 A, Proper digital nerve defect involving zone 2. B, Donor nerve is harvested from the dorsal branch of the proper digital nerve of the adjacent digit. To achieve a good size match of the donor nerve, the dorsal branch (arrowhead) is sepa",
+      "width": 1101,
+      "height": 1020
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "ULNAR NERVE AT THE WRIST\nIf the ulnar artery and the tendon of the flexor carpi ulnaris \nare severed at the wrist, the ulnar nerve usually is severed, \ntoo. At this level, it is motor and sensory, and proper \nrotational alignment of the ends is important at the time of \nsuture.\nREPAIR OF THE ULNAR NERVE\n\nPART XVIII  THE HAND\n3472\n■ Extensive freeing of a nerve may damage its blood supply. \nWhen advancing the nerve distally, do not divide its \nbranches to the muscles in the proximal forearm.\n■ Careful intraneural dissection of the branches may allow \nmobilization of the nerve. Flex the elbow as necessary to \navoid tension, but avoid excessive flexion of the elbow.\n■ Use the operating microscope to help align major groups \nof fascicles. Although four-quadrant traction sutures may \nbe sufficient, it is sometimes easier to start with the deep \nsurface and close the cut surface like a book, using a \ncombination of 8-0 or 9-0 nylon epiperineurial and 10-0 \nperineurial (fascicular) suture to complete the repair.\nFIGURE 68-13\t\nA, Proper digital nerve defect involving zone 2. B, Donor nerve is harvested from the dorsal branch of the proper \ndigital nerve of the adjacent digit. To achieve a good size match of the donor nerve, the dorsal branch (arrowhead) is separated from \nthe stump of the distal nerve and the remaining nerve stump is sutured with the donor nerve. (Redrawn from Chen C, Tang P, Zhang X: \nFinger sensory reconstruction with transfer of the proper digital nerve dorsal branch, J Hand Surg Am 38:82, 2013.) SEE"
+}

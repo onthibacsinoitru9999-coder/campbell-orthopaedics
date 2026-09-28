@@ -1,1 +1,60 @@
-{"tech_id": "79-26", "name_en": "Excision of Extra Digit", "name_vi": "Tách Dính Ngón Phức Tạp Có Cầu Xương Chung Đốt Xa (Acrosyndactyly)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4301, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tách Dính Ngón Phức Tạp Có Cầu Xương Chung Đốt Xa (Acrosyndactyly) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Excision of Extra Digit: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Under tourniquet control if possible, place a longitudinal incision over the proximal aspect of the preaxial ulnar bone.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Expose the proximal ulna extraperiosteally, preserving a sufficient periosteal and ligamentous strip to reconstruct a collateral ligament.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Tách Dính Ngón Phức Tạp Có Cầu Xương Chung Đốt Xa)", "detail": "Excise a sufficient amount of the ulna, along with its remaining periosteum, to allow adequate extension and flexion, usually approximately 1 inch of bone.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Check the stability of the elbow, close the incision in layers, and apply a long arm cast with the elbow in 90 degrees of flexion.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-26",
+  "name_en": "Excision of Extra Digit",
+  "name_vi": "Tách Dính Ngón Phức Tạp Có Cầu Xương Chung Đốt Xa (Acrosyndactyly)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4301,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tách Dính Ngón Phức Tạp Có Cầu Xương Chung Đốt Xa (Acrosyndactyly) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Under tourniquet control if possible, place a longitudinal incision over the proximal aspect of the preaxial ulnar bone.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Expose the proximal ulna extraperiosteally, preserving a sufficient periosteal and ligamentous strip to reconstruct a collateral ligament.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Tách Dính Ngón Phức Tạp Có Cầu Xương Chung Đốt Xa)",
+      "detail": "Excise a sufficient amount of the ulna, along with its remaining periosteum, to allow adequate extension and flexion, usually approximately 1 inch of bone.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Check the stability of the elbow, close the incision in layers, and apply a long arm cast with the elbow in 90 degrees of flexion.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-26.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-26.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-52 Type 2 postaxial polydactyly: partial duplication of digit, including osseous structures. but no complications were encountered, and at 1 year",
+      "width": 368,
+      "height": 534
+    },
+    {
+      "url": "web/static/images/techniques/79-26_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-53 Duplication of ulna (mirror hand). dominant trait. Ulnar dimelia usually is associated with some degree of hypoplasia of the arm and scapula. The only",
+      "width": 393,
+      "height": 413
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "BOX 79-3\nAssociated Anomalies With Type A Postaxial \nPolydactyly\nCornelia de Lange\nChondroectodermal dysplasia\nSchinzel syndrome\nClubfeet, tracheomalacia, renal reflux\nClubfeet\nTongue malformation, gastroesophageal reflux, aortic \ninsufficiency\nImperforated anus, renal insufficiency, sacral agenesis, verte-\nbral anomalies\nPectus excavatum\nTracheomalacia, gastroesophageal reflux, developmental \ndelay\nModified from: Pritsch T, Ezaki M, Mills J, Oishi SN: Type A ulnar polydactyly of \nthe hand: a classification system and clinical series, J Hand Surg 38A:453, 2013.\n\nPART XVIII  THE HAND\n3872\nCENTRAL POLYDACTYLY\nCentral polydactyly refers to duplication of the index, long, \nor ring finger. It rarely occurs as a solitary deformity and \nusually is associated with complex syndactyly. The most \ntypical pattern is type 2 central polydactyly concealed within \na syndactyly between the long and ring fingers. Polydactyly \nof the index finger and polysyndactyly of the long and ring \nfingers probably are inherited as autosomal dominant traits. \nAssociated anomalies include polydactyly and syndactyly of \nthe toes.\nTREATMENT\nIn isolated central polydactyly, excision of the most hypo­\nplastic digit is performed in keeping with surgical principles \nof polydactyly reconstruction. In the central polysyndactyly \npattern, surgical options include syndactyly reconstruction \nwith excision of the extra digit or creation of a three-fingered \nhand. The complexity of these deformities requires astute \nsurgical judgment and an individualized approach. Surgical \nreconstruction should be performed by the time the child is \n6 months old to prevent further angular deformity. As many \nnormal-appearing fingers as possible should be recon­\nstructed. Amputation of a functionless digit may be per­\nformed later.\nULNAR DIMELIA\nUlnar dimelia, commonly called mirror hand, refers to \nradial and ulnar clusters of fingers in the same hand that are \nnear-mirror images of each other (Fig. 79-53). It is consid­\nered a duplication phenomenon of the ulnar half of the \nforearm, wrist, and hand, but because there is complete \nsubstitution of the radial components as well, this anomaly \nis not so easily classified as pure duplication. It is an exceed­\ningly rare anomaly, with few reports in the literature. The \nlargest reported series is that of Harrison, Pearson, and Roaf, \nin which they describe the deformity in three patients. The \ncause is unknown, but its occurrence usually is sporadic. \nIt is believed to result from an aberration in the control \nprocess of the apical ectodermal ridge of the limb bud. \nWhen associated with fibular dimelia, it may be explained \nas a single gene mutation transmitted as an autosomal \nFIGURE 79-53\t\nDuplication of ulna (mirror hand). \ndominant trait. Ulnar dimelia usually is associated with \nsome degree of hypoplasia of the arm and scapula. The only \ndistant associated anomaly is fibular dimelia with absence of \nthe tibia.\nThe deformity usually is unilateral and grotesque, with \nmultiple fingers dangling from a normal palm. The hand \nusually has six to eight well-formed fingers that all may lie in \nnearly the same plane or with slight opposition between the \ntwo halves. The postaxial digits appear slightly more normal \nthan the preaxial digits; there is no thumb, and syndactyly \nmay be present. The digits may be flexed because of deficient \nextensors, the hand usually is radially deviated at the wrist, \nand extension of the wrist may be impossible. The wrist and \nelbow appear thick, elbow motion is decreased, and the arm \nis shortened. The ulna and ulnar carpal bones are completely \nduplicated, the scaphoid and trapezium are replaced, and the \ndistal ulnar epiphysis is broadened. At the elbow, each of the \nduplicated ulnae articulates with the distal humerus sepa­\nrately and they tend to face each other. There is no capitellum \non the distal humerus.\nTREATMENT\nParents should be encouraged to maintain passive range of \nmotion in the fingers, wrist,"
+}

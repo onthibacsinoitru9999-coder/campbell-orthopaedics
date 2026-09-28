@@ -1,1 +1,56 @@
-{"tech_id": "71-7", "name_en": "Transfer of the Brachioradialis or Radial Wrist Extensor to Restore Thumb Adduction (Boyes)", "name_vi": "Chuyển Gân Cơ Sấp Tròn (PT) Sang Gân Duỗi Cổ Tay Quay Ngắn (ECRB)", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4014, "author": "Boyes", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Cơ Sấp Tròn (PT) Sang Gân Duỗi Cổ Tay Quay Ngắn (ECRB) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Transfer of the Brachioradialis or Radial Wrist Extensor to Restore Thumb Adduction (Boyes): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Chuyển Gân Cơ Sấp Tròn)", "detail": "Flexion and extension of thumb are in palmar plane.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Pronation and supination are rotation of thumb around its longitudinal axis.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Chuyển Gân Cơ Sấp Tròn)", "detail": "Opposition is complex of abduction, flexion, and pronation of first metacarpal (and flexion and abduc­ tion of proximal phalanx and extension of distal phalanx).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "(Redrawn from Smith RJ: Extensor carpi radialis brevis tendon transfer for thumb abduction: a study of power pinch, J Hand Surg 8A:4, 1983.) Adduction Abduction Extension Flexion Pronation Pronation + Abduction + Flexion = Opposition", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": "web/static/images/techniques/71-7.webp", "images": [{"url": "web/static/images/techniques/71-7.webp", "type": "diagram", "caption": "Sơ đồ bộ 3 chuyển gân phục hồi liệt thần kinh quay: PT sang ECRB, FCU sang EDC, PL sang EPL"}, {"url": "web/static/images/techniques/71-7_clinical.webp", "type": "clinical", "caption": "Hình ảnh lâm sàng tầm vận động duỗi cổ tay và duỗi ngón tay sau chuyển gân"}]}
+{
+  "tech_id": "71-7",
+  "name_en": "Transfer of the Brachioradialis or Radial Wrist Extensor to Restore Thumb Adduction (Boyes)",
+  "name_vi": "Chuyển Gân Cơ Sấp Tròn (PT) Sang Gân Duỗi Cổ Tay Quay Ngắn (ECRB)",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4014,
+  "author": "Boyes",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Cơ Sấp Tròn (PT) Sang Gân Duỗi Cổ Tay Quay Ngắn (ECRB) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường mổ Wagner bộc lộ khớp bàn - thang (1st CMC Joint): Đường rạch cong chữ L hoặc J theo bờ ngoài xương bàn ngón I và nếp gấp mô cái, bộc lộ bao khớp thang - bàn và bảo vệ nhánh cảm giác nông thần kinh quay (SBRN).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thao tác can thiệp kỹ thuật (Chuyển Gân Cơ Sấp Tròn)",
+      "detail": "Flexion and extension of thumb are in palmar plane.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Pronation and supination are rotation of thumb around its longitudinal axis.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Chuyển Gân Cơ Sấp Tròn)",
+      "detail": "Opposition is complex of abduction, flexion, and pronation of first metacarpal (and flexion and abduc­ tion of proximal phalanx and extension of distal phalanx).",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "(Redrawn from Smith RJ: Extensor carpi radialis brevis tendon transfer for thumb abduction: a study of power pinch, J Hand Surg 8A:4, 1983.) Adduction Abduction Extension Flexion Pronation Pronation + Abduction + Flexion = Opposition",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-7.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-7.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ bộ 3 chuyển gân phục hồi liệt thần kinh quay: PT sang ECRB, FCU sang EDC, PL sang EPL"
+    },
+    {
+      "url": "web/static/images/techniques/71-7_clinical.webp",
+      "type": "clinical",
+      "caption": "Hình ảnh lâm sàng tầm vận động duỗi cổ tay và duỗi ngón tay sau chuyển gân"
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \nFIGURE 71-13\t\nAdduction and abduction of thumb are in \nplane perpendicular to palm. Flexion and extension of thumb are \nin palmar plane. Pronation and supination are rotation of thumb \naround its longitudinal axis. Opposition is complex of abduction, \nflexion, and pronation of first metacarpal (and flexion and abduc­\ntion of proximal phalanx and extension of distal phalanx). \n(Redrawn from Smith RJ: Extensor carpi radialis brevis tendon transfer \nfor thumb abduction: a study of power pinch, J Hand Surg 8A:4, 1983.)\nAdduction\nAbduction\nExtension\nFlexion\nPronation\n   Pronation\n+ Abduction\n+ Flexion\n= Opposition"
+}

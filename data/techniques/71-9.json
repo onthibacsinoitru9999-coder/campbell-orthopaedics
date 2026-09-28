@@ -1,1 +1,60 @@
-{"tech_id": "71-9", "name_en": "Royle-Thompson Transfer (Modified)", "name_vi": "Chuyển Gân Cơ Gấp Cổ Tay Trụ (FCU) Sang Gân Duỗi Chung Các Ngón (EDC)", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4016, "author": "Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Cơ Gấp Cổ Tay Trụ (FCU) Sang Gân Duỗi Chung Các Ngón (EDC) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Royle-Thompson Transfer (Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "RESTORATION OF ABDUCTION OF THE INDEX FINGER The index finger is against which the thumb is brought most frequently in pinch.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Strong index finger-thumb pinch relies on stability of the index finger metacarpophalangeal joint.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "A transfer to restore index finger abduction is a substitute chiefly for the first dorsal interosseous muscle and, therefore, the transferred tendon is attached to the first dorsal interos­ seous tendon insertion, which is primarily on the radial base of the index proximal phalanx.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The tendons most frequently transferred are those of the extensor indicis proprius, exten­ sor pollicis brevis, and palmaris longus; any of these when transferred abducts the index finger but does not stabilize it for strong pinch.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": null, "images": []}
+{
+  "tech_id": "71-9",
+  "name_en": "Royle-Thompson Transfer (Modified)",
+  "name_vi": "Chuyển Gân Cơ Gấp Cổ Tay Trụ (FCU) Sang Gân Duỗi Chung Các Ngón (EDC)",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4016,
+  "author": "Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Cơ Gấp Cổ Tay Trụ (FCU) Sang Gân Duỗi Chung Các Ngón (EDC) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Royle-Thompson Transfer (Modified) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "RESTORATION OF ABDUCTION OF THE INDEX FINGER The index finger is against which the thumb is brought most frequently in pinch.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Strong index finger-thumb pinch relies on stability of the index finger metacarpophalangeal joint.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "A transfer to restore index finger abduction is a substitute chiefly for the first dorsal interosseous muscle and, therefore, the transferred tendon is attached to the first dorsal interos­ seous tendon insertion, which is primarily on the radial base of the index proximal phalanx.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "The tendons most frequently transferred are those of the extensor indicis proprius, exten­ sor pollicis brevis, and palmaris longus; any of these when transferred abducts the index finger but does not stabilize it for strong pinch.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-9.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-9.webp",
+      "type": "diagram",
+      "caption": "FIGURE 71-15 Modified Royle-Thompson transfer to restore thumb adduction (see text). SEE TECHNIQUE 71-9. strong. If thumb opposition also must be restored, the subli­",
+      "width": 401,
+      "height": 732
+    },
+    {
+      "url": "web/static/images/techniques/71-9_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 71-17 Intrinsic paralysis results in failure to grasp large objects. FIGURE 71-16",
+      "width": 1052,
+      "height": 769
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "RESTORATION OF ABDUCTION OF THE \nINDEX FINGER\nThe index finger is against which the thumb is brought most \nfrequently in pinch. Strong index finger-thumb pinch relies \non stability of the index finger metacarpophalangeal joint. \nAbduction of the index finger also is especially useful in such \nactivities as playing a piano or using a typewriter or keyboard. \nIn poliomyelitis, abduction of the index finger is lost so fre­\nquently that its restoration is considered here separately from \nthat of the intrinsic functions of the other fingers.\nA transfer to restore index finger abduction is a substitute \nchiefly for the first dorsal interosseous muscle and, therefore, \nthe transferred tendon is attached to the first dorsal interos­\nseous tendon insertion, which is primarily on the radial base \nof the index proximal phalanx. The tendons most frequently \ntransferred are those of the extensor indicis proprius, exten­\nsor pollicis brevis, and palmaris longus; any of these when \ntransferred abducts the index finger but does not stabilize it \nfor strong pinch. A sublimis tendon also has been used, but \nthis generally is contraindicated unless the hand is otherwise \nFIGURE 71-15\t\nModified Royle-Thompson transfer to restore \nthumb adduction (see text). SEE"
+}

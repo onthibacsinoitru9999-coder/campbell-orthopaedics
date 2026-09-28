@@ -1,1 +1,65 @@
-{"tech_id": "79-51", "name_en": "Toe-Phalanx Transplantation (Toby et al.)", "name_vi": "Cắt Xương Hình Vòm Sửa Dị Tật Kirner Đốt Ngón Xa Bàn Tay", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4326, "author": "Toby et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Hình Vòm Sửa Dị Tật Kirner Đốt Ngón Xa Bàn Tay (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Toe-Phalanx Transplantation (Toby et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Cắt Xương Hình Vòm Sửa Dị Tật Kirner Đốt Ngón Xa Bàn Tay)", "detail": "If the congenital ring is deep and completely encircles the limb or finger, plan to correct only half of the ring in the initial procedure.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Before inflating the tourniquet, mark out the multiple Z-plasty sites along the constricting ring (Fig. 79-80A).", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 3, "title": "Thì 3: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Exsanguinate the limb and inflate the tourniquet.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Cắt Xương Hình Vòm Sửa Dị Tật Kirner Đốt Ngón Xa Bàn Tay)", "detail": "Excise half the constricting ring and sharply incise the Z-plasty sites to elevate the flaps.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Suture the flaps in an appropriate interdigitating fashion to allow for lengthening of the constricting ring (Fig. 79-80B).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-51",
+  "name_en": "Toe-Phalanx Transplantation (Toby et al.)",
+  "name_vi": "Cắt Xương Hình Vòm Sửa Dị Tật Kirner Đốt Ngón Xa Bàn Tay",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4326,
+  "author": "Toby et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Hình Vòm Sửa Dị Tật Kirner Đốt Ngón Xa Bàn Tay (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Toe-Phalanx Transplantation (Toby et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "If the congenital ring is deep and completely encircles the limb or finger, plan to correct only half of the ring in the initial procedure.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Before inflating the tourniquet, mark out the multiple Z-plasty sites along the constricting ring (Fig. 79-80A).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Exsanguinate the limb and inflate the tourniquet.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Excise half the constricting ring and sharply incise the Z-plasty sites to elevate the flaps.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Suture the flaps in an appropriate interdigitating fashion to allow for lengthening of the constricting ring (Fig. 79-80B).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Deflate the tourniquet and apply a bulky dressing with a short arm or long arm splint.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-51.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-51.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-79 A, Congenital ring syndrome with amputation of index finger and severe lymphedema of long finger. Good capillary refill was present at birth despite severe lymphedema; surgery was postponed for 1 month to lessen surgical risk. B, Radiogr",
+      "width": 1113,
+      "height": 1479
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "CHAPTER 79  CONGENITAL ANOMALIES OF THE HAND\n3897\nCONGENITAL RING SYNDROME\nCongenital ring, or congenital constriction band, syndrome \noccurs when deep cutaneous creases encircle a limb as \nif a string were tightly tied around the part (Fig. 79-79). \nIts frequent association with congenital amputations and \nacrosyndactyly led to this malformation’s designation as \na syndrome. Other terms used to describe this condition \ninclude Streeter bands or dysplasia, annular grooves or \ndefects, and intrauterine amputation. Patterson reported \nan incidence of one per 15,000 births. Constriction bands \nrepresented 2% of anomalies in Flatt’s series. More distal \nrings are more common, as is involvement of the central \ndigits.\nThere is no evidence that congenital ring syndrome \nis an inherited condition. An external effect of amniotic \nadhesions formed in utero after hemorrhages in the distal \nrays has been suggested as a cause as has failure of devel­\nopment of subcutaneous tissue in the same manner that \nnormal skin creases are formed. There is general agreement \nthat these malformations occur later than at 5 to 7 weeks \nof gestation, when most hand anomalies occur; the young­\nest fetus described with this anomaly was at 10 weeks of \ngestation.\nPatterson included four types of deformity in congenital \nring syndrome: (1) a simple ring usually occurring trans­\nversely, but occasionally obliquely, around the limb or digit; \n(2) a deeper ring often associated with abnormality of the part \ndistally, usually lymphedema; (3) fenestrated syndactyly \n(acrosyndactyly) or lateral fusion of adjacent digits at their \ndistal ends with proximal fenestrations between the interven­\ning skin and soft tissue; and (4) intrauterine amputation, in \nwhich the soft tissues are more affected than the bone, which \nmay protrude as in a guillotine amputation—there are no \nrudimentary parts distally and the proximal limb parts are \nnormally developed. These four types may be present in any \ncombination in a single child, but they do not occur constantly \nwith any other type of anomaly of the limbs. Syndactyly, \nhypoplasia, brachydactyly, symphalangism, symbrachydac­\ntyly, and camptodactyly have been reported in 80% of patients \nwith congenital ring syndrome, and clubfoot, cleft lip, cleft \npalate, and cranial defects have been reported in 40% to 50% \nof patients with this syndrome. Generally, there are no associ­\nated visceral malformations, but one of Flatt’s patients had a \npatent ductus arteriosus.\nThese malformations usually are asymmetric. The \ngrooves, or rings, vary in circumferential extent and depth \nand at times appear as normal but misplaced skin creases. \nLymphedema distal to the crease is frequent. With shallow \nrings, the skin often is normal, but subcutaneous tissue \nusually is deficient. With deeper rings, the superficial blood \nvessels that run across the ring are absent, although deep \nvessels are intact. Digits distal to the rings may be shortened \nor completely amputated. Terminal simple syndactyly with \nsmall fenestrations through the proximal web is frequent. The \nrings are not static in their effect. If the ring is deep and \nunrelenting, there may be progressive necrosis beneath the \nring, with increased scarring, constriction, and vascular \nimpairment. Distal lymphedema, cyanosis, and worsening at \nthe site of constriction have been reported before surgical \nintervention; rarely does the ring progress to cause frank \nnecrosis of the distal part.\nTREATMENT\nFor shallow, incomplete creases with no distal lymphedema, \nsurgical intervention usually is unnecessary except to improve \nappearance. The creases should be observed for gradual \nimprovement in appearance, which may occur as “baby fat” \nis lost. If creases are deep enough to cause lymphedema or \nimpairment of circulation, they should be excised down to \nnormal tissue, and the defect should be closed with multiple \nZ-plasty procedures. If the ring completely encircles the part, \nthe safer app"
+}

@@ -1,1 +1,70 @@
-{"tech_id": "69-14", "name_en": "Grafting Operations (Matti-Russe)", "name_vi": "Ghép Xương Có Cuống Mạch Mặt Gan Tay (Kuhlmann) Điều Trị Hoại Tử Vô Mạch Xương Thuyền", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3899, "author": "Matti-Russe", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Xương Có Cuống Mạch Mặt Gan Tay (Kuhlmann) Điều Trị Hoại Tử Vô Mạch Xương Thuyền (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Grafting Operations (Matti-Russe): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Ghép Xương Có Cuống Mạch Mặt Gan Tay)", "detail": "Carry out routine radiocarpal and midcarpal arthroscopic examinations (see Techniques 69-2 and 69-3), using the 3-4, 4-5, 6R, 6U, midcarpal radial, and midcarpal ulnar portals as needed.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Ghép Xương Có Cuống Mạch Mặt Gan Tay)", "detail": "Introduce a small joint arthroscopic burr or shaver into the midcarpal joint through the midcarpal radial portal, with the scope in the midcarpal ulnar portal for viewing.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Ghép Xương Có Cuống Mạch Mặt Gan Tay)", "detail": "Use the burr or shaver to decorticate the medial corner of the scaphoid at the midcarpal scapholunate joint. Take care not to injure the articular cartilage of the head of the capitate.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Once an adequate portion of the corner of the scaphoid is removed, slightly enlarge the midcarpal radial portal with careful dissection, and introduce a 4.0-mm hooded burr into the midcarpal joint. Again, take care not to injure the articular cartilage of the head of the capitate.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Ghép Xương Có Cuống Mạch Mặt Gan Tay)", "detail": "Remove the scaphoid from ulnar to radial and distal to proximal (Fig. 69-37A) through the scaphotrapezial trapezoid (STT) portal while viewing through the midcar- pal radial portal.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": "web/static/images/techniques/69-14.webp", "images": [{"url": "web/static/images/techniques/69-14.webp", "type": "diagram", "caption": "Kỹ thuật ghép xương xốp kiểu Matti-Russe khoét rãnh xương thuyền điều trị khớp giả"}]}
+{
+  "tech_id": "69-14",
+  "name_en": "Grafting Operations (Matti-Russe)",
+  "name_vi": "Ghép Xương Có Cuống Mạch Mặt Gan Tay (Kuhlmann) Điều Trị Hoại Tử Vô Mạch Xương Thuyền",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3899,
+  "author": "Matti-Russe",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Xương Có Cuống Mạch Mặt Gan Tay (Kuhlmann) Điều Trị Hoại Tử Vô Mạch Xương Thuyền (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Carry out routine radiocarpal and midcarpal arthroscopic examinations (see Techniques 69-2 and 69-3), using the 3-4, 4-5, 6R, 6U, midcarpal radial, and midcarpal ulnar portals as needed.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Introduce a small joint arthroscopic burr or shaver into the midcarpal joint through the midcarpal radial portal, with the scope in the midcarpal ulnar portal for viewing.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Use the burr or shaver to decorticate the medial corner of the scaphoid at the midcarpal scapholunate joint. Take care not to injure the articular cartilage of the head of the capitate.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Once an adequate portion of the corner of the scaphoid is removed, slightly enlarge the midcarpal radial portal with careful dissection, and introduce a 4.0-mm hooded burr into the midcarpal joint. Again, take care not to injure the articular cartilage of the head of the capitate.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Remove the scaphoid from ulnar to radial and distal to proximal (Fig. 69-37A) through the scaphotrapezial trapezoid (STT) portal while viewing through the midcar- pal radial portal.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "After scaphoid excision, place the arthroscope in the STT or midcarpal radial portal and a burr in an enlarged midcarpal radial or midcarpal ulnar portal and sequentially remove the lunate (distal to proximal) and triquetrum (distal to proximal) (Fig. 69-37B).",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-14.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-14.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật ghép xương xốp kiểu Matti-Russe khoét rãnh xương thuyền điều trị khớp giả"
+    },
+    {
+      "url": "web/static/images/techniques/69-14_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-37 Arthroscopic proximal row carpectomy (see text). A, Initial removal of distal ulnar pole of scaphoid. B, Entire proximal row has been excised. C, After release of traction. (From Weiss ND, Molina RA, Gwin S: Arthroscopic proximal row car",
+      "width": 1095,
+      "height": 1081
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "GRAFTING OPERATIONS\nCancellous bone grafting for scaphoid nonunion, as first \ndescribed by Matti and modified by Russe, has proved to \nbe a reliable procedure, producing bony union in 80% to \n97% of patients. This technique is most useful for ununited \nfractures that do not have associated shortening or \nangulation.\n(WEISS ET AL.)\n■ Carry out routine radiocarpal and midcarpal arthroscopic \nexaminations (see Techniques 69-2 and 69-3), using the \n3-4, 4-5, 6R, 6U, midcarpal radial, and midcarpal ulnar \nportals as needed.\n■ Introduce a small joint arthroscopic burr or shaver into \nthe midcarpal joint through the midcarpal radial portal, \nwith the scope in the midcarpal ulnar portal for viewing.\n■ Use the burr or shaver to decorticate the medial corner \nof the scaphoid at the midcarpal scapholunate joint. Take \ncare not to injure the articular cartilage of the head of \nthe capitate.\n■ Once an adequate portion of the corner of the scaphoid \nis removed, slightly enlarge the midcarpal radial portal \nwith careful dissection, and introduce a 4.0-mm hooded \nburr into the midcarpal joint. Again, take care not to \ninjure the articular cartilage of the head of the capitate.\n■ Remove the scaphoid from ulnar to radial and distal to \nproximal (Fig. 69-37A) through the scaphotrapezial \ntrapezoid (STT) portal while viewing through the midcar-\npal radial portal.\n■ After scaphoid excision, place the arthroscope in the STT \nor midcarpal radial portal and a burr in an enlarged \nmidcarpal radial or midcarpal ulnar portal and sequentially \nremove the lunate (distal to proximal) and triquetrum \n(distal to proximal) (Fig. 69-37B).\n■ Under arthroscopic vision, use a fine synovial rongeur to \nremove tiny fragments of bone or cartilage that remain \nadherent to the capsule.\n■ Confirm complete proximal row carpectomy with \nfluoroscopy.\n■ Release traction and use arthroscopy and fluoroscopy to \nconfirm seating of the head of the capitate in the lunate \nfossa (Fig. 69-37C)."
+}

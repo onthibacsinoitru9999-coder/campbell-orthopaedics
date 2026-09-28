@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Vạt Da Gian Cốt Sau Cẳng Tay (Posterior Interosseous Artery Flap) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.",
   "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Applying a Posterior Interosseous Flap (Zancolli and Angrigiani; Chen et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Applying a Posterior Interosseous Flap (Zancolli and Angrigiani; Chen et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
@@ -50,6 +50,15 @@
       "url": "web/static/images/techniques/65-5.webp",
       "type": "diagram",
       "caption": "Sơ đồ vạt nhánh xiên gian cốt sau (Posterior Interosseous Artery Flap)"
+    },
+    {
+      "url": "web/static/images/techniques/65-5_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 65-30 Technique to correct contracture of first web space (see text). (Redrawn from Zancolli EA, Angrigiani C: Posterior interosseous island forearm flap. J Hand Surg 13B:130, 1988.)",
+      "width": 577,
+      "height": 172
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "CHAPTER 65  ACUTE HAND INJURIES\n3341\nFIGURE 65-31\t\nExample of abdominal flaps (see text for details \nregarding length and width of flaps). Lower abdominal flap may \nbe made narrower in relation to its length if it contains superficial \ncircumflex iliac artery and vein (lower right) or superficial epigas­\ntric artery and vein. \nFIGURE 65-32\t\nDissection of skin and subcutaneous fat. A, Epi­\ndermis; B, dermis; C, subdermal plexus of vessels; D, superficial \nfascia; E, arteries perforating muscularis and deep fascia to join \nsubdermal plexus of vessels. (From Kelleher JC, Sullivan JG, Baibak \nGJ, et al: Use of a tailored abdominal pedicle flap for surgical recon­\nstruction of the hand. J Bone Joint Surg 52A:1552, 1970.) SEE TECH­\nNIQUE 65-6.\nA\nB\nC\nD\nE\nFIGURE 65-33\t\nCross-section of abdominal pedicle flap being \nraised. A, Epidermis and dermis; B, superficial fascia of abdomen; \nC, deep fascia of abdomen; D, muscularis. Dotted line indicates \nextent of defatting of portion of pedicle to be applied to hand. \nBase or stem should retain sufficient fat to retain its shape to \nprevent kinking. (From Kelleher JC, Sullivan JG, Baibak GJ, et al: Use \nof a tailored abdominal pedicle flap for surgical reconstruction of the \nhand. J Bone Joint Surg 52A:1552, 1970.) SEE"
 }

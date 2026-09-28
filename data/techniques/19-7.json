@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
   "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_approach": "Đường mổ tạo hình mỏm cụt / vạt da bàn tay (Island Pedicle Flap): Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo tỷ lệ; phẫu tích nhẹ nhàng bộc lộ cấu trúc gân xương, nhận diện bó mạch thần kinh ngón riêng.",
   "surgical_steps": [
     {
       "step": 1,
@@ -48,13 +48,18 @@
   "images": [
     {
       "url": "web/static/images/techniques/19-7.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 19-7 (Island Pedicle Flap) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 19-15 Thenar flap for amputation of fingertip. A, Tip of ring finger has been amputated. B, Finger has been flexed so that its tip touches middle of thenar eminence, and thenar flap",
+      "width": 648,
+      "height": 934
     },
     {
       "url": "web/static/images/techniques/19-7_xray.webp",
       "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 19-7 (Island Pedicle Flap) - Campbell 13th Ed"
+      "caption": "FIGURE 19-16 A-C, Local neurovascular island graft (see text). SEE TECHNIQUE 19-6. A B",
+      "width": 1046,
+      "height": 1008
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân."
 }

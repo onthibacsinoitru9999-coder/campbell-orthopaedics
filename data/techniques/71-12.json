@@ -1,1 +1,64 @@
-{"tech_id": "71-12", "name_en": "Transfer of the Flexor Digitorum Sublimis of the Ring Finger (Bunnell, Modified)", "name_vi": "Phẫu thuật Sửa Biến Dạng Bàn Tay Vuốt Trụ (Claw Hand) Theo Kỹ Thuật Zancolli Lasso", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4018, "author": "Bunnell, Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Sửa Biến Dạng Bàn Tay Vuốt Trụ (Claw Hand) Theo Kỹ Thuật Zancolli Lasso (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Transfer of the Flexor Digitorum Sublimis of the Ring Finger (Bunnell, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "interphalangeal joints into extension, producing an intrinsic- plus deformity, several months to many years after the transfer.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "A modification of this procedure in which only one sublimis is transferred to all fingers may be useful; however, setting and maintaining proper tension in this method are difficult (Fig.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "In a later modification, the tendons are split as described but the slips are passed to the volar side of the deep transverse metacarpal ligament and are attached to the radial side of the extensor aponeurosis of each finger (Figs.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "The ends of the tendon slips must be advanced about 2.5 cm to reach their destinations on the extensor aponeuroses, however, and are under considerable tension; sometimes an intrinsic overpull or intrinsic-plus deformity develops.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Phẫu thuật Sửa Biến Dạng Bàn Tay Vuốt Trụ)", "detail": "This excessive tension may be avoided as follows.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": "web/static/images/techniques/71-12.webp", "images": [{"url": "web/static/images/techniques/71-12.webp", "type": "diagram", "caption": "Phẫu thuật sửa biến dạng bàn tay vuốt trụ (Claw hand) bằng kỹ thuật Zancolli lasso"}]}
+{
+  "tech_id": "71-12",
+  "name_en": "Transfer of the Flexor Digitorum Sublimis of the Ring Finger (Bunnell, Modified)",
+  "name_vi": "Phẫu thuật Sửa Biến Dạng Bàn Tay Vuốt Trụ (Claw Hand) Theo Kỹ Thuật Zancolli Lasso",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4018,
+  "author": "Bunnell, Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Sửa Biến Dạng Bàn Tay Vuốt Trụ (Claw Hand) Theo Kỹ Thuật Zancolli Lasso (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Transfer of the Flexor Digitorum Sublimis of the Ring Finger (Bunnell, Modified) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "interphalangeal joints into extension, producing an intrinsic- plus deformity, several months to many years after the transfer.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "A modification of this procedure in which only one sublimis is transferred to all fingers may be useful; however, setting and maintaining proper tension in this method are difficult (Fig.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "In a later modification, the tendons are split as described but the slips are passed to the volar side of the deep transverse metacarpal ligament and are attached to the radial side of the extensor aponeurosis of each finger (Figs.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "The ends of the tendon slips must be advanced about 2.5 cm to reach their destinations on the extensor aponeuroses, however, and are under considerable tension; sometimes an intrinsic overpull or intrinsic-plus deformity develops.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Thao tác can thiệp kỹ thuật (Phẫu thuật Sửa Biến Dạng Bàn Tay Vuốt Trụ)",
+      "detail": "This excessive tension may be avoided as follows.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-12.webp",
+      "type": "diagram",
+      "caption": "Phẫu thuật sửa biến dạng bàn tay vuốt trụ (Claw hand) bằng kỹ thuật Zancolli lasso"
+    },
+    {
+      "url": "web/static/images/techniques/71-12_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 71-17 Intrinsic paralysis results in failure to grasp large objects. FIGURE 71-16",
+      "width": 1052,
+      "height": 769
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \ninterphalangeal joints into extension, producing an intrinsic-\nplus deformity, several months to many years after the \ntransfer. A modification of this procedure in which only one \nsublimis is transferred to all fingers may be useful; however, \nsetting and maintaining proper tension in this method are \ndifficult (Fig. 71-18).\nFlexing the wrist in an attempt to extend the interphalan­\ngeal joints often becomes a necessary habit after intrinsic \nparalysis. Its objective is to create a tenodesing effect on the \nlong extensor tendons. If this flexion is too marked, the \n\nPART XVIII  THE HAND\n3612\nBunnell transfer is rendered ineffective, but if the intrinsics \nare weak but not paralyzed, the transfer may be useful if the \nwrist extensors are strong enough to prevent flexion of the \nwrist. When flexing the wrist is a chronic habit and a wrist \nflexor can be spared, Riordan transferred the flexor carpi \nradialis (see Fig. 71-25).\nFowler split the extensor proprius tendons of the index \nand little fingers to form four slips and attached one each to \nthe extensor aponeuroses on the radial side of the index and \nmiddle fingers and on the ulnar side of the ring and little \nfingers. In a later modification, the tendons are split as \ndescribed but the slips are passed to the volar side of the \ndeep transverse metacarpal ligament and are attached to the \nradial side of the extensor aponeurosis of each finger (Figs. \n71-19 and 71-20). This is a more efficient transfer and has the \nadvantage of a tenodesing effect when the wrist is flexed. The \nends of the tendon slips must be advanced about 2.5 cm to \nreach their destinations on the extensor aponeuroses, \nhowever, and are under considerable tension; sometimes an \nintrinsic overpull or intrinsic-plus deformity develops. This \nexcessive tension may be avoided as follows. The detached \nend of the extensor indicis proprius tendon is split into two \nslips, passed volar to the deep transverse metacarpal liga­\nment, and attached to the radial side of the ring and little \nfingers. One end of a free tendon graft is attached to the \nmusculotendinous junction of the extensor indicis proprius, \nand the other end is split into two slips that are passed dis­\ntally in a similar manner and attached to the radial side \nof the middle and index fingers. Riordan further modified \nthis procedure by attaching the tendon graft to the freed \ninsertion of the palmaris longus tendon instead of to the \nmusculotendinous junction of the extensor indicis proprius \n(Fig. 71-21).\nFIGURE 71-19\t\nAny tendons transferred from dorsum of hand \nto restore intrinsic function of fingers must pass to volar side of \ndeep transverse metacarpal ligament. \nClamp threading graft\nthrough interosseous\nspace volar to transverse\nmetacarpal ligament\nGraft tacked to side\nof extensor mechanism\nFIGURE 71-20\t\nFowler transfer to restore intrinsic function of \nfingers (see text). SEE"
+}

@@ -1,1 +1,58 @@
-{"tech_id": "67-7", "name_en": "Open Reduction—Volar Approach", "name_vi": "Nắn Kín & Cố Định Trật Khớp Bàn Ngón Tay Không Biến Chứng", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3806, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Cố Định Trật Khớp Bàn Ngón Tay Không Biến Chứng (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Reduction—Volar Approach: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Nắn Kín & Cố Định Trật Khớp Bàn Ngón Tay Không Biến Chứng)", "detail": "Disengage the flexor pollicis brevis muscle, releasing the metacarpal head.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Nắn Kín & Cố Định Trật Khớp Bàn Ngón Tay Không Biến Chứng)", "detail": "Flex the thumb and push the head through the capsular rent to complete the reduction.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "With the joint in 20 degrees of flexion, secure it with a Kirschner wire.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "In the rare event that the volar plate is found to be detached from the proximal phalanx, surgical repair is justified.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": "web/static/images/techniques/67-20.webp", "images": [{"url": "web/static/images/techniques/67-20.webp", "type": "diagram", "caption": "Cơ chế kẹt giải phẫu và thao tác nắn kín trật khớp bàn ngón tay (MCP dislocation)"}]}
+{
+  "tech_id": "67-7",
+  "name_en": "Open Reduction—Volar Approach",
+  "name_vi": "Nắn Kín & Cố Định Trật Khớp Bàn Ngón Tay Không Biến Chứng",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3806,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Cố Định Trật Khớp Bàn Ngón Tay Không Biến Chứng (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Open Reduction—Volar Approach (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Disengage the flexor pollicis brevis muscle, releasing the metacarpal head.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Flex the thumb and push the head through the capsular rent to complete the reduction.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "With the joint in 20 degrees of flexion, secure it with a Kirschner wire.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "In the rare event that the volar plate is found to be detached from the proximal phalanx, surgical repair is justified.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-20.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-20.webp",
+      "type": "diagram",
+      "caption": "Cơ chế kẹt giải phẫu và thao tác nắn kín trật khớp bàn ngón tay (MCP dislocation)"
+    },
+    {
+      "url": "web/static/images/techniques/67-7_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-19 Volar and radial ligament reconstruction with strip from tendon of flexor carpi radialis, which is left attached at its insertion at base of second metacarpal. Course of tendon",
+      "width": 505,
+      "height": 382
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "CHAPTER 67  FRACTURES, DISLOCATIONS, AND LIGAMENTOUS INJURIES\n3417\nPalmar dislocation of the thumb proximal phalanx is rare, but \nsometimes it can be irreducible if the metacarpal head is \ntrapped between the extensor pollicis longus and extensor \npollicis brevis tendons. Reduction is achieved by opening the \ndorsal aponeurosis and relocating the extensor tendon.\nTHUMB METACARPOPHALANGEAL JOINT \nULNAR COLLATERAL LIGAMENT RUPTURE\nInjury to the thumb metacarpophalangeal joint ulnar collat­\neral ligament is commonly referred to as gamekeeper thumb \nor skier’s thumb, although the original “gamekeeper” descrip­\ntion (Campbell, 1955) referred to an attritional ulnar collateral \nligament injury. Snow skiing accidents and falls on an out­\nstretched hand with forceful radial and palmar abduction of \nthe thumb are the usual causes. Changes in ski pole design \nFIGURE 67-20\t\nA and B, Comminuted displaced fracture of base of thumb proximal phalanx in young man. C, Exposure of dorsal \njoint through extensor pollicis longus and extensor pollicis brevis interval. D, Direct joint inspection permits anatomic reduction. \nE and F, Fracture fixation with simple Kirschner wires. G and H, Wires capped outside skin for easy removal 4 weeks after surgery. \nA\nB\nC\nD\nE\nF\nG\nH\n■ Disengage the flexor pollicis brevis muscle, releasing the \nmetacarpal head.\n■ Flex the thumb and push the head through the capsular \nrent to complete the reduction.\n■ With the joint in 20 degrees of flexion, secure it with a \nKirschner wire.\n■ In the rare event that the volar plate is found to be \ndetached from the proximal phalanx, surgical repair is \njustified."
+}

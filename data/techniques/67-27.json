@@ -1,1 +1,72 @@
-{"tech_id": "67-27", "name_en": "Correction of Nonunion of the Metacarpals (Littler)", "name_vi": "Khâu Phục Hồi Giường Móng & Cố Định Gãy Đốt Xa Kèm Rách Móng", "chapter": 67, "category": "Hand & Wrist", "pdf_page": 3847, "author": "Littler", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Giường Móng & Cố Định Gãy Đốt Xa Kèm Rách Móng (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).", "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Correction of Nonunion of the Metacarpals (Littler): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Expose the defective metacarpal with a longitudinal or curved dorsal incision, depending on the location of exist- ing scars.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Dissect all scar tissue from the extensor tendons, but preserve the paratenon intact.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Dissect the fibrous tissue en bloc from between the frag- ments so that traction can restore normal finger length.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Khâu Phục Hồi Giường Móng & Cố Định Gãy Đốt Xa Kèm Rách Móng)", "detail": "Usually the proximal fragment must be sacrificed as far as its base; resect it with an osteotome at an angle of 30 degrees (Fig. 67-77), making a recess in the bone.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Cut the end of the distal fragment transversely with a saw or rongeur and open the medullary canal to receive the doweled end of the graft.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.", "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.", "image_url": null, "images": []}
+{
+  "tech_id": "67-27",
+  "name_en": "Correction of Nonunion of the Metacarpals (Littler)",
+  "name_vi": "Khâu Phục Hồi Giường Móng & Cố Định Gãy Đốt Xa Kèm Rách Móng",
+  "chapter": 67,
+  "category": "Hand & Wrist",
+  "pdf_page": 3847,
+  "author": "Littler",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Giường Móng & Cố Định Gãy Đốt Xa Kèm Rách Móng (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Correction of Nonunion of the Metacarpals (Littler) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Expose the defective metacarpal with a longitudinal or curved dorsal incision, depending on the location of exist- ing scars.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Dissect all scar tissue from the extensor tendons, but preserve the paratenon intact.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Dissect the fibrous tissue en bloc from between the frag- ments so that traction can restore normal finger length.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Usually the proximal fragment must be sacrificed as far as its base; resect it with an osteotome at an angle of 30 degrees (Fig. 67-77), making a recess in the bone.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Cut the end of the distal fragment transversely with a saw or rongeur and open the medullary canal to receive the doweled end of the graft.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "With traction on the finger, measure the defect between the fragments and take from the tibia (or other suitable site) a graft at least 1.3 cm longer than the defect.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
+  "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
+  "image_url": "web/static/images/techniques/67-27.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-27.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-77 Littler technique for grafting metacarpal non­ union in which bone substance has been lost. SEE TECHNIQUE 67-27.",
+      "width": 456,
+      "height": 226
+    },
+    {
+      "url": "web/static/images/techniques/67-27_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-77 Littler technique for grafting metacarpal non­ union in which bone substance has been lost. SEE TECHNIQUE 67-27.",
+      "width": 436,
+      "height": 102
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \n30°\nthe 12th day a new cast is applied that immobilizes only \nthe grafted metacarpal and the proximal phalanx; it is left \nin place for 2 months.\nAdministration of prophylactic antibiotics just before \nor during surgery should be considered. An antibiotic \nshould be given for several days after surgery because the \ninjury producing the bone defect is frequently open. The \nregion is potentially infected even though the original \nwound has healed.\nhand must be well covered by skin and subcutaneous \ntissue, even if local or remote flaps, such as an abdominal \npedicle flap, are required (see Chapter 65). Second, the fine \ndetails of what Bunnell called “bone carpentry” must be \nexact.\n(LITTLER)\n■ Expose the defective metacarpal with a longitudinal or \ncurved dorsal incision, depending on the location of exist-\ning scars.\n■ Dissect all scar tissue from the extensor tendons, but \npreserve the paratenon intact.\n■ Dissect the fibrous tissue en bloc from between the frag-\nments so that traction can restore normal finger length.\n■ Usually the proximal fragment must be sacrificed as far \nas its base; resect it with an osteotome at an angle of 30 \ndegrees (Fig. 67-77), making a recess in the bone.\n■ Cut the end of the distal fragment transversely with a \nsaw or rongeur and open the medullary canal to receive \nthe doweled end of the graft.\n■ With traction on the finger, measure the defect between \nthe fragments and take from the tibia (or other suitable \nsite) a graft at least 1.3 cm longer than the defect.\n■ Fashion a dowel at one end of the graft and cut the other \nend obliquely at 30 degrees. Insert the doweled end into \nthe medullary canal of the distal fragment and press the \nproximal end into the prepared metacarpal or carpal \nrecess. Compression of the graft between the two frag-\nments holds it in place.\n■ If necessary, stabilize the graft by passing one or more \nKirschner wires through it and into adjacent, uninvolved \nmetacarpals.\n■ Close the periosteal sheath, if present, and the soft tissues \nover the graft with fine sutures."
+}

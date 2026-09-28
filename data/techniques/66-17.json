@@ -1,1 +1,51 @@
-{"tech_id": "66-17", "name_en": "Flexor Tendon Graft", "name_vi": "Phẫu thuật Giải Phóng Gân Gấp Dính (Flexor Tenolysis)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3767, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Giải Phóng Gân Gấp Dính (Flexor Tenolysis) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Flexor Tendon Graft: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Phẫu thuật Giải Phóng Gân Gấp Dính)", "detail": "With the wrist in maximal extension, full flexion of the thumb is produced. With the wrist in maximal passive flexion, full extension of the thumb should be produced.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "When the tension is satisfactory, the additional mattress sutures are placed to secure the juncture.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "As an alternative method, the proximal end of the graft can be sutured to the tendon opposite the middle of the thumb metacarpal; this requires only one incision and helps avoid potential median nerve", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-17",
+  "name_en": "Flexor Tendon Graft",
+  "name_vi": "Phẫu thuật Giải Phóng Gân Gấp Dính (Flexor Tenolysis)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3767,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Giải Phóng Gân Gấp Dính (Flexor Tenolysis) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "With the wrist in maximal extension, full flexion of the thumb is produced. With the wrist in maximal passive flexion, full extension of the thumb should be produced.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "When the tension is satisfactory, the additional mattress sutures are placed to secure the juncture.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "As an alternative method, the proximal end of the graft can be sutured to the tendon opposite the middle of the thumb metacarpal; this requires only one incision and helps avoid potential median nerve complications.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Close the wound with 5-0 nylon or a similar suture without subcutaneous sutures. Apply a dorsal splint to the wrist, hand, and thumb with the wrist in 45 degrees of flexion and the interphalangeal joint of the thumb in extension.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-17.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-17.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ phẫu thuật 66-17: Flexor Tendon Graft - Pulvertaft Weave & Fixation (Campbell 13th Ed, Trang 3770)"
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "CHAPTER 66  FLEXOR AND EXTENSOR TENDON INJURIES\n3385\nin the neutral position. Test the tension on the graft by \nplacing one mattress suture through the end weave.\n■ With the wrist in maximal extension, full flexion of the \nthumb is produced. With the wrist in maximal passive \nflexion, full extension of the thumb should be \nproduced.\n■ When the tension is satisfactory, the additional mattress \nsutures are placed to secure the juncture.\n■ As an alternative method, the proximal end of the graft \ncan be sutured to the tendon opposite the middle of the \nthumb metacarpal; this requires only one incision and \nhelps avoid potential median nerve complications.\n■ Close the wound with 5-0 nylon or a similar suture \nwithout subcutaneous sutures. Apply a dorsal splint to \nthe wrist, hand, and thumb with the wrist in 45 degrees \nof flexion and the interphalangeal joint of the thumb in \nextension."
+}

@@ -9,37 +9,37 @@
   "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
   "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Thiết kế vạt da mỏm cụt & Rạch da theo tỷ lệ",
-      "detail": "A, Dorsal skin incisions planned with marking pen.",
-      "action": "Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo chuẩn tỷ lệ chiều dài/rộng."
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Index Ray Amputation, phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
     },
     {
       "step": 2,
-      "title": "Thì 2: Phẫu tích khối cơ, thắt mạch máu chính 2 lần",
-      "detail": "Palmar skin incision can be outlined in matching zigzag fashion to reduce skin suture line contracture.",
-      "action": "Cắt cơ theo lớp vát hình nón; phẫu tích bộc lộ bó mạch lớn và thắt kép an toàn."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Index Ray Amputation (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
     },
     {
       "step": 3,
-      "title": "Thì 3: Cắt xử lý thân thần kinh chống u thần kinh mỏm cụt",
-      "detail": "B, Flexor digitorum superficialis and flexor digitorum pro­ fundus tendons severed proximal to lumbrical origin after isolation and division of appropriate neurovascular structures.",
-      "action": "Kéo nhẹ thân thần kinh xuống 3-5 cm, cắt ngang dứt khoát để đầu thần kinh co sâu vào cơ."
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Index Ray Amputation theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
     },
     {
       "step": 4,
-      "title": "Thì 4: Cắt xương, vát tròn bờ xương & Khâu cố định cơ Myodesis",
-      "detail": "C, First dorsal interosseous retained for insertion into radial base of middle finger proximal phalanx.",
-      "action": "Cắt xương ngang mức dự kiến; dùng giũa mài tròn nhẵn các góc cạnh sắc của vỏ xương."
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
     },
     {
       "step": 5,
-      "title": "Thì 5: Cầm máu triệt để, đặt dẫn lưu kín & Đóng da không căng",
-      "detail": "D, Appearance after index ray amputation.",
-      "action": "Khâu vạt cơ qua các lỗ khoan xương màng xương; khâu da mũi rời nới lỏng không thiếu máu."
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
     }
   ],
   "postop_protocol": "Băng ép mỏm cụt bằng băng chun vô khuẩn hình số 8 hoặc nẹp bột cứng bảo vệ tránh co rút gập khớp. Theo dõi sát màu sắc mép vạt và dịch dẫn lưu. Rút dẫn lưu sau 24-48 giờ. Hướng dẫn tập gồng cơ mỏm cụt và tập phục hồi chức năng đi chi giả sớm.",
@@ -48,13 +48,19 @@
   "images": [
     {
       "url": "web/static/images/techniques/19-10.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 19-10 (Index Ray Amputation) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 19-17 Technique for index ray amputation. A, Dorsal skin incisions planned with marking pen. Palmar skin incision can be outlined in matching zigzag fashion to reduce skin suture line contracture. B, Flexor digitorum superficialis and flexor d",
+      "width": 1135,
+      "height": 750
     },
     {
       "url": "web/static/images/techniques/19-10_xray.webp",
       "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 19-10 (Index Ray Amputation) - Campbell 13th Ed"
+      "caption": "FIGURE 19-18 Middle finger ray resection. A and B, Clinical appearance of unsalvageable contracted and stiff middle finger after gunshot wound to hand. C and D, Planned palmar and dorsal incisions for ray resection. E and F, Cosmetic appearance after",
+      "width": 1122,
+      "height": 1097
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "CHAPTER 19  AMPUTATIONS OF THE HAND\n723\nFIGURE 19-17\t\nTechnique for index ray amputation. A, Dorsal skin incisions planned with marking pen. Palmar skin incision can be \noutlined in matching zigzag fashion to reduce skin suture line contracture. B, Flexor digitorum superficialis and flexor digitorum pro­\nfundus tendons severed proximal to lumbrical origin after isolation and division of appropriate neurovascular structures. C, First dorsal \ninterosseous retained for insertion into radial base of middle finger proximal phalanx. D, Appearance after index ray amputation. \nSEE"
 }

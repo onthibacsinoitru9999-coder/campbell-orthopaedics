@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nối Vi Phẫu Dây Thần Kinh Trụ Tại Vùng Cổ Tay & Cẳng Tay (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).",
   "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Repair of the Median Nerve: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
@@ -50,6 +50,15 @@
       "url": "web/static/images/techniques/68-8.webp",
       "type": "diagram",
       "caption": "Giải phẫu mặt cắt thần kinh giữa tại cổ tay và tương quan nhánh vận động quặp ngược"
+    },
+    {
+      "url": "web/static/images/techniques/68-8_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 68-14 Boyes technique of repairing deep branch of ulnar nerve. A, Main trunk and deep branch of ulnar nerve have been exposed, and volar carpal ligament has been divided. B, Ends of deep branch have been freshened. C, Deep branch has been spli",
+      "width": 819,
+      "height": 879
     }
-  ]
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "PART XVIII  THE HAND\n3474\nFIGURE 68-14\t\nBoyes technique of repairing deep branch of ulnar nerve. A, Main trunk and deep branch of ulnar nerve have been \nexposed, and volar carpal ligament has been divided. B, Ends of deep branch have been freshened. C, Deep branch has been split \nintraneurally into distal forearm. D, Deep branch has been rerouted through carpal tunnel, and its ends have been sutured. SEE"
 }

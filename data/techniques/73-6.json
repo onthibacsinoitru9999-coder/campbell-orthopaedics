@@ -1,1 +1,64 @@
-{"tech_id": "73-6", "name_en": "Proximal Interphalangeal Joint Volar Plate Interposition Arthroplasty", "name_vi": "Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay (Volar Plate Interposition)", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4086, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay (Volar Plate Interposition) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Proximal Interphalangeal Joint Volar Plate Interposition Arthroplasty: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "This procedure gives a more stable index finger for pinch and permits middle finger flexion for grasp.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay)", "detail": "Ring and little finger resection arthroplasty also can be done when indicated.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay)", "detail": "If the joint contracture is so tight that extensive bone resection is required for satisfactory implant placement, arthrodesis should be considered.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay)", "detail": "Joint stiffness and angular and rotational instability may compromise outcomes when resection-interposition arthro­ plasty is done for osteoarthritis or traumatic arthritis.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Two holes are drilled perpendicular to the middle phalangeal base for passing sutures.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": "web/static/images/techniques/73-6.webp", "images": [{"url": "web/static/images/techniques/73-6.webp", "type": "diagram", "caption": "Tạo hình khớp liên đốt gần chêm tấm sụn mặt lòng (Volar plate interposition arthroplasty)"}]}
+{
+  "tech_id": "73-6",
+  "name_en": "Proximal Interphalangeal Joint Volar Plate Interposition Arthroplasty",
+  "name_vi": "Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay (Volar Plate Interposition)",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4086,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay (Volar Plate Interposition) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Proximal Interphalangeal Joint Volar Plate Interposition Arthroplasty (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "This procedure gives a more stable index finger for pinch and permits middle finger flexion for grasp.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay)",
+      "detail": "Ring and little finger resection arthroplasty also can be done when indicated.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay)",
+      "detail": "If the joint contracture is so tight that extensive bone resection is required for satisfactory implant placement, arthrodesis should be considered.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Liên Đốt Gần Chêm Tấm Sụn Gan Tay)",
+      "detail": "Joint stiffness and angular and rotational instability may compromise outcomes when resection-interposition arthro­ plasty is done for osteoarthritis or traumatic arthritis.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "Two holes are drilled perpendicular to the middle phalangeal base for passing sutures.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-6.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-6.webp",
+      "type": "diagram",
+      "caption": "Tạo hình khớp liên đốt gần chêm tấm sụn mặt lòng (Volar plate interposition arthroplasty)"
+    },
+    {
+      "url": "web/static/images/techniques/73-6_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-16 Proximal interphalangeal joint volar plate interposition arthroplasty. A, Through a proximal interphalangeal joint volar approach, the volar plate is detached from the middle",
+      "width": 480,
+      "height": 161
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": ").\nPROXIMAL INTERPHALANGEAL JOINT IMPLANT \nARTHROPLASTY\nIf the index and middle finger proximal interphalangeal joints \nare involved, index finger proximal interphalangeal joint \narthrodesis and middle finger proximal interphalangeal joint \narthroplasty may be indicated. This procedure gives a more \nstable index finger for pinch and permits middle finger flexion \nfor grasp. Ring and little finger resection arthroplasty also can \nbe done when indicated. If the joint contracture is so tight \nthat extensive bone resection is required for satisfactory \nimplant placement, arthrodesis should be considered.\nJoint stiffness and angular and rotational instability may \ncompromise outcomes when resection-interposition arthro­\nplasty is done for osteoarthritis or traumatic arthritis. Silicone \narthroplasty for traumatic arthritis of the proximal interpha­\nlangeal joint has been shown to work satisfactorily. Proximal \ninterphalangeal joint silicone arthroplasty has been shown \nto provide pain relief without significant improvement in \nmotion. Proximal interphalangeal silicone arthroplasty gen­\nerally produces better results in patients with traumatic \narthritis than in patients with rheumatoid arthritis. High \nfracture rates have been reported with proximal interphalan­\ngeal joint silicone spacers despite reasonable clinical out­\ncomes. Patients should be clearly informed that all arthroplasty \nprocedures are done for pain reduction or elimination and \nnot for improvement in motion or strength. Moreover, joint \nmotion may be decreased after the procedure, and some \npatients may elect to endure the pain rather than risk motion \nloss, especially of the dominant hand ring finger when loss of \nmotion may significantly alter activities such as handwriting.\nFIGURE 73-16\t\nProximal interphalangeal joint volar plate \ninterposition arthroplasty. A, Through a proximal interphalangeal \njoint volar approach, the volar plate is detached from the middle \nphalanx base. Two holes are drilled perpendicular to the middle \nphalangeal base for passing sutures. B, Sutures are attached to \nthe volar plate and drawn dorsal to volar through the bone \ntunnels and tied on the volar side of the middle phalangeal base. \nC, A 1-mm Kirschner wire is used to fix the joint in 20 degrees of \nflexion. (Redrawn from Lin SY, Chuo CY, Lin GT, et al: Volar plate \ninterposition arthroplasty for posttraumatic arthritis of the finger joints, \nJ Hand Surg 33A:35, 2008.) SEE"
+}

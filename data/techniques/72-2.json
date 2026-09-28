@@ -1,1 +1,66 @@
-{"tech_id": "72-2", "name_en": "Brachioradialis Rerouting (Ozkan et al.)", "name_vi": "Giải Phóng Điểm Bám Cơ Sấp Tròn (Pronator Teres Release) Chống Biến Dạng Sấp", "chapter": 72, "category": "Hand & Wrist", "pdf_page": 4052, "author": "Ozkan et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Giải Phóng Điểm Bám Cơ Sấp Tròn (Pronator Teres Release) Chống Biến Dạng Sấp (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Brachioradialis Rerouting (Ozkan et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "A, Incision along radial aspect of forearm centered over insertion of pronator teres.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Giải Phóng Điểm Bám Cơ Sấp Tròn)", "detail": "B, Exposure of pronator teres insertion on radius.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Giải Phóng Điểm Bám Cơ Sấp Tròn)", "detail": "C, Elevation of pronator teres insertion with strip of periosteum from radius.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "D, Anchoring hole drilled in anterolateral part of radial cortex, with smaller hole drilled through postero­ medial part.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "E-G, Pronator teres tendon rerouted posteriorly through interosseous membrane, passed from lateral to medial through hole drilled in radius, and sutured.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.", "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.", "image_url": null, "images": []}
+{
+  "tech_id": "72-2",
+  "name_en": "Brachioradialis Rerouting (Ozkan et al.)",
+  "name_vi": "Giải Phóng Điểm Bám Cơ Sấp Tròn (Pronator Teres Release) Chống Biến Dạng Sấp",
+  "chapter": 72,
+  "category": "Hand & Wrist",
+  "pdf_page": 4052,
+  "author": "Ozkan et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Giải Phóng Điểm Bám Cơ Sấp Tròn (Pronator Teres Release) Chống Biến Dạng Sấp (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Brachioradialis Rerouting (Ozkan et al.) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Brachioradialis Rerouting (Ozkan et al.), phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Brachioradialis Rerouting (Ozkan et al.) (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Brachioradialis Rerouting (Ozkan et al.) theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.",
+  "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.",
+  "image_url": "web/static/images/techniques/72-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/72-2.webp",
+      "type": "diagram",
+      "caption": "FIGURE 72-4 Transfer of pronator teres for pronation contracture of forearm. A, Incision along radial aspect of forearm centered over insertion of pronator teres. B, Exposure of pronator teres insertion on radius. C, Elevation of pronator teres inser",
+      "width": 1012,
+      "height": 1305
+    },
+    {
+      "url": "web/static/images/techniques/72-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 72-5 Ozkan brachioradialis rerouting technique. A, The tendon is cut in a Z fashion. B, The distal tendon is passed between the radius and ulna in a dorsal to palmar direction",
+      "width": 1175,
+      "height": 512
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "CHAPTER 72  CEREBRAL PALSY OF THE HAND\n3643\nG\nA\nC\nF\nD\nE\nB\nPronator\nteres\nPronator\nDistal\nMedial\nLateral\nBrachioradialis\nRadius\nExtensor carpi\nradialis longus\nMedial\nLateral\nDistal\nProximal\nFIGURE 72-4\t\nTransfer of pronator teres for pronation contracture of forearm. A, Incision along radial aspect of forearm centered \nover insertion of pronator teres. B, Exposure of pronator teres insertion on radius. C, Elevation of pronator teres insertion with strip \nof periosteum from radius. D, Anchoring hole drilled in anterolateral part of radial cortex, with smaller hole drilled through postero­\nmedial part. E-G, Pronator teres tendon rerouted posteriorly through interosseous membrane, passed from lateral to medial through \nhole drilled in radius, and sutured. SEE"
+}

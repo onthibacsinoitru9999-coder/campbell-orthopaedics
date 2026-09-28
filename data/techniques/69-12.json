@@ -1,1 +1,66 @@
-{"tech_id": "69-12", "name_en": "Proximal Row Carpectomy (Neviaser)", "name_vi": "Ghép Xương Xốp Mặt Mu Kết Hợp Vít Nén Ép Điều Trị Khớp Giả Xương Thuyền", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3898, "author": "Neviaser", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Xương Xốp Mặt Mu Kết Hợp Vít Nén Ép Điều Trị Khớp Giả Xương Thuyền (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Proximal Row Carpectomy (Neviaser): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Ghép Xương Xốp Mặt Mu Kết Hợp Vít Nén Ép Điều Trị Khớp Giả Xương Thuyền)", "detail": "Excise these bones piecemeal, but leave a thin shell of cortical bone adherent to the palmar capsule if necessary.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Ghép Xương Xốp Mặt Mu Kết Hợp Vít Nén Ép Điều Trị Khớp Giả Xương Thuyền)", "detail": "Avoid injuring the proximal articular surface of the capi- tate and allow it to settle into the lunate fossa.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "If the trapezium abuts the radial styloid and prevents radial deviation, perform a radial styloidectomy. Cut the styloid transversely to remove the radial edge of the lunate fossa.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Repair the dorsal capsule.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "After closure of the skin, immobilize the wrist in slight extension.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-12",
+  "name_en": "Proximal Row Carpectomy (Neviaser)",
+  "name_vi": "Ghép Xương Xốp Mặt Mu Kết Hợp Vít Nén Ép Điều Trị Khớp Giả Xương Thuyền",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3898,
+  "author": "Neviaser",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Xương Xốp Mặt Mu Kết Hợp Vít Nén Ép Điều Trị Khớp Giả Xương Thuyền (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Excise these bones piecemeal, but leave a thin shell of cortical bone adherent to the palmar capsule if necessary.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Avoid injuring the proximal articular surface of the capi- tate and allow it to settle into the lunate fossa.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "If the trapezium abuts the radial styloid and prevents radial deviation, perform a radial styloidectomy. Cut the styloid transversely to remove the radial edge of the lunate fossa.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Repair the dorsal capsule.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "After closure of the skin, immobilize the wrist in slight extension.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-12.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-36 Proximal row carpectomy through dorsal approach. A and B, Exposure and morcellation of scaphoid and lunate between second and fourth dorsal compartments. C and D, Exposure of triquetrum between fourth and fifth extensor compartments for ",
+      "width": 1294,
+      "height": 914
+    },
+    {
+      "url": "web/static/images/techniques/69-12_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-37 Arthroscopic proximal row carpectomy (see text). A, Initial removal of distal ulnar pole of scaphoid. B, Entire proximal row has been excised. C, After release of traction. (From Weiss ND, Molina RA, Gwin S: Arthroscopic proximal row car",
+      "width": 1095,
+      "height": 1081
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "PROXIMAL ROW CARPECTOMY\n\nCHAPTER 69  WRIST DISORDERS\n3505\n■ Excise these bones piecemeal, but leave a thin shell of \ncortical bone adherent to the palmar capsule if \nnecessary.\n■ Avoid injuring the proximal articular surface of the capi-\ntate and allow it to settle into the lunate fossa.\n■ If the trapezium abuts the radial styloid and prevents \nradial deviation, perform a radial styloidectomy. Cut the \nstyloid transversely to remove the radial edge of the \nlunate fossa.\n■ Repair the dorsal capsule.\n■ After closure of the skin, immobilize the wrist in slight \nextension."
+}

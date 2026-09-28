@@ -1,1 +1,65 @@
-{"tech_id": "73-22", "name_en": "Metacarpophalangeal Arthroplasty", "name_vi": "Cắt Xương Thang & Chêm Cuộn Gân Gan Tay Dài Tự Thân (Hematoma and Tendon Interposition)", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4104, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Thang & Chêm Cuộn Gân Gan Tay Dài Tự Thân (Hematoma and Tendon Interposition) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Metacarpophalangeal Arthroplasty: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Expose the thumb carpometacarpal joint through an inci­ sion along the radial border of the metacarpal, curving ulnarly in the distal wrist flexion crease as far as the flexor carpi radialis tendon. Three special structures should be protected: the superficial branch of the radial nerve, the superfi", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Cắt Xương Thang & Chêm Cuộn Gân Gan Tay Dài Tự Thân)", "detail": "Reflect the thenar muscles extraperiosteally from the metacarpal and volar aspects of the trapezium.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Deep dissection at the proximal border of the trapezium exposes a sheet of transverse fascial fibers that form a roof over the separate fibrous flexor carpi radialis tunnel. This tunnel is separated from the carpal tunnel by a septum parallel to and between the flexor carpi radialis and the flexor p", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "A reflection of the transverse carpal ligament forms a roof over this fibroosseous tunnel (Fig. 73-35B). Incise this layer longitudinally, exposing the flexor carpi radialis tendon course, which disappears distally beneath a hori­ zontal trapezial ridge projection.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Free the tendon approximately 0.5 cm distal to this point by sharp release of the overlying muscle origins and the transverse carpal ligament, exposing the volar and radial aspect of the carpometacarpal joint.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-22",
+  "name_en": "Metacarpophalangeal Arthroplasty",
+  "name_vi": "Cắt Xương Thang & Chêm Cuộn Gân Gan Tay Dài Tự Thân (Hematoma and Tendon Interposition)",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4104,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Xương Thang & Chêm Cuộn Gân Gan Tay Dài Tự Thân (Hematoma and Tendon Interposition) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Expose the thumb carpometacarpal joint through an inci­ sion along the radial border of the metacarpal, curving ulnarly in the distal wrist flexion crease as far as the flexor carpi radialis tendon. Three special structures should be protected: the superficial branch of the radial nerve, the superficial branch of the radial artery, and any sensory branches, especially the palmar cutaneous branch of the median nerve (Fig. 73-35A).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Reflect the thenar muscles extraperiosteally from the metacarpal and volar aspects of the trapezium.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Deep dissection at the proximal border of the trapezium exposes a sheet of transverse fascial fibers that form a roof over the separate fibrous flexor carpi radialis tunnel. This tunnel is separated from the carpal tunnel by a septum parallel to and between the flexor carpi radialis and the flexor pollicis longus.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "A reflection of the transverse carpal ligament forms a roof over this fibroosseous tunnel (Fig. 73-35B). Incise this layer longitudinally, exposing the flexor carpi radialis tendon course, which disappears distally beneath a hori­ zontal trapezial ridge projection.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Free the tendon approximately 0.5 cm distal to this point by sharp release of the overlying muscle origins and the transverse carpal ligament, exposing the volar and radial aspect of the carpometacarpal joint.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Perform an arthrotomy of the radial capsule to allow debridement of synovium and marginal osteophytes and inspection of the articular cartilage.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-22.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-22.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-35 Reconstruction for painful thumb carpometacarpal joint. A, Incision for exposure. B, Schema of ligament support. The volar ligament is a reflection of the transverse carpal ligament after insertion into crest of trapezium. Note flexor ra",
+      "width": 1129,
+      "height": 1083
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "changes because arthroplasty and arthrodesis usually are \nbetter options. Reconstruction of the trapeziometacarpal \nvolar ligament in patients with hypermobile prearthritic \njoints may provide significant pain relief and reduce the \nchance of future progression of trapeziometacarpal arthritis.\nTRAPEZIOMETACARPAL LIGAMENT \nRECONSTRUCTION\n(EATON AND LITTLER)\n■ Expose the thumb carpometacarpal joint through an inci­\nsion along the radial border of the metacarpal, curving \nulnarly in the distal wrist flexion crease as far as the flexor \ncarpi radialis tendon. Three special structures should be \nprotected: the superficial branch of the radial nerve, the \nsuperficial branch of the radial artery, and any sensory \nbranches, especially the palmar cutaneous branch of the \nmedian nerve (Fig. 73-35A).\n■ Reflect the thenar muscles extraperiosteally from the \nmetacarpal and volar aspects of the trapezium.\n■ Deep dissection at the proximal border of the trapezium \nexposes a sheet of transverse fascial fibers that form a \nroof over the separate fibrous flexor carpi radialis tunnel. \nThis tunnel is separated from the carpal tunnel by a \nseptum parallel to and between the flexor carpi radialis \nand the flexor pollicis longus.\n■ A reflection of the transverse carpal ligament forms a roof \nover this fibroosseous tunnel (Fig. 73-35B). Incise this \nlayer longitudinally, exposing the flexor carpi radialis \ntendon course, which disappears distally beneath a hori­\nzontal trapezial ridge projection.\n■ Free the tendon approximately 0.5 cm distal to this point \nby sharp release of the overlying muscle origins and the \ntransverse carpal ligament, exposing the volar and radial \naspect of the carpometacarpal joint.\n■ Perform an arthrotomy of the radial capsule to allow \ndebridement of synovium and marginal osteophytes and \ninspection of the articular cartilage.\n■ Remove as much diseased synovium as possible.\n■ Create an extraarticular tunnel from the metacarpal \ndorsum to the metacarpal volar beak apex, in a plane \nperpendicular to the thumb nail. Start the tunnel just \ndistal to the dorsal base of the metacarpal between the \nextensor pollicis brevis and extensor pollicis longus \ntendons (Fig. 73-35C). Do not enter the joint.\n■ To obtain a “new ligament” from the flexor carpi radialis, \nmake two transverse incisions 3 cm and 6 cm proximal \nto the wrist crease over the flexor carpi radialis tendon.\n■ Split a strip of half its width away radially and tunnel \nbeneath skin bridges to emerge beyond the wrist crease, \nremaining in continuity distally (Fig. 73-35D).\n■ Continue the split distal to the crest of the trapezium, at \nwhich point the free end is redirected across the crest to \nenter the volar portion of the previously created intra­\nmedullary channel at the thumb metacarpal beak.\n■ Draw the tendon dorsally using a previously placed wire \nsuture (Fig. 73-35E). The distal portion of the new"
+}

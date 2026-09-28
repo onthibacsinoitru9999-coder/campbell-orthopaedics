@@ -1,1 +1,72 @@
-{"tech_id": "66-14", "name_en": "Reconstruction of Flexor Tendon Pulleys", "name_vi": "Tái Tạo Ròng Rọc Gân Gấp A2 & A4 Bằng Dải Gân Tự Thân (Pulley Reconstruction)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3763, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Ròng Rọc Gân Gấp A2 & A4 Bằng Dải Gân Tự Thân (Pulley Reconstruction) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Reconstruction of Flexor Tendon Pulleys: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Bring the tendons out through an additional palmar inci- sion and complete their excision.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "If a two-stage tendon reconstruction is planned, insert a Silastic rod (Hunter) of appropriate size and attach it distally either to the remaining profundus tendon stump or to the bone by a small screw (Fig. 66-52), as described for the two-stage Hunter rod technique.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Place the rod proximally at the forearm or palmar level in a scar-free area away from the profundus tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Leave the profundus tendon attached to the lumbrical muscle to maintain its length.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Several techniques are available for pulley reconstruction. If a tendon graft is to be used for a pulley substitute, use a thin strip measuring at least 6 cm in length and 0.25 cm in width. If the original fibroosseous rim of the flexor sheath is satisfactory, weave the tendon through this rim and s", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": null, "images": []}
+{
+  "tech_id": "66-14",
+  "name_en": "Reconstruction of Flexor Tendon Pulleys",
+  "name_vi": "Tái Tạo Ròng Rọc Gân Gấp A2 & A4 Bằng Dải Gân Tự Thân (Pulley Reconstruction)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3763,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Ròng Rọc Gân Gấp A2 & A4 Bằng Dải Gân Tự Thân (Pulley Reconstruction) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Bring the tendons out through an additional palmar inci- sion and complete their excision.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "If a two-stage tendon reconstruction is planned, insert a Silastic rod (Hunter) of appropriate size and attach it distally either to the remaining profundus tendon stump or to the bone by a small screw (Fig. 66-52), as described for the two-stage Hunter rod technique.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Place the rod proximally at the forearm or palmar level in a scar-free area away from the profundus tendon.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Leave the profundus tendon attached to the lumbrical muscle to maintain its length.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Several techniques are available for pulley reconstruction. If a tendon graft is to be used for a pulley substitute, use a thin strip measuring at least 6 cm in length and 0.25 cm in width. If the original fibroosseous rim of the flexor sheath is satisfactory, weave the tendon through this rim and secure it with mattress sutures. Weave the strip over the silicone rod beginning at about the A2 pulley level (Fig. 66-53).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "The A2 and A4 pulleys can be reconstructed individually in this method. If the fibroosseous rim is insufficient, pass the tendon graft around the phalanx and suture it to itself with several mattress sutures.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-14.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-14.webp",
+      "type": "diagram",
+      "caption": "FIGURE 66-52 A, Stage 1. Distal implant juncture; suture to profundus stump. B, Distal implant juncture; metal endplate implant model with screw fixation to distal phalanx. SEE TECHNIQUE 66-14. B",
+      "width": 1137,
+      "height": 644
+    },
+    {
+      "url": "web/static/images/techniques/66-14_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-53 Reconstruction of flexor tendon pulleys. SEE TECHNIQUE 66-14. FIGURE 66-54",
+      "width": 489,
+      "height": 551
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ". \nB\nA\nespecially in the area of the distal joint and the A1 pulley \nsystem in the palm.\n■ Bring the tendons out through an additional palmar inci-\nsion and complete their excision.\n■ If a two-stage tendon reconstruction is planned, insert a \nSilastic rod (Hunter) of appropriate size and attach it \ndistally either to the remaining profundus tendon stump \nor to the bone by a small screw (Fig. 66-52), as described \nfor the two-stage Hunter rod technique.\n■ Place the rod proximally at the forearm or palmar level in \na scar-free area away from the profundus tendon.\n■ Leave the profundus tendon attached to the lumbrical \nmuscle to maintain its length.\n■ Several techniques are available for pulley reconstruction. \nIf a tendon graft is to be used for a pulley substitute, use \na thin strip measuring at least 6 cm in length and 0.25 cm \nin width. If the original fibroosseous rim of the flexor \nsheath is satisfactory, weave the tendon through this rim \nand secure it with mattress sutures. Weave the strip over \nthe silicone rod beginning at about the A2 pulley level \n(Fig. 66-53).\n■ The A2 and A4 pulleys can be reconstructed individually \nin this method. If the fibroosseous rim is insufficient, pass \nthe tendon graft around the phalanx and suture it to itself \nwith several mattress sutures.\n■ Over the proximal phalanx (A2 pulley reconstruction), \npass the tendon over the silicone rod and around \nthe proximal phalanx deep to the extensor tendon. Over \nthe middle phalanx (A4 pulley reconstruction), pass the \ntendon around the middle phalanx superficial to the \nextensor tendon and suture it to itself. In each case, \nthe circling pulley reconstruction is rotated so that the \nsuture portion is to the side of the finger.\n■ Make a zigzag (see Fig. 64-16B and C), midlateral (see \nFig. 64-17C), or volar oblique (see Fig. 64-16D) incision \nexposing the area of the flexor tendons. Make the expo-\nsure wide enough to show all of the flexor pulley system.\n■ Excise the scarred tendons and surrounding scar tissue. \nRetain any part of the sheath that is not scarred, however,"
+}

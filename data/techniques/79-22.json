@@ -1,1 +1,66 @@
-{"tech_id": "79-22", "name_en": "Reconstruction of the Hand in Apert Syndrome (Flatt)", "name_vi": "Phẫu thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên (Wassel Type IV)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4294, "author": "Flatt", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên (Wassel Type IV) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Reconstruction of the Hand in Apert Syndrome (Flatt): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn", "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên (Chương 79). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.", "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."}, {"step": 2, "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương", "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.", "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."}, {"step": 3, "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)", "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.", "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."}, {"step": 4, "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động", "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.", "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."}, {"step": 5, "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng", "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.", "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-22",
+  "name_en": "Reconstruction of the Hand in Apert Syndrome (Flatt)",
+  "name_vi": "Phẫu thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên (Wassel Type IV)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4294,
+  "author": "Flatt",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên (Wassel Type IV) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Reconstruction of the Hand in Apert Syndrome (Flatt) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn",
+      "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên (Chương 79). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.",
+      "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."
+    },
+    {
+      "step": 2,
+      "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương",
+      "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Cắt Bỏ Ngón Tay Thừa Bờ Quay Kèm Tái Tạo Dây Chằng Bên. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.",
+      "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."
+    },
+    {
+      "step": 3,
+      "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)",
+      "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.",
+      "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+    },
+    {
+      "step": 4,
+      "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động",
+      "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.",
+      "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."
+    },
+    {
+      "step": 5,
+      "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng",
+      "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.",
+      "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-22.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-22.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-43 Apert syndrome. A, Characteristic facial features of high forehead and wide-set eyes. B, Complex syndactyly involving all fingers of both hands; left hand has had syndactyly release. A",
+      "width": 1079,
+      "height": 732
+    },
+    {
+      "url": "web/static/images/techniques/79-22_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-44 Bifid thumb. A and B, Type II. C and D, Type IV (most common). A B",
+      "width": 791,
+      "height": 1180
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "CHAPTER 79  CONGENITAL ANOMALIES OF THE HAND\n3865\nas an isolated deformity unassociated with other malforma­\ntion syndromes, but visceral anomalies, although rare, have \nbeen reported, particularly hand-heart or Holt-Oram \nsyndrome.\nWassel presented a now widely used classification (Fig. \n79-45):\nType I: partial duplication of the distal phalanx and a common \nepiphysis\nType II: complete duplication, including the epiphysis of the \ndistal phalanx\nType III: duplication of the distal phalanx and bifurcation of \nthe proximal phalanx\nType IV: complete duplication of the distal and proximal \nphalanges\nType V: complete duplication of the distal and proximal \nphalanges with bifurcation of the metacarpal\n(3) postaxial— duplication of the small finger. Also included \nin the general category of duplication is ulnar dimelia, or \nmirror hand, an exceedingly rare anomaly.\nPREAXIAL POLYDACTYLY (BIFID THUMB)\nThe bifid thumb represents a complete or partial duplication \nof the thumb (Fig. 79-44). It is the most common duplication \npattern in white and Asian populations, occurring in one per \n10,000 births. It usually is unilateral. The cause of the bifid \nthumb is unknown. Most occur sporadically, which suggests \nenvironmental factors rather than genetic predisposition. \nPreaxial polydactyly has been produced in the offspring of \nrats by the administration of cytarabine during pregnancy. \nWhen the thumb duplication is associated with a triphalan­\ngeal thumb, an autosomal dominant pattern and sporadic \noccurrence have been identified. Bifid thumb typically occurs \nFIGURE 79-44\t\nBifid thumb. A and B, Type II. C and D, Type IV (most common). \nA\nB\nC\nD"
+}

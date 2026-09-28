@@ -1,1 +1,68 @@
-{"tech_id": "75-3", "name_en": "Partial (Selective) Fasciectomy", "name_vi": "Cắt Bỏ Chọn Lọc Cân Gan Tay (Limited Fasciectomy) Qua Đường Rạch Ziczac Bruner", "chapter": 75, "category": "Hand & Wrist", "pdf_page": 4164, "author": "Selective", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Chọn Lọc Cân Gan Tay (Limited Fasciectomy) Qua Đường Rạch Ziczac Bruner (Chương 75, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Bệnh nhân có thể chất quá yếu; co rút nhẹ chưa ảnh hưởng chức năng sinh hoạt (chưa có biến dạng gập khớp PIP hoặc bàn ngón < 30°).", "patient_prep": "Nằm ngửa trên bàn mổ tay. Garo cánh tay 200 mmHg. Kính lúp vi phẫu 3.5x và dao mổ vi phẫu số 15 sắc bén.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Partial (Selective) Fasciectomy: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Carefully excise the pathologic fascia by sharp dissection. Avoid cutting displaced digital nerves by locating each nerve in the fatty pad at the level of the metacarpopha- langeal joint and following it distally.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Cắt Bỏ Chọn Lọc Cân Gan Tay)", "detail": "Excise the natatory ligament if it is contracted.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Follow all the contracted fascial cords to their distal inser- tions. Insertions may be into tendon sheaths, bone, and skin; occasionally, they are dorsolateral to the proximal interphalangeal joint.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Cắt Bỏ Chọn Lọc Cân Gan Tay)", "detail": "When excision of the diseased tissue has been completed, all joints should permit full passive extension unless cap- sular contractures exist.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Fashion the skin flaps. If there is any extra skin, the pitted or thinned areas can be excised (Figs. 75-13F and G and 75-14F).", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Nẹp duỗi ngón tay trong 5-7 ngày đầu. Tập gập duỗi chủ động sớm. Đeo máng nẹp duỗi ngón ban đêm trong 3-6 tháng.", "pearls_pitfalls": "Dải xơ xoắn (spiral cord) luôn đẩy bó mạch thần kinh ngón riêng ra nông và vào giữa, rất dễ bị cắt đứt nếu không tìm thấy thần kinh ở vùng lành trước; Cầm máu thật tỉ mỉ chống tụ máu dưới vạt da.", "image_url": "web/static/images/techniques/75-3.webp", "images": [{"url": "web/static/images/techniques/75-3.webp", "type": "diagram", "caption": "Đường rạch ziczac Bruner và đa vạt chữ Z bộc lộ bóc tách chọn lọc dải xơ Dupuytren"}, {"url": "web/static/images/techniques/75-3_anat.webp", "type": "diagram", "caption": "Giải phẫu các dải cân gan tay tiến triển thành dải xoắn (Spiral cord) đẩy bó mạch thần kinh vào giữa"}]}
+{
+  "tech_id": "75-3",
+  "name_en": "Partial (Selective) Fasciectomy",
+  "name_vi": "Cắt Bỏ Chọn Lọc Cân Gan Tay (Limited Fasciectomy) Qua Đường Rạch Ziczac Bruner",
+  "chapter": 75,
+  "category": "Hand & Wrist",
+  "pdf_page": 4164,
+  "author": "Selective",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Chọn Lọc Cân Gan Tay (Limited Fasciectomy) Qua Đường Rạch Ziczac Bruner (Chương 75, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Bệnh nhân có thể chất quá yếu; co rút nhẹ chưa ảnh hưởng chức năng sinh hoạt (chưa có biến dạng gập khớp PIP hoặc bàn ngón < 30°).",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay. Garo cánh tay 200 mmHg. Kính lúp vi phẫu 3.5x và dao mổ vi phẫu số 15 sắc bén.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Partial (Selective) Fasciectomy, 3745 Carpal Tunnel Syndrome, Ulnar Tunnel Syndrome, and Stenosing (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Carefully excise the pathologic fascia by sharp dissection. Avoid cutting displaced digital nerves by locating each nerve in the fatty pad at the level of the metacarpopha- langeal joint and following it distally.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Excise the natatory ligament if it is contracted.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Follow all the contracted fascial cords to their distal inser- tions. Insertions may be into tendon sheaths, bone, and skin; occasionally, they are dorsolateral to the proximal interphalangeal joint.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "When excision of the diseased tissue has been completed, all joints should permit full passive extension unless cap- sular contractures exist.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Fashion the skin flaps. If there is any extra skin, the pitted or thinned areas can be excised (Figs. 75-13F and G and 75-14F).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Before closing, elevate the hand, compress the wound, release the tourniquet, hold for 10 minutes, and check for and control bleeding.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp duỗi ngón tay trong 5-7 ngày đầu. Tập gập duỗi chủ động sớm. Đeo máng nẹp duỗi ngón ban đêm trong 3-6 tháng.",
+  "pearls_pitfalls": "Dải xơ xoắn (spiral cord) luôn đẩy bó mạch thần kinh ngón riêng ra nông và vào giữa, rất dễ bị cắt đứt nếu không tìm thấy thần kinh ở vùng lành trước; Cầm máu thật tỉ mỉ chống tụ máu dưới vạt da.",
+  "image_url": "web/static/images/techniques/75-3.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/75-3.webp",
+      "type": "diagram",
+      "caption": "Đường rạch ziczac Bruner và đa vạt chữ Z bộc lộ bóc tách chọn lọc dải xơ Dupuytren"
+    },
+    {
+      "url": "web/static/images/techniques/75-3_anat.webp",
+      "type": "diagram",
+      "caption": "Giải phẫu các dải cân gan tay tiến triển thành dải xoắn (Spiral cord) đẩy bó mạch thần kinh vào giữa"
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "PARTIAL (SELECTIVE) FASCIECTOMY\nfibers may be unnecessary. Avoid entering tendon sheaths \nif possible because bleeding into the flexor tendon \nsheaths may cause adhesions.\n■ Carefully excise the pathologic fascia by sharp dissection. \nAvoid cutting displaced digital nerves by locating each \nnerve in the fatty pad at the level of the metacarpopha-\nlangeal joint and following it distally.\n■ Excise the natatory ligament if it is contracted.\n■ Follow all the contracted fascial cords to their distal inser-\ntions. Insertions may be into tendon sheaths, bone, and \nskin; occasionally, they are dorsolateral to the proximal \ninterphalangeal joint.\n■ When excision of the diseased tissue has been completed, \nall joints should permit full passive extension unless cap-\nsular contractures exist.\n■ Fashion the skin flaps. If there is any extra skin, the pitted \nor thinned areas can be excised (Figs. 75-13F and G and \n75-14F).\n■ Before closing, elevate the hand, compress the wound, \nrelease the tourniquet, hold for 10 minutes, and check \nfor and control bleeding.\n■ Using skin hooks and with minimal handling of the flaps, \nsuture them in place with 4-0 or 5-0 monofilament nylon. \nPlace few sutures in the palm to allow necessary drainage \naround a rubber drain.\n■ Alternatively, a closed suction drainage system may be \nconstructed with the use of butterfly catheters and Vacu-\ntainer tubes (Fig. 75-15). One catheter tube for each \noperated finger provides adequate and efficient drainage. \nThe likelihood of a flare reaction occurring 4 to 6 weeks"
+}

@@ -1,1 +1,64 @@
-{"tech_id": "66-27", "name_en": "Repair of Central Slip of the Extensor Expansion Causing Boutonniere Deformity", "name_vi": "Khâu Phục Hồi Gân Duỗi Vùng IV, V & VI (Khớp Bàn Ngón, Mu Bàn Tay & Mạc Giữ)", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3777, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Gân Duỗi Vùng IV, V & VI (Khớp Bàn Ngón, Mu Bàn Tay & Mạc Giữ) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Repair of Central Slip of the Extensor Expansion Causing Boutonniere Deformity: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Khâu Phục Hồi Gân Duỗi Vùng IV, V & VI)", "detail": "A, Typical deformity with flexion of proximal interphalan­ geal joint and extension of distal interphalangeal joint.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "B, Dorsal curved longitudinal incision is made.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Khâu Phục Hồi Gân Duỗi Vùng IV, V & VI)", "detail": "C, Insertions of lateral bands are completely freed except for radialmost fibers of radial lateral band.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "D and E, Lateral bands are shifted dorsally and proximally and are sutured together and to soft tissues over proximal third of middle phalanx and to central tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "F, Proximal interphalangeal joint (PIP) is fixed in full extension by Kirschner wire.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-27.webp", "images": [{"url": "web/static/images/techniques/66-27.webp", "type": "diagram", "caption": "Cơ chế biến dạng ngón tay khuy áo (Boutonnière deformity) và kỹ thuật khâu phục hồi dải trung tâm"}]}
+{
+  "tech_id": "66-27",
+  "name_en": "Repair of Central Slip of the Extensor Expansion Causing Boutonniere Deformity",
+  "name_vi": "Khâu Phục Hồi Gân Duỗi Vùng IV, V & VI (Khớp Bàn Ngón, Mu Bàn Tay & Mạc Giữ)",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3777,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Gân Duỗi Vùng IV, V & VI (Khớp Bàn Ngón, Mu Bàn Tay & Mạc Giữ) (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Repair of Central Slip of the Extensor Expansion Causing Boutonniere Deformity (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Repair of Central Slip of the Extensor Expansion Causing Boutonniere Deformity, phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Repair of Central Slip of the Extensor Expansion Causing Boutonniere Deformity (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Repair of Central Slip of the Extensor Expansion Causing Boutonniere Deformity theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-27.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-27.webp",
+      "type": "diagram",
+      "caption": "Cơ chế biến dạng ngón tay khuy áo (Boutonnière deformity) và kỹ thuật khâu phục hồi dải trung tâm"
+    },
+    {
+      "url": "web/static/images/techniques/66-27_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-69 A and B, Dorsolateral and lateral views of extensor mechanism. C, Anterior dislocation of proximal interphalangeal joint with rupture of middle slip, avulsed collateral ligament, and partial tear of distal fibers of transverse retinacula",
+      "width": 1026,
+      "height": 661
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "CHAPTER 66  FLEXOR AND EXTENSOR TENDON INJURIES\n3395\nFIGURE 66-70\t\nLittler technique for repair of old boutonniere deformity. A, Typical deformity with flexion of proximal interphalan­\ngeal joint and extension of distal interphalangeal joint. Lateral bands have subluxated volarward. B, Dorsal curved longitudinal incision \nis made. C, Insertions of lateral bands are completely freed except for radialmost fibers of radial lateral band. D and E, Lateral bands \nare shifted dorsally and proximally and are sutured together and to soft tissues over proximal third of middle phalanx and to central \ntendon. F, Proximal interphalangeal joint (PIP) is fixed in full extension by Kirschner wire. G, After repair, proximal interphalangeal joint \nis extended by extensor hood and distal interphalangeal joint by preserved lumbrical muscle and oblique retinacular ligament. SEE"
+}

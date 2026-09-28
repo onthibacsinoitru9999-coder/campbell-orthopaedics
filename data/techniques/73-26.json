@@ -1,1 +1,65 @@
-{"tech_id": "73-26", "name_en": "Tendon Interposition Arthroplasty with Ligament Reconstruction (Eaton et al.)", "name_vi": "Thay Khớp Thang Bàn 1 Bằng Khớp Nhân Tạo Silicone Hoặc Khớp Bề Mặt Kim Loại", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4111, "author": "Eaton et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Thay Khớp Thang Bàn 1 Bằng Khớp Nhân Tạo Silicone Hoặc Khớp Bề Mặt Kim Loại (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Tendon Interposition Arthroplasty with Ligament Reconstruction (Eaton et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Dissect the distal 4 cm of the flexor carpi radialis tendon slip, leaving it attached distally. Divide it from the proximal 6 to 10 cm of tendon and set aside the free segment to use as a tendon “sandwich.” Usually about 40% of the flexor carpi radialis strip is used for ligament reconstruc­ tion, a", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Thay Khớp Thang Bàn 1 Bằng Khớp Nhân Tạo Silicone Hoặc Khớp Bề Mặt Kim Loại)", "detail": "Pass the distally attached segment of the flexor carpi radialis through the gouge hole in the metacarpal base from palmar to dorsal.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Leave this tendon protruding dorsally to suture it to the abductor pollicis longus tendon and capsule.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Fold the remaining free segment of tendon and suture the free ends together with a nonabsorbable suture on a straight needle through the center of the folded and doubled tendon segment, passing the suture between the resected surfaces of the bone and out through the skin of the dorsal surface of the", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Pull on the suture ends to fold the tendon in half, creating a four-layered tendon “sandwich” lying between the resected base of the metacarpal and thumb trapezium.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-26",
+  "name_en": "Tendon Interposition Arthroplasty with Ligament Reconstruction (Eaton et al.)",
+  "name_vi": "Thay Khớp Thang Bàn 1 Bằng Khớp Nhân Tạo Silicone Hoặc Khớp Bề Mặt Kim Loại",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4111,
+  "author": "Eaton et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Thay Khớp Thang Bàn 1 Bằng Khớp Nhân Tạo Silicone Hoặc Khớp Bề Mặt Kim Loại (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Dissect the distal 4 cm of the flexor carpi radialis tendon slip, leaving it attached distally. Divide it from the proximal 6 to 10 cm of tendon and set aside the free segment to use as a tendon “sandwich.” Usually about 40% of the flexor carpi radialis strip is used for ligament reconstruc­ tion, and 60% is used for tendon interposition.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Pass the distally attached segment of the flexor carpi radialis through the gouge hole in the metacarpal base from palmar to dorsal.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Leave this tendon protruding dorsally to suture it to the abductor pollicis longus tendon and capsule.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Fold the remaining free segment of tendon and suture the free ends together with a nonabsorbable suture on a straight needle through the center of the folded and doubled tendon segment, passing the suture between the resected surfaces of the bone and out through the skin of the dorsal surface of the thumb web space.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Pull on the suture ends to fold the tendon in half, creating a four-layered tendon “sandwich” lying between the resected base of the metacarpal and thumb trapezium.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Tie the ends of the traction suture loosely on the dorsum of the thumb web, allowing the tendon “sandwich” to form a cushion between the resected bone surfaces.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-26.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-26.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-39 Technique modification for tendon interposition arthroplasty with ligament reconstruction (see text). A, Holes made in the thumb metacarpal base. B, Flexor carpi radialis tendon passed through bone tunnel while index and thumb metacarpal",
+      "width": 997,
+      "height": 1518
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "beneath the skin bridges and emerge just distal to the \nwrist flexion crease.\n■ Dissect the distal 4 cm of the flexor carpi radialis tendon \nslip, leaving it attached distally. Divide it from the proximal \n6 to 10 cm of tendon and set aside the free segment to \nuse as a tendon “sandwich.” Usually about 40% of the \nflexor carpi radialis strip is used for ligament reconstruc­\ntion, and 60% is used for tendon interposition.\n■ Pass the distally attached segment of the flexor carpi \nradialis through the gouge hole in the metacarpal base \nfrom palmar to dorsal.\n■ Leave this tendon protruding dorsally to suture it to the \nabductor pollicis longus tendon and capsule.\n■ Fold the remaining free segment of tendon and suture \nthe free ends together with a nonabsorbable suture on a \nstraight needle through the center of the folded and \ndoubled tendon segment, passing the suture between \nthe resected surfaces of the bone and out through the \nskin of the dorsal surface of the thumb web space.\n■ Pull on the suture ends to fold the tendon in half, creating \na four-layered tendon “sandwich” lying between the \nresected base of the metacarpal and thumb trapezium.\n■ Tie the ends of the traction suture loosely on the dorsum \nof the thumb web, allowing the tendon “sandwich” to \nform a cushion between the resected bone surfaces.\n■ Reduce the trapeziometacarpal joint and maintain it in \nextension and abduction by passing the previously posi­\ntioned Kirschner wire down the metacarpal shaft proxi­\nmally into the trapezium.\n■ Pass the remaining stump of the flexor carpi radialis \ntendon beneath the abductor pollicis longus insertion and \nsuture the flexor carpi radialis tendon to the abductor \npollicis longus tendon and the dorsal capsule. Do not \ntighten the reconstructed ligament excessively.\n■ Close the arthrotomy with absorbable sutures and \napproximate the thenar muscles.\n■ Close the skin and apply a bandage reinforced with a \nplaster splint, immobilizing the trapeziometacarpal and \nmetacarpophalangeal joints of the thumb."
+}

@@ -9,31 +9,31 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Mổ Mở Bộc Lộ Rộng Giải Ép Ống Cổ Tay Tái Phát Kèm Bọc Vạt Mỡ (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.",
   "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Surgical Treatment of De Quervain Disease: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Vô cảm, chuẩn bị bệnh nhân & Đặt garo hơi (Anesthesia & Tourniquet)",
-      "detail": "Use a local anesthetic and a tourniquet. Infiltrate the skin well proximal to the area of the first dorsal compartment with sufficient local anesthetic before skin preparation and draping. An Esmarch bandage on the proximal forearm usually suffices as a tourniquet.",
-      "action": "Gây tê tại chỗ vùng mỏm trâm quay và bơm garo hơi tạo phẫu trường rõ nét."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Use a local anesthetic and a tourniquet.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Đường rạch da qua khoang gân duỗi số 1 (Incision over 1st Dorsal Compartment)",
-      "detail": "Make an incision carefully through the skin only. An oblique incision coursing along the extensor pollicis brevis tendon is preferred; however, a transverse, oblique, or longitudinal incision is also perfectly satisfactory (Fig. 76-16).",
-      "action": "Rạch qua lớp da đơn thuần, không rạch sâu để bảo vệ mạng lưới thần kinh cảm giác."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Infiltrate the skin well proximal to the area of the first dorsal compartment with sufficient local anesthetic before skin preparation and draping. An Esmarch bandage on the proximal forearm usually suffices as a tourniquet.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Phẫu tích bảo tồn nhánh cảm giác nông thần kinh quay (Radial Sensory Nerve Protection)",
-      "detail": "Carry sharp dissection just through the dermis and not into the subcutaneous fat, avoiding the sensory branches (lateral antebrachial cutaneous nerve above the cephalic vein and superficial radial nerve branches more deeply).",
-      "action": "Bộc lộ và bảo vệ nguyên vẹn các nhánh cảm giác nông thần kinh quay (SBRN)."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Make an incision carefully through the skin only. An oblique incision coursing along the extensor brevis tendon is preferred; however, a transverse, oblique, or longitudi- nal incision is also perfectly satisfactory (Fig. 76-16). The longitudinal incision advocated by some surgeons creates a longer area in which skin scar may make cutaneous nerves more subject to scar adherence.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Cắt mở bao gân khoang 1, giải phóng APL & EPB, đóng vết mổ (Pulley Release & Closure)",
-      "detail": "Rạch mở trọn vẹn bao xơ khoang gân duỗi số 1 ở bờ sau. Kiểm tra tìm khoang phụ chứa gân duỗi ngắn ngón cái (EPB) và giải phóng hoàn toàn gân dạng dài ngón cái (APL) cùng EPB. Khâu da bằng chỉ nylon 5-0, băng vô trùng.",
-      "action": "Tìm và giải phóng ngăn riêng của gân EPB để tránh tái phát triệu chứng đau."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Carry sharp dissection just through the dermis and not into the subcutaneous fat, avoiding the sensory branches (lateral antebrachial cutaneous nerve above the cephalic vein and superficial radial nerve branches more deeply).",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.",
@@ -44,6 +44,15 @@
       "url": "web/static/images/techniques/76-5.webp",
       "type": "diagram",
       "caption": "Giải phẫu ngăn gân duỗi thứ nhất, các nhánh cảm giác nông thần kinh quay và vách ngăn gân phụ EPB"
+    },
+    {
+      "url": "web/static/images/techniques/76-5_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 76-15 In rare cases, the abductor pollicis longus inserts onto the trapezium. Extensor pollicis",
+      "width": 591,
+      "height": 325
     }
-  ]
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \nA\nB\nC\nD\nSURGICAL TREATMENT OF DE \nQUERVAIN DISEASE\n■ Use a local anesthetic and a tourniquet.\n■ Infiltrate the skin well proximal to the area of the first \ndorsal compartment with sufficient local anesthetic \nbefore skin preparation and draping. An Esmarch \nbandage on the proximal forearm usually suffices as a \ntourniquet.\n■ Make an incision carefully through the skin only. An \noblique incision coursing along the extensor brevis tendon \nis preferred; however, a transverse, oblique, or longitudi-\nnal incision is also perfectly satisfactory (Fig. 76-16). The \nlongitudinal incision advocated by some surgeons creates \na longer area in which skin scar may make cutaneous \nnerves more subject to scar adherence.\n■ Carry sharp dissection just through the dermis and \nnot into the subcutaneous fat, avoiding the sensory \nbranches (lateral antebrachial cutaneous nerve above the \ncephalic vein and superficial radial nerve branches more \ndeeply)."
 }

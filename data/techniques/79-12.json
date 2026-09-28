@@ -9,41 +9,64 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Đóng Đơn Thuần Khe Bàn Tay Loại I & Loại II (Simple Cleft Closure) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
   "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Cleft Closure and Release of Thumb Adduction Contracture (Miura and Komada): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Cleft Closure and Release of Thumb Adduction Contracture (Miura and Komada) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Cắt xương nền ngón trỏ & Di chuyển tia ngón (Index Ray Osteotomy & Transposition)",
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
       "detail": "Perform an osteotomy of the index ray at its base and transfer it to the third metacarpal (Fig. 79-26C).",
-      "action": "Cắt xương nền xương bàn ngón 2 và di chuyển về phía xương bàn ngón 3."
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Tạo hình mộng cắm xương bàn (Ray Peg Shaping)",
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
       "detail": "If the third metacarpal is small, shape the index ray into a peg and impale it into the base of the third metacarpal.",
-      "action": "Tạo hình đầu xương bàn ngón 2 thành mộng cắm khít vào nền xương bàn ngón 3."
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Cố định kim K-wire nắn chỉnh vòm bàn tay (K-Wire Fixation & Arch Alignment)",
-      "detail": "If enough bone is present, fix the index metacarpal to the base of the third metacarpal with a Kirschner wire (Fig. 79-26D). Carefully align the metacarpals so that the transposed ray maintains the transverse and longitudinal arches of the hand and allows the fingers to flex into the palm normally.",
-      "action": "Ghim kim K-wire vững chắc, duy trì vòm ngang và vòm dọc sinh lý của bàn tay."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "If enough bone is present, fix the index metacarpal to the base of the third metacarpal with a Kirschner wire (Fig. 79-26D). Carefully align the metacarpals so that the transposed ray maintains the transverse and longitudinal arches of the hand and allows the fingers to flex into the palm normally without overlap.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Chuyển vạt da gan tay mở rộng kẽ ngón cái (Palmar Flap Inset for Thumb Abduction)",
-      "detail": "Place the large palmar-based cleft flap between the index finger and the newly abducted thumb (Fig. 79-26E). If this flap does not completely cover the area of defect, use a split skin graft for complete coverage. Never place these flaps under tension.",
-      "action": "Xoay vạt da gan tay rộng vào khoang kẽ 1 giải phóng hoàn toàn co rút khép ngón cái."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Suture the skin between the ring and index fingers. Inset the small, longitudinal incision on the ulnar side of the index finger to make a commissure. Use a small drain in the wound as needed.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Khâu da tái tạo kẽ ngón & Bất động nẹp bột (Skin Closure & Splinting)",
-      "detail": "Suture the skin between the ring and index fingers. Inset the small, longitudinal incision on the ulnar side of the index finger to make a commissure. Use a small drain in the wound as needed. Đặt nẹp bột cẳng bàn tay giữ ngón cái ở tư thế dạng đối chiếu trong 6 tuần.",
-      "action": "Bất động ngón cái ở tư thế dạng tối đa để chống tái phát co rút khép."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Place the large palmar-based cleft flap between the index finger and the newly abducted thumb (Fig. 79-26E). If this flap does not completely cover the area of defect, use a split skin graft for complete coverage. Never place these flaps under tension; if necessary, use a skin graft over the index finger.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Apply a well-padded long arm cast, maintaining the arches of the hand and leaving the fingers and thumb enough freedom to move.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
   "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/79-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-12.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-27 Miura and Komada reconstruction of cleft hand with adducted thumb. A, Initial skin incision on dorsum of hand. B, Additional incisions (broken line) to expose metacarpal dorsally",
+      "width": 543,
+      "height": 1093
+    },
+    {
+      "url": "web/static/images/techniques/79-12_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-28 Ueba technique for cleft hand. A, Dorsal view of incisions. Solid line indicates dorsal incisions; broken line indicates palmar incisions. B, Palmar view of incisions. Solid line indicates palmar incisions; broken line indicates dorsal i",
+      "width": 1105,
+      "height": 620
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nCLEFT CLOSURE AND RELEASE OF \nTHUMB ADDUCTION CONTRACTURE\nsometimes the capsule must be incised to permit full \nthumb abduction.\n■ Perform an osteotomy of the index ray at its base and \ntransfer it to the third metacarpal (Fig. 79-26C).\n■ If the third metacarpal is small, shape the index ray \ninto a peg and impale it into the base of the third \nmetacarpal.\n■ If enough bone is present, fix the index metacarpal to \nthe base of the third metacarpal with a Kirschner wire \n(Fig. 79-26D). Carefully align the metacarpals so that the \ntransposed ray maintains the transverse and longitudinal \narches of the hand and allows the fingers to flex into the \npalm normally without overlap.\n■ Suture the skin between the ring and index fingers. Inset \nthe small, longitudinal incision on the ulnar side of the \nindex finger to make a commissure. Use a small drain in \nthe wound as needed.\n■ Place the large palmar-based cleft flap between the index \nfinger and the newly abducted thumb (Fig. 79-26E). If \nthis flap does not completely cover the area of defect, \nuse a split skin graft for complete coverage. Never place \nthese flaps under tension; if necessary, use a skin graft \nover the index finger.\n■ Apply a well-padded long arm cast, maintaining the \narches of the hand and leaving the fingers and thumb \nenough freedom to move."
 }

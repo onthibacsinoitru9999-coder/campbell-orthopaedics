@@ -1,1 +1,65 @@
-{"tech_id": "74-2", "name_en": "Forearm Fasciotomy and Arterial Exploration", "name_vi": "Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay", "chapter": 74, "category": "Hand & Wrist", "pdf_page": 4142, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay (Chương 74, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Chẩn đoán phân biệt hội chứng chèn ép khoang muộn quá 24-48 giờ khi cơ đã hoại tử toàn bộ (cân nhắc cắt cụt hoặc điều trị bảo tồn tránh sốc độc tố giải phóng Myoglobin).", "patient_prep": "CẤP CỨU KHẨN CẤP: Không dùng garo hơi. Chuẩn bị hệ thống hút áp lực âm (VAC) và dung dịch bơm rửa vô trùng số lượng lớn.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Forearm Fasciotomy and Arterial Exploration: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "For the volar fasciotomy (Fig. 74-5), make an anterior curvilinear skin incision medial to the biceps tendon, crossing the elbow flexion crease at an angle. Carry the incision distally and radially over the brachioradialis, then distally and ulnarward, eventually coursing medial to the palmaris long", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay)", "detail": "Divide the lacertus fibrosus proximally and evacuate any hematoma.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "In patients with suspected brachial artery injury, expose the brachial artery and determine if there is free blood flow. If the flow is unsatisfactory, remove the adventitia to expose any underlying clot, spasm, or intimal tear. Resect the adventitia, if necessary, and anastomose or graft the artery", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay)", "detail": "Release the superficial volar compartment throughout its length with open scissors, freeing the fascia over the superficial compartment muscles.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Identify the flexor carpi ulnaris and retract it with its underlying ulnar neurovascular bundle medially, and then", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Hút áp lực âm VAC liên tục. Trở lại phòng mổ sau 48h để cắt lọc thì 2 và đóng da dần dần bằng kỹ thuật néo dây giày hoặc ghép da.", "pearls_pitfalls": "Mở cân kịp thời trong 6 giờ đầu là cơ hội duy nhất để cứu sống tế bào cơ và thần kinh; KHÔNG BAO GIỜ khâu kín da thì đầu sau mở cân cấp cứu; Đánh giá cẩn trọng sự sống của mô cơ.", "image_url": null, "images": []}
+{
+  "tech_id": "74-2",
+  "name_en": "Forearm Fasciotomy and Arterial Exploration",
+  "name_vi": "Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay",
+  "chapter": 74,
+  "category": "Hand & Wrist",
+  "pdf_page": 4142,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay (Chương 74, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Chẩn đoán phân biệt hội chứng chèn ép khoang muộn quá 24-48 giờ khi cơ đã hoại tử toàn bộ (cân nhắc cắt cụt hoặc điều trị bảo tồn tránh sốc độc tố giải phóng Myoglobin).",
+  "patient_prep": "CẤP CỨU KHẨN CẤP: Không dùng garo hơi. Chuẩn bị hệ thống hút áp lực âm (VAC) và dung dịch bơm rửa vô trùng số lượng lớn.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Forearm Fasciotomy and Arterial Exploration (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "For the volar fasciotomy (Fig. 74-5), make an anterior curvilinear skin incision medial to the biceps tendon, crossing the elbow flexion crease at an angle. Carry the incision distally and radially over the brachioradialis, then distally and ulnarward, eventually coursing medial to the palmaris long",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay)",
+      "detail": "Divide the lacertus fibrosus proximally and evacuate any hematoma.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "In patients with suspected brachial artery injury, expose the brachial artery and determine if there is free blood flow. If the flow is unsatisfactory, remove the adventitia to expose any underlying clot, spasm, or intimal tear. Resect the adventitia, if necessary, and anastomose or graft the artery",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Thao tác can thiệp kỹ thuật (Mở Cân Cấp Cứu Khoang Mu Cẳng Tay Qua Đường Rạch Dọc Lưng Cẳng Tay)",
+      "detail": "Release the superficial volar compartment throughout its length with open scissors, freeing the fascia over the superficial compartment muscles.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Identify the flexor carpi ulnaris and retract it with its underlying ulnar neurovascular bundle medially, and then",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    }
+  ],
+  "postop_protocol": "Hút áp lực âm VAC liên tục. Trở lại phòng mổ sau 48h để cắt lọc thì 2 và đóng da dần dần bằng kỹ thuật néo dây giày hoặc ghép da.",
+  "pearls_pitfalls": "Mở cân kịp thời trong 6 giờ đầu là cơ hội duy nhất để cứu sống tế bào cơ và thần kinh; KHÔNG BAO GIỜ khâu kín da thì đầu sau mở cân cấp cứu; Đánh giá cẩn trọng sự sống của mô cơ.",
+  "image_url": "web/static/images/techniques/74-2.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/74-2.webp",
+      "type": "diagram",
+      "caption": "FIGURE 74-5 Incisions used in forearm for severe Volkmann contracture. A, Extensive opening of fascia of the forearm dorsum in dorsal compartment syndromes. B, Incision used for anterior",
+      "width": 552,
+      "height": 338
+    },
+    {
+      "url": "web/static/images/techniques/74-2_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 74-6 Vessel loop shoelace technique for fasciotomy closure. SEE TECHNIQUE 74-2. retract the flexor digitorum superficialis and median nerve",
+      "width": 562,
+      "height": 203
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc."
+}

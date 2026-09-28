@@ -1,1 +1,70 @@
-{"tech_id": "72-4", "name_en": "Release of the Flexor-Pronator Origin (Inglis and Cooper)", "name_vi": "Chuyển Gân Gấp Cổ Tay Trụ (Green FCU Transfer) Ra Mu Tay Phục Hồi Duỗi Cổ Tay", "chapter": 72, "category": "Hand & Wrist", "pdf_page": 4055, "author": "Inglis and Cooper", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Gấp Cổ Tay Trụ (Green FCU Transfer) Ra Mu Tay Phục Hồi Duỗi Cổ Tay (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Release of the Flexor-Pronator Origin (Inglis and Cooper): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Replace the ulnar nerve in its groove and divide the entire flexor-pronator muscle mass at its origin from the medial part of the epicondyle. At this point, the median nerve can be seen as it passes through the pronator teres.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Continue the dissection anteriorly over the flexor aspect of the elbow, dividing the lacertus fibrosus (Fig. 72-7C) and any remaining parts of the flexor muscle origin.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "If a flexion contracture of the elbow persists, incise the fascia of the brachialis muscle. Then transplant the ulnar nerve anterior to the epicondyle. Now the muscle mass has been displaced 3 to 4 cm distal to its original location. (INGLIS AND COOPER)", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make an incision over the anterior part of the medial epicondyle of the humerus beginning 5 cm proximal to the epicondyle and continuing distally to the midpoint of the forearm over the ulna (Fig. 72-7A). The medial ante- brachial cutaneous nerve often is seen in the distal part of the incision, and", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Identify the ulnar nerve proximal to the epicondyle, dissect and elevate it from its groove behind the epicon- dyle, and carefully free it distally (Fig. 72-7B). Identify, free, and protect the branches of the ulnar nerve to the flexor carpi ulnaris and to the two ulnar heads of the flexor digitorum", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.", "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.", "image_url": "web/static/images/techniques/72-4.webp", "images": [{"url": "web/static/images/techniques/72-4.webp", "type": "diagram", "caption": "Phẫu thuật Green chuyển gân gấp cổ tay trụ (FCU) ra mu tay sang gân duỗi chung ngón (EDC)"}]}
+{
+  "tech_id": "72-4",
+  "name_en": "Release of the Flexor-Pronator Origin (Inglis and Cooper)",
+  "name_vi": "Chuyển Gân Gấp Cổ Tay Trụ (Green FCU Transfer) Ra Mu Tay Phục Hồi Duỗi Cổ Tay",
+  "chapter": 72,
+  "category": "Hand & Wrist",
+  "pdf_page": 4055,
+  "author": "Inglis and Cooper",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Gấp Cổ Tay Trụ (Green FCU Transfer) Ra Mu Tay Phục Hồi Duỗi Cổ Tay (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Release of the Flexor-Pronator Origin (Inglis and Cooper) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Replace the ulnar nerve in its groove and divide the entire flexor-pronator muscle mass at its origin from the medial part of the epicondyle. At this point, the median nerve can be seen as it passes through the pronator teres.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Continue the dissection anteriorly over the flexor aspect of the elbow, dividing the lacertus fibrosus (Fig. 72-7C) and any remaining parts of the flexor muscle origin.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "If a flexion contracture of the elbow persists, incise the fascia of the brachialis muscle. Then transplant the ulnar nerve anterior to the epicondyle. Now the muscle mass has been displaced 3 to 4 cm distal to its original location. (INGLIS AND COOPER)",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Make an incision over the anterior part of the medial epicondyle of the humerus beginning 5 cm proximal to the epicondyle and continuing distally to the midpoint of the forearm over the ulna (Fig. 72-7A). The medial ante- brachial cutaneous nerve often is seen in the distal part of the incision, and the medial brachial cutaneous nerve can be seen posterior to the medial part of the epicondyle.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Identify the ulnar nerve proximal to the epicondyle, dissect and elevate it from its groove behind the epicon- dyle, and carefully free it distally (Fig. 72-7B). Identify, free, and protect the branches of the ulnar nerve to the flexor carpi ulnaris and to the two ulnar heads of the flexor digitorum profundus.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "To release the origins of the flexor carpi ulnaris and flexor digitorum profundus, begin distally at about the middle of the ulna and elevate both muscles from the bone at",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.",
+  "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.",
+  "image_url": "web/static/images/techniques/72-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/72-4.webp",
+      "type": "diagram",
+      "caption": "Phẫu thuật Green chuyển gân gấp cổ tay trụ (FCU) ra mu tay sang gân duỗi chung ngón (EDC)"
+    },
+    {
+      "url": "web/static/images/techniques/72-4_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 72-7 Flexor slide (Inglis and Cooper). A, Incision on medial aspect of volar side of arm, beginning approximately 5 cm proximal to medial epicondyle and continuing distally to midpoint",
+      "width": 565,
+      "height": 755
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nthe subcutaneous border; the interosseous membrane is \nseen around the volar surface of the bone. Continue \nproximally along the ulna as far as the ulnar groove at \nthe epicondyle. During this dissection, the interosseous \nmembrane and the fascia of the brachialis muscle are \nseen in the depths of the wound.\n■ Replace the ulnar nerve in its groove and divide the entire \nflexor-pronator muscle mass at its origin from the medial \npart of the epicondyle. At this point, the median nerve \ncan be seen as it passes through the pronator teres.\n■ Continue the dissection anteriorly over the flexor aspect \nof the elbow, dividing the lacertus fibrosus (Fig. 72-7C) \nand any remaining parts of the flexor muscle origin.\n■ If a flexion contracture of the elbow persists, incise the \nfascia of the brachialis muscle. Then transplant the ulnar \nnerve anterior to the epicondyle. Now the muscle mass \nhas been displaced 3 to 4 cm distal to its original \nlocation.\n(INGLIS AND COOPER)\n■ Make an incision over the anterior part of the medial \nepicondyle of the humerus beginning 5 cm proximal to \nthe epicondyle and continuing distally to the midpoint of \nthe forearm over the ulna (Fig. 72-7A). The medial ante-\nbrachial cutaneous nerve often is seen in the distal part \nof the incision, and the medial brachial cutaneous nerve \ncan be seen posterior to the medial part of the \nepicondyle.\n■ Identify the ulnar nerve proximal to the epicondyle, \ndissect and elevate it from its groove behind the epicon-\ndyle, and carefully free it distally (Fig. 72-7B). Identify, \nfree, and protect the branches of the ulnar nerve to the \nflexor carpi ulnaris and to the two ulnar heads of the \nflexor digitorum profundus.\n■ To release the origins of the flexor carpi ulnaris and flexor \ndigitorum profundus, begin distally at about the middle \nof the ulna and elevate both muscles from the bone at"
+}

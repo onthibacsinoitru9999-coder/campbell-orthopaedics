@@ -1,1 +1,61 @@
-{"tech_id": "68-4", "name_en": "Suture of Digital Nerves", "name_vi": "Khâu Nối Vi Phẫu Bao Bó Thần Kinh (Perineurial / Fascicular Neurorrhaphy)", "chapter": 68, "category": "Hand & Wrist", "pdf_page": 3861, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nối Vi Phẫu Bao Bó Thần Kinh (Perineurial / Fascicular Neurorrhaphy) (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).", "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Suture of Digital Nerves: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "The digital nerves lie to the radial and ulnar sides of the volar aspect of the finger and can be exposed through the same midradial or midulnar incision when necessary.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Begin proximally and dissect a normal segment of the nerve from its investing fascia (part of the Cleland liga- ment) (Fig. 68-10); proceed distally to the scar at the site of injury.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Begin distal to the site of injury and dissect proximally to the scar.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "With scissors or a diamond knife, remove the neuroma from the proximal end of the nerve and the glioma from the distal end. Use loupe magnification for dissection and repair.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Always suture divided tendons before suturing any nerve to avoid disrupting the delicate repair.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.", "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).", "image_url": "web/static/images/techniques/68-4.webp", "images": [{"url": "web/static/images/techniques/68-4.webp", "type": "diagram", "caption": "Kỹ thuật khâu nối bao bó thần kinh (Perineurial / fascicular neurorrhaphy) vi phẫu"}, {"url": "web/static/images/techniques/68-4_step.webp", "type": "diagram", "caption": "Kỹ thuật khâu bao ngoài kết hợp bao bó (Epineurial-perineurial neurorrhaphy)"}]}
+{
+  "tech_id": "68-4",
+  "name_en": "Suture of Digital Nerves",
+  "name_vi": "Khâu Nối Vi Phẫu Bao Bó Thần Kinh (Perineurial / Fascicular Neurorrhaphy)",
+  "chapter": 68,
+  "category": "Hand & Wrist",
+  "pdf_page": 3861,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Nối Vi Phẫu Bao Bó Thần Kinh (Perineurial / Fascicular Neurorrhaphy) (Chương 68, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Tổn thương đụng giập thần kinh trên đoạn dài chưa cắt lọc hết mô xơ bệnh lý; khâu nối căng mép thần kinh (phải chỉ định ghép thần kinh vi phẫu không căng).",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ. Kính hiển vi phẫu thuật phóng đại 10x-20x. Bộ dụng cụ vi phẫu tinh xảo, kim chỉ vi phẫu 8-0, 9-0 và 10-0 nylon.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Suture of Digital Nerves (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "The digital nerves lie to the radial and ulnar sides of the volar aspect of the finger and can be exposed through the same midradial or midulnar incision when necessary.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Begin proximally and dissect a normal segment of the nerve from its investing fascia (part of the Cleland liga- ment) (Fig. 68-10); proceed distally to the scar at the site of injury.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Begin distal to the site of injury and dissect proximally to the scar.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "With scissors or a diamond knife, remove the neuroma from the proximal end of the nerve and the glioma from the distal end. Use loupe magnification for dissection and repair.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Always suture divided tendons before suturing any nerve to avoid disrupting the delicate repair.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    }
+  ],
+  "postop_protocol": "Nẹp bột bất động tư thế chùng thần kinh trong 3 tuần. Bắt đầu tập vận động nhẹ nhàng sau tuần thứ 3. Kích thích điện phục hồi chức năng cơ và bảo vệ vùng mất cảm giác.",
+  "pearls_pitfalls": "Khâu nối thần kinh vi phẫu không được căng; đối chiếu chính xác các bó sợi dựa vào mạng lưới mạch máu nuôi trên bề mặt thần kinh (epineurial vessels).",
+  "image_url": "web/static/images/techniques/68-4.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/68-4.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật khâu nối bao bó thần kinh (Perineurial / fascicular neurorrhaphy) vi phẫu"
+    },
+    {
+      "url": "web/static/images/techniques/68-4_step.webp",
+      "type": "diagram",
+      "caption": "Kỹ thuật khâu bao ngoài kết hợp bao bó (Epineurial-perineurial neurorrhaphy)"
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc."
+}

@@ -1,1 +1,65 @@
-{"tech_id": "69-27", "name_en": "Arthroscopic Transosseous Repair of Foveal Detachment of the TFCC", "name_vi": "Khâu Phục Hồi Đứt Bám TFCC Vào Mỏm Trâm Trụ Bằng Chỉ Neo (Anchor Suture)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3923, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Đứt Bám TFCC Vào Mỏm Trâm Trụ Bằng Chỉ Neo (Anchor Suture) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Arthroscopic Transosseous Repair of Foveal Detachment of the TFCC: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Khâu Phục Hồi Đứt Bám TFCC Vào Mỏm Trâm Trụ Bằng Chỉ Neo)", "detail": "After the usual examination of the wrist joints, evaluate the TFCC from the 3-4 portal. Remove any synovium that obstructs the view. Examine the dorsal and palmar radio- ulnar ligaments; the ulnar lunotriquetral ligaments; the lunate, triquetral, and, if visible, ulnar articular surfaces; and the ul", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Khâu Phục Hồi Đứt Bám TFCC Vào Mỏm Trâm Trụ Bằng Chỉ Neo)", "detail": "Place a probe through the 6R or 6U portal to assess the tautness of the triangular fibrocartilage (see Fig. 69-59A). The normal triangular fibrocartilage has a tension resem- bling a trampoline. Loss of the normal tension may indicate an ulnar-side peripheral tear.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Khâu Phục Hồi Đứt Bám TFCC Vào Mỏm Trâm Trụ Bằng Chỉ Neo)", "detail": "Identify the location of the peripheral tear and carefully trim the margins with the full-radius shaver.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Gain access to the dorsal capsule with an incision along the dorsoradial aspect of the extensor carpi ulnaris tendon. Make the skin incision long enough to make a 1 cm or longer incision in the superficial portion of the extensor carpi ulnaris sheath dorsoradially. Avoid injury to the dorsal sensory", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Use an “outside-in” approach and pass two needles through the dorsal capsule and, under arthroscopic control, into the meniscus of the triangular fibrocartilage on the opposite side of the tear.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-27",
+  "name_en": "Arthroscopic Transosseous Repair of Foveal Detachment of the TFCC",
+  "name_vi": "Khâu Phục Hồi Đứt Bám TFCC Vào Mỏm Trâm Trụ Bằng Chỉ Neo (Anchor Suture)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3923,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Khâu Phục Hồi Đứt Bám TFCC Vào Mỏm Trâm Trụ Bằng Chỉ Neo (Anchor Suture) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "After the usual examination of the wrist joints, evaluate the TFCC from the 3-4 portal. Remove any synovium that obstructs the view. Examine the dorsal and palmar radio- ulnar ligaments; the ulnar lunotriquetral ligaments; the lunate, triquetral, and, if visible, ulnar articular surfaces; and the ulnar foveal attachment of the triangular fibrocartilage.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Place a probe through the 6R or 6U portal to assess the tautness of the triangular fibrocartilage (see Fig. 69-59A). The normal triangular fibrocartilage has a tension resem- bling a trampoline. Loss of the normal tension may indicate an ulnar-side peripheral tear.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Identify the location of the peripheral tear and carefully trim the margins with the full-radius shaver.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Gain access to the dorsal capsule with an incision along the dorsoradial aspect of the extensor carpi ulnaris tendon. Make the skin incision long enough to make a 1 cm or longer incision in the superficial portion of the extensor carpi ulnaris sheath dorsoradially. Avoid injury to the dorsal sensory branch of the ulnar nerve. Retract the extensor carpi ulnaris tendon medially.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Use an “outside-in” approach and pass two needles through the dorsal capsule and, under arthroscopic control, into the meniscus of the triangular fibrocartilage on the opposite side of the tear.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Pass a 2-0 or 3-0 absorbable polydioxanone suture (PDS, Ethicon) through one needle.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-27.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-27.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-60 Arthroscopic repair of foveal detachment of triangular fibrocartilage complex (TFCC). (From Nakamura T, Sato K, Okazaki M, et al: Repair of foveal detachment of the triangular",
+      "width": 504,
+      "height": 703
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ".\n■ After the usual examination of the wrist joints, evaluate \nthe TFCC from the 3-4 portal. Remove any synovium that \nobstructs the view. Examine the dorsal and palmar radio-\nulnar ligaments; the ulnar lunotriquetral ligaments; the \nlunate, triquetral, and, if visible, ulnar articular surfaces; \nand the ulnar foveal attachment of the triangular \nfibrocartilage.\n■ Place a probe through the 6R or 6U portal to assess the \ntautness of the triangular fibrocartilage (see Fig. 69-59A). \nThe normal triangular fibrocartilage has a tension resem-\nbling a trampoline. Loss of the normal tension may \nindicate an ulnar-side peripheral tear.\n■ Identify the location of the peripheral tear and carefully \ntrim the margins with the full-radius shaver.\n■ Gain access to the dorsal capsule with an incision along \nthe dorsoradial aspect of the extensor carpi ulnaris \ntendon. Make the skin incision long enough to make a \n1 cm or longer incision in the superficial portion of the \nextensor carpi ulnaris sheath dorsoradially. Avoid injury to \nthe dorsal sensory branch of the ulnar nerve. Retract the \nextensor carpi ulnaris tendon medially.\n■ Use an “outside-in” approach and pass two needles \nthrough the dorsal capsule and, under arthroscopic \ncontrol, into the meniscus of the triangular fibrocartilage \non the opposite side of the tear.\n■ Pass a 2-0 or 3-0 absorbable polydioxanone suture (PDS, \nEthicon) through one needle.\n■ Pass a loop of nylon or wire suture through the other \nneedle and position the suture protruding from the first \nneedle so that it can be retrieved with the loop from the \nsecond needle.\n■ Remove the needles and tie the suture ends over the \ncapsule, apposing the torn surface of the meniscus to the \ncapsule in a horizontal mattress configuration. Use more \nthan one suture, as needed.\n■ If the tear appears to be from the volar aspect of the joint, \nretract the extensor carpi ulnaris tendon dorsally and \nlaterally to allow access to the volar capsule of the DRUJ \nand pass the needles from the volar capsule.\n■ If there is concern about the strength of the repair or \npatient compliance, stabilize the DRUJ with a Steinmann \npin from the ulna into the radius, proximal to the sigmoid \nnotch with the forearm in neutral rotation.\n■ Close the skin and apply an above-elbow cast."
+}

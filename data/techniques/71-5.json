@@ -1,1 +1,66 @@
-{"tech_id": "71-5", "name_en": "Transfer of the Palmaris Longus Tendon to Enhance Opposition of the Thumb (Camitz)", "name_vi": "Tạo Hình Khớp Bàn Ngón Cái Bằng Hàn Khớp Ngăn Chặn Duỗi Quá Mức", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4010, "author": "Camitz", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Bàn Ngón Cái Bằng Hàn Khớp Ngăn Chặn Duỗi Quá Mức (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Transfer of the Palmaris Longus Tendon to Enhance Opposition of the Thumb (Camitz): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a curved palmar incision along the radial border of the abductor digiti quinti muscle belly extending from the proximal side of the pisiform proximally to the ulnar border of the little finger distally (Fig. 71-9A).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Bàn Ngón Cái Bằng Hàn Khớp Ngăn Chặn Duỗi Quá Mức)", "detail": "Free both tendinous insertions of the muscle, one from the extensor expansion and the other from the base of the proximal phalanx.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Lift the muscle from its fascial compartment and carefully expose its neurovascular bundle. Isolate the bundle, taking care not to damage the veins.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Free the origin of the muscle from the pisiform, but retain the origin on the flexor carpi ulnaris tendon; now the muscle can be mobilized enough for its insertion to reach the thumb (Fig. 71-9B).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a curved incision on the radial border of the thenar eminence and create across the palm a subcutaneous pocket to receive the transfer.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": null, "images": []}
+{
+  "tech_id": "71-5",
+  "name_en": "Transfer of the Palmaris Longus Tendon to Enhance Opposition of the Thumb (Camitz)",
+  "name_vi": "Tạo Hình Khớp Bàn Ngón Cái Bằng Hàn Khớp Ngăn Chặn Duỗi Quá Mức",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4010,
+  "author": "Camitz",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Bàn Ngón Cái Bằng Hàn Khớp Ngăn Chặn Duỗi Quá Mức (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Transfer of the Palmaris Longus Tendon to Enhance Opposition of the Thumb (Camitz) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a curved palmar incision along the radial border of the abductor digiti quinti muscle belly extending from the proximal side of the pisiform proximally to the ulnar border of the little finger distally (Fig. 71-9A).",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Bàn Ngón Cái Bằng Hàn Khớp Ngăn Chặn Duỗi Quá Mức)",
+      "detail": "Free both tendinous insertions of the muscle, one from the extensor expansion and the other from the base of the proximal phalanx.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Lift the muscle from its fascial compartment and carefully expose its neurovascular bundle. Isolate the bundle, taking care not to damage the veins.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Free the origin of the muscle from the pisiform, but retain the origin on the flexor carpi ulnaris tendon; now the muscle can be mobilized enough for its insertion to reach the thumb (Fig. 71-9B).",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a curved incision on the radial border of the thenar eminence and create across the palm a subcutaneous pocket to receive the transfer.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-5.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-5.webp",
+      "type": "diagram",
+      "caption": "FIGURE 71-8 A, Two incisions made at wrist. B, Through volar incision, flexor sublimis tendon to ring finger and flexor carpi ulnaris tendon are exposed. Through ulnar incision, extensor carpi ulnaris is exposed. Flexor carpi ulnaris tendon is divide",
+      "width": 1138,
+      "height": 1018
+    },
+    {
+      "url": "web/static/images/techniques/71-5_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 71-10 Jeanne sign (see text). FIGURE 71-9 Littler transfer of abductor digiti quinti to restore opposition. A, Two skin incisions. Intervening skin (shaded area)",
+      "width": 1116,
+      "height": 522
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "MUSCLE TRANSFER (ABDUCTOR \nDIGITI QUINTI) TO RESTORE \nOPPOSITION\nIf other motors are unavailable or must be transferred \nelsewhere, the abductor digiti quinti muscle can be trans­\nferred as described by Littler and Cooley. Because its mass \nand excursion are similar to those of the abductor pollicis \nbrevis, this muscle is an excellent substitute for it. Cos­\nmetically, the transfer is helpful because it fills the space \nleft by the wasted thenar muscles. It does not require a \npulley.\n(LITTLER AND COOLEY)\n• Make a curved palmar incision along the radial \nborder of the abductor digiti quinti muscle belly \nextending from the proximal side of the pisiform \nproximally to the ulnar border of the little finger distally \n(Fig. 71-9A).\n• Free both tendinous insertions of the muscle, one from \nthe extensor expansion and the other from the base of \nthe proximal phalanx.\n• Lift the muscle from its fascial compartment and carefully \nexpose its neurovascular bundle. Isolate the bundle, \ntaking care not to damage the veins.\n• Free the origin of the muscle from the pisiform, but retain \nthe origin on the flexor carpi ulnaris tendon; now the \nmuscle can be mobilized enough for its insertion to reach \nthe thumb (Fig. 71-9B).\n• Make a curved incision on the radial border of the thenar \neminence and create across the palm a subcutaneous \npocket to receive the transfer.\n• Fold the abductor digiti quinti muscle over about 170 \ndegrees (like a page of a book) and pass it subcutaneously \nto the thumb (Fig. 71-9C)."
+}

@@ -9,31 +9,31 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Tạo hình Vạt Chữ Z (Z-Plasty) Giải Phóng Co Rút Bàn Tay (Chương 64, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Nhiễm trùng nông khu trú tại đường rạch; sẹo bỏng hoặc chấn thương dập nát bờ bên ngón tay.",
   "patient_prep": "Nằm ngửa, tay đặt trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Kính phóng đại phẫu thuật 2.5x - 3.5x.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Z-Plasty: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Rạch da đường trung tâm dọc dải co rút (Central Limb Incision)",
-      "detail": "Make the central limb of the Z along the line of the contracture to be released (Fig. 64-27).",
-      "action": "Rạch da chính xác theo chiều dọc dải co rút xơ sẹo."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make the central limb of the Z along the line of the con- tracture to be released (Fig. 64-27).",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Rạch tạo hai vạt tam giác góc 60 độ (Triangular Flaps Incision)",
-      "detail": "Make the other two limbs of the Z equal in length to that of the central limb; the angle between each limb and the central limb should be approximately 60 degrees to achieve optimal lengthening.",
-      "action": "Tạo 2 vạt tam giác đối xứng, đảm bảo góc 60° để tăng chiều dài thêm 75%."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Make the other two limbs of the Z equal in length to that of the central limb; the angle between each limb and the PART XVIII THE HAND 3314",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Phẫu tích bóc tách & Chuyển đổi vị trí hai vạt da (Flap Transposition)",
-      "detail": "Phẫu tích nâng 2 vạt da tam giác bảo tồn tổ chức mỡ dưới da. Handle the points of the flaps with care because they are most likely to undergo necrosis; suture each point with an apical stitch.",
-      "action": "Tráo đổi vị trí 2 vạt da và khâu đính đỉnh vạt bằng mũi khâu đỉnh Allgöwer."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Handle the points of the flaps with care because they are most likely to undergo necrosis; suture each point with an apical stitch.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Đóng vết mổ, băng ép nhẹ & Nẹp bất động (Closure & Splinting)",
-      "detail": "Multiple Z-plasties (Figs. 64-28 and 64-29) can be used when a scar is too long to allow correction with one Z-plasty. Khâu da mũi rời bằng chỉ nylon 5-0 không sức căng, băng gạc vô trùng và bất động nẹp bột.",
-      "action": "Khâu da mềm mại không làm thiếu máu nuôi đỉnh vạt, nẹp bột giữ tư thế duỗi ngón."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Multiple Z-plasties (Figs. 64-28 and 64-29) can be used when a scar is too long to allow correction with one Z-plasty and when the scars resulting from the flap rota- tion would be in more desirable positions. McGregor modified the standard multiple Z-plasty for use in the fixed palmar skin of the hand and fingers (Fig. 64-16A). The length of its limbs may vary, making adjoining flaps larger or smaller as desired; however, the length of the limbs of each individual Z must be equal. The oblique limbs are",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Nẹp cẳng bàn ngón tay tư thế cơ năng (khớp bàn ngón gập 60-70°, khớp liên đốt duỗi thẳng) trong 3-5 ngày. Vận động sớm có kiểm soát.",
@@ -50,5 +50,7 @@
       "type": "clinical",
       "caption": "Hình ảnh lâm sàng giải phóng sẹo co rút nếp gấp ngón bằng đa vạt chữ Z liên hoàn"
     }
-  ]
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "Figure 64-26\n■ Make the central limb of the Z along the line of the con-\ntracture to be released (Fig. 64-27).\n■ Make the other two limbs of the Z equal in length to that \nof the central limb; the angle between each limb and the \n\nPART XVIII  THE HAND\n3314\nFIGURE 64-20\t\nCutaneous innervation of palm. A, Palmar cutaneous branch of median nerve, present in 100% of specimens. \nB, Palmar cutaneous branch of ulnar nerve, present in 16% of specimens. C, Nerve of Henle, present in 40%. D, Transverse palmar \ncutaneous branches of ulnar nerve, present in 96%. E, Cutaneous nerves at risk for being transected by traditional incision used for \ncarpal tunnel surgery. \nA\nB\nC\nD\nE\ncurved to broaden the tips of the flaps, increasing their blood \nsupply. A three-flap arrangement of skin can be useful for \nrelieving web contractures in the second, third, or fourth \nwebs (Fig. 64-30).\nCARE AFTER SURGERY\nCare after surgery must be managed so that tissues are allowed \nto heal and functions of the affected part are restored as \nrapidly as possible. Care begins with the application of the \ndressing. The routine dressing is applied as follows. A closely \nwoven patch of nonadherent gauze (Xeroform or Adaptic) is \nplaced over each incision. Granulation tissue cannot grow \nthrough this material and cause it to adhere; the gauze also \nprevents the wound from becoming macerated. After the \nhand has been positioned properly, sponges that have been \nmoistened in saline or glycerin solution can be placed care­\nfully around it. Moist sponges conform to the contours of the \nhand more accurately and distribute pressure more evenly \nthan do dry ones. They also promote absorption of blood. A \ncentral limb must be equal to each other and should be \nabout 60 degrees or less. An increase in this angle would \nnot allow transposition of the flap without severe tension; \na decrease makes the Z less effective in releasing tension \nand impairs the blood supply to each flap.\n■ Handle the points of the flaps with care because they are \nmost likely to undergo necrosis; suture each point with \nan apical stitch.\n■ Multiple Z-plasties (Figs. 64-28 and 64-29) can be used \nwhen a scar is too long to allow correction with one \nZ-plasty and when the scars resulting from the flap rota-\ntion would be in more desirable positions.\nMcGregor modified the standard multiple Z-plasty for use in \nthe fixed palmar skin of the hand and fingers (Fig. 64-16A). \nThe length of its limbs may vary, making adjoining flaps \nlarger or smaller as desired; however, the length of the limbs \nof each individual Z must be equal. The oblique limbs are"
 }

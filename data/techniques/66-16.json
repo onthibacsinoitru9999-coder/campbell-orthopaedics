@@ -1,1 +1,64 @@
-{"tech_id": "66-16", "name_en": "Stage 2: Rod Removal and Tendon Graft Insertion", "name_vi": "Tái Tạo Gân Gấp Hai Thì - Thì 2: Rút Que Silicon Hunter & Ghép Gân Tự Thân", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3755, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Hai Thì - Thì 2: Rút Que Silicon Hunter & Ghép Gân Tự Thân (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Stage 2: Rod Removal and Tendon Graft Insertion: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a transverse incision near the distal palmar crease to recover it.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Carefully thread the tendon through the bifurcation of the sublimis and into the distal end of the finger; if this cannot be done accurately and with assurance that the relation of the sublimis to the profundus is normal, the following two choices are available: (1) abandon the procedure because pro", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Resect the distal segment of the profundus at a level just proximal to the distal interphalangeal joint, and split its distal stump in a transverse plane (Fig. 66-43). Take no more than 1 cm of tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "With a Bunnell retrograde pull-out wire suture or an antegrade pull-out wire (see Figs. 66-26 and 66-27), fix the distal end of the proximal segment of tendon into the split profundus stump and tie the suture at the end of the finger through a button.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Do not disturb the capsular attachment of the profundus stump because it protects the volar plate and helps to ensure a gliding surface and mobile joint.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-41.webp", "images": [{"url": "web/static/images/techniques/66-41.webp", "type": "diagram", "caption": "Tái tạo gân gấp thì 2: Kỹ thuật luồn gân ghép qua đường hầm bao hoạt dịch giả được tạo bởi que Hunter"}]}
+{
+  "tech_id": "66-16",
+  "name_en": "Stage 2: Rod Removal and Tendon Graft Insertion",
+  "name_vi": "Tái Tạo Gân Gấp Hai Thì - Thì 2: Rút Que Silicon Hunter & Ghép Gân Tự Thân",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3755,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Hai Thì - Thì 2: Rút Que Silicon Hunter & Ghép Gân Tự Thân (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Make a transverse incision near the distal palmar crease to recover it.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "Carefully thread the tendon through the bifurcation of the sublimis and into the distal end of the finger; if this cannot be done accurately and with assurance that the relation of the sublimis to the profundus is normal, the following two choices are available: (1) abandon the procedure because pro",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ",
+      "detail": "Resect the distal segment of the profundus at a level just proximal to the distal interphalangeal joint, and split its distal stump in a transverse plane (Fig. 66-43). Take no more than 1 cm of tendon.",
+      "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "With a Bunnell retrograde pull-out wire suture or an antegrade pull-out wire (see Figs. 66-26 and 66-27), fix the distal end of the proximal segment of tendon into the split profundus stump and tie the suture at the end of the finger through a button.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "Do not disturb the capsular attachment of the profundus stump because it protects the volar plate and helps to ensure a gliding surface and mobile joint.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-41.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-41.webp",
+      "type": "diagram",
+      "caption": "Tái tạo gân gấp thì 2: Kỹ thuật luồn gân ghép qua đường hầm bao hoạt dịch giả được tạo bởi que Hunter"
+    },
+    {
+      "url": "web/static/images/techniques/66-16_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-41 Anatomic zones of flexor pollicis longus that influence type of repair. I",
+      "width": 261,
+      "height": 513
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": ").\nREPAIR OF FLEXOR TENDON OF THUMB\nThe thumb also can be arbitrarily divided into zones accord­\ning to the specific anatomic structures in the zone that influ­\nence the type of repair that is chosen for the flexor pollicis \nlongus. Zone I includes the area at the interphalangeal joint \nand the insertion of the flexor pollicis longus. Zone II includes \nthe fibroosseous sheath extending just proximal to the meta­\ncarpal head and the metacarpophalangeal joint. Zone III \nincludes the area of the metacarpal beneath the thenar \nmuscles. Zone IV corresponds to the carpal tunnel, and zone \nV corresponds to the distal forearm just proximal to the wrist \n(Fig. 66-41).\nUrbaniak proposed an organized system of selecting \nrepair methods for the flexor pollicis longus depending on \nthe location of the injury and the timing of repair (Table \n66-1). Supporting the recommendations for direct repair of \nzone II injuries, the results after end-to-end repair within the \nflexor digital sheath have been reported to be as good as those \nafter delayed tendon reconstruction.\nTo locate the flexor pollicis longus, volar zigzag incisions \nover the thumb and linear incisions in the region of the \nthenar eminence and at the wrist may be required (see Fig. \n66-34). An early mobilization routine can be used after flexor \npollicis longus repair similar to routines used for finger \nflexors."
+}

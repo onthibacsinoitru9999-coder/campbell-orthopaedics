@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định trong hoại tử chi do tắc mạch máu không thể tái thông, chấn thương dập nát chi độ III-C đứt bó mạch thần kinh không thể bảo tồn, u ác tính xương phần mềm xâm lấn rộng hoặc nhiễm trùng huyết đe dọa tính mạng.",
   "contraindications": "Tình trạng thiếu máu lan tỏa vượt quá mức cắt dự kiến (cần nâng mức cắt lên cao hơn); sốc chấn thương chưa được hồi sức bồi phụ thể tích tuần hoàn ổn định.",
   "patient_prep": "Bệnh nhân nằm ngửa trên bàn mổ. Đặt garo hơi ở gốc chi nếu không có chống chỉ định mạch máu. Đánh dấu cẩn thận thiết kế vạt da trước mổ đảm bảo tỷ lệ chiều dài vạt đủ che phủ đầu xương không căng.",
-  "surgical_approach": "Cấu trúc nguy cơ: Thắt buộc chắc chắn 2 lần các thân động mạch và tĩnh mạch lớn tránh tụ máu thứ phát; Kéo nhẹ các thân thần kinh chính xuống, cắt dứt khoát bằng dao sắc và để thần kinh co rút tự nhiên vào trong khối cơ ít nhất 3-5 cm để phòng ngừa u thần kinh mỏm cụt (Neuroma).",
+  "surgical_approach": "Đường mổ tạo hình mỏm cụt / vạt da bàn tay (Advancement Pedicle Flap for Thumb Injuries): Đo vẽ thiết kế vạt da dày đầy đủ tổ chức dưới da theo tỷ lệ; phẫu tích nhẹ nhàng bộc lộ cấu trúc gân xương, nhận diện bó mạch thần kinh ngón riêng.",
   "surgical_steps": [
     {
       "step": 1,
@@ -48,13 +48,19 @@
   "images": [
     {
       "url": "web/static/images/techniques/19-12.webp",
-      "type": "drawing",
-      "caption": "Sơ đồ nét vẽ giải phẫu & quy trình kỹ thuật 19-12 (Advancement Pedicle Flap for Thumb Injuries) - Campbell 13th Ed"
+      "type": "diagram",
+      "caption": "FIGURE 19-20 Peacock technique of transposing index ray. Dorsal incision is shown; arrows indicate points along skin edges that will be brought together. Similar palmar incision is made (see",
+      "width": 427,
+      "height": 646
     },
     {
       "url": "web/static/images/techniques/19-12_xray.webp",
       "type": "xray",
-      "caption": "Phim chụp X-quang & ca lâm sàng phẫu thuật 19-12 (Advancement Pedicle Flap for Thumb Injuries) - Campbell 13th Ed"
+      "caption": "FIGURE 19-21 Thumb tip amputation levels. Acceptable pro­ cedures by level are 1, split-thickness graft; 2, cross-finger flap or advancement flap; 3, advancement flap, cross-finger flap, or",
+      "width": 220,
+      "height": 460
     }
-  ]
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "PART VI  AMPUTATIONS\n728\nFIGURE 19-21\t\nThumb tip amputation levels. Acceptable pro­\ncedures by level are 1, split-thickness graft; 2, cross-finger flap or \nadvancement flap; 3, advancement flap, cross-finger flap, or \nshorten thumb and close; 4, split-thickness skin graft; 5, shorten \nbone and split-thickness skin graft, advancement flap, or cross-\nfinger flap; 6, advancement flap or cross-finger flap; and 7, \nadvancement flap and removal of nail bed remnant. SEE"
 }

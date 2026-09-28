@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Dây Chằng Ba Thì Cải Biên (Brunelli 3LT) Bằng Gân FCR Trị Giãn Thuyền Nguyệt (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
   "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Excision or Reduction and Fixation of the Hook of the Hamate: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
   "surgical_steps": [
     {
       "step": 1,
@@ -44,6 +44,23 @@
   ],
   "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
   "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/69-21.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-21.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-48 Carpal tunnel view (A) and CT scan (B) of patient with fracture of hook of hamate. Patient injured his left hand on full-swing foul ball. (From Egawa M, Asai T: Fracture of the",
+      "width": 1160,
+      "height": 709
+    },
+    {
+      "url": "web/static/images/techniques/69-21_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-50 A, Carpal tunnel view shows fracture of base of palmar ridge of trapezium (arrows). This is designated as type I greater multiangular ridge fracture. B, Type II fracture of tip of palmar ridge of trapezium (arrow) caused by fall on dorsi",
+      "width": 1134,
+      "height": 297
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "EXCISION OR REDUCTION AND \nFIXATION OF THE HOOK OF THE \nHAMATE\n\nPART XVIII  THE HAND\n3518\ndisplaced with large fragments; avulsed, especially the dorsal \npole; or comminuted. Nondisplaced and nondisplaced com­\nminuted fractures can be treated with cast immobilization. \nFractures with more than 1 mm offset and avulsion fractures \nusually require open reduction. Internal fixation techniques \nvary depending on the requirements of the individual situa­\ntion and may include Kirschner wires, small cannulated \nscrews, and suture anchors. Trauma to the lunate may be \nsufficient to damage the circulation, leading to osteonecrosis \nof the lunate. Gelberman et al. described three patterns of \nvessels entering the lunate (Fig. 69-52). The lunates believed \nto be most at risk for osteonecrosis are those with a single \nvessel or one surface exposed to the blood supply, represent­\ning about 20% of lunates.\nKienböck disease is a painful disorder of the wrist of \nunknown cause in which radiographs eventually show osteo­\nnecrosis of the carpal lunate. It occurs more frequently \nbetween the ages of 15 and 40 years and in the dominant wrist \nof men engaged in manual labor. Armistead et al., using CT, \nFIGURE 69-50\t\nA, Carpal tunnel view shows fracture of base of palmar ridge of trapezium (arrows). This is designated as type I \ngreater multiangular ridge fracture. B, Type II fracture of tip of palmar ridge of trapezium (arrow) caused by fall on dorsiflexed wrist. \n(From Palmer AK: Trapezial ridge fractures, J Hand Surg 6A:561, 1981.)\nA\nB\nFIGURE 69-51\t\nA, Lateral tomogram of wrist, showing typical anterior pole fracture. B, Lunate shows no further collapse 12 months \nafter ulnar lengthening, and early healing is suggested. (From Armistead RB, Linscheid RL, Dobyns JH, et al: Ulnar lengthening in the treatment \nof Kienböck’s disease, J Bone Joint Surg 64A:170, 1982. By permission of Mayo Foundation.)\nLunate healed\n(12 mo)\nA\nB\nDisplaced trapezial fractures require open reduction. \nFractures of the body can be exposed through a J-shaped \nincision along the dorsum of the thumb metacarpal, curving \nmedially at the wrist flexion crease. Ununited fragments of \nthe trapezial ridge can be excised using the proximal limb of \nthe J-shaped incision or through a longitudinal incision in \nthe thenar crease, as when approaching the carpal tunnel. \nCare should be taken to avoid injury to the palmar cutaneous \nbranch of the median nerve.\nThe trapezoid is fractured least often of the carpal bones \nand usually is injured at the time of other carpometacarpal \ninjuries, especially injuries to the index metacarpal. Displaced \nfractures usually require reduction and fixation.\nFRACTURES OF THE LUNATE AND \nKIENBÖCK DISEASE\nFractures of the lunate can be difficult to detect on plain \nradiography. CT or MRI may be required to see the fracture \n(Fig. 69-51). Fractures of the lunate may be nondisplaced;"
 }

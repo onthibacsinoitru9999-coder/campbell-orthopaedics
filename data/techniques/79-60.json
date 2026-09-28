@@ -1,1 +1,72 @@
-{"tech_id": "79-60", "name_en": "Closing Wedge Osteotomy Combined with Darrach Excision of the Distal Ulnar Head (Ranawat, DeFiore, and Straub)", "name_vi": "Tạo Hình Khớp Bằng Chêm Dải Cân Sâu Trong Dị Tật Dính Khớp Xương Cổ Tay", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4338, "author": "Ranawat, DeFiore, and Straub", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Bằng Chêm Dải Cân Sâu Trong Dị Tật Dính Khớp Xương Cổ Tay (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Closing Wedge Osteotomy Combined with Darrach Excision of the Distal Ulnar Head (Ranawat, DeFiore, and Straub): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a dorsal longitudinal incision over the distal forearm, detach the extensor retinaculum from the radius over the extensor digitorum communis tendons, and reflect the retinaculum and the tendon of the extensor digiti minimi ulnarward.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "If the patient is skeletally mature, expose the distal radio- ulnar joint and excise about 1 cm of the distal ulna.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "If the patient is skeletally immature, expose the ulnar shaft and perform an appropriate cuff recession as described by Milch.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Bằng Chêm Dải Cân Sâu Trong Dị Tật Dính Khớp Xương Cổ Tay)", "detail": "Perform an osteotomy parallel with the distal articular surface of the radius.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Bằng Chêm Dải Cân Sâu Trong Dị Tật Dính Khớp Xương Cổ Tay)", "detail": "Resect an appropriate wedge of bone based radially and dorsally from the distal end of the proximal fragment of the radius and appose the raw surfaces.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-60",
+  "name_en": "Closing Wedge Osteotomy Combined with Darrach Excision of the Distal Ulnar Head (Ranawat, DeFiore, and Straub)",
+  "name_vi": "Tạo Hình Khớp Bằng Chêm Dải Cân Sâu Trong Dị Tật Dính Khớp Xương Cổ Tay",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4338,
+  "author": "Ranawat, DeFiore, and Straub",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Bằng Chêm Dải Cân Sâu Trong Dị Tật Dính Khớp Xương Cổ Tay (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Closing Wedge Osteotomy Combined with Darrach Excision of the Distal Ulnar Head (Ranawat, DeFiore, and Straub) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make a dorsal longitudinal incision over the distal forearm, detach the extensor retinaculum from the radius over the extensor digitorum communis tendons, and reflect the retinaculum and the tendon of the extensor digiti minimi ulnarward.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "If the patient is skeletally mature, expose the distal radio- ulnar joint and excise about 1 cm of the distal ulna.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "If the patient is skeletally immature, expose the ulnar shaft and perform an appropriate cuff recession as described by Milch.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Perform an osteotomy parallel with the distal articular surface of the radius.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Resect an appropriate wedge of bone based radially and dorsally from the distal end of the proximal fragment of the radius and appose the raw surfaces.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Stabilize the osteotomy with Kirschner wires so that the distal articular surface of the radius is facing volarward 0 to 15 degrees to the long axis of the radius and ulnarward 60 to 70 degrees.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-60.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-60.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-91 Ranawat et al. reconstruction of Madelung deformity. Dorsal-based and radial-based closing wedge osteot­ omy of radius is performed in conjunction with Darrach excision.",
+      "width": 375,
+      "height": 307
+    },
+    {
+      "url": "web/static/images/techniques/79-60_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-92 Carter and Ezaki dome osteotomy for reconstruction of Madelung deformity. A, Ligament of Vickers is excised. B, Biplanar dome osteotomy is made in metaphysis. Inset, Fat can be placed in physeal defect. C, Distal fragment is rotated at o",
+      "width": 1146,
+      "height": 468
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nFigure 79-91\nCLOSING WEDGE OSTEOTOMY \nCOMBINED WITH DARRACH EXCISION \nOF THE DISTAL ULNAR HEAD\n(RANAWAT, DEFIORE, AND STRAUB)\n■ Make a dorsal longitudinal incision over the distal forearm, \ndetach the extensor retinaculum from the radius over the \nextensor digitorum communis tendons, and reflect the \nretinaculum and the tendon of the extensor digiti minimi \nulnarward.\n■ If the patient is skeletally mature, expose the distal radio-\nulnar joint and excise about 1 cm of the distal ulna.\n■ If the patient is skeletally immature, expose the ulnar \nshaft and perform an appropriate cuff recession as \ndescribed by Milch.\n■ Perform an osteotomy parallel with the distal articular \nsurface of the radius.\n■ Resect an appropriate wedge of bone based radially and \ndorsally from the distal end of the proximal fragment of \nthe radius and appose the raw surfaces.\n■ Stabilize the osteotomy with Kirschner wires so that the \ndistal articular surface of the radius is facing volarward 0 \nto 15 degrees to the long axis of the radius and ulnarward \n60 to 70 degrees.\n■ Close the incision in routine fashion and apply a long arm \ncast."
+}

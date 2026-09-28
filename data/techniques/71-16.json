@@ -1,1 +1,66 @@
-{"tech_id": "71-16", "name_en": "Tenodesis (Fowler)", "name_vi": "Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp (Low Median Nerve Palsy)", "chapter": 71, "category": "Hand & Wrist", "pdf_page": 4021, "author": "Fowler", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp (Low Median Nerve Palsy) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.", "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Tenodesis (Fowler): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn", "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp (Chương 71). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.", "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."}, {"step": 2, "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương", "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.", "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."}, {"step": 3, "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)", "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.", "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."}, {"step": 4, "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động", "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.", "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."}, {"step": 5, "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng", "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.", "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."}], "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.", "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.", "image_url": null, "images": []}
+{
+  "tech_id": "71-16",
+  "name_en": "Tenodesis (Fowler)",
+  "name_vi": "Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp (Low Median Nerve Palsy)",
+  "chapter": 71,
+  "category": "Hand & Wrist",
+  "pdf_page": 4021,
+  "author": "Fowler",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp (Low Median Nerve Palsy) (Chương 71, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Cơ cho có sức mạnh cơ học < bậc 4/5; khớp đích bị co rút cứng đơ chưa được giải phóng mô mềm trước mổ; bệnh lý thần kinh tiến triển chưa ổn định.",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ phẫu thuật chuyển gân tinh tế.",
+  "surgical_approach": "Đường mổ bên ngón (Midlateral incision): Rạch dọc bờ bên ngón tay ngay phía sau đường nối các nếp gấp gian đốt, phẫu tích sau dây chằng Cleland để bảo tồn bó mạch thần kinh ngón riêng ở phía trước vạt.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn",
+      "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp (Chương 71). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.",
+      "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."
+    },
+    {
+      "step": 2,
+      "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương",
+      "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Chuyển Gân Phục Hồi Liệt Thần Kinh Giữa Thấp. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.",
+      "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."
+    },
+    {
+      "step": 3,
+      "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)",
+      "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.",
+      "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+    },
+    {
+      "step": 4,
+      "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động",
+      "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.",
+      "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."
+    },
+    {
+      "step": 5,
+      "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng",
+      "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.",
+      "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp bột bảo vệ gân chuyển trong 4 tuần. Từ tuần thứ 4 bắt đầu tập luyện tái tạo phản xạ co cơ mới với chuyên viên phục hồi chức năng bàn tay.",
+  "pearls_pitfalls": "Nguyên tắc vàng chuyển gân: Một cơ chỉ làm một việc; cơ cho phải có sức mạnh cơ học từ bậc 4/5 trở lên; hướng đi của gân chuyển phải là đường thẳng từ nguyên ủy đến bám tận; chỉnh lực căng gân chuẩn xác theo hiệu ứng tenodesis.",
+  "image_url": "web/static/images/techniques/71-16.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/71-16.webp",
+      "type": "diagram",
+      "caption": "FIGURE 71-27 Fowler tenodesis for intrinsic paralysis (see text). SEE TECHNIQUE 71-16. Four-tailed",
+      "width": 1199,
+      "height": 764
+    },
+    {
+      "url": "web/static/images/techniques/71-16_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 71-29 A, One slip of tendon graft is sutured to appropriate lateral band of each finger. B, First, one slip of graft is sutured to ulnar lateral band of index finger (1), and then one each to radial lateral band of little (2), long (3), and ri",
+      "width": 999,
+      "height": 802
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \nFour-tailed\nplantaris\ntendon graft\nGraft tacked to\nextensor mechanism\nFIGURE 71-28\t\nFlexor digitorum sublimis (FDS) inserted into \nstrip of annular ligament (A2) at middle of proximal phalanx. \n(Redrawn from slide supplied by Brooks. In Riordan DC: Tendon transfers \nin hand surgery, J Hand Surg 8:748, 1983.)\nA2\nFDS\nproprius tendons of the index and little fingers can be trans­\nferred by the Fowler technique (see Figs. 71-19 and 71-20), \nor the Riordan modification of the Fowler technique in which \nthe palmaris longus tendon is one of the transfers (see Fig. \n71-21) can be used. If no muscle is available for transfer, and \nif the joints are supple, the Zancolli capsulodesis of the \nmetacarpophalangeal joints (see Fig. 71-26), a Fowler teno­\ndesis (see Fig. 71-27), or a Riordan tenodesis may be \nindicated.\nThe tendency to overload the extensor mechanism by \nroutine attachment of transferred tendons to the lateral bands \nhas been noted; this means that the desirable flexor power to \nthe metacarpophalangeal joints is not obtained; Brooks and \nJones suggested attaching the transfers to the flexor tendon \nsheath (Fig. 71-28) and, depending on the intact extensor \npower, extending the proximal interphalangeal joints with the \nmetacarpophalangeal joints stabilized. Likewise, Burkhalter \nand others suggested a bony attachment of the transferred \ntendon to the midportion of the proximal phalanx to provide \nleverage for flexion at the metacarpophalangeal joint and a \nbetter restoration of grip (see Fig. 71-33). We have found, \nhowever, the Zancolli tendon insertion into the flexor sheath \nto be much less time-consuming than insertion into bone. It \nalso eliminates the tendency for hyperextension of the proxi­\nmal interphalangeal joint, as occurs sometimes when the \ntendon is inserted into the extensor mechanism.\nTRANSFER OF THE FLEXOR \nDIGITORUM SUBLIMIS OF THE \nRING FINGER\n(BUNNELL, MODIFIED)\n• Transfer either the ring or the long finger sublimis tendon. \nMake a midlateral incision about 4.0 cm long on the \nradial side of the selected finger, beginning at the mid-\nshaft of the proximal phalanx and extending distally to \nbeyond the proximal interphalangeal joint.\n• Deepen the incision to the flexor tendon sheath, open \nthe sheath laterally, and identify and divide the sublimis \ntendon at the level of the proximal interphalangeal joint."
+}

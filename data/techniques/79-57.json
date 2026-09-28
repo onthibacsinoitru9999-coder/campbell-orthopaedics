@@ -9,41 +9,64 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Giải Phóng Bao Khớp Mặt Mu Trị Dị Tật Duỗi Quá Mức Bẩm Sinh Khớp Bàn Ngón (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
   "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Opening Wedge Osteotomy of the Terminal Phalanx (Carstam and Eiken): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường mổ bên ngón (Midlateral incision): Rạch dọc bờ bên ngón tay ngay phía sau đường nối các nếp gấp gian đốt, phẫu tích sau dây chằng Cleland để bảo tồn bó mạch thần kinh ngón riêng ở phía trước vạt.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Đường rạch da bờ bên ngón tay (Midlateral Incision)",
-      "detail": "Under tourniquet control, make a radial midlateral incision over the distal phalanx of the involved finger.",
-      "action": "Rạch da đường giữa bên đốt xa ngón tay, bảo vệ bó mạch thần kinh ngón bên."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Under tourniquet control, make a radial midlateral inci- sion over the distal phalanx of the involved finger.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Bộc lộ màng xương & Cắt xương đốt xa (Subperiosteal Exposure & Osteotomy)",
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
       "detail": "Expose the distal phalanx subperiosteally and perform two osteotomies through the volar three fourths of the diaphysis.",
-      "action": "Cắt 3/4 chiều dày xương đốt xa phía mặt lòng, chừa lại bản lề màng xương mặt mu."
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Nắn chỉnh sửa trục biến dạng qua bản lề màng xương (Deformity Correction via Periosteal Hinge)",
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
       "detail": "Using a periosteal hinge left intact on the dorsum of the phalanx, correct the deformity. This periosteal hinge also helps control rotation of the fragments.",
-      "action": "Tách mở góc cắt xương chỉnh thẳng trục ngón tay nhờ bản lề màng xương mặt mu."
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Giải phóng tổ chức móng biến dạng cản trở nắn chỉnh (Nail Deformity Release)",
-      "detail": "Complete correction of the deformity may be blocked by a curved nail deformity. Giải phóng nhẹ nhàng mép móng cong khoằm để đạt độ duỗi thẳng tối đa.",
-      "action": "Giải phóng mầm móng hoặc phiến móng cản trở nắn chỉnh trục."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Complete correction of the deformity may be blocked by a curved nail deformity.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Ghim kim K-wire dọc trục cố định diện cắt xương (Longitudinal K-Wire Fixation & Closure)",
-      "detail": "Place a longitudinal Kirschner wire through the phalanx and the distal interphalangeal joint to hold the correction (Fig. 79-85B). Khâu đóng da mũi rời bằng chỉ nylon 5-0 và băng nẹp bảo vệ.",
-      "action": "Ghim kim K-wire dọc trục qua khớp DIP giữ vững chỉnh hình trong 4-6 tuần."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Place a longitudinal Kirschner wire through the pha­ lanx and the distal interphalangeal joint to hold the correction (Fig. 79-85B).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "If the phalanx is extremely small, insert a Kirschner wire extraperiosteally along the volar aspect of the phalanx to act as an internal splint.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
   "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/79-57.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-57.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-84 Technique for correction of camptodactyly. Flexor sublimis tendon is transferred to extensor apparatus. SEE TECHNIQUE 79-56.",
+      "width": 1098,
+      "height": 519
+    },
+    {
+      "url": "web/static/images/techniques/79-57_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-86 Radiographic appearance of delta phalanx. MADELUNG DEFORMITY Madelung deformity is an abnormality of the palmar ulnar",
+      "width": 375,
+      "height": 531
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": ". \nA\nB\nphalanx, as described by Carstam and Eiken. No effective \ntreatment has been described for correction of the nail \ndeformity.\nOPENING WEDGE OSTEOTOMY OF \nTHE TERMINAL PHALANX\n(CARSTAM AND EIKEN)\n■ Under tourniquet control, make a radial midlateral inci-\nsion over the distal phalanx of the involved finger.\n■ Expose the distal phalanx subperiosteally and perform \ntwo osteotomies through the volar three fourths of the \ndiaphysis.\n■ Using a periosteal hinge left intact on the dorsum of the \nphalanx, correct the deformity. This periosteal hinge also \nhelps control rotation of the fragments.\n■ Complete correction of the deformity may be blocked by \na curved nail deformity.\n■ Place a longitudinal Kirschner wire through the pha­\nlanx and the distal interphalangeal joint to hold the \ncorrection (Fig. 79-85B).\n■ If the phalanx is extremely small, insert a Kirschner wire \nextraperiosteally along the volar aspect of the phalanx to \nact as an internal splint.\n■ Close the incisions in routine fashion and apply a long or \nshort arm splint."
 }

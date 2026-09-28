@@ -1,1 +1,52 @@
-{"tech_id": "69-39", "name_en": "Distal Radioulnar Arthrodesis with Distal Ulnar Pseudarthrosis (Baldwin; Sauvé-Kapandji; Lauenstein) (Sanders et al.; Vincent et al.; Lamey and Fernandez)", "name_vi": "Thay Chỏm Xương Trụ Bằng Khớp Nhân Tạo Kim Loại (Ulnar Head Arthroplasty)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3939, "author": "Baldwin; Sauvé-Kapandji; Lauenstein", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Thay Chỏm Xương Trụ Bằng Khớp Nhân Tạo Kim Loại (Ulnar Head Arthroplasty) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Distal Radioulnar Arthrodesis with Distal Ulnar Pseudarthrosis (Baldwin; Sauvé-Kapandji; Lauenstein) (Sanders et al.; Vincent et al.; Lamey and Fernandez): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Thay Chỏm Xương Trụ Bằng Khớp Nhân Tạo Kim Loại)", "detail": "To reduce the potential for painful instability of the proximal ulnar stump, Lamey and Fernandez modified the technique.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "They used a distally based slip of flexor carpi ulnaris as a tenodesis through drill holes in the distal end of the proximal ulnar segment, placing the pronator quadratus in the osteotomy (“non­ union”) site and suturing it to the sheath of the extensor carpi ulnaris (Fig.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc", "detail": "reported that attaching the ulnar portion of the pronator quadratus through a drill hole in the proximal ulna was effective.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": "web/static/images/techniques/69-39.webp", "images": [{"url": "web/static/images/techniques/69-39.webp", "type": "diagram", "caption": "Phẫu thuật Sauvé-Kapandji hàn khớp quay trụ dưới và cắt đoạn thân xương trụ tạo khớp giả"}]}
+{
+  "tech_id": "69-39",
+  "name_en": "Distal Radioulnar Arthrodesis with Distal Ulnar Pseudarthrosis (Baldwin; Sauvé-Kapandji; Lauenstein) (Sanders et al.; Vincent et al.; Lamey and Fernandez)",
+  "name_vi": "Thay Chỏm Xương Trụ Bằng Khớp Nhân Tạo Kim Loại (Ulnar Head Arthroplasty)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3939,
+  "author": "Baldwin; Sauvé-Kapandji; Lauenstein",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Thay Chỏm Xương Trụ Bằng Khớp Nhân Tạo Kim Loại (Ulnar Head Arthroplasty) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Distal Radioulnar Arthrodesis with Distal Ulnar Pseudarthrosis (Baldwin; Sauvé-Kapandji; Lauenstein) (Sanders et al.; Vincent et al.; Lamey and Fernandez) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Thao tác can thiệp kỹ thuật (Thay Chỏm Xương Trụ Bằng Khớp Nhân Tạo Kim Loại)",
+      "detail": "To reduce the potential for painful instability of the proximal ulnar stump, Lamey and Fernandez modified the technique.",
+      "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "They used a distally based slip of flexor carpi ulnaris as a tenodesis through drill holes in the distal end of the proximal ulnar segment, placing the pronator quadratus in the osteotomy (“non­ union”) site and suturing it to the sheath of the extensor carpi ulnaris (Fig.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "reported that attaching the ulnar portion of the pronator quadratus through a drill hole in the proximal ulna was effective.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-39.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-39.webp",
+      "type": "diagram",
+      "caption": "Phẫu thuật Sauvé-Kapandji hàn khớp quay trụ dưới và cắt đoạn thân xương trụ tạo khớp giả"
+    },
+    {
+      "url": "web/static/images/techniques/69-39_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-75 Distal radioulnar arthrodesis with distal ulnar pseudarthrosis (modified Sauvé-Kapandji procedure). A, Posterior view of wrist with two screws fixing ulnar head to sigmoid notch;",
+      "width": 578,
+      "height": 722
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "DISTAL RADIOULNAR ARTHRODESIS \nWITH DISTAL ULNAR \nPSEUDARTHROSIS (BALDWIN; SAUVÉ-\nKAPANDJI; LAUENSTEIN)\nSauvé and Kapandji and Goncalves found that fusion of \nthe DRUJ combined with the intentional formation of a \ndistal ulnar pseudarthrosis was effective in resolving a \nvariety of problems at the DRUJ. This technique has been \nused successfully to salvage painful wrists caused by previ­\nous surgery, traumatic arthritis, and rheumatoid arthritis. It \nis effective in providing ulnar-side support to the wrist with \nextensive distal radioulnar destruction from rheumatoid \narthritis. Although a stable DRUJ with ulnocarpal support \nis achieved, the potential for an unstable proximal ulna \nremains, leaving few satisfactory solutions for a symptom­\natic unstable proximal ulnar stump. To reduce the potential \nfor painful instability of the proximal ulnar stump, Lamey \nand Fernandez modified the technique. They used a distally \nbased slip of flexor carpi ulnaris as a tenodesis through drill \nholes in the distal end of the proximal ulnar segment, \nplacing the pronator quadratus in the osteotomy (“non­\nunion”) site and suturing it to the sheath of the extensor \ncarpi ulnaris (Fig. 69-75). Johnson and Ruby et al. reported \nthat attaching the ulnar portion of the pronator quadratus \nthrough a drill hole in the proximal ulna was effective. In \naddition to the development of a painful pseudarthrosis, \nankylosis or healing of the pseudarthrosis can occur, \ndefeating the purpose of the procedure.\n\nPART XVIII  THE HAND\n3546\nFIGURE 69-76\t\nSauvé-Kapandji procedure. Distal radioulnar \narthrodesis and creation of pseudarthrosis in distal ulna. SEE"
+}

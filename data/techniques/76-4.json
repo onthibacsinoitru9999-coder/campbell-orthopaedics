@@ -1,1 +1,70 @@
-{"tech_id": "76-4", "name_en": "Two-Portal Endoscopic Carpal Tunnel Release (Chow)", "name_vi": "Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Hai Cổng Vào (Chow Technique)", "chapter": 76, "category": "Hand & Wrist", "pdf_page": 4181, "author": "Chow", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Hai Cổng Vào (Chow Technique) (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Two-Portal Endoscopic Carpal Tunnel Release (Chow): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Incise and elevate a U-shaped, distally based flap of forearm fascia (Fig. 76-7B), and retract it palmarward to facilitate dissection of the synovium from the deep surface of the ligament, creating a mouth-like opening at the proximal end of the carpal tunnel.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "When using the tunneling tools and the endoscopic blade assembly, keep them aligned with the ring finger, hug the hook of the hamate, and keep the tools snugly apposed to the deep surface of the transverse carpal ligament, maintaining a path between the median and ulnar nerves for the instruments.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Hai Cổng Vào)", "detail": "Use the synovium elevator to scrape the synovium from the deep surface of the transverse carpal ligament. Extend the wrist slightly; insert the blade assembly to the carpal tunnel, pressing the viewing window snugly against the deep surface of the transverse carpal ligament (Fig. 76-7C). While advan", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Define the distal edge of the transverse carpal ligament by viewing the video picture, ballottement, and light transilluminated through the skin. Correctly position the blade assembly and touch the distal end of the ligament with the partially elevated blade to judge its entry point for ligament div", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Hai Cổng Vào)", "detail": "Fat from the proximal palm may compromise endoscopic viewing by protruding through the divided proximal half of the ligament, leaving an oil layer on the lens. Avoid this by first releasing only the distal one half to two thirds of the ligament (Fig. 76-7D).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.", "pearls_pitfalls": "Luôn nhận diện và bảo vệ tuyệt đối nhánh vận động quặp ngược của thần kinh giữa trong ống cổ tay và nhánh cảm giác nông thần kinh quay trong phẫu thuật De Quervain; Cắt trọn vẹn bề dày dây chằng mà không bỏ sót mép đầu gần.", "image_url": "web/static/images/techniques/76-4_clinical.webp", "images": [{"url": "web/static/images/techniques/76-4_clinical.webp", "type": "clinical", "caption": "Hình ảnh phẫu tích tiêu bản: Kỹ thuật nội soi 2 cổng vào Chow và bảo vệ dây chằng"}]}
+{
+  "tech_id": "76-4",
+  "name_en": "Two-Portal Endoscopic Carpal Tunnel Release (Chow)",
+  "name_vi": "Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Hai Cổng Vào (Chow Technique)",
+  "chapter": 76,
+  "category": "Hand & Wrist",
+  "pdf_page": 4181,
+  "author": "Chow",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nội Soi Giải Ép Ống Cổ Tay Kỹ Thuật Hai Cổng Vào (Chow Technique) (Chương 76, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Hội chứng ống cổ tay thoáng qua do thai kỳ hoặc suy giáp chưa điều trị nội khoa; viêm mô tế bào cấp tính vùng cổ bàn tay.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Gây tê tại chỗ WALANT hoặc tê vùng. Dụng cụ vi phẫu tinh tế, bộ nong và dao nội soi Agee/Chow.",
+  "surgical_approach": "Đường mổ gan tay giải phóng ống cổ tay: Rạch da thẳng hoặc hơi cong dọc theo bờ trụ nếp gan bàn tay, thẳng hàng với bờ quay ngón IV (trục Kaplan), dừng lại ở nếp gấp cổ tay xa; nhận diện và bảo vệ tuyệt đối nhánh vận động quặt ngược thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Incise and elevate a U-shaped, distally based flap of forearm fascia (Fig. 76-7B), and retract it palmarward to facilitate dissection of the synovium from the deep surface of the ligament, creating a mouth-like opening at the proximal end of the carpal tunnel.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "When using the tunneling tools and the endoscopic blade assembly, keep them aligned with the ring finger, hug the hook of the hamate, and keep the tools snugly apposed to the deep surface of the transverse carpal ligament, maintaining a path between the median and ulnar nerves for the instruments.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Use the synovium elevator to scrape the synovium from the deep surface of the transverse carpal ligament. Extend the wrist slightly; insert the blade assembly to the carpal tunnel, pressing the viewing window snugly against the deep surface of the transverse carpal ligament (Fig. 76-7C). While advancing the blade assembly distally, maintain alignment with the ring finger and hug the hook of the hamate, staying to the ulnar side. Make several proximal-to-distal passes to define the distal edge of the transverse carpal ligament with the fat overlying it.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Define the distal edge of the transverse carpal ligament by viewing the video picture, ballottement, and light transilluminated through the skin. Correctly position the blade assembly and touch the distal end of the ligament with the partially elevated blade to judge its entry point for ligament division. Elevate the blade and withdraw the device, incising the ligament.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Fat from the proximal palm may compromise endoscopic viewing by protruding through the divided proximal half of the ligament, leaving an oil layer on the lens. Avoid this by first releasing only the distal one half to two thirds of the ligament (Fig. 76-7D).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Using the unobstructed path for reinsertion of the instrument, accurately complete the distal ligament division with good viewing. Complete proximal liga- ment division with a final proximal pass of the elevated blade.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Vận động chủ động các ngón tay tự do ngay lập tức sau mổ. Băng ép nhẹ nhàng. Cắt chỉ sau 10-12 ngày.",
+  "pearls_pitfalls": "Luôn nhận diện và bảo vệ tuyệt đối nhánh vận động quặp ngược của thần kinh giữa trong ống cổ tay và nhánh cảm giác nông thần kinh quay trong phẫu thuật De Quervain; Cắt trọn vẹn bề dày dây chằng mà không bỏ sót mép đầu gần.",
+  "image_url": "web/static/images/techniques/76-4_clinical.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/76-4_clinical.webp",
+      "type": "clinical",
+      "caption": "Hình ảnh phẫu tích tiêu bản: Kỹ thuật nội soi 2 cổng vào Chow và bảo vệ dây chằng"
+    },
+    {
+      "url": "web/static/images/techniques/76-4_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 76-8, cont’d ■ Incise and elevate a U-shaped, distally based flap of forearm fascia (Fig. 76-7B), and retract it palmarward to facilitate dissection of the synovium from the deep surface",
+      "width": 1162,
+      "height": 593
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ".\nFIGURE 76-8, cont’d\t\n■ Incise and elevate a U-shaped, distally based flap of \nforearm fascia (Fig. 76-7B), and retract it palmarward to \nfacilitate dissection of the synovium from the deep surface \nof the ligament, creating a mouth-like opening at the \nproximal end of the carpal tunnel.\n■ When using the tunneling tools and the endoscopic blade \nassembly, keep them aligned with the ring finger, hug the \nhook of the hamate, and keep the tools snugly apposed \nto the deep surface of the transverse carpal ligament, \nmaintaining a path between the median and ulnar nerves \nfor the instruments.\n■ Use the synovium elevator to scrape the synovium from \nthe deep surface of the transverse carpal ligament. Extend \nthe wrist slightly; insert the blade assembly to the carpal \ntunnel, pressing the viewing window snugly against the \ndeep surface of the transverse carpal ligament (Fig. \n76-7C). While advancing the blade assembly distally, \nmaintain alignment with the ring finger and hug the hook \nof the hamate, staying to the ulnar side. Make several \nproximal-to-distal passes to define the distal edge of the \ntransverse carpal ligament with the fat overlying it.\n■ Define the distal edge of the transverse carpal ligament \nby viewing the video picture, ballottement, and light \ntransilluminated through the skin. Correctly position the \nblade assembly and touch the distal end of the ligament \nwith the partially elevated blade to judge its entry point \nfor ligament division. Elevate the blade and withdraw the \ndevice, incising the ligament.\n■ Fat from the proximal palm may compromise endoscopic \nviewing by protruding through the divided proximal half \nof the ligament, leaving an oil layer on the lens. Avoid \nthis by first releasing only the distal one half to two thirds \nof the ligament (Fig. 76-7D).\n■ Using the unobstructed path for reinsertion of the \ninstrument, accurately complete the distal ligament \ndivision with good viewing. Complete proximal liga-\nment division with a final proximal pass of the elevated \nblade.\n■ Assess the completeness of ligament division using the \nfollowing endoscopic observations.\n■ Through the endoscope, note that the partially divided \nligament separates on the deep surface, creating a \nV-shaped defect (Fig. 76-7E).\n■ Make subsequent cuts viewing the trapezoidal defect \ncreated by complete division as the two halves of the \nligament spring apart. Through this defect, observe the \nlongitudinal palmar fascia fibers intermingled with fat \nand muscle. Force these structures to protrude by press-\ning on the palmar skin.\n■ Confirm complete division by rotating the blade assembly \nin radial and ulnar directions, noting that the edges of \nthe ligament abruptly “flop” into the window, obstruct-\ning the view.\n■ Palpate the palmar skin over the blade assembly window, \nobserving motion between the divided transverse carpal \nligament and the more superficial palmar fascia, fat, and \nmuscle.\n■ Ensure complete median nerve decompression by releas-\ning the forearm fascia with tenotomy scissors (Fig. \n76-7F).\n\nPART XVIII  THE HAND\n3762\n■ Use small right-angle retractors to view the fascia directly, \navoiding nerve and tendon injury (Fig. 76-7G).\n■ Close the incision with subcuticular or simple stitches.\n■ Apply a nonadhering dressing. Apply a well-padded volar \nsplint, or, in selected patients, leave the wrist unsplinted."
+}

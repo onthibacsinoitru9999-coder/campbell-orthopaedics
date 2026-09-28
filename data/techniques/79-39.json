@@ -1,1 +1,72 @@
-{"tech_id": "79-39", "name_en": "Rerouting of the Flexor Pollicis Longus (Blair and Omer)", "name_vi": "Tái Tạo Dây Chằng Bên Khớp Bàn Ngón Cái Bằng Gân Chuyển Tự Thân", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4314, "author": "Blair and Omer", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Dây Chằng Bên Khớp Bàn Ngón Cái Bằng Gân Chuyển Tự Thân (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Rerouting of the Flexor Pollicis Longus (Blair and Omer): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Under tourniquet control, make a zigzag palmar incision along the thumb to allow exploration of the flexor pollicis longus, the ulnar collateral ligament, and the extensor pollicis longus.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Develop the flaps and identify and protect the digital nerves.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Bên Khớp Bàn Ngón Cái Bằng Gân Chuyển Tự Thân)", "detail": "Identify the abnormal tendinous slip of the flexor pollicis longus that passes over the radial border of the thumb and into the extensor pollicis longus, usually between the metacarpophalangeal joint and the interphalangeal joint. Release this abnormal insertion sharply.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Bên Khớp Bàn Ngón Cái Bằng Gân Chuyển Tự Thân)", "detail": "Release the insertion of the abductor pollicis brevis (Fig. 79-68A).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Transfer the flexor pollicis longus tendon ulnarward under the abductor pollicis brevis tendon (Fig. 79-68B). If the abduction deformity of the thumb metacarpophalangeal joint cannot be corrected, release the radial collateral ligament.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-39",
+  "name_en": "Rerouting of the Flexor Pollicis Longus (Blair and Omer)",
+  "name_vi": "Tái Tạo Dây Chằng Bên Khớp Bàn Ngón Cái Bằng Gân Chuyển Tự Thân",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4314,
+  "author": "Blair and Omer",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Dây Chằng Bên Khớp Bàn Ngón Cái Bằng Gân Chuyển Tự Thân (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường rạch zíc-zắc Bruner (Bruner volar zigzag incision): Rạch da theo các nếp gấp khớp ngón tay tạo các vạt tam giác đáy rộng góc 60°, bảo tồn tối đa hệ thống mạch máu nuôi dưỡng da và tránh sẹo co rút gập ngón.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Under tourniquet control, make a zigzag palmar incision along the thumb to allow exploration of the flexor pollicis longus, the ulnar collateral ligament, and the extensor pollicis longus.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Develop the flaps and identify and protect the digital nerves.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Identify the abnormal tendinous slip of the flexor pollicis longus that passes over the radial border of the thumb and into the extensor pollicis longus, usually between the metacarpophalangeal joint and the interphalangeal joint. Release this abnormal insertion sharply.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Release the insertion of the abductor pollicis brevis (Fig. 79-68A).",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Transfer the flexor pollicis longus tendon ulnarward under the abductor pollicis brevis tendon (Fig. 79-68B). If the abduction deformity of the thumb metacarpophalangeal joint cannot be corrected, release the radial collateral ligament.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Suture the abductor pollicis brevis tendon into its normal insertion (Fig. 79-68C). This technique centralizes the flexor pollicis longus and constructs a sling at the meta- carpophalangeal joint.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-39.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-39.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-67 Staged reconstruction for abducted thumb in which adduction contracture is released and maintained with interposed Kirschner wire; this may be followed in 6 weeks by",
+      "width": 1009,
+      "height": 653
+    },
+    {
+      "url": "web/static/images/techniques/79-39_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-69 Floating thumb (pouce flottant) deformity. absent thumb except in the thrombocytopenia–absent radius (TAR) syndrome. Absence of the thumb creates an extreme",
+      "width": 560,
+      "height": 412
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nA\nB\nC\nAbductor\npollicis\nbrevis\nFlexor\npollicis\nlongus\nExtensor\npollicis\nlongus\nFlexor policis\nlongus rerouted\nReattachment\nabductor\npollicis brevis\nREROUTING OF THE FLEXOR \nPOLLICIS LONGUS\n(BLAIR AND OMER)\n■ Under tourniquet control, make a zigzag palmar incision \nalong the thumb to allow exploration of the flexor pollicis \nlongus, the ulnar collateral ligament, and the extensor \npollicis longus.\n■ Develop the flaps and identify and protect the digital \nnerves.\n■ Identify the abnormal tendinous slip of the flexor pollicis \nlongus that passes over the radial border of the thumb \nand into the extensor pollicis longus, usually between the \nmetacarpophalangeal joint and the interphalangeal joint. \nRelease this abnormal insertion sharply.\n■ Release the insertion of the abductor pollicis brevis (Fig. \n79-68A).\n■ Transfer the flexor pollicis longus tendon ulnarward under \nthe abductor pollicis brevis tendon (Fig. 79-68B). If the \nabduction deformity of the thumb metacarpophalangeal \njoint cannot be corrected, release the radial collateral \nligament.\n■ Suture the abductor pollicis brevis tendon into its normal \ninsertion (Fig. 79-68C). This technique centralizes the \nflexor pollicis longus and constructs a sling at the meta-\ncarpophalangeal joint."
+}

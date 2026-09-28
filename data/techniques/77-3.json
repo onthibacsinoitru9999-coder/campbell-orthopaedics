@@ -1,1 +1,64 @@
-{"tech_id": "77-3", "name_en": "Arthroscopic Resection of a Dorsal Wrist Ganglion (Osterman and Raphael; Luchetti et al.)", "name_vi": "Nạo Trọn U Nội Sụn (Enchondroma) Xương Bàn Ngón Tay & Ghép Xương Tự Thân", "chapter": 77, "category": "Hand & Wrist", "pdf_page": 4223, "author": "Osterman and Raphael; Luchetti et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nạo Trọn U Nội Sụn (Enchondroma) Xương Bàn Ngón Tay & Ghép Xương Tự Thân (Chương 77, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Khối u nghi ngờ ác tính sarcoma mô mềm chưa được sinh thiết định danh (chống chỉ định bóc u đơn thuần làm gieo rắc tế bào ung thư).", "patient_prep": "Nằm ngửa trên bàn mổ tay. Garo cánh tay có kiểm soát. Kính lúp vi phẫu. Dụng cụ bóc tách tỉ mỉ.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Arthroscopic Resection of a Dorsal Wrist Ganglion (Osterman and Raphael; Luchetti et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "ARTHROSCOPIC RESECTION OF A DORSAL WRIST GANGLION tender, especially if it involves a digital nerve and if it adheres to an amputation scar that is unprotected by a good pad of skin and fat.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "The tumor usually is invisible from the exterior and is detected by pressing on the suspected area with a firm object, such as a pinhead or pencil point.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "A painful neuroma at an amputation site should be resected so that its end can be well protected by a pad of subcutaneous fat and skin.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "It cannot be excised without resecting the nerve, which definitely should not be done.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "This thin communication may become pinched off, but at some stage in development it is in direct communica­ tion with joint space.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Băng ép nhẹ vùng mổ trong 48 giờ. Tập vận động nhẹ nhàng khớp cổ bàn tay ngay sau khi bớt đau.", "pearls_pitfalls": "Bóc trọn vẹn cuống nang bám vào bao khớp trong u bao hoạt dịch ganglion để chống tái phát; Gửi toàn bộ bệnh phẩm làm giải phẫu bệnh vi thể loại trừ tổn thương ác tính.", "image_url": "web/static/images/techniques/77-3.webp", "images": [{"url": "web/static/images/techniques/77-3.webp", "type": "diagram", "caption": "Sơ đồ phân bố các vị trí u nội sụn (Enchondroma) điển hình ở xương bàn và xương ngón tay"}]}
+{
+  "tech_id": "77-3",
+  "name_en": "Arthroscopic Resection of a Dorsal Wrist Ganglion (Osterman and Raphael; Luchetti et al.)",
+  "name_vi": "Nạo Trọn U Nội Sụn (Enchondroma) Xương Bàn Ngón Tay & Ghép Xương Tự Thân",
+  "chapter": 77,
+  "category": "Hand & Wrist",
+  "pdf_page": 4223,
+  "author": "Osterman and Raphael; Luchetti et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nạo Trọn U Nội Sụn (Enchondroma) Xương Bàn Ngón Tay & Ghép Xương Tự Thân (Chương 77, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Khối u nghi ngờ ác tính sarcoma mô mềm chưa được sinh thiết định danh (chống chỉ định bóc u đơn thuần làm gieo rắc tế bào ung thư).",
+  "patient_prep": "Nằm ngửa trên bàn mổ tay. Garo cánh tay có kiểm soát. Kính lúp vi phẫu. Dụng cụ bóc tách tỉ mỉ.",
+  "surgical_approach": "Đường mổ mu cổ tay dọc giữa (Dorsal midline wrist approach): Rạch da dọc thẳng qua củ Lister, bảo vệ các nhánh cảm giác nông thần kinh quay và nhánh mu tay thần kinh trụ, mở bao gân khoang duỗi thứ 3 (EPL) và rạch bao khớp theo hình chữ V hoặc H.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "ARTHROSCOPIC RESECTION OF A DORSAL WRIST GANGLION tender, especially if it involves a digital nerve and if it adheres to an amputation scar that is unprotected by a good pad of skin and fat.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "The tumor usually is invisible from the exterior and is detected by pressing on the suspected area with a firm object, such as a pinhead or pencil point.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường",
+      "detail": "A painful neuroma at an amputation site should be resected so that its end can be well protected by a pad of subcutaneous fat and skin.",
+      "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ",
+      "detail": "It cannot be excised without resecting the nerve, which definitely should not be done.",
+      "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc",
+      "detail": "This thin communication may become pinched off, but at some stage in development it is in direct communica­ tion with joint space.",
+      "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."
+    }
+  ],
+  "postop_protocol": "Băng ép nhẹ vùng mổ trong 48 giờ. Tập vận động nhẹ nhàng khớp cổ bàn tay ngay sau khi bớt đau.",
+  "pearls_pitfalls": "Bóc trọn vẹn cuống nang bám vào bao khớp trong u bao hoạt dịch ganglion để chống tái phát; Gửi toàn bộ bệnh phẩm làm giải phẫu bệnh vi thể loại trừ tổn thương ác tính.",
+  "image_url": "web/static/images/techniques/77-3.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/77-3.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ phân bố các vị trí u nội sụn (Enchondroma) điển hình ở xương bàn và xương ngón tay"
+    },
+    {
+      "url": "web/static/images/techniques/77-3_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 77-28 A, Epidermoid inclusion cyst after puncture wound to index finger. B, Radiograph shows soft-tissue mass and bony erosion. C, Excision of cyst. C",
+      "width": 829,
+      "height": 791
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "ARTHROSCOPIC RESECTION OF A \nDORSAL WRIST GANGLION\n\nPART XVIII  THE HAND\n3800\ntender, especially if it involves a digital nerve and if it adheres \nto an amputation scar that is unprotected by a good pad of \nskin and fat. The tumor usually is invisible from the exterior \nand is detected by pressing on the suspected area with a firm \nobject, such as a pinhead or pencil point. A painful neuroma \nat an amputation site should be resected so that its end can \nbe well protected by a pad of subcutaneous fat and skin. A \nneuroma can regenerate but is not painful if sufficiently \nprotected.\nDÉJÉRINE-SOTTAS DISEASE\nDéjérine-Sottas disease, a rare lesion, is a localized enlarge­\nment of a peripheral nerve caused by hypertrophic interstitial \nneuropathy. It usually is present as a tender mass at the wrist \nand sometimes is quite painful. Surgical exploration reveals \nenlargement of the median nerve (Fig. 77-33). It cannot be \nexcised without resecting the nerve, which definitely should \nnot be done. Dividing the transverse carpal ligament may \nhelp to relieve pain and occasionally has decreased the size \nof the nerve distally. The swelling occasionally subsides spon­\ntaneously after surgery. The lesion sometimes is associated \nwith macrodactyly (see Chapter 79). The same clinical picture \nhas been caused by infiltration of the nerve by various fatty \ntumors.\nFOREIGN BODY GRANULOMA\nThe granulomatous reaction to a bit of centralized foreign \nmaterial is commonly surrounded by a firm, fibrous capsule. \nThe diagnosis of a foreign body granuloma is easily estab­\nlished with an accurate history. Removal of the foreign body \nis curative.\nGOUT\nSome patients with advanced gout have such large deposits \nof urate crystals within the ligaments, tendons, tendon \nsheaths, and metaphysis, causing erosion of the diaphysis, \nthat the resultant bone destruction may resemble a lytic \ntumor on radiographs (Fig. 77-32). Usually, soft-tissue swell­\ning and other findings quickly establish the diagnosis. Clini­\ncally, the lesion can be easily confused with an infection \nbecause increased heat, swelling, and tenderness are present.\nTRAUMATIC NEUROMA\nTraumatic neuromas result from an attempt by peripheral \nnerves to regenerate after their fibers have been interrupted. \nThe tumor is a bundle of all the nerve elements in one tangled \nmass at the distal end of the proximal nerve segment. Because \nthis attempted growth occurs to some degree in all individu­\nals, it is not considered a true neoplasm. It can be extremely \nFIGURE 77-28\t\nA, Epidermoid inclusion cyst after puncture wound to index finger. B, Radiograph shows soft-tissue mass and bony \nerosion. C, Excision of cyst. \nC\nB\nA"
+}

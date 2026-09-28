@@ -1,1 +1,72 @@
-{"tech_id": "73-19", "name_en": "Interphalangeal Soft-Tissue Reconstruction", "name_vi": "Hàn Khớp Bàn Ngón Cái (Thumb MCP Arthrodesis) Điều Trị Biến Dạng Khớp Thoái Hóa", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4101, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn Khớp Bàn Ngón Cái (Thumb MCP Arthrodesis) Điều Trị Biến Dạng Khớp Thoái Hóa (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Interphalangeal Soft-Tissue Reconstruction: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Hàn Khớp Bàn Ngón Cái)", "detail": "Determine the passive correctability of metacarpophalan­ geal flexion.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make either a straight or a curved incision over the dorsum of the metacarpophalangeal joint, and retract skin flaps, avoiding injury to cutaneous nerves.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Identify the extensor pollicis brevis and longus tendons, which may be displaced medially, and make an incision between them.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Hàn Khớp Bàn Ngón Cái)", "detail": "Incise along each side of the extensor pollicis longus to free it of its intrinsic muscle attachment.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Hàn Khớp Bàn Ngón Cái)", "detail": "Transect the extensor pollicis longus over the distal third of the proximal phalanx.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-19",
+  "name_en": "Interphalangeal Soft-Tissue Reconstruction",
+  "name_vi": "Hàn Khớp Bàn Ngón Cái (Thumb MCP Arthrodesis) Điều Trị Biến Dạng Khớp Thoái Hóa",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4101,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn Khớp Bàn Ngón Cái (Thumb MCP Arthrodesis) Điều Trị Biến Dạng Khớp Thoái Hóa (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Interphalangeal Soft-Tissue Reconstruction (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Determine the passive correctability of metacarpophalan­ geal flexion.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Make either a straight or a curved incision over the dorsum of the metacarpophalangeal joint, and retract skin flaps, avoiding injury to cutaneous nerves.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Identify the extensor pollicis brevis and longus tendons, which may be displaced medially, and make an incision between them.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Incise along each side of the extensor pollicis longus to free it of its intrinsic muscle attachment.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Transect the extensor pollicis longus over the distal third of the proximal phalanx.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Dissect and release the extensor pollicis brevis from the base of the proximal phalanx and detach it from the extensor mechanism.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-19.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-19.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-33 Reconstruction of metacarpophalangeal joint of thumb in rheumatoid arthritis. A, Metacarpophalangeal joint of thumb with extensive tendon damage. After rupture of insertion of extensor pollicis brevis tendon proximal retraction, the exte",
+      "width": 1055,
+      "height": 834
+    },
+    {
+      "url": "web/static/images/techniques/73-19_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-34 A and B, Type I thumb, fixed finger metacarpophalangeal joint subluxations with degenerative changes and ulnar translocation of the wrist with a relatively preserved midcarpal joint. C and D, Appearance after radioscapholunate fusion, me",
+      "width": 925,
+      "height": 908
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "Soft-tissue reconstructions are effective for mild, easily \ncorrectable rheumatoid metacarpophalangeal joint deformi­\nties without significant radiographic changes. Metacarpopha­\nlangeal synovectomy and extensor tendon reconstruction \nusually restore metacarpophalangeal joint extension. Nale­\nbuff and Inglis et al. described effective procedures for \nimproving function in the rheumatoid thumb. In patients \nwith long-standing posttraumatic ulnar collateral ligament \nlaxity or ligament laxity related to osteoarthritis, ulnar col­\nlateral ligament reconstruction may be required to stabilize \n■ Determine the passive correctability of metacarpophalan­\ngeal flexion.\n■ Make either a straight or a curved incision over the \ndorsum of the metacarpophalangeal joint, and retract \nskin flaps, avoiding injury to cutaneous nerves.\n■ Identify the extensor pollicis brevis and longus tendons, \nwhich may be displaced medially, and make an incision \nbetween them.\n■ Incise along each side of the extensor pollicis longus to \nfree it of its intrinsic muscle attachment.\n■ Transect the extensor pollicis longus over the distal third \nof the proximal phalanx.\n■ Dissect and release the extensor pollicis brevis from the \nbase of the proximal phalanx and detach it from the \nextensor mechanism.\n■ Make a transverse incision in the capsule and mobilize a \nflap of capsule based distally at its attachment to the base \nof the proximal phalanx.\n■ Make a transverse slit incision in the base of the \ncapsule to allow passage of the extensor pollicis \nlongus.\n■ Remove the synovium from the joint with a rongeur and \ncuret.\n■ Pass \nthe \nextensor \npollicis \nlongus \nthrough \nthe \ntransverse slit incision in the capsule and reflect it over \nitself.\n■ Hold the joint in full extension and suture the extensor \npollicis longus tendon to itself under tension.\n■ Apply traction to the extensor pollicis brevis distally and \nsuture it into the side of the extensor pollicis longus.\n■ Ensure that the intrinsic tendon insertions into the \nextensor mechanism are properly positioned to maintain \nactive extension of the distal phalanx and that the \nintrinsic \ntendons \ndo \nnot \nsubluxate \ntoward \nthe \npalm.\n■ Tighten the transverse fibers of the extensor tendons over \nthe dorsal aspect of the distal phalanx if needed. Insert a \nKirschner wire across the metacarpophalangeal joint to \nmaintain it in extension.\n■ Apply a splint to maintain interphalangeal extension."
+}

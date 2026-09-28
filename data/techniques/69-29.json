@@ -1,1 +1,72 @@
-{"tech_id": "69-29", "name_en": "Open Repair of Class 1C Injury (Culp, Osterman, and Kaufmann, Modified)", "name_vi": "Tái Tạo Dây Chằng Khớp Quay Trụ Dưới (DRUJ) Bằng Gân Tự Thân Theo Adams-Berger", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3924, "author": "Culp, Osterman, and Kaufmann, Modified", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Dây Chằng Khớp Quay Trụ Dưới (DRUJ) Bằng Gân Tự Thân Theo Adams-Berger (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Open Repair of Class 1C Injury (Culp, Osterman, and Kaufmann, Modified): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Pass a nylon or wire suture loop through the second needle.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Position the first needle so that the suture can be captured by the loop in the second needle.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Remove the needles, retrieve the suture ends, and tie the ends over the capsule, creating a horizontal mattress suture through the ligament and out through the capsule.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tái Tạo Dây Chằng Khớp Quay Trụ Dưới)", "detail": "If a class 1B lesion is present, or if there is dorsoulnar laxity, secure the triangular fibrocartilage to the dorsoul- nar capsule as described for class 1B injuries.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Đường rạch da & Bộc lộ phẫu trường", "detail": "For large defects, use an open technique; approach the ulnocarpal joint from the volar side, imbricate the ulno- carpal ligaments, and augment with a distally based strip of flexor carpi ulnaris secured to the dorsum of the ulnocarpal capsule.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-29",
+  "name_en": "Open Repair of Class 1C Injury (Culp, Osterman, and Kaufmann, Modified)",
+  "name_vi": "Tái Tạo Dây Chằng Khớp Quay Trụ Dưới (DRUJ) Bằng Gân Tự Thân Theo Adams-Berger",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3924,
+  "author": "Culp, Osterman, and Kaufmann, Modified",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Dây Chằng Khớp Quay Trụ Dưới (DRUJ) Bằng Gân Tự Thân Theo Adams-Berger (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Open Repair of Class 1C Injury (Culp, Osterman, and Kaufmann, Modified) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Pass a nylon or wire suture loop through the second needle.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Position the first needle so that the suture can be captured by the loop in the second needle.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Remove the needles, retrieve the suture ends, and tie the ends over the capsule, creating a horizontal mattress suture through the ligament and out through the capsule.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "If a class 1B lesion is present, or if there is dorsoulnar laxity, secure the triangular fibrocartilage to the dorsoul- nar capsule as described for class 1B injuries.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "For large defects, use an open technique; approach the ulnocarpal joint from the volar side, imbricate the ulno- carpal ligaments, and augment with a distally based strip of flexor carpi ulnaris secured to the dorsum of the ulnocarpal capsule.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Close the wound and apply an above-elbow cast.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-29.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-29.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-61 Arthroscopic repair of class 1D injury of triangular fibrocartilage complex. A, Edge of sigmoid notch is abraded with motorized burr. B, Holes are drilled through radius with Kirschner wire. C, Sutures are placed into triangular fibrocar",
+      "width": 931,
+      "height": 740
+    },
+    {
+      "url": "web/static/images/techniques/69-29_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-61 Arthroscopic repair of class 1D injury of triangular fibrocartilage complex. A, Edge of sigmoid notch is abraded with motorized burr. B, Holes are drilled through radius with Kirschner wire. C, Sutures are placed into triangular fibrocar",
+      "width": 570,
+      "height": 502
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "OPEN REPAIR OF CLASS 1C INJURY\nClass 1C lesions represent disruptions of the ulnocarpal \nligaments in the substance of the ligaments or from the \ndistal lunate and triquetral insertions. Associated injuries \ninclude lunotriquetral and class 1B tears. Class 1C injuries \ncan be difficult to diagnose, may heal satisfactorily, and \nusually are treated without surgery unless significant \ninstability develops. Carpal supination with a “sagging” of \nthe ulnar side of the carpus is a helpful sign of instability.\n\nCHAPTER 69  WRIST DISORDERS\n3531\n■ Pass a nylon or wire suture loop through the second \nneedle.\n■ Position the first needle so that the suture can be captured \nby the loop in the second needle.\n■ Remove the needles, retrieve the suture ends, and tie the \nends over the capsule, creating a horizontal mattress \nsuture through the ligament and out through the capsule.\n■ If a class 1B lesion is present, or if there is dorsoulnar \nlaxity, secure the triangular fibrocartilage to the dorsoul-\nnar capsule as described for class 1B injuries.\n■ For large defects, use an open technique; approach the \nulnocarpal joint from the volar side, imbricate the ulno-\ncarpal ligaments, and augment with a distally based strip \nof flexor carpi ulnaris secured to the dorsum of the \nulnocarpal capsule.\n■ Close the wound and apply an above-elbow cast."
+}

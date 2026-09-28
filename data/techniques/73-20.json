@@ -1,1 +1,66 @@
-{"tech_id": "73-20", "name_en": "Metacarpophalangeal Synovectomy with Extensor Tendon Reconstruction", "name_vi": "Hàn Khớp Liên Đốt Ngón Cái (Thumb IP Arthrodesis) Bằng Vít Không Đầu", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4101, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn Khớp Liên Đốt Ngón Cái (Thumb IP Arthrodesis) Bằng Vít Không Đầu (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Metacarpophalangeal Synovectomy with Extensor Tendon Reconstruction: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "After rupture of insertion of extensor pollicis brevis tendon proximal retraction, the extensor hood becomes attenuated and allows the abductor pollicis brevis and extensor pollicis longus to migrate volarward below center of rotation of metacarpophalangeal joint.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "B, Extensor pollicis brevis and adductor pollicis insertions are dissected free from remaining attenuated exten­ sor tendon hood.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "When extensor pollicis brevis cannot be advanced, the extensor indicis proprius can be transferred from index finger and inserted into base of proximal phalanx.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-20",
+  "name_en": "Metacarpophalangeal Synovectomy with Extensor Tendon Reconstruction",
+  "name_vi": "Hàn Khớp Liên Đốt Ngón Cái (Thumb IP Arthrodesis) Bằng Vít Không Đầu",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4101,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn Khớp Liên Đốt Ngón Cái (Thumb IP Arthrodesis) Bằng Vít Không Đầu (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Metacarpophalangeal Synovectomy with Extensor Tendon Reconstruction (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Metacarpophalangeal Synovectomy with Extensor Tendon Reconstruction, phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Metacarpophalangeal Synovectomy with Extensor Tendon Reconstruction (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Metacarpophalangeal Synovectomy with Extensor Tendon Reconstruction theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-20.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-20.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-33 Reconstruction of metacarpophalangeal joint of thumb in rheumatoid arthritis. A, Metacarpophalangeal joint of thumb with extensive tendon damage. After rupture of insertion of extensor pollicis brevis tendon proximal retraction, the exte",
+      "width": 1055,
+      "height": 834
+    },
+    {
+      "url": "web/static/images/techniques/73-20_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-34 A and B, Type I thumb, fixed finger metacarpophalangeal joint subluxations with degenerative changes and ulnar translocation of the wrist with a relatively preserved midcarpal joint. C and D, Appearance after radioscapholunate fusion, me",
+      "width": 925,
+      "height": 908
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": "the joint if there is no significant radiographic joint \ndestruction.\nMETACARPOPHALANGEAL \nSYNOVECTOMY WITH EXTENSOR \nTENDON RECONSTRUCTION\n\nPART XVIII  THE HAND\n3690\nFIGURE 73-33\t\nReconstruction of metacarpophalangeal joint of thumb in rheumatoid arthritis. A, Metacarpophalangeal joint of \nthumb with extensive tendon damage. After rupture of insertion of extensor pollicis brevis tendon proximal retraction, the extensor hood \nbecomes attenuated and allows the abductor pollicis brevis and extensor pollicis longus to migrate volarward below center of rotation of \nmetacarpophalangeal joint. B, Extensor pollicis brevis and adductor pollicis insertions are dissected free from remaining attenuated exten­\nsor tendon hood. C, Synovectomy is facilitated by joint flexion. Collateral ligaments are preserved. D, Attachment of extensor pollicis brevis \ntendon into base of proximal phalanx. When extensor pollicis brevis cannot be advanced, the extensor indicis proprius can be transferred \nfrom index finger and inserted into base of proximal phalanx. (Redrawn from Inglis AE, Hamlin C, Sengelmann RP, et al: Reconstruction of the \nmetacarpophalangeal joint of the thumb in rheumatoid arthritis, J Bone Joint Surg 54A:704, 1972.) SEE"
+}

@@ -1,1 +1,72 @@
-{"tech_id": "73-21", "name_en": "Thumb Metacarpophalangeal Joint Reconstruction for Rheumatoid Arthritis (Inglis et al.)", "name_vi": "Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang (Trapeziectomy Đơn Thuần)", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4102, "author": "Inglis et al.", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang (Trapeziectomy Đơn Thuần) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Thumb Metacarpophalangeal Joint Reconstruction for Rheumatoid Arthritis (Inglis et al.): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang)", "detail": "Split the extensor hood longitudinally between the exten­ sor pollicis longus and extensor pollicis brevis.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang)", "detail": "Detach the abductor pollicis brevis from the extensor hood on the radial side and the adductor pollicis from the ulnar side (Fig. 73-33B).", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Retract the remaining tendon structures laterally to expose the capsule and the synovium.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang)", "detail": "Preserve the collateral ligaments, but excise all the synovium within the joint (Fig. 73-33C); this may be facili­ tated by flexing the joint.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 5, "title": "Thì 5: Thao tác can thiệp kỹ thuật (Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang)", "detail": "Attach the extensor pollicis brevis (or extensor indicis proprius if indicated) to the proximal phalanx base dorsally.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-21",
+  "name_en": "Thumb Metacarpophalangeal Joint Reconstruction for Rheumatoid Arthritis (Inglis et al.)",
+  "name_vi": "Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang (Trapeziectomy Đơn Thuần)",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4102,
+  "author": "Inglis et al.",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Khớp Thang Bàn 1 Bằng Cắt Toàn Bộ Xương Thang (Trapeziectomy Đơn Thuần) (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường mổ Wagner bộc lộ khớp bàn - thang (1st CMC Joint): Đường rạch cong chữ L hoặc J theo bờ ngoài xương bàn ngón I và nếp gấp mô cái, bộc lộ bao khớp thang - bàn và bảo vệ nhánh cảm giác nông thần kinh quay (SBRN).",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Split the extensor hood longitudinally between the exten­ sor pollicis longus and extensor pollicis brevis.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Detach the abductor pollicis brevis from the extensor hood on the radial side and the adductor pollicis from the ulnar side (Fig. 73-33B).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Retract the remaining tendon structures laterally to expose the capsule and the synovium.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Preserve the collateral ligaments, but excise all the synovium within the joint (Fig. 73-33C); this may be facili­ tated by flexing the joint.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Attach the extensor pollicis brevis (or extensor indicis proprius if indicated) to the proximal phalanx base dorsally.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Attach the extensor pollicis brevis with sufficient tension to maintain extension of the metacarpophalangeal joint, THUMB METACARPOPHALANGEAL JOINT RECONSTRUCTION FOR RHEUMATOID ARTHRITIS (INGLIS ET AL.)",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-21.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-21.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-33 Reconstruction of metacarpophalangeal joint of thumb in rheumatoid arthritis. A, Metacarpophalangeal joint of thumb with extensive tendon damage. After rupture of insertion of extensor pollicis brevis tendon proximal retraction, the exte",
+      "width": 1055,
+      "height": 834
+    },
+    {
+      "url": "web/static/images/techniques/73-21_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-34 A and B, Type I thumb, fixed finger metacarpophalangeal joint subluxations with degenerative changes and ulnar translocation of the wrist with a relatively preserved midcarpal joint. C and D, Appearance after radioscapholunate fusion, me",
+      "width": 925,
+      "height": 908
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ".\nB\nC\nD\nA\nAbductor pollicis\nbrevis\nExtensor pollicis\nbrevis\nAdductor pollicis \nAbductor pollicis brevis \nFirst metacarpal\nCollateral\nligaments\nProximal phalanx\nAdductor pollicis\nExtensor pollicis\nlongus\nExtensor\npollicis brevis\nAbductor pollicis\nbrevis\nExtensor\npollicis brevis\nAdductor pollicis\nProximal phalanx\nExtensor\npollicis longus\nHood\nExtensor\npollicis brevis\nExtensor\npollicis brevis\nAbductor\npollicis brevis\nAdductor\n   pollicis\nExtensor\npollicis longus\nFlexor\npollicis longus\nRight\nLeft\n■ Split the extensor hood longitudinally between the exten­\nsor pollicis longus and extensor pollicis brevis.\n■ Detach the abductor pollicis brevis from the extensor \nhood on the radial side and the adductor pollicis from the \nulnar side (Fig. 73-33B).\n■ Retract the remaining tendon structures laterally to \nexpose the capsule and the synovium.\n■ Preserve the collateral ligaments, but excise all the \nsynovium within the joint (Fig. 73-33C); this may be facili­\ntated by flexing the joint.\n■ Attach the extensor pollicis brevis (or extensor indicis \nproprius if indicated) to the proximal phalanx base \ndorsally.\n■ Attach the extensor pollicis brevis with sufficient tension \nto maintain extension of the metacarpophalangeal joint, \nTHUMB METACARPOPHALANGEAL \nJOINT RECONSTRUCTION FOR \nRHEUMATOID ARTHRITIS\n(INGLIS ET AL.)\n■ Make a longitudinal incision over the dorsum of the \nmetacarpophalangeal joint from the middle of the proxi­\nmal phalanx to the midshaft of the first metacarpal.\n■ Observe the extensor pollicis brevis to determine if it has \nbecome detached from the proximal phalangeal bone \nand retracted proximally (Fig. 73-33A)."
+}

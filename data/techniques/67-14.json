@@ -9,29 +9,46 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Nắn Kín & Ghim Kim K-Wire Điều Trị Trật Khớp Bàn Ngón Bất Vững (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
   "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Percutaneous Pinning of Metacarpal Shaft Fracture: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Percutaneous Pinning of Metacarpal Shaft Fracture (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Vô cảm, chuẩn bị phẫu trường & Nắn chỉnh ổ gãy (Anesthesia & Reduction)",
-      "detail": "Use general or regional block anesthesia. Nắn chỉnh diện gãy xương bàn tay dưới màn tăng sáng C-arm để phục hồi trục thẳng và chiều dài giải phẫu.",
-      "action": "Nắn chỉnh kín diện gãy thẳng trục trước khi ghim kim cố định."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Use general or regional block anesthesia.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Xác định mốc cuống xương bàn dưới C-arm (Fluoroscopic Localization)",
-      "detail": "Use a fluoroscopic image to find the middle of the metacarpal base proximally and dorsally and mark the area with a skin pen (Fig. 67-39A).",
-      "action": "Đánh dấu chính xác vị trí vào kim ở nền xương bàn tay."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Use a fluoroscopic image to find the middle of the meta- carpal base proximally and dorsally and mark the area with a skin pen (Fig. 67-39A).",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Rạch da nhỏ & Ghim kim K-wire cố định (Incision & Pinning)",
-      "detail": "Make a 0.5-cm longitudinal incision beginning 1.0 to 1.5 cm proximal to this mark. Tách mô dưới da bảo vệ gân duỗi và nhánh cảm giác thần kinh quay/trụ. Ghim kim Kirschner xuôi dòng hoặc ngược dòng qua ổ gãy dưới C-arm, uốn cong và cắt ngắn đầu kim, băng vô trùng và nẹp bột cẳng bàn tay.",
-      "action": "Kim K-wire xuyên chắc vào vỏ xương đối diện, không cản trở cử động gân duỗi."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Make a 0.5-cm longitudinal incision beginning 1.0 to 1.5 cm proximal to this mark.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
   "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/67-14.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-14.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-35 Dorsal surgical approach to dislocated metacar­ pophalangeal joint. Volar plate caught over dorsal area of metacarpal head is incised longitudinally, and reduction is easily",
+      "width": 514,
+      "height": 701
+    },
+    {
+      "url": "web/static/images/techniques/67-14_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-36 A to C, Fifth metacarpal neck fracture with 80-degree apex dorsal angulation and rotational deformity. D to F, After reduction to acceptable angulation, single pin was used to allow buddy taping to ring finger to ensure correct rotationa",
+      "width": 1118,
+      "height": 1255
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "Oblique metacarpal shaft fractures that are twice the length \nof the shaft diameter can be treated with interfragmentary \nscrew fixation (see Fig. 67-7). The advantages of such fixation \ninclude less periosteal stripping and reduced hardware \nprominence. Fracture site protection is advised for 6 weeks. \nRadiographic evidence of healing usually is lacking because \nof the anatomic fracture reduction.\nShort oblique or transverse fractures with unacceptable \nangulation or displacement can be stabilized with plate-and-\nscrew fixation or aligned by intramedullary fixation using a \n0.062-inch Kirschner wire (Fig. 67-38). Image intensification \nis required for correctly establishing the entry portal in the \nmiddle of the metacarpal base and for ensuring that the wire \ncrosses the fracture and enters the distal canal.\nPERCUTANEOUS PINNING OF A \nMETACARPAL SHAFT FRACTURE\n■ Use general or regional block anesthesia.\n■ Use a fluoroscopic image to find the middle of the meta-\ncarpal base proximally and dorsally and mark the area \nwith a skin pen (Fig. 67-39A).\n■ Make a 0.5-cm longitudinal incision beginning 1.0 to \n1.5 cm proximal to this mark."
 }

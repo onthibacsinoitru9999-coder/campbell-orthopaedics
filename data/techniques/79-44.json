@@ -1,1 +1,72 @@
-{"tech_id": "79-44", "name_en": "Group 2 Clasped Thumb Deformity", "name_vi": "Ghép Đốt Ngón Chân Nuôi Ngón Tay Ngắn (Free Toe-Phalanx Transplantation)", "chapter": 79, "category": "Hand & Wrist", "pdf_page": 4322, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Đốt Ngón Chân Nuôi Ngón Tay Ngắn (Free Toe-Phalanx Transplantation) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.", "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Group 2 Clasped Thumb Deformity: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "If the extensor pollicis longus is absent or severely defi- cient, choose either the flexor digitorum sublimis to the ring finger or the brachioradialis, with a palmaris longus tendon graft for the donor muscle.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "If the flexor digitorum sublimis is selected, make a trans- verse incision at the base of the ring finger on the palmar aspect and release the sublimis tendon just proximal to the Camper chiasm.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make a short longitudinal incision over the palmar aspect of the wrist proximal to the flexion crease and identify the ring sublimis tendon (Fig. 79-75A).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Đường rạch da & Bộc lộ phẫu trường", "detail": "Deliver the sublimis tendon into this wound, reroute it subcutaneously around the radial border of the wrist deep to the abductor pollicis longus tendon, and suture it into the remnants of the extensor pollicis longus at the distal phalanx (Fig. 79-75B).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "If there is no distal tendon in which to suture the donor, create a periosteal flap to anchor the distal insertion of the tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.", "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.", "image_url": null, "images": []}
+{
+  "tech_id": "79-44",
+  "name_en": "Group 2 Clasped Thumb Deformity",
+  "name_vi": "Ghép Đốt Ngón Chân Nuôi Ngón Tay Ngắn (Free Toe-Phalanx Transplantation)",
+  "chapter": 79,
+  "category": "Hand & Wrist",
+  "pdf_page": 4322,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Ghép Đốt Ngón Chân Nuôi Ngón Tay Ngắn (Free Toe-Phalanx Transplantation) (Chương 79, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ có dị tật tim bẩm sinh hoặc bất thường đa cơ quan chưa ổn định; thiếu hụt nguồn cấp máu ngón tay riêng khi tách dính ngón hai bên cùng lúc.",
+  "patient_prep": "Gây mê toàn thân ở trẻ nhỏ. Garo cánh tay áp lực thấp (150-180 mmHg). Kính vi phẫu hiển vi và chỉ khâu hấp thu vi phẫu 6-0 / 7-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Group 2 Clasped Thumb Deformity (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "If the extensor pollicis longus is absent or severely defi- cient, choose either the flexor digitorum sublimis to the ring finger or the brachioradialis, with a palmaris longus tendon graft for the donor muscle.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "If the flexor digitorum sublimis is selected, make a trans- verse incision at the base of the ring finger on the palmar aspect and release the sublimis tendon just proximal to the Camper chiasm.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Make a short longitudinal incision over the palmar aspect of the wrist proximal to the flexion crease and identify the ring sublimis tendon (Fig. 79-75A).",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Deliver the sublimis tendon into this wound, reroute it subcutaneously around the radial border of the wrist deep to the abductor pollicis longus tendon, and suture it into the remnants of the extensor pollicis longus at the distal phalanx (Fig. 79-75B).",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "If there is no distal tendon in which to suture the donor, create a periosteal flap to anchor the distal insertion of the tendon.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Fix the thumb in extension with a Kirschner wire, close the incision in routine fashion, and apply a splint with the thumb in extension and abduction.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bó bột cẳng cánh bàn tay ôm khuỷu giữ cố định 3-4 tuần. Theo dõi sát tưới máu đầu chi sau mổ. Tái khám định kỳ theo dõi sự phát triển của xương khớp theo lứa tuổi.",
+  "pearls_pitfalls": "Bảo tồn tối đa các mạch máu nuôi ngón khi tách dính ngón hoặc cái hóa ngón; Không khâu căng da; Bổ sung ghép da toàn bộ vào các khoảng khuyết hổng.",
+  "image_url": "web/static/images/techniques/79-44.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/79-44.webp",
+      "type": "diagram",
+      "caption": "FIGURE 79-75 Littler technique for correction of congenital clasped thumb. A, Path of transferred tendon. B, Suture of trans­ ferred tendon. SEE TECHNIQUE 79-44.",
+      "width": 409,
+      "height": 507
+    },
+    {
+      "url": "web/static/images/techniques/79-44_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 79-75 Littler technique for correction of congenital clasped thumb. A, Path of transferred tendon. B, Suture of trans­ ferred tendon. SEE TECHNIQUE 79-44.",
+      "width": 685,
+      "height": 387
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "passing it through the osseous tunnel and suturing it back \nonto itself.\n■ If the extensor pollicis longus is absent or severely defi-\ncient, choose either the flexor digitorum sublimis to the \nring finger or the brachioradialis, with a palmaris longus \ntendon graft for the donor muscle.\n■ If the flexor digitorum sublimis is selected, make a trans-\nverse incision at the base of the ring finger on the palmar \naspect and release the sublimis tendon just proximal to \nthe Camper chiasm.\n■ Make a short longitudinal incision over the palmar aspect \nof the wrist proximal to the flexion crease and identify \nthe ring sublimis tendon (Fig. 79-75A).\n■ Deliver the sublimis tendon into this wound, reroute it \nsubcutaneously around the radial border of the wrist \ndeep to the abductor pollicis longus tendon, and suture \nit into the remnants of the extensor pollicis longus at the \ndistal phalanx (Fig. 79-75B).\n■ If there is no distal tendon in which to suture the donor, \ncreate a periosteal flap to anchor the distal insertion of \nthe tendon.\n■ Fix the thumb in extension with a Kirschner wire, close \nthe incision in routine fashion, and apply a splint with the \nthumb in extension and abduction."
+}

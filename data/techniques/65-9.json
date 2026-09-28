@@ -9,7 +9,7 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tạo Hình Vạt Da Lọc Bỏ Xương Từ Ngón Tay Hỏng (Filleted Finger Flap) (Chương 65, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Vùng nhận ghép da/vạt có ổ nhiễm trùng hoại tử tiến triển; tưới máu nền nhận kém; thiếu hụt tuần hoàn cung động mạch gan tay.",
   "patient_prep": "Nằm ngửa, tay trên bàn mổ thấu quang. Garo cánh tay có kiểm soát. Chuẩn bị dụng cụ bóc tách vạt và dao lấy da dermatome.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Applying a Filleted Graft: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Applying a Filleted Graft, 3345 Flexor and Extensor Tendon Injuries (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
@@ -32,6 +32,23 @@
   ],
   "postop_protocol": "Bất động nẹp bột có cửa sổ theo dõi vạt da. Giữ chi cao chống phù nề. Đánh giá màu sắc vạt và tưới máu mao mạch mỗi 2-4 giờ.",
   "pearls_pitfalls": "Tôn trọng tuyệt đối cuống mạch nuôi vạt; không khâu căng mép vạt; kiểm tra tuần hoàn bàng hệ Allen trước khi lấy vạt cẳng tay quay.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/65-9.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/65-9.webp",
+      "type": "diagram",
+      "caption": "FIGURE 65-36 Flexion contractures caused by linear scars (A) can be released by Z-plasties (B). A",
+      "width": 491,
+      "height": 417
+    },
+    {
+      "url": "web/static/images/techniques/65-9_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 65-37 Area scar (A) has been replaced by full-thickness skin graft (B) that is larger than scar. A",
+      "width": 1095,
+      "height": 550
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "PART XVIII  THE HAND\n3346\ninterphalangeal flexion contracture is possible if the fingers \nare held flexed too long.\nFor an area scar on the palm, similar skin cannot be used \nbecause it is found only on the sole of the foot (palmar skin \nwithstands friction and shock and is more sensitive than \ndorsal skin). If the scar is superficial, a split-thickness graft \ncan be used (see Chapter 63). If deep vulnerable structures \nare involved, a full-thickness graft is preferable (see Chapter \n63), although it is harder to handle, is less likely to survive, \nand must be limited in size by the fact that it leaves a defect \nin the donor area that must be closed by suture after its edges \nare undermined.\nFor an insensitive large area scar on the radial side of an \notherwise normal index finger or on the area of pinch of the \nthumb, a neurovascular island graft may be indicated (see \nChapter 63). When a graft is applied to the hand, the rules \nthat guide the location and direction of hand incisions (see \nChapter 64) must be followed carefully because the graft heals \nto the normal skin with a linear scar (Fig. 65-38).\nbut a scar more than 2 mm wide on the volar surface is dif­\nficult to correct in this way because the skin here is less \nmobile than that on the dorsal surface. In some instances, the \nscar must be replaced by a full-thickness free graft (see Tech­\nnique 65-2), a cross finger flap (see"
 }

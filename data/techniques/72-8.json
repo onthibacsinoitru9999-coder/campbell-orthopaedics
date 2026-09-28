@@ -1,1 +1,54 @@
-{"tech_id": "72-8", "name_en": "Carpectomy (Omer and Capen)", "name_vi": "Giải Phóng Ngón Cái Kẹt Trong Gan Tay (Thumb-in-Palm Deformity Release)", "chapter": 72, "category": "Hand & Wrist", "pdf_page": 4060, "author": "Omer and Capen", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Giải Phóng Ngón Cái Kẹt Trong Gan Tay (Thumb-in-Palm Deformity Release) (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Carpectomy (Omer and Capen): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Make an incision bordering the thenar crease in the palm, but avoid damaging the recurrent branch of the median nerve or the innervation of the adductor pollicis.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Retract the long flexors of the fingers and strip from the third metacarpal the origin of the adductor pollicis.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Cut from the deep transverse carpal ligament about two thirds of the origin of the abductor pollicis brevis and all of the origins of the flexor pollicis brevis and opponens pollicis (Fig. 72-12).", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}], "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.", "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.", "image_url": null, "images": []}
+{
+  "tech_id": "72-8",
+  "name_en": "Carpectomy (Omer and Capen)",
+  "name_vi": "Giải Phóng Ngón Cái Kẹt Trong Gan Tay (Thumb-in-Palm Deformity Release)",
+  "chapter": 72,
+  "category": "Hand & Wrist",
+  "pdf_page": 4060,
+  "author": "Omer and Capen",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Giải Phóng Ngón Cái Kẹt Trong Gan Tay (Thumb-in-Palm Deformity Release) (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Make an incision bordering the thenar crease in the palm, but avoid damaging the recurrent branch of the median nerve or the innervation of the adductor pollicis.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Retract the long flexors of the fingers and strip from the third metacarpal the origin of the adductor pollicis.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Cut from the deep transverse carpal ligament about two thirds of the origin of the abductor pollicis brevis and all of the origins of the flexor pollicis brevis and opponens pollicis (Fig. 72-12).",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.",
+  "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.",
+  "image_url": "web/static/images/techniques/72-8.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/72-8.webp",
+      "type": "diagram",
+      "caption": "FIGURE 72-11 Adducted thumb position in cerebral palsy is result of forces exerted by powerful muscles. First dorsal",
+      "width": 267,
+      "height": 543
+    },
+    {
+      "url": "web/static/images/techniques/72-8_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 72-12 Myotomies of intrinsic muscles of thumb for thumb-in-palm deformity. SEE TECHNIQUE 72-9. Adductor",
+      "width": 398,
+      "height": 598
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "FIGURE 72-11\t\nAdducted thumb position in cerebral palsy is \nresult of forces exerted by powerful muscles. \nFirst dorsal\ninterosseous\nAdductor pollicis\nFlexor pollicis\nlongus\nFlexor pollicis\nbrevis\nAbductor pollicis\nbrevis\n\nCHAPTER 72  CEREBRAL PALSY OF THE HAND\n3651\nSmith proposed transfer of the flexor pollicis longus \ntendon to the radial side of the thumb combined with teno­\ndesis of the distal joint. He recommended the operation for \npatients who have some use of the affected hand, in addition \nto passive extension of the metacarpophalangeal joint and \nabduction of the carpometacarpal joint with the wrist in \nflexion.\nIf the extensor pollicis longus contributes to the thumb \ndeformity, it may be rerouted from the Lister tubercle as \nrecommended by Manske in 1985. Significant improvement \nin functional activities was noted in 90% of his patients \ntreated with this technique.\nthe deformity. Currently, a dynamic approach is used in the \nsurgical correction of this deformity, as described by House \net al. This involves release of contractures, augmentation of \nweak muscles, and skeletal stabilization (Table 72-6), espe­\ncially of the metacarpophalangeal joint when necessary. A \nmyotomy of the adductor pollicis may be done through a \npalmar incision as described by Matev in 1963 or through a \nZ-plasty incision placed in the first web if a skin contracture \nis present. Preoperative electromyography of the adductor \npollicis has been found to be useful in determining whether \na partial or complete release of this muscle was necessary. If \nthe adductor is active during grasp, the patients are said to \nhave selective control, and release of the transverse head of \nthe muscle only should be considered because pinch may be \nweak if complete myotomy is performed. Release of the origin \nof the first dorsal interosseous muscle also may be required. \nIn long-standing type II deformities, the origin of the adduc­\ntor and the flexor pollicis brevis may require release, as \ndescribed by Matev. In type IV deformities, the flexor pollicis \nlongus may require lengthening proximal to the wrist. Aug­\nmentation of a weak abductor pollicis longus may be neces­\nsary. The most common muscles used for this augmentation \nare the palmaris longus, the brachioradialis, and the flexor \ncarpi radialis. Fusion of the thumb metacarpophalangeal \njoint is especially useful if a hyperextension deformity of that \njoint is present. Arthrodesis may be performed without \ndamage to the physis if only articular cartilage is removed, \nand a smooth Kirschner wire is used for fixation. Alterna­\ntively, if instability of the thumb metacarpophalangeal exten­\nsion is present, a sesamoid metacarpal synostosis may be used \nas described by Zancolli et al. In this procedure, the radial \nsesamoid with the volar plate is advanced proximally and \nfused to the thumb metacarpal neck.\nClassification of Thumb Deformity\nTYPE OF \nDEFORMITY\nDEFORMING \nFORCES\nTHUMB POSITION\n1—intrinsic\nAdductor pollicis\nFirst dorsal \ninterosseous\nFlexor pollicis \nbrevis\nMetacarpal \nadduction\nMCP joint flexion\nIP joint extension\n2—extrinsic\nFlexor pollicis \nlongus\nMCP joint flexion\nIP joint flexion\nMetacarpal \nadduction less \nmarked\n3—combined\nAdductor pollicis\nFirst dorsal \ninterosseous\nFlexor pollicis \nbrevis\nFlexor pollicis \nlongus\nMetacarpal \nadduction\nMCP joint flexion\nIP joint flexion \n(true “thumb-\nin-palm” \ndeformity)\nIP, Interphalangeal; MCP, metacarpophalangeal.\nTABLE 72-5 \nFrom Tonkin MA, Hatrick NC, Eckersley JRT, et al: Surgery for cerebral palsy, part \n3: classification and operative procedures for thumb deformity, J Hand Surg \n26B:465, 2001.\nSurgical Options\nSurgical options for \nreleases or lengthening \nof contracted or spastic \nmuscles\nAdductor release in palm\nAdductor tenotomy\nFirst interosseous release\nFlexor pollicis brevis (thenar) \nrelease\nFPL lengthening\nThumb web z-plasty w/fascial \nrelease\nSurgical options for \ntendon transfers\nEPL rerouting\nTo augment abductor pollicis \nlongus, E"
+}

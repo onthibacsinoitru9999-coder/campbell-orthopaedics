@@ -1,1 +1,60 @@
-{"tech_id": "69-24", "name_en": "Radial Shortening", "name_vi": "Cắt Lọc Rách Trung Tâm Sụn Tam Giác TFCC Qua Nội Soi (Palmer 1A)", "chapter": 69, "category": "Hand & Wrist", "pdf_page": 3918, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Lọc Rách Trung Tâm Sụn Tam Giác TFCC Qua Nội Soi (Palmer 1A) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.", "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Radial Shortening: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Cắt Lọc Rách Trung Tâm Sụn Tam Giác TFCC Qua Nội Soi)", "detail": "Obtain C-arm fluoroscopic images to check radioulnar length.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Fix the radius with a compression plate technique, deflate the tourniquet, obtain satisfactory hemostasis, and drain the wound if needed.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Đường rạch da & Bộc lộ phẫu trường", "detail": "Replace the pronator quadratus over the plate and close the subcutaneous tissues and skin, leaving the forearm fascia open to minimize the chances of compartment syndrome.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 4, "title": "Thì 4: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Immobilize the forearm in a sugar-tong splint.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.", "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.", "image_url": null, "images": []}
+{
+  "tech_id": "69-24",
+  "name_en": "Radial Shortening",
+  "name_vi": "Cắt Lọc Rách Trung Tâm Sụn Tam Giác TFCC Qua Nội Soi (Palmer 1A)",
+  "chapter": 69,
+  "category": "Hand & Wrist",
+  "pdf_page": 3918,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Lọc Rách Trung Tâm Sụn Tam Giác TFCC Qua Nội Soi (Palmer 1A) (Chương 69, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Thoái hóa khớp cổ tay lan tỏa giai đoạn muộn (SLAC/SNAC stage 3-4 không chỉ định tái tạo dây chằng thuyền nguyệt đơn thuần); nhiễm trùng khớp cổ tay tiến triển.",
+  "patient_prep": "Nằm ngửa, tay trên bàn thấu quang. Garo hơi cánh tay 200-250 mmHg. Bộ dụng cụ mổ cổ tay chuyên biệt, vít nén ép không đầu Herbert/Acutrak, hệ thống nội soi khớp cổ tay 2.7mm.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Radial Shortening (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Obtain C-arm fluoroscopic images to check radioulnar length.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Fix the radius with a compression plate technique, deflate the tourniquet, obtain satisfactory hemostasis, and drain the wound if needed.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Replace the pronator quadratus over the plate and close the subcutaneous tissues and skin, leaving the forearm fascia open to minimize the chances of compartment syndrome.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Immobilize the forearm in a sugar-tong splint.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột có kiểm soát: khâu TFCC nẹp ôm khuỷu chống sấp ngửa 4 tuần; hàn khớp cổ tay nẹp 8-12 tuần cho đến khi liền xương vững trên X-quang; bắt vít xương thuyền nẹp 4-6 tuần.",
+  "pearls_pitfalls": "Hiểu rõ cơ sinh học phức hợp của khối xương cổ tay (DISI, VISI, SLAC, SNAC); Phục hồi chiều dài giải phẫu và độ vững của khớp quay trụ dưới (DRUJ); Ghép xương xốp dồi dào khi hàn khớp.",
+  "image_url": "web/static/images/techniques/69-24.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/69-24.webp",
+      "type": "diagram",
+      "caption": "FIGURE 69-57 Pedicled vascularized bone graft of Kienböck disease. A, Anterior interosseous artery is ligated proximal to fourth and fifth extensor compartment arteries, and graft is elevated. After verifying blood flow, graft is shaped to fit dorsal",
+      "width": 763,
+      "height": 453
+    },
+    {
+      "url": "web/static/images/techniques/69-24_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 69-57 Pedicled vascularized bone graft of Kienböck disease. A, Anterior interosseous artery is ligated proximal to fourth and fifth extensor compartment arteries, and graft is elevated. After verifying blood flow, graft is shaped to fit dorsal",
+      "width": 570,
+      "height": 608
+    }
+  ],
+  "danger_zones": "Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "RADIAL SHORTENING\n\nCHAPTER 69  WRIST DISORDERS\n3525\napplied to the distal radiocarpal and ulnocarpal joints are \ndistributed about 80% to the distal radius and 20% to the \nulna.\nDIAGNOSIS AND TREATMENT\nWhen evaluating patients with painful wrists, it is important \nto try to localize the anatomic source of pain. History, physical \nexamination, radiography, arthrography, and, in the case of \nthe DRUJ, CT are especially helpful. To assess radioulnar \nvariance, a “neutral position” plain posteroanterior view is \nobtained with the shoulder abducted 90 degrees, the elbow \nflexed 90 degrees, the wrist in neutral flexion-extension and \nradioulnar deviation, and the forearm and hand flat on the \ncassette. A satisfactory lateral projection is obtained with the \narm by the side, the elbow flexed 90 degrees, and the wrist in \na neutral position. Arthrographic findings of TFCC perfora­\ntion do not correlate with clinical findings. Patients with \nnormal wrist radiographs, normal arthrogram, and inconclu­\nsive physical findings tend to do well without further invasive \ntreatment. CT may clarify fractures of the sigmoid notch and \nis helpful in assessing DRUJ instability. Bone scanning pro­\nvides minimal information about the DRUJ. Improvements \nin imaging techniques have increased the usefulness of MRI \nin the evaluation of the DRUJ, especially tears of the TFCC. \nArthroscopy allows accurate diagnosis of readily seen lesions \nsuch as lesions in the central portion of the fibrocartilaginous \ndisc and carpal bone osteocartilaginous lesions. Some periph­\neral ligament and cartilage damage may be more difficult to \nshow. In some patients, although pain complaints may persist, \nconservative management usually is best until a clear indica­\ntion for invasive treatment is established.\nDRUJ conditions have been categorized as acute and \nchronic problems. Acute conditions include fractures of the \nulnar head, styloid, radius, and carpal bones and dislocations \nor subluxations involving the DRUJ, carpal bones, and the \nTFCC and extensor carpi ulnaris subluxation. Chronic condi­\ntions include bony nonunions and malunions and incongrui­\nties of the wrist joint, including subluxation and dislocation \nof the DRUJ, the ulnocarpal region, the various carpal bones, \nand the TFCC, and localized arthritis of the pisotriquetral, \nlunotriquetral, and radioulnar joints and extensor carpi \nulnaris subluxation related to arthritis. Procedures helpful in \nmanaging these problems include arthroscopic debridement \nand repair, limited ulnar head excision, ulnar shortening, and \nulnar pseudarthrosis with distal radioulnar arthrodesis and \ndistal ulnar excision (Darrach).\nLESIONS OF THE TRIANGULAR \nFIBROCARTILAGE COMPLEX, INCLUDING \nTRAUMATIC DISTAL RADIOULNAR JOINT \nINSTABILITY\nPHYSICAL EXAMINATION\nPatients with a TFCC injury usually report a fall or some \nother trauma to the wrist that resulted in ulnar-sided wrist \npain and mechanical symptoms (e.g., clicking) that improve \nwith rest and worsen with activity, as well as weakness of \ngrasp. High-demand athletes, such as tennis players or gym­\nnasts, also are at risk of TFCC injuries. Physical examination \nmay find painful grinding or clicking of the wrist with a range \nof motion. Ulnar deviation of the wrist with the forearm in \nneutral produces ulnar wrist pain and occasional clicking. A \npainful click may be elicited by having the patient clench and \n■ Obtain C-arm fluoroscopic images to check radioulnar \nlength.\n■ Fix the radius with a compression plate technique, deflate \nthe tourniquet, obtain satisfactory hemostasis, and drain \nthe wound if needed.\n■ Replace the pronator quadratus over the plate and close \nthe subcutaneous tissues and skin, leaving the forearm \nfascia open to minimize the chances of compartment \nsyndrome.\n■ Immobilize the forearm in a sugar-tong splint."
+}

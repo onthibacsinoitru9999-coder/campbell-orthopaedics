@@ -9,41 +9,64 @@
   "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Mổ Mở Nắn Chỉnh Trật Khớp Cổ Bàn Ngón Tay (CMC Dislocation) (Chương 67, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
   "contraindications": "Nhiễm trùng phần mềm cấp tính; loãng xương quá nặng không giữ được ốc vít; gãy rạn vững không di lệch (ưu tiên bó bột bảo tồn).",
   "patient_prep": "Nằm ngửa, tay đặt bàn mổ tay thấu quang. Garo cánh tay 200 mmHg. Máy C-arm mini sẵn sàng. Bộ nẹp vít vi phẫu 1.5mm - 2.0mm và kim K-wire 1.0mm - 1.6mm.",
-  "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Proximal Interphalangeal Joint Capsulotomy (Curtis): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Proximal Interphalangeal Joint Capsulotomy (Curtis) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
   "surgical_steps": [
     {
       "step": 1,
-      "title": "Thì 1: Đường rạch da bờ bên & Giải phóng co rút da mặt mu (Incision & Skin Release)",
-      "detail": "Make a midlateral or dorsal curved incision over the proximal interphalangeal joint. Bộc lộ và giải phóng co rút da trên mặt mu ngón tay (Contracture of skin on the dorsum of the finger).",
-      "action": "Giải phóng mô sẹo dưới da mặt mu ngón tay."
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Contracture of skin on the dorsum of the finger",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 2,
-      "title": "Thì 2: Phẫu tích giải phóng gân duỗi dài dính (Extensor Tendon Adhesiolysis)",
-      "detail": "Phẫu tích bộc lộ dải giữa gân duỗi và dải bên. Giải phóng tình trạng co rút gân duỗi dài hoặc gân dính vào xương (Contracture of long extensor muscle or adherence of tendon).",
-      "action": "Tách dính gân duỗi cho phép gân trượt tự do trên bao khớp."
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Contracture of long extensor muscle or adherence of tendon",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 3,
-      "title": "Thì 3: Giải phóng cơ liên cốt & Dải bên (Interosseous Release)",
-      "detail": "Bộc lộ và phẫu tích giải phóng co rút cơ liên cốt hoặc sự dính gân cơ liên cốt (Contracture of interosseous muscle or adherence of tendon).",
-      "action": "Giải phóng dải bên di động tự do quanh trục xoay khớp ngón."
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Contracture of interosseous muscle or adherence of tendon",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 4,
-      "title": "Thì 4: Cắt bao khớp & Dây chằng bên (Collateral Ligament & Capsulotomy)",
-      "detail": "Cắt giải phóng dây chằng bên và bao khớp (Contracture of capsular ligament, especially the collateral ligament). Cắt rời chỗ bám dây chằng bên khỏi lồi cầu đốt gần.",
-      "action": "Giải phóng bao khớp bên cho đến khi khớp gập được hoàn toàn 90°."
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Contracture of capsular ligament, especially the collat­ eral ligament",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
     },
     {
       "step": 5,
-      "title": "Thì 5: Cắt bỏ chồi xương, kiểm tra biên độ & Đóng vết mổ (Excision of Bony Block, ROM & Closure)",
-      "detail": "Lấy bỏ các chồi xương cản trở (Bony block or exostosis). Vận động thụ động kiểm tra khớp PIP đạt biên độ gập duỗi tối đa. Cầm máu, khâu da mũi rời, nẹp bột duỗi ngón và bắt đầu tập PHCN chủ động sớm.",
-      "action": "Đảm bảo biên độ khớp PIP phục hồi hoàn toàn trước khi đóng da."
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Bony block or exostosis Extension may be blocked by the following conditions:",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Scarring of skin on the volar surface of the digit",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
     }
   ],
   "postop_protocol": "Nẹp bột cố định 4-6 tuần cho đến khi có can xương liền trên X-quang. Với kết hợp xương vững bằng nẹp vít, tập vận động khớp ngón tay nhẹ nhàng từ tuần thứ 2-3.",
   "pearls_pitfalls": "Khử hoàn toàn di lệch xoay ở xương bàn và xương ngón (kiểm tra hướng móng tay khi gập các ngón cùng hướng về củ xương thuyền); Không để ốc vít xuyên quá dài vào khoang gân gấp.",
-  "image_url": null,
-  "images": []
+  "image_url": "web/static/images/techniques/67-29.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/67-29.webp",
+      "type": "diagram",
+      "caption": "FIGURE 67-78 A-E, Curtis technique for capsulotomy of proximal interphalangeal joint. (Redrawn from Curtis RM: Management of the stiff hand. In The practice of hand surgery, Oxford, Blackwell, 1981.) SEE TECHNIQUE 67-29. Extensor",
+      "width": 1199,
+      "height": 621
+    },
+    {
+      "url": "web/static/images/techniques/67-29_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 67-79 A-C, Technique of Watson et al. for capsulotomy of proximal interphalangeal joint. (Redrawn from Watson JK, Light TR, Johnson TR: Checkrein resection for flexion contracture of the middle joint, J Hand Surg 4A:67, 1979.) SEE TECHNIQUE 67",
+      "width": 1057,
+      "height": 304
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu.",
+  "extracted_text": "■ Contracture of skin on the dorsum of the finger\n■ Contracture of long extensor muscle or adherence of \ntendon\n■ Contracture of interosseous muscle or adherence of \ntendon\n■ Contracture of capsular ligament, especially the collat­\neral ligament\n■ Bony block or exostosis\nExtension \nmay \nbe \nblocked \nby \nthe \nfollowing \nconditions:\n■ Scarring of skin on the volar surface of the digit\n■ Contracture of the superficial fascia in the digit\n■ Contracture of the flexor tendon sheath within the digit\n■ Contracture of flexor muscle or adherence of tendon\n■ Contracture of the volar plate of the capsular \nligament\n■ Adherence of the collateral ligament with the finger in \nthe flexed position\n■ Bony block or exostosis\nThese causes all must be considered and, except for \nthose involving the collateral ligaments, carefully eliminated \nbefore capsulotomy. Ideally, capsulotomy is performed with \nthe patient awake and sedated so that he or she can move \nthe fingers and the surgeon can observe any improvement \nin motion during surgery. In this instance, proper sedation \nand a regional block at the wrist or a more distal level are \nused. Moreover, when a proximal interphalangeal joint is \nstiff and volar structures are concomitantly suspected of \nlimiting motion either actively (such as flexor tendon adhe­\nsions or otherwise) or passively, the surgery should be \nstaged such that the passive flexion is achieved first before \nproceeding to the second-stage flexor surface procedure(s).\n\nCHAPTER 67  FRACTURES, DISLOCATIONS, AND LIGAMENTOUS INJURIES\n3459\nFIGURE 67-78\t\nA-E, Curtis technique for capsulotomy of proximal interphalangeal joint. (Redrawn from Curtis RM: Management of the \nstiff hand. In The practice of hand surgery, Oxford, Blackwell, 1981.) SEE"
 }

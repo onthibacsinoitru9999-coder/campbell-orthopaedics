@@ -1,1 +1,66 @@
-{"tech_id": "70-3", "name_en": "Full-Thickness Excision", "name_vi": "Phẫu thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay (Focal Hand Dystonia)", "chapter": 70, "category": "Hand & Wrist", "pdf_page": 3986, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay (Focal Hand Dystonia) (Chương 70, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Bệnh nhân có tình trạng shock bỏng hoặc nhiễm độc cấp chưa ổn định huyết động; hoại tử mô rộng không còn nguồn tưới máu nuôi chi.", "patient_prep": "Nằm ngửa, tay đặt bàn mổ. Chuẩn bị dao điện, bộ dụng cụ cắt lọc mô mềm và hệ thống ghép da.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Full-Thickness Excision: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn", "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay (Chương 70). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.", "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."}, {"step": 2, "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương", "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.", "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."}, {"step": 3, "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)", "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.", "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."}, {"step": 4, "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động", "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.", "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."}, {"step": 5, "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng", "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.", "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."}], "postop_protocol": "Chăm sóc vết thương bỏng vô trùng, nẹp giữ ở tư thế chống co rút (Safe position) liên tục, tập vận động phục hồi chức năng sớm nhất có thể.", "pearls_pitfalls": "Đường rạch mở vảy bỏng escharotomy phải đi qua bờ bên để tránh bó mạch thần kinh ngón tay; Ghép da dày toàn bộ vào các nếp gấp chống co rút sẹo thứ phát.", "image_url": null, "images": []}
+{
+  "tech_id": "70-3",
+  "name_en": "Full-Thickness Excision",
+  "name_vi": "Phẫu thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay (Focal Hand Dystonia)",
+  "chapter": 70,
+  "category": "Hand & Wrist",
+  "pdf_page": 3986,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay (Focal Hand Dystonia) (Chương 70, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Bệnh nhân có tình trạng shock bỏng hoặc nhiễm độc cấp chưa ổn định huyết động; hoại tử mô rộng không còn nguồn tưới máu nuôi chi.",
+  "patient_prep": "Nằm ngửa, tay đặt bàn mổ. Chuẩn bị dao điện, bộ dụng cụ cắt lọc mô mềm và hệ thống ghép da.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Full-Thickness Excision, 3582 Paralytic Hand (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Đường mổ, bộc lộ phẫu trường & Xác định mốc giải phẫu an toàn",
+      "detail": "Rạch da theo các mốc giải phẫu chuẩn của phẫu thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay (Chương 70). Tách mô dưới da bằng phẫu tích cùn, tôn trọng các nếp gấp da sinh lý để chống co rút sẹo.",
+      "action": "Đảm bảo đường mổ đủ rộng để kiểm soát phẫu trường và không làm tổn thương nhánh thần kinh nông."
+    },
+    {
+      "step": 2,
+      "title": "Phẫu tích mô mềm, bảo tồn bó mạch thần kinh & Bộc lộ tổn thương",
+      "detail": "Bộc lộ sâu qua mạc nông. Xác định rõ ranh giới tổn thương bệnh lý của kỹ thuật Điều Trị Loạn Trương Lực Cơ Khu Trú Bàn Tay. Đặt vòng cao su bảo vệ các nhánh thần kinh (thần kinh giữa, thần kinh trụ, nhánh nông thần kinh quay) và động mạch nuôi dưỡng.",
+      "action": "Bảo tồn tuyệt đối các bó mạch thần kinh lân cận phẫu trường."
+    },
+    {
+      "step": 3,
+      "title": "Thực hiện can thiệp chính (Nắn chỉnh / Cố định / Khâu gân / Chuyển vạt)",
+      "detail": "Tiến hành thủ thuật chuyên khoa theo đúng mô tả Campbell 13th Ed: nắn chỉnh diện khớp giải phẫu, cố định vững nẹp vít/kim K-wire, khâu gân lõi chịu lực hoặc chuyển vạt tạo hình.",
+      "action": "Đạt được độ vững chắc sinh học cơ học tức thì và bảo tồn tối đa nguồn cấp máu nuôi dưỡng."
+    },
+    {
+      "step": 4,
+      "title": "Kiểm tra phục hồi giải phẫu, cơ sinh học & Tầm vận động",
+      "detail": "Kiểm tra dưới màn tăng sáng C-arm (nếu can thiệp xương khớp) hoặc đánh giá độ trượt của gân khi gập duỗi thụ động cổ bàn tay (hiệu ứng tenodesis). Đảm bảo không có chèn ép hoặc cọ xát cơ học.",
+      "action": "Xác nhận diện khớp phẳng khít, trục thẳng giải phẫu và biên độ vận động tự do."
+    },
+    {
+      "step": 5,
+      "title": "Cầm máu tỉ mỉ, đóng vết mổ theo lớp & Bất động nẹp bột cơ năng",
+      "detail": "Xả garo hơi cánh tay, đánh giá tưới máu mao mạch các búp ngón tay hồng ấm trở lại trong 2 giây. Cầm máu tỉ mỉ bằng dao điện lưỡng cực. Khâu da mũi rời bằng chỉ nylon 5-0 không tiêu. Băng vô trùng và nẹp bột tư thế an toàn James.",
+      "action": "Tránh tụ máu dưới vạt da và bất động chi ở đúng tư thế bảo vệ cơ năng."
+    }
+  ],
+  "postop_protocol": "Chăm sóc vết thương bỏng vô trùng, nẹp giữ ở tư thế chống co rút (Safe position) liên tục, tập vận động phục hồi chức năng sớm nhất có thể.",
+  "pearls_pitfalls": "Đường rạch mở vảy bỏng escharotomy phải đi qua bờ bên để tránh bó mạch thần kinh ngón tay; Ghép da dày toàn bộ vào các nếp gấp chống co rút sẹo thứ phát.",
+  "image_url": "web/static/images/techniques/70-3.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/70-3.webp",
+      "type": "diagram",
+      "caption": "FIGURE 70-8 Electrical contact. Various damaging forces involved in high-energy electrical shock. With voltages greater than 1000 volts, electrical contact (arc mediated) precedes",
+      "width": 562,
+      "height": 561
+    },
+    {
+      "url": "web/static/images/techniques/70-3_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 70-9 A, Electrical burn contracture of first webspace. B, After release and resurfacing with a free lateral arm flap. (From Fufa DT, Chuang SS, Yang JY: Postburn contractures of the hand, J Hand Surg Am 39:1869, 2014.) A",
+      "width": 831,
+      "height": 569
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao.",
+  "extracted_text": "FULL-THICKNESS EXCISION\nFull-thickness excision involves excision of the entire layer \nof necrotic tissue superficial to the dorsal veins and exten­\nsor tenosynovium dorsally and superficial to the flexor \ntenosynovium and digital neurovascular bundles on the \npalmar surface.\n\nCHAPTER 70  SPECIAL HAND DISORDERS\n3583\nEvaluation of circulation includes examination of skin color \nand warmth, palpation of peripheral pulses, and flow assess­\nment with a Doppler probe. Skin burns may be the result of \ncontact, flame, flash, or electrical arcing, or all of these may \nbe factors. Contact burns have a central charred area sur­\nrounded by erythema. Flash and flame burns are thermal \ninjuries, having the appearance of other thermal burns. \nArcing burns usually are seen in the axilla, the antecubital \nfossa, and the distal forearm. There is no correlation between \nthe size of the skin injury and the actual extent of injury.\nMuscle injury is assessed clinically using the usual \nmethods of palpation and evaluation of active motion and \nmeasurement of tissue compartment pressures. Extensive \nmuscle damage may be undetectable in a clinical examina­\ntion, and myoglobinuria may be a clue as to the extent of \nmuscle injury. Other techniques that have been studied \ninclude technetium-99m pyrophosphate scanning, arteriog­\nraphy, and a xenon-133 washout technique. Deep injury also \nmay be shown with gadolinium-enhanced MRI.\nPatients with relatively minor electrical injuries may not \nrequire surgical treatment. For the management of more \nsevere electrical injuries of the upper extremity, two methods \nare advocated. One method is immediate escharotomy, fasci­\notomy, and debridement of necrotic tissue, followed by repeat \ndebridement until the wound is suitable for closure with skin \ngrafts, remote flaps, or free tissue transfer. Decompression of \nperipheral nerves, including the median nerve at the carpal \ntunnel, is included in this initial procedure. Because tissue \nnecrosis may not be clearly detectable for 24 to 48 hours after \nELECTRICAL BURNS\nElectrical burns frequently involve the upper extremity. The \ndominant hand frequently is injured, and 50% of these inju­\nries result in amputation. Tissue damage can result from a \ncombination of thermal, electrical, and metabolic cellular \nfactors. The extent of injury is determined by the character­\nistics of the injuring current, including the voltage, amperage, \nand resistance of the tissues; the duration of contact with \nthe current; and the patient’s susceptibility to it (Fig. 70-8). \nAlthough the skin damage caused by electrical injury may be \nthe most impressive presenting finding, significant deep \ninjury may be present as determined by the route the electri­\ncal current takes through the body. Electrical injuries may \ninvolve the central and peripheral nervous systems, the car­\ndiopulmonary and peripheral vasculature, the musculoskel­\netal system, the kidneys, and the skin. Initial management is \ndirected at resuscitation. Appropriate diagnostic measures \ninclude radiographs of potential fractures and dislocations; \nelectrocardiogram; and serum chemistries to assess electro­\nlytes and liver, renal, cardiac, and skeletal muscle injury. \nUrine myoglobin levels and arterial blood gases are measured \nas well. The extent of injury to all systems should be evalu­\nated, ensuring satisfactory hydration and urinary output, \nbecause patients with electrical burns may require more fluid \nresuscitation than might be calculated based on the injury to \nthe total body surface area. Urinary output of 50 to 100 mL/\nhr is preferable. Recognizing, stabilizing, and reversing the \neffects of cardiac injury and the nephrotoxic effects of myo­\nglobinuria and hemoglobinuria also are important. Because \nof the potential for hemorrhage from damaged vessels, a \ntourniquet should be kept near the patient’s bedside.\nIn electrical burns of the hand and upper extremity, the \ninitial evaluation should include a thorough exami"
+}

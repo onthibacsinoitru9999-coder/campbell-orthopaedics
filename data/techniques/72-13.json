@@ -1,1 +1,66 @@
-{"tech_id": "72-13", "name_en": "Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis)", "name_vi": "Hàn Cứng Khớp Bàn Ngón Cái Ở Bệnh Nhân Bại Não Có Biến Dạng Lỏng Khớp", "chapter": 72, "category": "Hand & Wrist", "pdf_page": 4066, "author": "Curtis", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn Cứng Khớp Bàn Ngón Cái Ở Bệnh Nhân Bại Não Có Biến Dạng Lỏng Khớp (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "B, One half of flexor digitorum sublimis tendon has been divided at bifurcation of tendon.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Hole has been drilled in proximal phalanx.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "C, Freed half of tendon has been carried deep to flexor digitorum profundus tendon to opposite side of proximal phalanx, threaded through hole in bone, and anchored with pull-out suture under enough tension to cause slight flexion contracture of proximal interphalangeal joint.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.", "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.", "image_url": null, "images": []}
+{
+  "tech_id": "72-13",
+  "name_en": "Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis)",
+  "name_vi": "Hàn Cứng Khớp Bàn Ngón Cái Ở Bệnh Nhân Bại Não Có Biến Dạng Lỏng Khớp",
+  "chapter": 72,
+  "category": "Hand & Wrist",
+  "pdf_page": 4066,
+  "author": "Curtis",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Hàn Cứng Khớp Bàn Ngón Cái Ở Bệnh Nhân Bại Não Có Biến Dạng Lỏng Khớp (Chương 72, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Trẻ em có nhận thức hành vi quá kém không thể hợp tác tập luyện sau mổ; co cứng biến động kiểu múa vờn loạn trương lực (Athetosis/Dystonia); co rút khớp thụ động không thể kéo thẳng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 180-200 mmHg. Bộ dụng cụ kéo dài gân và chuyển gân vi phẫu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Rạch da & Bộc lộ phẫu trường",
+      "detail": "Rạch da theo đường mổ chuẩn cho Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis), phẫu tích bộc lộ lớp dưới da nhẹ nhàng, cầm máu tỉ mỉ bằng dao điện lưỡng cực.",
+      "action": "Bộc lộ rõ phẫu trường, bảo tồn tối đa mạng lưới thần kinh mạch máu mô cái/mô út/bờ ngón tay."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu đích",
+      "detail": "Nhận diện chính xác cấu trúc giải phẫu đích cần can thiệp trong Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis) (gân, dây chằng, xương hoặc mạch máu thần kinh). Phẫu tích giải phóng mô xơ sẹo quanh tổn thương.",
+      "action": "Bảo vệ các cấu trúc lân cận, tuân thủ nguyên tắc vi phẫu bàn tay Campbell."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Thao tác kỹ thuật ngoại khoa cốt lõi",
+      "detail": "Thực hiện các thao tác chuyên sâu của Sublimis Tenodesis of the Proximal Interphalangeal Joint (Curtis) theo mô tả nguyên bản trong Campbell 13th Ed: nắn chỉnh, kết hợp xương vững chắc, chuyển gân hoặc khâu phục hồi dây chằng.",
+      "action": "Cân chỉnh chính xác hướng đi, trục giải phẫu và độ vững cơ học."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Kiểm tra vận động, cân chỉnh lực căng & Cầm máu",
+      "detail": "Kiểm tra biên độ vận động thụ động (Tenodesis test) và độ vững của mối khâu / kết hợp xương dưới màn tăng sáng hoặc trực tiếp. Xả garo và cầm máu triệt để.",
+      "action": "Đảm bảo tưới máu đầu chi hồng ấm, mao mạch hồi phục < 2 giây."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đóng vết mổ & Bất động sau mổ",
+      "detail": "Khâu đóng mép da không căng bằng chỉ monofilament 4-0/5-0. Băng vô trùng và đặt nẹp bột bất động ở tư thế bảo tồn chức năng hoặc bảo vệ mối khâu gân/dây chằng.",
+      "action": "Bất động vững chắc theo đúng giao thức phục hồi chức năng bàn tay Campbell."
+    }
+  ],
+  "postop_protocol": "Nẹp bất động định hình tư thế trong 3-4 tuần. Kết hợp tập luyện phục hồi chức năng hành vi và tiêm độc tố Botulinum toxin duy trì nếu cần.",
+  "pearls_pitfalls": "Tránh can thiệp quá mức (overcorrection) biến bàn tay co cứng gập thành bàn tay duỗi quá mức mất lực; Ưu tiên bảo tồn chức năng mở bàn tay nhả đồ vật và gọng kìm ngón cái.",
+  "image_url": "web/static/images/techniques/72-13.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/72-13.webp",
+      "type": "diagram",
+      "caption": "FIGURE 72-16 A to E, Manske technique for redirecting extensor pollicis longus tendon to correct thumb-in-palm deformity. SEE TECHNIQUE 72-12. a swan-neck deformity greater than 20 degrees should be",
+      "width": 1012,
+      "height": 1000
+    },
+    {
+      "url": "web/static/images/techniques/72-13_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 72-17 Curtis technique for correcting recurrent hyperextension and locking of proximal interphalangeal joint. A, Palmar view of flexor tendons. B, One half of flexor digitorum",
+      "width": 591,
+      "height": 498
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao.",
+  "extracted_text": "CHAPTER 72  CEREBRAL PALSY OF THE HAND\n3657\nFIGURE 72-17\t\nCurtis technique for correcting recurrent \nhyperextension and locking of proximal interphalangeal joint. \nA, Palmar view of flexor tendons. B, One half of flexor digitorum \nsublimis tendon has been divided at bifurcation of tendon. Hole \nhas been drilled in proximal phalanx. C, Freed half of tendon has \nbeen carried deep to flexor digitorum profundus tendon to \nopposite side of proximal phalanx, threaded through hole in \nbone, and anchored with pull-out suture under enough tension \nto cause slight flexion contracture of proximal interphalangeal \njoint. SEE"
+}

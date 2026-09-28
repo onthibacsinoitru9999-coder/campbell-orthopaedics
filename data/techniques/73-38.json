@@ -1,1 +1,72 @@
-{"tech_id": "73-38", "name_en": "Arthrodesis of the Wrist (Millender and Nalebuff)", "name_vi": "Bóc Tách Mô Mềm & Giải Phóng Co Rút Khoang Kẽ Ngón Cái Sau Viêm Khớp Dạng Thấp", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4128, "author": "Millender and Nalebuff", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Bóc Tách Mô Mềm & Giải Phóng Co Rút Khoang Kẽ Ngón Cái Sau Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Arthrodesis of the Wrist (Millender and Nalebuff): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Thao tác can thiệp kỹ thuật (Bóc Tách Mô Mềm & Giải Phóng Co Rút Khoang Kẽ Ngón Cái Sau Viêm Khớp Dạng Thấp)", "detail": "Curet away the remaining cartilage and remove the scle­ rotic bone from the carpus and radius down to cancellous bone. Varying amounts of bone may require resection for reduction of a dislocated wrist.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Drill a Steinmann pin of appropriate size into the carpus and out distally between the second and third metacar­ pals. Then drill it proximally into the medullary canal of the radius and cut off its end beneath the skin.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Thao tác can thiệp kỹ thuật (Bóc Tách Mô Mềm & Giải Phóng Co Rút Khoang Kẽ Ngón Cái Sau Viêm Khớp Dạng Thấp)", "detail": "As an alternative, resect the third metacarpal head for later insertion of a joint prosthesis.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Insert the Steinmann pin through the medullary canal of the third metacarpal, through the carpus, and finally into the radius, leaving sufficient room distally in the metacar­ pal to allow insertion of the proximal stem of a metacar­ pophalangeal prosthesis. This places the wrist in neutral position", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Kết hợp xương & Cố định cơ học vững chắc", "detail": "To avoid rotational deformities, drive a staple across the radiocarpal joint or insert an oblique Kirschner wire.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-38",
+  "name_en": "Arthrodesis of the Wrist (Millender and Nalebuff)",
+  "name_vi": "Bóc Tách Mô Mềm & Giải Phóng Co Rút Khoang Kẽ Ngón Cái Sau Viêm Khớp Dạng Thấp",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4128,
+  "author": "Millender and Nalebuff",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Bóc Tách Mô Mềm & Giải Phóng Co Rút Khoang Kẽ Ngón Cái Sau Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Arthrodesis of the Wrist (Millender and Nalebuff), 3716 Compartment Syndromes and Volkmann Contracture (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Curet away the remaining cartilage and remove the scle­ rotic bone from the carpus and radius down to cancellous bone. Varying amounts of bone may require resection for reduction of a dislocated wrist.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Drill a Steinmann pin of appropriate size into the carpus and out distally between the second and third metacar­ pals. Then drill it proximally into the medullary canal of the radius and cut off its end beneath the skin.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "As an alternative, resect the third metacarpal head for later insertion of a joint prosthesis.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Insert the Steinmann pin through the medullary canal of the third metacarpal, through the carpus, and finally into the radius, leaving sufficient room distally in the metacar­ pal to allow insertion of the proximal stem of a metacar­ pophalangeal prosthesis. This places the wrist in neutral position.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "To avoid rotational deformities, drive a staple across the radiocarpal joint or insert an oblique Kirschner wire.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Pack a small plug of polymethyl methacrylate or bone from the resected metacarpal head into the metacarpal shaft to prevent the Steinmann pin from shifting and protruding.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-38.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-38.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-52 A and B, Long-standing rheumatoid disease and symptomatic wrist arthritis. C and D, Two years after total wrist arthroplasty. (From Divelbiss BJ, Sollerman C, Adams BD: Original communications: early results of the universal total wrist ",
+      "width": 788,
+      "height": 1148
+    },
+    {
+      "url": "web/static/images/techniques/73-38_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-53 Radiolunate fusion. A half-slip of the extensor carpi ulnaris tendon (asterisk) is used to stabilize the distal ulnar stump. A Kirschner wire used to transfix the triquetrum, bone",
+      "width": 393,
+      "height": 659
+    }
+  ],
+  "danger_zones": "Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": "CHAPTER 73  ARTHRITIC HAND\n3717\nFIGURE 73-53\t\nRadiolunate fusion. A half-slip of the extensor \ncarpi ulnaris tendon (asterisk) is used to stabilize the distal ulnar \nstump. A Kirschner wire used to transfix the triquetrum, bone \ngraft, and radius is removed 6 weeks after surgery. (From Motomiya \nM, Iwasaki N, Minami A, et al: Clinical and radiological results of radio­\nlunate arthrodesis for rheumatoid arthritis: 22 wrists followed for an \naverage of 7 years, J Hand Surg 38A:1484, 2013.)\n*\nFIGURE 73-54\t\nA, Larsen grade III involvement in a 36-year-old woman improved to grade II immediately after radiolunate arthrod­\nesis (B). C, Approximately 8 years after surgery, there is continued good condition of the preserved joints. (From Motomiya M, Iwasaki N, \nMinami A, et al: Clinical and radiological results of radiolunate arthrodesis for rheumatoid arthritis: 22 wrists followed for an average of 7 years, \nJ Hand Surg 38A:1484, 2013.)\nA\nB\nC\n■ Curet away the remaining cartilage and remove the scle­\nrotic bone from the carpus and radius down to cancellous \nbone. Varying amounts of bone may require resection for \nreduction of a dislocated wrist.\n■ Drill a Steinmann pin of appropriate size into the carpus \nand out distally between the second and third metacar­\npals. Then drill it proximally into the medullary canal of \nthe radius and cut off its end beneath the skin.\n■ As an alternative, resect the third metacarpal head for \nlater insertion of a joint prosthesis.\n■ Insert the Steinmann pin through the medullary canal of \nthe third metacarpal, through the carpus, and finally into \nthe radius, leaving sufficient room distally in the metacar­\npal to allow insertion of the proximal stem of a metacar­\npophalangeal prosthesis. This places the wrist in neutral \nposition.\n■ To avoid rotational deformities, drive a staple across the \nradiocarpal joint or insert an oblique Kirschner wire.\n■ Pack a small plug of polymethyl methacrylate or bone \nfrom the resected metacarpal head into the metacarpal \nshaft to prevent the Steinmann pin from shifting and \nprotruding.\n■ Close the wound loosely to permit ample drainage.\n■ Proceed with any other operations necessary on the \ndigits."
+}

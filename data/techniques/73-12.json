@@ -1,1 +1,72 @@
-{"tech_id": "73-12", "name_en": "Synovectomy", "name_vi": "Cắt Bỏ Mỏm Trâm Trụ & Tái Tạo Bao Khớp Cổ Tay Trụ Trong Bệnh Viêm Khớp Dạng Thấp", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4095, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Mỏm Trâm Trụ & Tái Tạo Bao Khớp Cổ Tay Trụ Trong Bệnh Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Synovectomy: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "On one side of the finger (occasionally on both sides), make a midlateral incision (see Chapter 64) centered over the proximal interphalangeal joint, and on each side perform the following procedure. A curved dorsal incision centered over the proximal interphalangeal joint provides a more extensile ", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Thao tác can thiệp kỹ thuật (Cắt Bỏ Mỏm Trâm Trụ & Tái Tạo Bao Khớp Cổ Tay Trụ Trong Bệnh Viêm Khớp Dạng Thấp)", "detail": "Locate the transverse retinacular ligament, sever its attachment, and elevate the extensor hood.", "action": "Thực hiện chuẩn xác thao tác phẫu thuật theo chỉ dẫn giải phẫu của Campbell."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Under the hood, identify the collateral ligament. Enter the joint dorsal to this ligament and lateral to the central tendon, explore the joint, and excise as much synovium as possible.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Kết hợp xương & Cố định cơ học vững chắc", "detail": "Remove the synovium from the area behind the volar plate and the area inferior to the collateral liga­ ment, dividing, if necessary, the accessory collateral ligament.", "action": "Khoan nòng dẫn hướng chuẩn xác, kiểm tra độ ngậm ren của vít hoặc hướng đi của kim K-wire dưới C-arm."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Relocate the lateral tendon and transverse retinacular ligament.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-12",
+  "name_en": "Synovectomy",
+  "name_vi": "Cắt Bỏ Mỏm Trâm Trụ & Tái Tạo Bao Khớp Cổ Tay Trụ Trong Bệnh Viêm Khớp Dạng Thấp",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4095,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Cắt Bỏ Mỏm Trâm Trụ & Tái Tạo Bao Khớp Cổ Tay Trụ Trong Bệnh Viêm Khớp Dạng Thấp (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường mổ bên ngón (Midlateral incision): Rạch dọc bờ bên ngón tay ngay phía sau đường nối các nếp gấp gian đốt, phẫu tích sau dây chằng Cleland để bảo tồn bó mạch thần kinh ngón riêng ở phía trước vạt.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "On one side of the finger (occasionally on both sides), make a midlateral incision (see Chapter 64) centered over the proximal interphalangeal joint, and on each side perform the following procedure. A curved dorsal incision centered over the proximal interphalangeal joint provides a more extensile approach and is preferred, especially when extensor tendon rebalancing procedures are needed.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Locate the transverse retinacular ligament, sever its attachment, and elevate the extensor hood.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Under the hood, identify the collateral ligament. Enter the joint dorsal to this ligament and lateral to the central tendon, explore the joint, and excise as much synovium as possible.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Remove the synovium from the area behind the volar plate and the area inferior to the collateral liga­ ment, dividing, if necessary, the accessory collateral ligament.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Relocate the lateral tendon and transverse retinacular ligament.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Close the incisions. Apply a dressing and a short-arm volar splint.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-12.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-12.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-28 Extensor tendon rupture under extensor reti­ naculum. Repair can be accomplished by side-to-side repair to adjacent intact tendon.",
+      "width": 356,
+      "height": 538
+    },
+    {
+      "url": "web/static/images/techniques/73-12_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-29 Discontinuous, extensile incision used in extended approach. Similar incisions for ring and little fingers are made as needed. SEE TECHNIQUE 73-13. A",
+      "width": 953,
+      "height": 562
+    }
+  ],
+  "danger_zones": "Hệ thống mạch máu nuôi dưỡng đầu gân và màng hoạt dịch; Nhánh bì cảm giác thần kinh quay và trụ mu tay.",
+  "extracted_text": "■ On one side of the finger (occasionally on both sides), \nmake a midlateral incision (see Chapter 64) centered over \nthe proximal interphalangeal joint, and on each side \nperform the following procedure. A curved dorsal incision \ncentered over the proximal interphalangeal joint provides \na more extensile approach and is preferred, especially \nwhen extensor tendon rebalancing procedures are \nneeded.\n■ Locate the transverse retinacular ligament, sever its \nattachment, and elevate the extensor hood.\n■ Under the hood, identify the collateral ligament. Enter the \njoint dorsal to this ligament and lateral to the central \ntendon, explore the joint, and excise as much synovium \nas possible.\n■ Remove the synovium from the area behind the \nvolar plate and the area inferior to the collateral liga­\nment, dividing, if necessary, the accessory collateral \nligament.\n■ Relocate the lateral tendon and transverse retinacular \nligament.\n■ Close the incisions. Apply a dressing and a short-arm volar \nsplint."
+}

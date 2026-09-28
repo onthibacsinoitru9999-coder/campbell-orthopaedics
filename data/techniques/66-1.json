@@ -1,1 +1,100 @@
-{"tech_id": "66-1", "name_en": "Modified Kessler-Tajima Suture (Strickland, 1995)", "name_vi": "Kỹ thuật Khâu Gân Gấp Lõi Kessler Cải Biên & Tajima", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3737, "author": "Strickland, 1995", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Gân Gấp Lõi Kessler Cải Biên & Tajima (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Modified Kessler-Tajima Suture (Strickland, 1995): tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "A, Tajima core sutures in place.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "C, Mattress core suture added in palmar tendon gap.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "E, Comple­ tion of running-lock peripheral epitendinous suture.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-1.webp", "images": [{"url": "web/static/images/techniques/66-1.webp", "type": "diagram", "caption": "Sơ đồ các mũi khâu gân gấp lõi kinh điển: Kessler cải tiến, Tajima và Strickland 4 sợi"}]}
+{
+  "tech_id": "66-1",
+  "name_en": "Modified Kessler-Tajima Suture (Strickland, 1995)",
+  "name_vi": "Kỹ thuật Khâu Gân Gấp Lõi Kessler Cải Biên & Tajima",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3737,
+  "author": "Strickland, 1995",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Kỹ thuật Khâu Gân Gấp Lõi Kessler Cải Biên & Tajima (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Modified Kessler-Tajima Suture (Strickland, 1995) (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Chuẩn bị chỉ khâu lõi riêng cho từng đầu gân",
+      "detail": "Use separate sutures introduced into each tendon end.",
+      "action": "Dùng chỉ khâu lõi 3-0/4-0 riêng biệt luồn vào từng đầu gân bị đứt."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Luồn chỉ mặt gan tay & thoát ra cách mép đứt 5-10 mm",
+      "detail": "Introduce a suture into one cut surface of the tendon, staying along the volar portion of the tendon, and exit 5 to 10 mm from the cut edge.",
+      "action": "Kim đi dọc theo 1/3 gan tay của gân, thoát ra cách mép đứt 5-10 mm."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Bắt 25% đường kính gân & khóa mối chỉ bằng nút buộc",
+      "detail": "Grasp approximately 25% of the diameter of the tendon with passage of the needle and lock the suture on the side of the tendon with a knot.",
+      "action": "Bắt 25% mô gân và khóa mối chỉ ở bờ bên gân."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Luồn chỉ ngang mặt sau nút khóa & khóa mối thứ 2",
+      "detail": "Pass the suture transversely behind this locked knot across the tendon and onto the tendon surface and lock the suture again.",
+      "action": "Đưa chỉ đi ngang sau nút khóa sang bờ đối diện và khóa mũi thứ hai."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Đi chỉ vào lòng gân & thoát ra ở diện cắt",
+      "detail": "Pass the suture into the tendon behind the second knot and exit on the cut surface.",
+      "action": "Đi kim sâu vào thân gân sau nút khóa thứ hai và thoát ra tại diện cắt."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Lặp lại quy trình đối xứng trên đầu gân đối diện",
+      "detail": "Repeat this process on the opposite side of the cut tendon, locking the suture with each exit and maintaining the suture repair on the volar third of the cut surface of the tendon.",
+      "action": "Thao tác đối xứng trên đầu gân còn lại, đảm bảo các nút khóa nằm ở 1/3 gan tay."
+    },
+    {
+      "step": 7,
+      "title": "Thì 7: Thắt các nút chỉ lõi vùi sâu trong lòng gân",
+      "detail": "Tie the knots within the tendon.",
+      "action": "Thắt chặt nút chỉ lõi để vùi hoàn toàn trong lòng diện cắt gân."
+    },
+    {
+      "step": 8,
+      "title": "Thì 8: Khâu liên tục khóa biểu gân mặt mu bằng chỉ 5-0/6-0",
+      "detail": "Add a running-lock dorsal epitendinous suture of 5-0 or 6-0 nylon.",
+      "action": "Khâu vách sau biểu gân mặt mu bằng mũi vắt khóa liên tục (Running-lock epitendinous suture) chỉ nylon 5-0 hoặc 6-0."
+    },
+    {
+      "step": 9,
+      "title": "Thì 9: Bổ sung mũi đệm ngang gia cố lõi (Horizontal Mattress)",
+      "detail": "On completion of the back wall suture, add a horizontal mattress suture of 4-0 braided polyester to the core suture configuration.",
+      "action": "Bổ sung mũi đệm ngang chỉ bện 4-0 (Ethibond) làm tăng độ chịu lực mối khâu gân."
+    },
+    {
+      "step": 10,
+      "title": "Thì 10: Thắt toàn bộ các nút chỉ khâu lõi gia cố",
+      "detail": "Tie all knots of the core sutures.",
+      "action": "Thắt toàn bộ các mối chỉ lõi gân, cân chỉnh mép đứt khít sát không chồng mép."
+    },
+    {
+      "step": 11,
+      "title": "Thì 11: Hoàn tất khâu biểu gân mặt gan tay & nghiệm pháp Tenodesis",
+      "detail": "Complete the palmar (volar) running-lock peripheral epitendinous suture. Test tendon glide and passive tenodesis.",
+      "action": "Khâu kín biểu gân mặt gan tay trơn láng; kiểm tra độ trượt qua ròng rọc A2/A4."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-1.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-1.webp",
+      "type": "diagram",
+      "caption": "Sơ đồ các mũi khâu gân gấp lõi kinh điển: Kessler cải tiến, Tajima và Strickland 4 sợi"
+    },
+    {
+      "url": "web/static/images/techniques/66-1_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 66-13 A, Epitenon-first technique. After placement of running epitendinous suture, core suture is placed within tendon. B, Completion of epitenon-first suture. Final knot is buried within",
+      "width": 1047,
+      "height": 807
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "FIGURE 66-15\t\nSimplified four-strand repair in which basic \ntwo-strand core suture is supplemented by horizontal mattress \nsuture and running-lock stitch. A, Tajima core sutures in place. \nBack wall (dorsal) running-lock peripheral epitendinous stitch in \nprogress. B, Back wall suturing completed. C, Mattress core suture \nadded in palmar tendon gap. D, All core sutures tied. E, Comple­\ntion of running-lock peripheral epitendinous suture. F, Repair \ncompleted. SEE"
+}

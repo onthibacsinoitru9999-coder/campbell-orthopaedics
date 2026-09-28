@@ -1,1 +1,72 @@
-{"tech_id": "73-37", "name_en": "Volar Synovectomy", "name_vi": "Phẫu thuật Cắt Bỏ Mỏm Trâm Quay Điều Trị Chèn Ép Xương Thuyền Trong Thoái Hóa Khớp SNAC", "chapter": 73, "category": "Hand & Wrist", "pdf_page": 4125, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Bỏ Mỏm Trâm Quay Điều Trị Chèn Ép Xương Thuyền Trong Thoái Hóa Khớp SNAC (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.", "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Volar Synovectomy: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Open the deep fascia proximally and identify the median nerve. It is safer to stay on the ulnar side of the median, beginning proximally in the forearm and carefully freeing the nerve distally.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 2, "title": "Thì 2: Đường rạch da & Bộc lộ phẫu trường", "detail": "Divide completely the transverse carpal ligament to expose the flexor tendons; its distal border is more distal in the palm than is usually realized.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 3, "title": "Thì 3: Phẫu tích bảo vệ cấu trúc giải phẫu nguy cơ", "detail": "Beginning proximally and proceeding distally, and keeping constantly in mind the location of the median nerve, dissect the synovium from each flexor tendon. Evaluate the flexor tendons for ruptures and erosions.", "action": "Nhận diện và dùng vòng cao su bảo vệ bó mạch thần kinh, gạt nhẹ nhàng các cấu trúc quan trọng."}, {"step": 4, "title": "Thì 4: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Inspect the volar capsule and ligaments over the carpal bones for osteophytes, especially those from the distal radial rim and the scaphoid. Remove osteophytes with a rongeur and close the capsule-ligament layer over the carpal bones. Do not close the deep transverse carpal ligament.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}, {"step": 5, "title": "Thì 5: Cầm máu, đóng vết mổ & Bất động sau mổ", "detail": "Release the tourniquet, obtain hemostasis, insert a drain, and close the wound.", "action": "Tháo garo kiểm tra tưới máu đầu chi, cầm máu kỹ lưỡng, khâu da không căng và nẹp ở tư thế cơ năng."}], "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.", "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.", "image_url": null, "images": []}
+{
+  "tech_id": "73-37",
+  "name_en": "Volar Synovectomy",
+  "name_vi": "Phẫu thuật Cắt Bỏ Mỏm Trâm Quay Điều Trị Chèn Ép Xương Thuyền Trong Thoái Hóa Khớp SNAC",
+  "chapter": 73,
+  "category": "Hand & Wrist",
+  "pdf_page": 4125,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Phẫu thuật Cắt Bỏ Mỏm Trâm Quay Điều Trị Chèn Ép Xương Thuyền Trong Thoái Hóa Khớp SNAC (Chương 73, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng khớp cấp tính tiến triển; phá hủy toàn bộ hệ thống gân duỗi và mô mềm xung quanh không thể cân bằng lại khớp; loãng xương quá nặng.",
+  "patient_prep": "Nằm ngửa trên bàn thấu quang. Garo cánh tay 200 mmHg. Bộ dụng cụ thay khớp nhân tạo (silicone spacer/khớp bề mặt) hoặc vít nén ép titan không đầu.",
+  "surgical_approach": "Đường mổ ngực thuyền qua bao gân cơ gấp cổ tay quay (Volar Russe Approach): Rạch da dọc theo gân FCR qua nếp cổ tay, mở bao gân FCR, phẫu tích mặt sâu bộc lộ bao khớp quay thuyền mà không làm tổn thương nhánh bì gan tay thần kinh giữa.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Open the deep fascia proximally and identify the median nerve. It is safer to stay on the ulnar side of the median, beginning proximally in the forearm and carefully freeing the nerve distally.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Divide completely the transverse carpal ligament to expose the flexor tendons; its distal border is more distal in the palm than is usually realized.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "Beginning proximally and proceeding distally, and keeping constantly in mind the location of the median nerve, dissect the synovium from each flexor tendon. Evaluate the flexor tendons for ruptures and erosions.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "Inspect the volar capsule and ligaments over the carpal bones for osteophytes, especially those from the distal radial rim and the scaphoid. Remove osteophytes with a rongeur and close the capsule-ligament layer over the carpal bones. Do not close the deep transverse carpal ligament.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Release the tourniquet, obtain hemostasis, insert a drain, and close the wound.",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Apply a compression dressing and a volar plaster splint from the proximal forearm to the distal palmar crease.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Nẹp bột cố định có kiểm soát. Tập vận động sớm với nẹp động sau thay khớp silicon; nẹp tĩnh bất động vững chắc sau hàn khớp cho đến khi có can xương liền.",
+  "pearls_pitfalls": "Cân bằng lại hệ thống mô mềm và gân cơ là yếu tố sống còn để chống trôi lệch khớp nhân tạo; Hàn khớp ở đúng tư thế chức năng tối ưu mang lại bàn tay không đau và lực bóp vững chắc.",
+  "image_url": "web/static/images/techniques/73-37.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/73-37.webp",
+      "type": "diagram",
+      "caption": "FIGURE 73-48 A, Flexor surface, left hand and wrist with rheumatoid tenosynovium bulging to palmar and ulnar (medial) side of distal forearm. B, At flexor tenosynovectomy. Note extension of incision distally into palm and proximally into forearm. Exc",
+      "width": 1019,
+      "height": 550
+    },
+    {
+      "url": "web/static/images/techniques/73-37_xray.webp",
+      "type": "xray",
+      "caption": "FIGURE 73-49 A, Radiograph of wrist affected by severe rheumatoid arthritis with carpal collapse and radiocarpal disease. B, Film obtained after replacement of wrist joint with Swanson silicone implant and titanium grommets. (From Carlson JR, Simmons",
+      "width": 812,
+      "height": 574
+    }
+  ],
+  "danger_zones": "Nhánh vận động quặt ngược thần kinh giữa (Recurrent motor branch): Rất dễ tổn thương khi cắt dây chằng vòng cổ tay nếu có biến thể xuyên mạc hoặc phân nhánh cao. • Nhánh cảm giác nông thần kinh quay (SBRN / Wartenberg's nerve): Nguy cơ u thần kinh đau buốt (neuroma) rất cao nếu bị kéo căng hoặc phạm phải ở hõm lào giải phẫu. • Nhánh sâu vận động thần kinh trụ (Deep motor branch of ulnar nerve) và Cung động mạch gan tay sâu tại bờ ngoài xương đậu và móc xương móc.",
+  "extracted_text": ". \nB\nA\nwrist, and then curving slightly ulnarward, and ending \nabout 7.5 cm proximal to the wrist.\n■ Open the deep fascia proximally and identify the median \nnerve. It is safer to stay on the ulnar side of the median, \nbeginning proximally in the forearm and carefully freeing \nthe nerve distally.\n■ Divide completely the transverse carpal ligament to \nexpose the flexor tendons; its distal border is more distal \nin the palm than is usually realized.\n■ Beginning proximally and proceeding distally, and \nkeeping constantly in mind the location of the \nmedian nerve, dissect the synovium from each flexor \ntendon. Evaluate the flexor tendons for ruptures and \nerosions.\n■ Inspect the volar capsule and ligaments over the carpal \nbones for osteophytes, especially those from the distal \nradial rim and the scaphoid. Remove osteophytes with a \nrongeur and close the capsule-ligament layer over the \ncarpal bones. Do not close the deep transverse carpal \nligament.\n■ Release the tourniquet, obtain hemostasis, insert a drain, \nand close the wound.\n■ Apply a compression dressing and a volar plaster \nsplint from the proximal forearm to the distal palmar \ncrease.\n■ Keep the wrist extended for a minimum of 3 weeks."
+}

@@ -1,1 +1,63 @@
-{"tech_id": "66-15", "name_en": "Stage 1: Excision of Tendon and Scar and Reconstruction of Flexor Pulley", "name_vi": "Tái Tạo Gân Gấp Hai Thì - Thì 1: Cắt Dải Xơ, Đặt Que Silicon Hunter & Tái Tạo Ròng Rọc", "chapter": 66, "category": "Hand & Wrist", "pdf_page": 3766, "author": "Campbell Clinic Hand Service", "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Hai Thì - Thì 1: Cắt Dải Xơ, Đặt Que Silicon Hunter & Tái Tạo Ròng Rọc (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.", "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.", "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.", "surgical_approach": "Đường mổ bộc lộ theo nguyên tắc phẫu thuật bàn tay Campbell 13th Ed cho kỹ thuật Stage 1: Excision of Tendon and Scar and Reconstruction of Flexor Pulley: tôn trọng các nếp gấp sinh lý gan bàn tay và ngón tay, phẫu tích lớp dưới da cẩn trọng, nhận diện và bảo vệ mạng lưới thần kinh mạch máu (thần kinh giữa, thần kinh trụ, nhánh cảm giác nông thần kinh quay, cung mạch gan tay). Tiếp cận trực tiếp cấu trúc giải phẫu đích.", "surgical_steps": [{"step": 1, "title": "Thì 1: Đường rạch da & Bộc lộ phẫu trường", "detail": "Using appropriate anesthesia, open the previous incision to expose the flexor sheath over the distal portion of the middle phalanx near the distal joint and make another incision proximally in the palm or the forearm.", "action": "Rạch da chính xác theo nếp gấp sinh lý, bảo tồn mạng lưới tĩnh mạch nông và thần kinh cảm giác."}, {"step": 2, "title": "Thì 2: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Select a donor tendon, depending on the planned proximal attachment. A palmaris longus probably would suffice for a single tendon with a proximal attachment in the palm. Longer tendons would be required for attachments from the forearm to the finger. The plantaris or the extensor digitorum longus te", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 3, "title": "Thì 3: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "While the tendon grafts are being harvested, deflate the tourniquet and cover the wounds with sterile bandages and compress.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 4, "title": "Thì 4: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "After the tendon grafts have been harvested, exsangui- nate the limb and reinflate the tourniquet.", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}, {"step": 5, "title": "Thì 5: Khâu nối / Phục hồi / Chuyển gân cơ", "detail": "Suture the flexor graft to the proximal end of the implant and pull the implant distally through the sheath, trailing the tendon graft with it (Fig. 66-55A).", "action": "Khâu nối biểu gân trơn láng, cân chỉnh lực căng gân chuẩn xác theo nghiệm pháp tenodesis."}], "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.", "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.", "image_url": "web/static/images/techniques/66-15.webp", "images": [{"url": "web/static/images/techniques/66-15.webp", "type": "diagram", "caption": "Tái tạo gân gấp 2 thì: Thì 1 đặt que silicon Hunter tạo bao hoạt dịch giả"}]}
+{
+  "tech_id": "66-15",
+  "name_en": "Stage 1: Excision of Tendon and Scar and Reconstruction of Flexor Pulley",
+  "name_vi": "Tái Tạo Gân Gấp Hai Thì - Thì 1: Cắt Dải Xơ, Đặt Que Silicon Hunter & Tái Tạo Ròng Rọc",
+  "chapter": 66,
+  "category": "Hand & Wrist",
+  "pdf_page": 3766,
+  "author": "Campbell Clinic Hand Service",
+  "clinical_indications": "Chỉ định can thiệp ngoại khoa điều trị bệnh lý, chấn thương hoặc dị tật theo phẫu thuật Tái Tạo Gân Gấp Hai Thì - Thì 1: Cắt Dải Xơ, Đặt Que Silicon Hunter & Tái Tạo Ròng Rọc (Chương 66, Campbell's Operative Orthopaedics 13th Ed). Áp dụng cho các trường hợp tổn thương cấu trúc giải phẫu, mất chức năng vận động cầm nắm bàn tay, thất bại sau điều trị bảo tồn hoặc có chỉ định mổ cấp cứu.",
+  "contraindications": "Nhiễm trùng mô mềm tại vị trí đứt gân; dập nát gân mất đoạn lớn chưa xử trí che phủ da; khuyết hổng ròng rọc cơ học A2/A4 nghiêm trọng.",
+  "patient_prep": "Nằm ngửa, tay trên bàn mổ tay. Garo cánh tay 200-250 mmHg. Chỉ khâu gân lõi 3-0/4-0 monofilament hoặc bện bọc silicone, chỉ khâu biểu gân 5-0/6-0.",
+  "surgical_approach": "Đường tiếp cận ngoại khoa chuyên biệt cho Stage 1: Excision of Tendon and Scar and Reconstruction of Flexor Pulley (Campbell 13th Ed): Rạch da tôn trọng nếp gấp giải phẫu sinh lý bàn tay, phẫu tích cẩn trọng qua từng bình diện giải phẫu, bộc lộ rõ phẫu trường và bảo tồn mạng lưới mạch máu thần kinh.",
+  "surgical_steps": [
+    {
+      "step": 1,
+      "title": "Thì 1: Bộc lộ & Tiếp cận phẫu trường",
+      "detail": "Using appropriate anesthesia, open the previous incision to expose the flexor sheath over the distal portion of the middle phalanx near the distal joint and make another incision proximally in the palm or the forearm.",
+      "action": "Thực hiện chính xác thao tác bộc lộ & tiếp cận phẫu trường theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 2,
+      "title": "Thì 2: Phẫu tích & Nhận diện mốc giải phẫu",
+      "detail": "Select a donor tendon, depending on the planned proximal attachment. A palmaris longus probably would suffice for a single tendon with a proximal attachment in the palm. Longer tendons would be required for attachments from the forearm to the finger. The plantaris or the extensor digitorum longus tendon to the three central toes makes a sufficiently long tendon graft. Motor tendons usually selected include the profundus mass for the long, ring, and little fingers. If suitable, the profundus to the index is used for the index finger. The sublimis muscles also can be used for motors for the tendon grafts. For thumb flexor tendon reconstruction, the flexor pollicis longus or the sublimis muscles can be used. In certain selected situations, the sublimis to the ring finger can be used as motor and tendon without the need for a free tendon graft.",
+      "action": "Thực hiện chính xác thao tác phẫu tích & nhận diện mốc giải phẫu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 3,
+      "title": "Thì 3: Xử lý thương tổn / Khâu nối / Cố định",
+      "detail": "While the tendon grafts are being harvested, deflate the tourniquet and cover the wounds with sterile bandages and compress.",
+      "action": "Thực hiện chính xác thao tác xử lý thương tổn / khâu nối / cố định theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 4,
+      "title": "Thì 4: Cân chỉnh lực căng & Thao tác bổ trợ",
+      "detail": "After the tendon grafts have been harvested, exsangui- nate the limb and reinflate the tourniquet.",
+      "action": "Thực hiện chính xác thao tác cân chỉnh lực căng & thao tác bổ trợ theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 5,
+      "title": "Thì 5: Kiểm tra chức năng & Cầm máu",
+      "detail": "Suture the flexor graft to the proximal end of the implant and pull the implant distally through the sheath, trailing the tendon graft with it (Fig. 66-55A).",
+      "action": "Thực hiện chính xác thao tác kiểm tra chức năng & cầm máu theo đúng hướng dẫn Campbell 13th Ed."
+    },
+    {
+      "step": 6,
+      "title": "Thì 6: Đóng vết mổ & Cố định bảo vệ",
+      "detail": "Separate the implant from the tendon graft and discard the implant.",
+      "action": "Thực hiện chính xác thao tác đóng vết mổ & cố định bảo vệ theo đúng hướng dẫn Campbell 13th Ed."
+    }
+  ],
+  "postop_protocol": "Bất động nẹp mu bàn tay chống duỗi (Dorsal blocking splint: cổ tay gập 20-30°, khớp bàn ngón gập 50-60°). Bắt đầu tập thụ động sớm theo giao thức Duran hoặc Kleinert.",
+  "pearls_pitfalls": "Độ bền của mối khâu gân tỷ lệ thuận với số sợi lõi băng qua vị trí đứt; Mũi khâu biểu gân chạy liên tục làm phẳng mối khâu và tăng 10-15% độ chịu lực.",
+  "image_url": "web/static/images/techniques/66-15.webp",
+  "images": [
+    {
+      "url": "web/static/images/techniques/66-15.webp",
+      "type": "diagram",
+      "caption": "Tái tạo gân gấp 2 thì: Thì 1 đặt que silicon Hunter tạo bao hoạt dịch giả"
+    }
+  ],
+  "danger_zones": "Bó mạch thần kinh ngón tay riêng (Proper digital neurovascular bundles): Nằm ngay dưới da ở bờ bên ngón tay, nguy cơ tổn thương cao khi rạch da hoặc bóc tách bao gân.",
+  "extracted_text": "STAGE 1: EXCISION OF TENDON AND \nSCAR AND RECONSTRUCTION OF \nFLEXOR PULLEY\n■ Using appropriate anesthesia, open the previous incision \nto expose the flexor sheath over the distal portion of the \nmiddle phalanx near the distal joint and make another \nincision proximally in the palm or the forearm.\n■ Select a donor tendon, depending on the planned proximal \nattachment. A palmaris longus probably would suffice for \na single tendon with a proximal attachment in the palm. \nLonger tendons would be required for attachments from \nthe forearm to the finger. The plantaris or the extensor \ndigitorum longus tendon to the three central toes makes \na sufficiently long tendon graft. Motor tendons usually \nselected include the profundus mass for the long, ring, and \nlittle fingers. If suitable, the profundus to the index is used \nfor the index finger. The sublimis muscles also can be used \nfor motors for the tendon grafts. For thumb flexor tendon \nreconstruction, the flexor pollicis longus or the sublimis \nmuscles can be used. In certain selected situations, the \nsublimis to the ring finger can be used as motor and \ntendon without the need for a free tendon graft.\n■ While the tendon grafts are being harvested, deflate the \ntourniquet and cover the wounds with sterile bandages \nand compress.\n■ After the tendon grafts have been harvested, exsangui-\nnate the limb and reinflate the tourniquet.\n■ Suture the flexor graft to the proximal end of the implant \nand pull the implant distally through the sheath, trailing \nthe tendon graft with it (Fig. 66-55A).\n■ Separate the implant from the tendon graft and discard \nthe implant.\n■ Use a pull-out technique to secure the distal attachment \nof the tendon graft to the distal phalanx (Fig. 66-55B and \nC) or the distal end of the flexor tendon, as previously \ndescribed (see Fig. 66-43).\n■ If the palm is not involved with scarring, a short graft can \nbe used and the proximal attachment is made to the \nprofundus tendon at the lumbrical origin with a Pulvertaft \nfish-mouth weave (Fig. 66-55F and G). If the profundus \nis unsatisfactory, an adjacent sublimis can be used as a \nmotor in the palm.\n■ If the profundus tendons of the long, ring, and little \nfingers are chosen for common motors, use an interweav-\ning technique for the proximal attachment.\n■ In some circumstances, the proximal attachment is in the \nforearm.\n■ In the forearm, select the appropriate motor muscle and \nobtain the length of the flexor tendon graft by allowing"
+}
